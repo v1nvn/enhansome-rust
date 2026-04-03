@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:27:34Z",
+            "last_commit": "2026-04-02T22:33:10Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 560
+            "stars": 559
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-30T22:04:15Z",
+            "last_commit": "2026-04-02T21:20:54Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 63207
+            "stars": 63225
           }
         },
         {
@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:03:59Z",
+            "last_commit": "2026-04-03T03:04:04Z",
             "owner": "arimxyer",
             "repo": "models",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -80,10 +80,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T17:24:54Z",
+            "last_commit": "2026-04-03T04:13:29Z",
             "owner": "clash-verge-rev",
             "repo": "clash-verge-rev",
-            "stars": 107020
+            "stars": 107320
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T18:18:39Z",
+            "last_commit": "2026-04-02T17:02:04Z",
             "owner": "DefGuard",
             "repo": "defguard",
-            "stars": 2654
+            "stars": 2655
           }
         },
         {
@@ -119,10 +119,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:28:06Z",
+            "last_commit": "2026-04-02T20:10:09Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 106447
+            "stars": 106456
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-02-20T01:04:25Z",
             "owner": "doprz",
             "repo": "dipc",
-            "stars": 342
+            "stars": 341
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2026-03-30T08:48:23Z",
             "owner": "EasyTier",
             "repo": "EasyTier",
-            "stars": 10639
+            "stars": 10656
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2026-03-31T23:25:13Z",
             "owner": "microsoft",
             "repo": "edit",
-            "stars": 13710
+            "stars": 13714
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-03-31T19:02:30Z",
             "owner": "glzr-io",
             "repo": "glazewm",
-            "stars": 11755
+            "stars": 11759
           }
         },
         {
@@ -236,7 +236,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:25:22Z",
+            "last_commit": "2026-04-03T02:28:05Z",
             "owner": "habitat-sh",
             "repo": "habitat",
             "stars": 2778
@@ -262,7 +262,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T16:10:32Z",
+            "last_commit": "2026-04-02T14:53:12Z",
             "owner": "hickory-dns",
             "repo": "hickory-dns",
             "stars": 5089
@@ -278,7 +278,7 @@
             "last_commit": "2026-03-19T10:41:06Z",
             "owner": "tonarino",
             "repo": "innernet",
-            "stars": 5450
+            "stars": 5453
           }
         },
         {
@@ -314,7 +314,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:44:33Z",
+            "last_commit": "2026-04-02T05:19:34Z",
             "owner": "hcavarsan",
             "repo": "kftray",
             "stars": 1479
@@ -356,7 +356,7 @@
             "last_commit": "2025-11-28T00:48:06Z",
             "owner": "lzanini",
             "repo": "mdbook-katex",
-            "stars": 243
+            "stars": 244
           }
         },
         {
@@ -371,10 +371,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:40:35Z",
+            "last_commit": "2026-04-02T22:10:23Z",
             "owner": "mayocream",
             "repo": "koharu",
-            "stars": 1665
+            "stars": 1686
           }
         },
         {
@@ -384,10 +384,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T00:50:41Z",
+            "last_commit": "2026-04-03T02:51:46Z",
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 21425
+            "stars": 21434
           }
         },
         {
@@ -397,7 +397,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-31T01:31:46Z",
+            "last_commit": "2026-04-02T14:02:20Z",
             "owner": "web3infra-foundation",
             "repo": "mega",
             "stars": 451
@@ -423,10 +423,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:02:05Z",
+            "last_commit": "2026-04-02T23:31:53Z",
             "owner": "metalbear-co",
             "repo": "mirrord",
-            "stars": 5034
+            "stars": 5036
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2025-12-24T17:30:00Z",
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-03-31T18:11:06Z",
             "owner": "sebadob",
             "repo": "rauthy",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-03-30T01:04:20Z",
             "owner": "raphamorim",
             "repo": "rio",
-            "stars": 6594
+            "stars": 6598
           }
         },
         {
@@ -509,7 +509,7 @@
             "last_commit": "2026-02-11T11:07:54Z",
             "owner": "Esubaalew",
             "repo": "run",
-            "stars": 915
+            "stars": 916
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2025-10-14T11:32:19Z",
             "owner": "iot-ecology",
             "repo": "rust-iot-platform",
-            "stars": 297
+            "stars": 299
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2024-01-31T21:57:35Z",
             "owner": "cloudhead",
             "repo": "rx",
-            "stars": 3414
+            "stars": 3415
           }
         },
         {
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T03:50:59Z",
+            "last_commit": "2026-04-03T02:19:39Z",
             "owner": "IgnisDa",
             "repo": "ryot",
-            "stars": 3212
+            "stars": 3213
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-01-20T01:17:36Z",
             "owner": "sopaco",
             "repo": "saga-reader",
-            "stars": 480
+            "stars": 481
           }
         },
         {
@@ -571,10 +571,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T00:42:20Z",
+            "last_commit": "2026-04-03T03:59:21Z",
             "owner": "servo",
             "repo": "servo",
-            "stars": 36152
+            "stars": 36165
           }
         },
         {
@@ -587,7 +587,7 @@
             "last_commit": "2026-03-27T14:51:55Z",
             "owner": "cfal",
             "repo": "shoes",
-            "stars": 989
+            "stars": 991
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-01-09T14:35:17Z",
             "owner": "shuttle-hq",
             "repo": "shuttle",
-            "stars": 6888
+            "stars": 6889
           }
         },
         {
@@ -610,10 +610,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:33:02Z",
+            "last_commit": "2026-04-02T21:46:54Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 33135
+            "stars": 33149
           }
         },
         {
@@ -623,10 +623,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T08:39:19Z",
+            "last_commit": "2026-04-03T04:16:15Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 33335
+            "stars": 33338
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-03-02T20:08:28Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33270
+            "stars": 33286
           }
         },
         {
@@ -649,7 +649,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:07:19Z",
+            "last_commit": "2026-04-02T16:36:15Z",
             "owner": "gotempsh",
             "repo": "temps",
             "stars": 379
@@ -675,10 +675,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-31T20:56:00Z",
+            "last_commit": "2026-04-02T19:45:47Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 59628
+            "stars": 59643
           }
         },
         {
@@ -688,10 +688,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T09:22:07Z",
+            "last_commit": "2026-04-02T15:42:25Z",
             "owner": "typst",
             "repo": "typst",
-            "stars": 52390
+            "stars": 52412
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-03-31T18:00:43Z",
             "owner": "Harry-kp",
             "repo": "vortix",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -730,7 +730,7 @@
             "last_commit": "2026-03-09T13:06:33Z",
             "owner": "0x676e67",
             "repo": "vproxy",
-            "stars": 381
+            "stars": 382
           }
         },
         {
@@ -740,10 +740,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T18:27:17Z",
+            "last_commit": "2026-04-02T15:41:06Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20548
+            "stars": 20557
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2026-04-01T00:54:15Z",
             "owner": "wezterm",
             "repo": "wezterm",
-            "stars": 25225
+            "stars": 25260
           }
         },
         {
@@ -792,10 +792,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T10:41:13Z",
+            "last_commit": "2026-04-02T10:05:51Z",
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 30906
+            "stars": 30969
           }
         }
       ],
@@ -876,10 +876,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-30T11:19:13Z",
+            "last_commit": "2026-04-02T22:55:36Z",
             "owner": "LargeModGames",
             "repo": "spotatui",
-            "stars": 519
+            "stars": 526
           }
         },
         {
@@ -892,7 +892,7 @@
             "last_commit": "2026-03-28T23:57:48Z",
             "owner": "mierak",
             "repo": "rmpc",
-            "stars": 2604
+            "stars": 2607
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2026-04-01T09:25:35Z",
             "owner": "hrkfdn",
             "repo": "ncspot",
-            "stars": 6526
+            "stars": 6527
           }
         },
         {
@@ -931,7 +931,7 @@
             "last_commit": "2026-03-18T15:39:23Z",
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -957,7 +957,7 @@
             "last_commit": "2026-03-31T13:34:44Z",
             "owner": "aome510",
             "repo": "spotify-player",
-            "stars": 6478
+            "stars": 6490
           }
         },
         {
@@ -980,10 +980,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T00:32:04Z",
+            "last_commit": "2026-04-03T00:22:29Z",
             "owner": "tramhao",
             "repo": "termusic",
-            "stars": 1918
+            "stars": 1920
           }
         },
         {
@@ -1025,10 +1025,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T16:13:42Z",
+            "last_commit": "2026-04-02T19:30:26Z",
             "owner": "solana-foundation",
             "repo": "anchor",
-            "stars": 5004
+            "stars": 5005
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2024-03-05T03:15:09Z",
             "owner": "paradigmxyz",
             "repo": "artemis",
-            "stars": 2928
+            "stars": 2929
           }
         },
         {
@@ -1077,7 +1077,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:30:25Z",
+            "last_commit": "2026-04-03T01:44:21Z",
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1880
@@ -1129,10 +1129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T13:07:22Z",
+            "last_commit": "2026-04-02T21:12:03Z",
             "owner": "datahaven-xyz",
             "repo": "datahaven",
-            "stars": 8008
+            "stars": 8006
           }
         },
         {
@@ -1145,7 +1145,7 @@
             "last_commit": "2026-02-04T05:52:38Z",
             "owner": "diem",
             "repo": "diem",
-            "stars": 16696
+            "stars": 16694
           }
         },
         {
@@ -1155,7 +1155,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T15:34:12Z",
+            "last_commit": "2026-04-02T13:23:39Z",
             "owner": "dusk-network",
             "repo": "rusk",
             "stars": 201
@@ -1171,7 +1171,7 @@
             "last_commit": "2026-03-30T14:17:59Z",
             "owner": "romanz",
             "repo": "electrs",
-            "stars": 1343
+            "stars": 1344
           }
         },
         {
@@ -1220,7 +1220,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:11:08Z",
+            "last_commit": "2026-04-03T02:07:51Z",
             "owner": "ChainSafe",
             "repo": "forest",
             "stars": 693
@@ -1233,10 +1233,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T19:35:30Z",
+            "last_commit": "2026-04-02T20:02:34Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10256
+            "stars": 10254
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "last_commit": "2026-03-25T12:29:15Z",
             "owner": "mimblewimble",
             "repo": "grin",
-            "stars": 5087
+            "stars": 5086
           }
         },
         {
@@ -1272,10 +1272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:09:26Z",
+            "last_commit": "2026-04-02T16:58:38Z",
             "owner": "holochain",
             "repo": "holochain",
-            "stars": 1361
+            "stars": 1362
           }
         },
         {
@@ -1285,7 +1285,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T23:08:28Z",
+            "last_commit": "2026-04-02T20:14:44Z",
             "owner": "hyperlane-xyz",
             "repo": "hyperlane-monorepo",
             "stars": 54
@@ -1363,10 +1363,23 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:28:54Z",
+            "last_commit": "2026-04-02T08:24:42Z",
             "owner": "sigp",
             "repo": "lighthouse",
             "stars": 3427
+          }
+        },
+        {
+          "children": [],
+          "description": "A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications",
+          "title": "linera-io/linera-protocol",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-03T02:27:04Z",
+            "owner": "linera-io",
+            "repo": "linera-protocol",
+            "stars": 32149
           }
         },
         {
@@ -1376,10 +1389,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:00:00Z",
+            "last_commit": "2026-04-02T20:20:34Z",
             "owner": "near",
             "repo": "nearcore",
-            "stars": 2580
+            "stars": 2585
           }
         },
         {
@@ -1389,7 +1402,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:46:20Z",
+            "last_commit": "2026-04-02T05:48:15Z",
             "owner": "nervosnetwork",
             "repo": "ckb",
             "stars": 1211
@@ -1441,7 +1454,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T00:28:44Z",
+            "last_commit": "2026-04-02T22:53:27Z",
             "owner": "paritytech",
             "repo": "polkadot-sdk",
             "stars": 2731
@@ -1454,7 +1467,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T16:23:28Z",
+            "last_commit": "2026-04-02T19:53:45Z",
             "owner": "pragma-org",
             "repo": "amaru",
             "stars": 100
@@ -1467,10 +1480,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:01:23Z",
+            "last_commit": "2026-04-02T23:39:46Z",
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5493
+            "stars": 5497
           }
         },
         {
@@ -1480,10 +1493,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T11:11:11Z",
+            "last_commit": "2026-04-02T12:30:24Z",
             "owner": "bluealloy",
             "repo": "revm",
-            "stars": 2168
+            "stars": 2169
           }
         },
         {
@@ -1493,10 +1506,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:51:05Z",
+            "last_commit": "2026-04-03T01:47:18Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2611
+            "stars": 2610
           }
         },
         {
@@ -1506,10 +1519,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:07:51Z",
+            "last_commit": "2026-04-02T22:26:19Z",
             "owner": "lightningdevkit",
             "repo": "rust-lightning",
-            "stars": 1349
+            "stars": 1348
           }
         },
         {
@@ -1545,7 +1558,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T13:24:17Z",
+            "last_commit": "2026-04-02T11:36:04Z",
             "owner": "autonomys",
             "repo": "subspace",
             "stars": 404
@@ -1558,10 +1571,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:07:35Z",
+            "last_commit": "2026-04-03T00:04:26Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7649
+            "stars": 7650
           }
         },
         {
@@ -1584,10 +1597,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:58:27Z",
+            "last_commit": "2026-04-03T04:09:31Z",
             "owner": "tempoxyz",
             "repo": "tempo",
-            "stars": 922
+            "stars": 915
           }
         },
         {
@@ -1645,7 +1658,7 @@
             "last_commit": "2026-03-31T06:29:46Z",
             "owner": "apecloud",
             "repo": "ape-dts",
-            "stars": 556
+            "stars": 557
           }
         },
         {
@@ -1658,7 +1671,7 @@
             "last_commit": "2026-03-30T19:04:22Z",
             "owner": "ontola",
             "repo": "atomic-server",
-            "stars": 1528
+            "stars": 1530
           }
         },
         {
@@ -1684,7 +1697,7 @@
             "last_commit": "2024-12-04T12:49:06Z",
             "owner": "cozodb",
             "repo": "cozo",
-            "stars": 3934
+            "stars": 3936
           }
         },
         {
@@ -1694,10 +1707,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:01:38Z",
+            "last_commit": "2026-04-03T02:57:27Z",
             "owner": "CurvineIO",
             "repo": "curvine",
-            "stars": 615
+            "stars": 616
           }
         },
         {
@@ -1720,10 +1733,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:20:31Z",
+            "last_commit": "2026-04-03T04:06:53Z",
             "owner": "databendlabs",
             "repo": "databend",
-            "stars": 9220
+            "stars": 9223
           }
         },
         {
@@ -1746,10 +1759,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T13:09:16Z",
+            "last_commit": "2026-04-02T20:50:33Z",
             "owner": "debba",
             "repo": "tabularis",
-            "stars": 914
+            "stars": 926
           }
         },
         {
@@ -1775,7 +1788,7 @@
             "last_commit": "2026-02-14T21:02:20Z",
             "owner": "erikgrinaker",
             "repo": "toydb",
-            "stars": 7203
+            "stars": 7205
           }
         },
         {
@@ -1788,7 +1801,7 @@
             "last_commit": "2026-03-22T17:09:21Z",
             "owner": "deuxfleurs-org",
             "repo": "garage",
-            "stars": 3366
+            "stars": 3384
           }
         },
         {
@@ -1798,7 +1811,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-30T11:24:28Z",
+            "last_commit": "2026-04-02T14:05:30Z",
             "owner": "gluesql",
             "repo": "gluesql",
             "stars": 3049
@@ -1811,10 +1824,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:05:11Z",
+            "last_commit": "2026-04-03T04:14:17Z",
             "owner": "GreptimeTeam",
             "repo": "greptimedb",
-            "stars": 6099
+            "stars": 6104
           }
         },
         {
@@ -1827,7 +1840,7 @@
             "last_commit": "2026-03-31T17:13:36Z",
             "owner": "HelixDB",
             "repo": "helix-db",
-            "stars": 4036
+            "stars": 4040
           }
         },
         {
@@ -1840,7 +1853,7 @@
             "last_commit": "2026-03-27T18:54:45Z",
             "owner": "sebadob",
             "repo": "hiqlite",
-            "stars": 421
+            "stars": 422
           }
         },
         {
@@ -1858,7 +1871,7 @@
             "last_commit": "2026-03-29T18:01:52Z",
             "owner": "KipData",
             "repo": "KiteSQL",
-            "stars": 691
+            "stars": 692
           }
         },
         {
@@ -1868,10 +1881,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-04-02T01:13:40Z",
+            "last_commit": "2026-04-02T21:52:09Z",
             "owner": "lancedb",
             "repo": "lancedb",
-            "stars": 9729
+            "stars": 9750
           }
         },
         {
@@ -1894,7 +1907,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:37:27Z",
+            "last_commit": "2026-04-03T03:11:12Z",
             "owner": "MaterializeInc",
             "repo": "materialize",
             "stars": 6264
@@ -1907,7 +1920,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:37:37Z",
+            "last_commit": "2026-04-03T00:50:24Z",
             "owner": "vincent-herlemont",
             "repo": "native_db",
             "stars": 686
@@ -1923,7 +1936,7 @@
             "last_commit": "2026-03-25T08:27:03Z",
             "owner": "neondatabase",
             "repo": "neon",
-            "stars": 21382
+            "stars": 21396
           }
         },
         {
@@ -1959,10 +1972,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:10:46Z",
+            "last_commit": "2026-04-03T04:16:14Z",
             "owner": "paradedb",
             "repo": "paradedb",
-            "stars": 8619
+            "stars": 8625
           }
         },
         {
@@ -1985,10 +1998,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:08:27Z",
+            "last_commit": "2026-04-03T01:52:22Z",
             "owner": "pgdogdev",
             "repo": "pgdog",
-            "stars": 4251
+            "stars": 4253
           }
         },
         {
@@ -2011,10 +2024,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:29:30Z",
+            "last_commit": "2026-04-02T15:59:16Z",
             "owner": "qdrant",
             "repo": "qdrant",
-            "stars": 29977
+            "stars": 30000
           }
         },
         {
@@ -2050,10 +2063,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:40:48Z",
+            "last_commit": "2026-04-03T02:59:16Z",
             "owner": "risingwavelabs",
             "repo": "risingwave",
-            "stars": 8891
+            "stars": 8897
           }
         },
         {
@@ -2063,10 +2076,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:14:09Z",
+            "last_commit": "2026-04-03T04:11:34Z",
             "owner": "rustfs",
             "repo": "rustfs",
-            "stars": 24036
+            "stars": 24094
           }
         },
         {
@@ -2076,10 +2089,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:41:49Z",
+            "last_commit": "2026-04-03T03:49:48Z",
             "owner": "ruvnet",
             "repo": "RuVector",
-            "stars": 3729
+            "stars": 3733
           }
         },
         {
@@ -2131,7 +2144,7 @@
             "last_commit": "2025-11-04T17:08:33Z",
             "owner": "spacejam",
             "repo": "sled",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -2144,7 +2157,7 @@
             "last_commit": "2025-11-19T20:47:39Z",
             "owner": "orbitinghail",
             "repo": "sqlsync",
-            "stars": 2887
+            "stars": 2889
           }
         },
         {
@@ -2154,10 +2167,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T18:10:57Z",
+            "last_commit": "2026-04-02T19:05:42Z",
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 31739
+            "stars": 31749
           }
         },
         {
@@ -2183,7 +2196,7 @@
             "last_commit": "2026-04-02T04:01:39Z",
             "owner": "tikv",
             "repo": "tikv",
-            "stars": 16601
+            "stars": 16606
           }
         },
         {
@@ -2196,7 +2209,7 @@
             "last_commit": "2026-04-01T13:31:16Z",
             "owner": "tonbo-io",
             "repo": "tonbo",
-            "stars": 1512
+            "stars": 1513
           }
         },
         {
@@ -2206,10 +2219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T19:11:51Z",
+            "last_commit": "2026-04-02T21:17:26Z",
             "owner": "trailbaseio",
             "repo": "trailbase",
-            "stars": 4717
+            "stars": 4720
           }
         },
         {
@@ -2232,10 +2245,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:44:49Z",
+            "last_commit": "2026-04-02T22:23:36Z",
             "owner": "tursodatabase",
             "repo": "turso",
-            "stars": 18071
+            "stars": 18085
           }
         },
         {
@@ -2248,7 +2261,7 @@
             "last_commit": "2026-03-02T12:40:41Z",
             "owner": "unum-cloud",
             "repo": "USearch",
-            "stars": 4014
+            "stars": 4015
           }
         },
         {
@@ -2303,10 +2316,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T11:46:18Z",
+            "last_commit": "2026-04-03T02:40:11Z",
             "owner": "HaoboGu",
             "repo": "rmk",
-            "stars": 1562
+            "stars": 1563
           }
         },
         {
@@ -2319,7 +2332,7 @@
             "last_commit": "2026-03-30T01:33:18Z",
             "owner": "rust-osdev",
             "repo": "uefi-rs",
-            "stars": 1582
+            "stars": 1583
           }
         }
       ],
@@ -2404,10 +2417,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T21:21:03Z",
+                "last_commit": "2026-04-03T00:11:36Z",
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 17906
+                "stars": 17909
               }
             }
           ],
@@ -2416,10 +2429,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:21:03Z",
+            "last_commit": "2026-04-03T00:11:36Z",
             "owner": "ruffle-rs",
             "repo": "ruffle",
-            "stars": 17906
+            "stars": 17909
           }
         },
         {
@@ -2554,7 +2567,7 @@
                 "last_commit": "2026-02-26T21:36:43Z",
                 "owner": "dbalsom",
                 "repo": "martypc",
-                "stars": 812
+                "stars": 813
               }
             }
           ],
@@ -2566,7 +2579,7 @@
             "last_commit": "2026-02-26T21:36:43Z",
             "owner": "dbalsom",
             "repo": "martypc",
-            "stars": 812
+            "stars": 813
           }
         },
         {
@@ -2605,10 +2618,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T15:35:06Z",
+                "last_commit": "2026-04-02T18:36:37Z",
                 "owner": "touchHLE",
                 "repo": "touchHLE",
-                "stars": 3639
+                "stars": 3640
               }
             }
           ],
@@ -2617,10 +2630,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T15:35:06Z",
+            "last_commit": "2026-04-02T18:36:37Z",
             "owner": "touchHLE",
             "repo": "touchHLE",
-            "stars": 3639
+            "stars": 3640
           }
         },
         {
@@ -2699,10 +2712,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T19:53:56Z",
+                "last_commit": "2026-04-02T12:52:18Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 926
+                "stars": 928
               }
             }
           ],
@@ -2711,10 +2724,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T19:53:56Z",
+            "last_commit": "2026-04-02T12:52:18Z",
             "owner": "gopher64",
             "repo": "gopher64",
-            "stars": 926
+            "stars": 928
           }
         },
         {
@@ -2783,7 +2796,7 @@
                 "last_commit": "2026-04-02T02:30:25Z",
                 "owner": "igorlira",
                 "repo": "dirplayer-rs",
-                "stars": 337
+                "stars": 340
               }
             }
           ],
@@ -2795,7 +2808,7 @@
             "last_commit": "2026-04-02T02:30:25Z",
             "owner": "igorlira",
             "repo": "dirplayer-rs",
-            "stars": 337
+            "stars": 340
           }
         },
         {
@@ -2841,7 +2854,7 @@
             "last_commit": "2026-03-26T14:49:27Z",
             "owner": "Canop",
             "repo": "broot",
-            "stars": 12551
+            "stars": 12555
           }
         },
         {
@@ -2854,7 +2867,7 @@
             "last_commit": "2026-03-15T15:34:12Z",
             "owner": "JayanAXHF",
             "repo": "filessh",
-            "stars": 210
+            "stars": 211
           }
         },
         {
@@ -2867,7 +2880,7 @@
             "last_commit": "2026-03-08T23:33:34Z",
             "owner": "kamiyaa",
             "repo": "joshuto",
-            "stars": 3687
+            "stars": 3688
           }
         },
         {
@@ -2880,7 +2893,7 @@
             "last_commit": "2026-03-30T11:23:09Z",
             "owner": "moyangzhan",
             "repo": "mango-finder",
-            "stars": 218
+            "stars": 220
           }
         },
         {
@@ -2906,7 +2919,7 @@
             "last_commit": "2026-03-29T10:25:00Z",
             "owner": "spacedriveapp",
             "repo": "spacedrive",
-            "stars": 37558
+            "stars": 37617
           }
         },
         {
@@ -2919,7 +2932,7 @@
             "last_commit": "2025-12-24T07:06:37Z",
             "owner": "sayanarijit",
             "repo": "xplr",
-            "stars": 4720
+            "stars": 4721
           }
         },
         {
@@ -2929,10 +2942,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T14:30:58Z",
+            "last_commit": "2026-04-03T01:29:00Z",
             "owner": "sxyazi",
             "repo": "yazi",
-            "stars": 35791
+            "stars": 35860
           }
         }
       ],
@@ -2961,10 +2974,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:15:05Z",
+            "last_commit": "2026-04-03T04:02:42Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 21594
+            "stars": 21614
           }
         },
         {
@@ -3022,7 +3035,7 @@
             "last_commit": "2026-04-02T02:33:47Z",
             "owner": "thomas-mauran",
             "repo": "chess-tui",
-            "stars": 990
+            "stars": 991
           }
         },
         {
@@ -3035,7 +3048,7 @@
             "last_commit": "2023-01-07T02:34:23Z",
             "owner": "citybound",
             "repo": "citybound",
-            "stars": 8101
+            "stars": 8100
           }
         },
         {
@@ -3061,7 +3074,7 @@
             "last_commit": "2026-03-23T18:57:52Z",
             "owner": "doukutsu-rs",
             "repo": "doukutsu-rs",
-            "stars": 1187
+            "stars": 1190
           }
         },
         {
@@ -3087,7 +3100,7 @@
             "last_commit": "2026-03-31T14:54:43Z",
             "owner": "unhappychoice",
             "repo": "gittype",
-            "stars": 1050
+            "stars": 1051
           }
         },
         {
@@ -3113,7 +3126,7 @@
             "last_commit": "2026-03-30T23:26:22Z",
             "owner": "HactarCE",
             "repo": "Hyperspeedcube",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -3136,10 +3149,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T14:35:52Z",
+            "last_commit": "2026-04-02T23:49:14Z",
             "owner": "louis-e",
             "repo": "arnis",
-            "stars": 14154
+            "stars": 14221
           }
         },
         {
@@ -3165,7 +3178,7 @@
             "last_commit": "2026-03-29T16:13:16Z",
             "owner": "mcthesw",
             "repo": "game-save-manager",
-            "stars": 1054
+            "stars": 1058
           }
         },
         {
@@ -3178,7 +3191,7 @@
             "last_commit": "2026-02-23T01:27:16Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 5240
+            "stars": 5248
           }
         },
         {
@@ -3240,10 +3253,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:17:04Z",
+            "last_commit": "2026-04-02T21:27:58Z",
             "owner": "Strophox",
             "repo": "tetro-tui",
-            "stars": 414
+            "stars": 413
           }
         },
         {
@@ -3269,7 +3282,7 @@
             "last_commit": "2021-07-22T15:51:05Z",
             "owner": "thetawavegame",
             "repo": "thetawave-legacy",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -3318,7 +3331,7 @@
             "last_commit": "2026-03-12T11:23:23Z",
             "owner": "zipxing",
             "repo": "rust_pixel",
-            "stars": 277
+            "stars": 276
           }
         },
         {
@@ -3363,7 +3376,7 @@
             "last_commit": "2026-03-30T16:29:20Z",
             "owner": "flxzt",
             "repo": "rnote",
-            "stars": 11052
+            "stars": 11055
           }
         },
         {
@@ -3415,7 +3428,7 @@
             "last_commit": "2026-02-10T14:40:16Z",
             "owner": "linebender",
             "repo": "resvg",
-            "stars": 3744
+            "stars": 3747
           }
         },
         {
@@ -3451,10 +3464,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:24:10Z",
+            "last_commit": "2026-04-03T04:15:56Z",
             "owner": "storytold",
             "repo": "artcraft",
-            "stars": 1441
+            "stars": 1448
           }
         },
         {
@@ -3504,7 +3517,7 @@
             "last_commit": "2021-04-18T23:14:33Z",
             "owner": "imager-io",
             "repo": "imager",
-            "stars": 722
+            "stars": 723
           }
         },
         {
@@ -3517,7 +3530,7 @@
             "last_commit": "2026-04-01T18:58:45Z",
             "owner": "oxipng",
             "repo": "oxipng",
-            "stars": 3871
+            "stars": 3879
           }
         },
         {
@@ -3530,7 +3543,7 @@
             "last_commit": "2026-03-23T15:31:45Z",
             "owner": "visioncortex",
             "repo": "vtracer",
-            "stars": 5717
+            "stars": 5721
           }
         }
       ],
@@ -3549,7 +3562,7 @@
             "last_commit": "2026-03-31T18:04:52Z",
             "owner": "dora-rs",
             "repo": "dora",
-            "stars": 3106
+            "stars": 3111
           }
         },
         {
@@ -3562,7 +3575,7 @@
             "last_commit": "2025-04-08T02:12:35Z",
             "owner": "locka99",
             "repo": "opcua",
-            "stars": 570
+            "stars": 569
           }
         },
         {
@@ -3617,7 +3630,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:02:50Z",
+            "last_commit": "2026-04-03T03:30:55Z",
             "owner": "robustmq",
             "repo": "robustmq",
             "stars": 1536
@@ -3630,7 +3643,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:41:32Z",
+            "last_commit": "2026-04-02T09:42:49Z",
             "owner": "mxsm",
             "repo": "rocketmq-rust",
             "stars": 1490
@@ -3675,10 +3688,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-02T03:50:31Z",
+            "last_commit": "2026-04-03T04:05:52Z",
             "owner": "openobserve",
             "repo": "openobserve",
-            "stars": 18427
+            "stars": 18435
           }
         },
         {
@@ -3688,10 +3701,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T00:38:26Z",
+            "last_commit": "2026-04-02T09:19:45Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-rust",
-            "stars": 2523
+            "stars": 2524
           }
         },
         {
@@ -3701,10 +3714,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:03:08Z",
+            "last_commit": "2026-04-02T20:34:18Z",
             "owner": "quickwit-oss",
             "repo": "quickwit",
-            "stars": 11032
+            "stars": 11037
           }
         },
         {
@@ -3714,7 +3727,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T15:43:05Z",
+            "last_commit": "2026-04-02T15:26:17Z",
             "owner": "hubblo-org",
             "repo": "scaphandre",
             "stars": 1915
@@ -3727,10 +3740,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:26:14Z",
+            "last_commit": "2026-04-02T20:57:30Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 21579
+            "stars": 21588
           }
         }
       ],
@@ -3772,10 +3785,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T01:39:10Z",
+            "last_commit": "2026-04-02T11:33:22Z",
             "owner": "asterinas",
             "repo": "asterinas",
-            "stars": 4393
+            "stars": 4404
           }
         },
         {
@@ -3845,7 +3858,7 @@
             "last_commit": "2024-09-22T18:48:20Z",
             "owner": "theseus-os",
             "repo": "Theseus",
-            "stars": 3136
+            "stars": 3139
           }
         },
         {
@@ -3858,7 +3871,7 @@
             "last_commit": "2026-04-01T20:10:16Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6265
+            "stars": 6266
           }
         },
         {
@@ -3868,10 +3881,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:14:11Z",
+            "last_commit": "2026-04-02T21:36:14Z",
             "owner": "vinc",
             "repo": "moros",
-            "stars": 1066
+            "stars": 1068
           }
         }
       ],
@@ -3887,7 +3900,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-25T11:07:27Z",
+            "last_commit": "2026-04-02T06:33:50Z",
             "owner": "0xdea",
             "repo": "jiggy",
             "stars": 24
@@ -3900,10 +3913,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:38:42Z",
+            "last_commit": "2026-04-02T10:43:14Z",
             "owner": "aannoo",
             "repo": "hcom",
-            "stars": 183
+            "stars": 185
           }
         },
         {
@@ -3913,10 +3926,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:52:28Z",
+            "last_commit": "2026-04-02T15:31:56Z",
             "owner": "njbrake",
             "repo": "agent-of-empires",
-            "stars": 1390
+            "stars": 1400
           }
         },
         {
@@ -3929,7 +3942,7 @@
             "last_commit": "2026-02-23T11:16:42Z",
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 9726
+            "stars": 9740
           }
         },
         {
@@ -3939,10 +3952,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:43:30Z",
+            "last_commit": "2026-04-02T15:55:16Z",
             "owner": "ast-grep",
             "repo": "ast-grep",
-            "stars": 13245
+            "stars": 13262
           }
         },
         {
@@ -3965,10 +3978,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T14:55:14Z",
+            "last_commit": "2026-04-02T16:18:55Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -3981,7 +3994,7 @@
             "last_commit": "2026-03-29T00:25:52Z",
             "owner": "espanso",
             "repo": "espanso",
-            "stars": 13495
+            "stars": 13504
           }
         },
         {
@@ -3996,10 +4009,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:19:10Z",
+            "last_commit": "2026-04-03T00:41:45Z",
             "owner": "farion1231",
             "repo": "cc-switch",
-            "stars": 37246
+            "stars": 38010
           }
         },
         {
@@ -4012,7 +4025,7 @@
             "last_commit": "2026-03-07T16:11:42Z",
             "owner": "flusterIO",
             "repo": "fluster",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -4025,7 +4038,7 @@
             "last_commit": "2026-03-31T23:41:30Z",
             "owner": "fulsomenko",
             "repo": "kanban",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -4064,7 +4077,7 @@
             "last_commit": "2026-02-11T02:13:16Z",
             "owner": "illacloud",
             "repo": "illa",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -4090,7 +4103,7 @@
             "last_commit": "2026-03-29T08:19:27Z",
             "owner": "lldap",
             "repo": "lldap",
-            "stars": 6138
+            "stars": 6140
           }
         },
         {
@@ -4100,10 +4113,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:05:56Z",
+            "last_commit": "2026-04-03T04:15:49Z",
             "owner": "max-sixty",
             "repo": "worktrunk",
-            "stars": 4081
+            "stars": 4108
           }
         },
         {
@@ -4126,10 +4139,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:03:13Z",
+            "last_commit": "2026-04-03T02:42:02Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 17940
+            "stars": 17972
           }
         },
         {
@@ -4168,7 +4181,7 @@
             "last_commit": "2026-04-01T13:40:33Z",
             "owner": "tassiovirginio",
             "repo": "try-rs",
-            "stars": 223
+            "stars": 226
           }
         },
         {
@@ -4200,7 +4213,7 @@
             "last_commit": "2026-03-29T21:05:38Z",
             "owner": "holo-routing",
             "repo": "holo",
-            "stars": 501
+            "stars": 502
           }
         },
         {
@@ -4229,7 +4242,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-26T06:16:21Z",
+            "last_commit": "2026-04-02T06:31:50Z",
             "owner": "0xdea",
             "repo": "augur",
             "stars": 104
@@ -4242,7 +4255,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-26T06:16:16Z",
+            "last_commit": "2026-04-02T06:30:58Z",
             "owner": "0xdea",
             "repo": "haruspex",
             "stars": 109
@@ -4255,7 +4268,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-25T11:04:15Z",
+            "last_commit": "2026-04-02T06:33:20Z",
             "owner": "0xdea",
             "repo": "oneiromancer",
             "stars": 129
@@ -4268,7 +4281,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-26T06:16:10Z",
+            "last_commit": "2026-04-02T06:31:06Z",
             "owner": "0xdea",
             "repo": "rhabdomancer",
             "stars": 112
@@ -4294,10 +4307,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T16:01:49Z",
+            "last_commit": "2026-04-02T11:56:30Z",
             "owner": "AFLplusplus",
             "repo": "LibAFL",
-            "stars": 2525
+            "stars": 2527
           }
         },
         {
@@ -4336,7 +4349,7 @@
             "last_commit": "2026-03-30T23:46:35Z",
             "owner": "bountyyfi",
             "repo": "lonkero",
-            "stars": 774
+            "stars": 773
           }
         },
         {
@@ -4382,7 +4395,7 @@
             "last_commit": "2026-03-30T17:14:00Z",
             "owner": "replydev",
             "repo": "cotp",
-            "stars": 364
+            "stars": 366
           }
         },
         {
@@ -4395,7 +4408,7 @@
             "last_commit": "2026-04-01T13:12:14Z",
             "owner": "domcyrus",
             "repo": "rustnet",
-            "stars": 1890
+            "stars": 1893
           }
         },
         {
@@ -4408,7 +4421,7 @@
             "last_commit": "2026-04-01T22:45:53Z",
             "owner": "EFForg",
             "repo": "rayhunter",
-            "stars": 5066
+            "stars": 5071
           }
         },
         {
@@ -4434,7 +4447,7 @@
             "last_commit": "2026-02-08T14:37:36Z",
             "owner": "epi052",
             "repo": "feroxbuster",
-            "stars": 7633
+            "stars": 7640
           }
         },
         {
@@ -4444,10 +4457,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:34:57Z",
+            "last_commit": "2026-04-02T23:42:07Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
-            "stars": 84
+            "stars": 87
           }
         },
         {
@@ -4499,7 +4512,7 @@
             "last_commit": "2025-01-31T17:41:57Z",
             "owner": "kpcyrd",
             "repo": "sn0int",
-            "stars": 2419
+            "stars": 2421
           }
         },
         {
@@ -4522,10 +4535,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-15T20:44:43Z",
+            "last_commit": "2026-04-02T19:58:37Z",
             "owner": "LeChatP",
             "repo": "RootAsRole",
-            "stars": 259
+            "stars": 260
           }
         },
         {
@@ -4535,7 +4548,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:51:40Z",
+            "last_commit": "2026-04-03T02:35:47Z",
             "owner": "mongodb",
             "repo": "kingfisher",
             "stars": 886
@@ -4551,7 +4564,7 @@
             "last_commit": "2026-04-02T02:53:10Z",
             "owner": "emo-crab",
             "repo": "observer_ward",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -4564,7 +4577,7 @@
             "last_commit": "2026-02-19T00:51:22Z",
             "owner": "Raspirus",
             "repo": "raspirus",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -4592,7 +4605,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T10:03:18Z",
+            "last_commit": "2026-04-02T09:03:39Z",
             "owner": "bee-san",
             "repo": "RustScan",
             "stars": 19535
@@ -4634,7 +4647,7 @@
             "last_commit": "2026-02-20T12:08:10Z",
             "owner": "SystemVll",
             "repo": "TAuth",
-            "stars": 140
+            "stars": 141
           }
         }
       ],
@@ -4682,7 +4695,7 @@
                 "last_commit": "2026-03-30T13:52:45Z",
                 "owner": "FedericoBruzzone",
                 "repo": "tgt",
-                "stars": 880
+                "stars": 883
               }
             }
           ],
@@ -4694,7 +4707,7 @@
             "last_commit": "2026-03-30T13:52:45Z",
             "owner": "FedericoBruzzone",
             "repo": "tgt",
-            "stars": 880
+            "stars": 883
           }
         }
       ],
@@ -4713,7 +4726,7 @@
             "last_commit": "2026-03-23T22:20:25Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 35135
+            "stars": 35171
           }
         },
         {
@@ -4723,10 +4736,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:57:00Z",
+            "last_commit": "2026-04-02T22:16:55Z",
             "owner": "nohajc",
             "repo": "anylinuxfs",
-            "stars": 1134
+            "stars": 1135
           }
         },
         {
@@ -4739,7 +4752,7 @@
             "last_commit": "2026-03-08T16:23:02Z",
             "owner": "fenio",
             "repo": "anylinuxfs-gui",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -4749,10 +4762,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T05:48:03Z",
+            "last_commit": "2026-04-02T23:52:45Z",
             "owner": "atuinsh",
             "repo": "atuin",
-            "stars": 28934
+            "stars": 28945
           }
         },
         {
@@ -4765,7 +4778,7 @@
             "last_commit": "2026-04-01T01:36:26Z",
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11658
+            "stars": 11660
           }
         },
         {
@@ -4778,7 +4791,7 @@
             "last_commit": "2026-03-23T00:54:47Z",
             "owner": "ClementTsang",
             "repo": "bottom",
-            "stars": 13114
+            "stars": 13120
           }
         },
         {
@@ -4788,7 +4801,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:23:22Z",
+            "last_commit": "2026-04-02T05:18:04Z",
             "owner": "brocode",
             "repo": "fblog",
             "stars": 558
@@ -4804,7 +4817,7 @@
             "last_commit": "2026-03-30T14:34:38Z",
             "owner": "reubeno",
             "repo": "brush",
-            "stars": 1278
+            "stars": 1281
           }
         },
         {
@@ -4843,7 +4856,7 @@
             "last_commit": "2026-03-27T18:32:00Z",
             "owner": "cantino",
             "repo": "mcfly",
-            "stars": 7660
+            "stars": 7664
           }
         },
         {
@@ -4853,7 +4866,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:07:43Z",
+            "last_commit": "2026-04-02T05:33:28Z",
             "owner": "ChurchTao",
             "repo": "clipboard-rs",
             "stars": 153
@@ -4869,7 +4882,7 @@
             "last_commit": "2026-03-31T13:53:57Z",
             "owner": "J-x-Z",
             "repo": "cocoa-way",
-            "stars": 750
+            "stars": 756
           }
         },
         {
@@ -4908,7 +4921,7 @@
             "last_commit": "2026-04-02T00:49:31Z",
             "owner": "dalance",
             "repo": "procs",
-            "stars": 5994
+            "stars": 5995
           }
         },
         {
@@ -4934,7 +4947,7 @@
             "last_commit": "2026-01-17T19:47:40Z",
             "owner": "deshaw",
             "repo": "procfd",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -4960,7 +4973,7 @@
             "last_commit": "2026-02-21T15:29:15Z",
             "owner": "bootandy",
             "repo": "dust",
-            "stars": 11499
+            "stars": 11502
           }
         },
         {
@@ -4970,7 +4983,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T15:16:51Z",
+            "last_commit": "2026-04-02T18:11:17Z",
             "owner": "erickochen",
             "repo": "purple",
             "stars": 87
@@ -4986,7 +4999,7 @@
             "last_commit": "2026-03-30T14:28:02Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 20933
+            "stars": 20962
           }
         },
         {
@@ -4999,7 +5012,7 @@
             "last_commit": "2026-04-01T01:46:24Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 33026
+            "stars": 33038
           }
         },
         {
@@ -5027,10 +5040,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:24:35Z",
+            "last_commit": "2026-04-03T01:34:49Z",
             "owner": "git-ai-project",
             "repo": "git-ai",
-            "stars": 1469
+            "stars": 1477
           }
         },
         {
@@ -5040,10 +5053,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:30:37Z",
+            "last_commit": "2026-04-03T02:20:01Z",
             "owner": "gitbutlerapp",
             "repo": "gitbutler",
-            "stars": 19993
+            "stars": 19996
           }
         },
         {
@@ -5056,7 +5069,7 @@
             "last_commit": "2026-04-01T02:54:56Z",
             "owner": "gitui-org",
             "repo": "gitui",
-            "stars": 21683
+            "stars": 21691
           }
         },
         {
@@ -5108,7 +5121,7 @@
             "last_commit": "2026-03-27T20:49:16Z",
             "owner": "jacek-kurlit",
             "repo": "pik",
-            "stars": 501
+            "stars": 504
           }
         },
         {
@@ -5121,7 +5134,7 @@
             "last_commit": "2026-03-09T04:04:21Z",
             "owner": "tbillington",
             "repo": "kondo",
-            "stars": 2242
+            "stars": 2244
           }
         },
         {
@@ -5131,10 +5144,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T10:55:21Z",
+            "last_commit": "2026-04-02T19:36:04Z",
             "owner": "ilya-zlobintsev",
             "repo": "LACT",
-            "stars": 4142
+            "stars": 4149
           }
         },
         {
@@ -5160,7 +5173,7 @@
             "last_commit": "2023-07-30T08:34:10Z",
             "owner": "lotabout",
             "repo": "rargs",
-            "stars": 566
+            "stars": 567
           }
         },
         {
@@ -5173,7 +5186,7 @@
             "last_commit": "2026-03-21T03:02:29Z",
             "owner": "lsd-rs",
             "repo": "lsd",
-            "stars": 15625
+            "stars": 15697
           }
         },
         {
@@ -5209,10 +5222,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:36:24Z",
+            "last_commit": "2026-04-02T16:25:04Z",
             "owner": "k06a",
             "repo": "macpow",
-            "stars": 132
+            "stars": 230
           }
         },
         {
@@ -5225,7 +5238,7 @@
             "last_commit": "2026-03-01T18:10:24Z",
             "owner": "matheus-git",
             "repo": "systemd-manager-tui",
-            "stars": 1224
+            "stars": 1226
           }
         },
         {
@@ -5238,7 +5251,7 @@
             "last_commit": "2026-03-15T21:24:53Z",
             "owner": "mdgaziur",
             "repo": "findex",
-            "stars": 660
+            "stars": 661
           }
         },
         {
@@ -5251,7 +5264,7 @@
             "last_commit": "2026-03-26T11:41:55Z",
             "owner": "mitnk",
             "repo": "cicada",
-            "stars": 1005
+            "stars": 1006
           }
         },
         {
@@ -5316,7 +5329,7 @@
             "last_commit": "2026-01-20T15:31:32Z",
             "owner": "Chleba",
             "repo": "netscanner",
-            "stars": 1717
+            "stars": 1721
           }
         },
         {
@@ -5352,10 +5365,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T14:01:21Z",
+            "last_commit": "2026-04-02T20:51:37Z",
             "owner": "nushell",
             "repo": "nushell",
-            "stars": 38876
+            "stars": 38891
           }
         },
         {
@@ -5394,7 +5407,7 @@
             "last_commit": "2025-04-22T16:00:48Z",
             "owner": "orhun",
             "repo": "kmon",
-            "stars": 2878
+            "stars": 2879
           }
         },
         {
@@ -5420,7 +5433,7 @@
             "last_commit": "2026-03-20T15:53:50Z",
             "owner": "ouch-org",
             "repo": "ouch",
-            "stars": 3459
+            "stars": 3463
           }
         },
         {
@@ -5433,7 +5446,7 @@
             "last_commit": "2025-03-03T09:50:02Z",
             "owner": "pkolaczk",
             "repo": "fclones",
-            "stars": 2684
+            "stars": 2687
           }
         },
         {
@@ -5446,7 +5459,7 @@
             "last_commit": "2026-03-09T17:06:04Z",
             "owner": "pop-os",
             "repo": "popsicle",
-            "stars": 825
+            "stars": 824
           }
         },
         {
@@ -5456,7 +5469,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-25T21:02:21Z",
+            "last_commit": "2026-04-02T15:45:18Z",
             "owner": "pop-os",
             "repo": "system76-power",
             "stars": 637
@@ -5472,7 +5485,7 @@
             "last_commit": "2026-03-09T15:49:19Z",
             "owner": "Nukesor",
             "repo": "pueue",
-            "stars": 6117
+            "stars": 6120
           }
         },
         {
@@ -5485,7 +5498,7 @@
             "last_commit": "2026-04-01T06:06:55Z",
             "owner": "qarmin",
             "repo": "czkawka",
-            "stars": 30317
+            "stars": 30339
           }
         },
         {
@@ -5508,10 +5521,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T04:07:42Z",
+            "last_commit": "2026-04-02T18:44:29Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 57911
+            "stars": 57936
           }
         },
         {
@@ -5521,10 +5534,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:28:21Z",
+            "last_commit": "2026-04-02T07:24:31Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 42280
+            "stars": 42295
           }
         },
         {
@@ -5537,7 +5550,7 @@
             "last_commit": "2026-02-14T12:55:36Z",
             "owner": "sharkdp",
             "repo": "hexyl",
-            "stars": 10061
+            "stars": 10064
           }
         },
         {
@@ -5550,7 +5563,7 @@
             "last_commit": "2025-12-01T04:14:26Z",
             "owner": "sitkevij",
             "repo": "hex",
-            "stars": 561
+            "stars": 562
           }
         },
         {
@@ -5560,10 +5573,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T12:52:47Z",
+            "last_commit": "2026-04-02T22:00:35Z",
             "owner": "skim-rs",
             "repo": "skim",
-            "stars": 6711
+            "stars": 6717
           }
         },
         {
@@ -5599,10 +5612,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T02:52:53Z",
+            "last_commit": "2026-04-03T02:53:13Z",
             "owner": "fujiapple852",
             "repo": "trippy",
-            "stars": 6736
+            "stars": 6739
           }
         },
         {
@@ -5612,10 +5625,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:26:56Z",
+            "last_commit": "2026-04-02T21:32:22Z",
             "owner": "uutils",
             "repo": "coreutils",
-            "stars": 22984
+            "stars": 22988
           }
         },
         {
@@ -5641,7 +5654,7 @@
             "last_commit": "2026-01-25T10:11:13Z",
             "owner": "XAMPPRocky",
             "repo": "tokei",
-            "stars": 14177
+            "stars": 14182
           }
         },
         {
@@ -5651,10 +5664,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T12:54:01Z",
+            "last_commit": "2026-04-02T12:38:10Z",
             "owner": "ynqa",
             "repo": "jnv",
-            "stars": 5980
+            "stars": 5981
           }
         },
         {
@@ -5717,7 +5730,7 @@
             "last_commit": "2026-04-01T15:49:44Z",
             "owner": "OlaProeis",
             "repo": "Ferrite",
-            "stars": 1362
+            "stars": 1372
           }
         },
         {
@@ -5727,10 +5740,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T17:35:32Z",
+            "last_commit": "2026-04-02T21:23:22Z",
             "owner": "sinelaw",
             "repo": "fresh",
-            "stars": 6691
+            "stars": 6698
           }
         },
         {
@@ -5743,7 +5756,7 @@
             "last_commit": "2024-05-02T13:06:07Z",
             "owner": "gchp",
             "repo": "iota",
-            "stars": 1658
+            "stars": 1659
           }
         },
         {
@@ -5756,7 +5769,7 @@
             "last_commit": "2026-04-01T03:03:57Z",
             "owner": "helix-editor",
             "repo": "helix",
-            "stars": 43719
+            "stars": 43740
           }
         },
         {
@@ -5769,7 +5782,7 @@
             "last_commit": "2026-03-16T17:34:15Z",
             "owner": "ilai-deutel",
             "repo": "kibi",
-            "stars": 1886
+            "stars": 1887
           }
         },
         {
@@ -5779,10 +5792,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-04-01T14:26:18Z",
+            "last_commit": "2026-04-02T20:02:34Z",
             "owner": "4worlds4w-svg",
             "repo": "inkwell",
-            "stars": 179
+            "stars": 181
           }
         },
         {
@@ -5792,10 +5805,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:00:33Z",
+            "last_commit": "2026-04-03T01:55:37Z",
             "owner": "ki-editor",
             "repo": "ki-editor",
-            "stars": 902
+            "stars": 905
           }
         },
         {
@@ -5805,10 +5818,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T00:51:36Z",
+            "last_commit": "2026-04-03T00:53:06Z",
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38195
+            "stars": 38199
           }
         },
         {
@@ -5834,7 +5847,7 @@
             "last_commit": "2025-03-13T20:30:37Z",
             "owner": "curlpipe",
             "repo": "ox",
-            "stars": 3677
+            "stars": 3678
           }
         },
         {
@@ -5849,10 +5862,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:33:29Z",
+            "last_commit": "2026-04-03T04:16:36Z",
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 78315
+            "stars": 78363
           }
         }
       ],
@@ -5871,7 +5884,7 @@
             "last_commit": "2026-03-23T10:37:10Z",
             "owner": "ashvardanian",
             "repo": "StringZilla",
-            "stars": 3408
+            "stars": 3410
           }
         },
         {
@@ -5894,7 +5907,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T17:04:37Z",
+            "last_commit": "2026-04-02T20:56:15Z",
             "owner": "dathere",
             "repo": "qsv",
             "stars": 3570
@@ -5910,7 +5923,7 @@
             "last_commit": "2025-10-16T20:46:40Z",
             "owner": "dominikwilkowski",
             "repo": "cfonts",
-            "stars": 1844
+            "stars": 1845
           }
         },
         {
@@ -5923,7 +5936,7 @@
             "last_commit": "2026-02-27T17:22:36Z",
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8081
+            "stars": 8082
           }
         },
         {
@@ -5975,7 +5988,7 @@
             "last_commit": "2026-03-31T14:28:20Z",
             "owner": "micahkepe",
             "repo": "jsongrep",
-            "stars": 526
+            "stars": 538
           }
         },
         {
@@ -5988,7 +6001,7 @@
             "last_commit": "2026-03-25T15:21:58Z",
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9549
+            "stars": 9553
           }
         },
         {
@@ -6019,7 +6032,7 @@
             "last_commit": "2026-03-30T20:25:21Z",
             "owner": "thomasschafer",
             "repo": "scooter",
-            "stars": 1225
+            "stars": 1227
           }
         },
         {
@@ -6178,7 +6191,7 @@
             "last_commit": "2026-03-23T13:47:23Z",
             "owner": "AchetaGames",
             "repo": "Epic-Asset-Manager",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -6204,7 +6217,7 @@
             "last_commit": "2024-04-20T05:12:22Z",
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1049
+            "stars": 1050
           }
         },
         {
@@ -6214,10 +6227,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T06:29:08Z",
+            "last_commit": "2026-04-03T02:24:37Z",
             "owner": "unhappychoice",
             "repo": "gitlogue",
-            "stars": 4381
+            "stars": 4382
           }
         },
         {
@@ -6269,7 +6282,7 @@
             "last_commit": "2026-04-01T20:25:41Z",
             "owner": "pvolok",
             "repo": "mprocs",
-            "stars": 2496
+            "stars": 2497
           }
         },
         {
@@ -6282,7 +6295,7 @@
             "last_commit": "2026-03-24T21:03:57Z",
             "owner": "mrjackwills",
             "repo": "oxker",
-            "stars": 1589
+            "stars": 1591
           }
         },
         {
@@ -6295,7 +6308,7 @@
             "last_commit": "2026-03-30T16:36:36Z",
             "owner": "nix-community",
             "repo": "nix-init",
-            "stars": 1346
+            "stars": 1348
           }
         },
         {
@@ -6357,10 +6370,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T11:22:30Z",
+            "last_commit": "2026-04-02T15:41:35Z",
             "owner": "restsend",
             "repo": "rustpbx",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -6370,7 +6383,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T10:06:18Z",
+            "last_commit": "2026-04-02T10:22:19Z",
             "owner": "aaronriekenberg",
             "repo": "rust-parallel",
             "stars": 289
@@ -6386,7 +6399,7 @@
             "last_commit": "2026-04-01T10:10:39Z",
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "stars": 110395
+            "stars": 110460
           }
         },
         {
@@ -6396,10 +6409,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T06:15:43Z",
+            "last_commit": "2026-04-02T13:42:11Z",
             "owner": "rustic-rs",
             "repo": "rustic",
-            "stars": 2973
+            "stars": 2975
           }
         },
         {
@@ -6409,10 +6422,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T00:38:50Z",
+            "last_commit": "2026-04-03T03:40:28Z",
             "owner": "ruvnet",
             "repo": "RuView",
-            "stars": 45182
+            "stars": 45351
           }
         },
         {
@@ -6422,7 +6435,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-26T18:03:43Z",
+            "last_commit": "2026-04-02T18:04:00Z",
             "owner": "sorairolake",
             "repo": "qrtool",
             "stars": 269
@@ -6438,7 +6451,7 @@
             "last_commit": "2026-02-10T06:21:38Z",
             "owner": "str4d",
             "repo": "rage",
-            "stars": 3384
+            "stars": 3389
           }
         },
         {
@@ -6464,7 +6477,7 @@
             "last_commit": "2026-03-26T16:46:48Z",
             "owner": "shshemi",
             "repo": "tabiew",
-            "stars": 2817
+            "stars": 2816
           }
         },
         {
@@ -6490,7 +6503,7 @@
             "last_commit": "2026-03-30T00:43:39Z",
             "owner": "alexpasmantier",
             "repo": "television",
-            "stars": 5507
+            "stars": 5519
           }
         },
         {
@@ -6529,7 +6542,7 @@
             "last_commit": "2026-04-01T21:04:35Z",
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 57771
+            "stars": 57820
           }
         },
         {
@@ -6542,7 +6555,7 @@
             "last_commit": "2026-03-13T06:02:34Z",
             "owner": "thewh1teagle",
             "repo": "vibe",
-            "stars": 5667
+            "stars": 5670
           }
         },
         {
@@ -6552,10 +6565,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-10T18:55:08Z",
+            "last_commit": "2026-04-02T23:20:48Z",
             "owner": "warpdotdev",
             "repo": "Warp",
-            "stars": 26289
+            "stars": 26302
           }
         },
         {
@@ -6581,7 +6594,7 @@
             "last_commit": "2026-03-30T21:19:48Z",
             "owner": "ttytm",
             "repo": "wthrr-the-weathercrab",
-            "stars": 478
+            "stars": 479
           }
         }
       ],
@@ -6613,7 +6626,7 @@
             "last_commit": "2026-03-26T22:10:38Z",
             "owner": "gyroflow",
             "repo": "gyroflow",
-            "stars": 8367
+            "stars": 8378
           }
         },
         {
@@ -6626,7 +6639,7 @@
             "last_commit": "2026-03-07T22:54:44Z",
             "owner": "harlanc",
             "repo": "xiu",
-            "stars": 2277
+            "stars": 2279
           }
         },
         {
@@ -6652,7 +6665,7 @@
             "last_commit": "2026-04-01T22:38:28Z",
             "owner": "xiph",
             "repo": "rav1e",
-            "stars": 4082
+            "stars": 4084
           }
         }
       ],
@@ -6668,10 +6681,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:20:56Z",
+            "last_commit": "2026-04-02T16:23:27Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 33403
+            "stars": 33426
           }
         },
         {
@@ -6681,10 +6694,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T19:22:07Z",
+            "last_commit": "2026-04-03T01:31:36Z",
             "owner": "kata-containers",
             "repo": "kata-containers",
-            "stars": 7692
+            "stars": 7696
           }
         },
         {
@@ -6707,7 +6720,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:30:47Z",
+            "last_commit": "2026-04-02T04:55:21Z",
             "owner": "youki-dev",
             "repo": "youki",
             "stars": 7312
@@ -6726,10 +6739,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T18:38:08Z",
+            "last_commit": "2026-04-02T17:17:06Z",
             "owner": "0xMassi",
             "repo": "webclaw",
-            "stars": 401
+            "stars": 419
           }
         },
         {
@@ -6742,7 +6755,7 @@
             "last_commit": "2022-09-24T21:28:44Z",
             "owner": "agrinman",
             "repo": "tunnelto",
-            "stars": 6466
+            "stars": 6484
           }
         },
         {
@@ -6755,7 +6768,7 @@
             "last_commit": "2026-02-24T04:10:09Z",
             "owner": "cfal",
             "repo": "tobaru",
-            "stars": 270
+            "stars": 271
           }
         },
         {
@@ -6768,7 +6781,7 @@
             "last_commit": "2025-12-14T05:59:05Z",
             "owner": "importantimport",
             "repo": "hatsu",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -6794,7 +6807,7 @@
             "last_commit": "2026-03-27T14:06:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14328
+            "stars": 14327
           }
         },
         {
@@ -6804,7 +6817,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T10:56:42Z",
+            "last_commit": "2026-04-03T00:22:39Z",
             "owner": "MASQ-Project",
             "repo": "Node",
             "stars": 193
@@ -6833,7 +6846,7 @@
             "last_commit": "2025-12-16T00:53:33Z",
             "owner": "redlib-org",
             "repo": "redlib",
-            "stars": 3208
+            "stars": 3211
           }
         },
         {
@@ -6856,10 +6869,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-30T01:47:23Z",
+            "last_commit": "2026-04-03T01:29:20Z",
             "owner": "SinTan1729",
             "repo": "chhoto-url",
-            "stars": 769
+            "stars": 770
           }
         },
         {
@@ -6869,10 +6882,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:51:59Z",
+            "last_commit": "2026-04-02T23:28:50Z",
             "owner": "stoatchat",
             "repo": "stoatchat",
-            "stars": 2917
+            "stars": 2923
           }
         }
       ],
@@ -6904,7 +6917,7 @@
             "last_commit": "2026-03-30T09:37:49Z",
             "owner": "emanuele-em",
             "repo": "proxelar",
-            "stars": 523
+            "stars": 526
           }
         },
         {
@@ -6979,7 +6992,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:33:57Z",
+            "last_commit": "2026-04-02T17:51:30Z",
             "owner": "plabayo",
             "repo": "rama",
             "stars": 986
@@ -7008,7 +7021,7 @@
             "last_commit": "2026-03-27T15:55:29Z",
             "owner": "static-web-server",
             "repo": "static-web-server",
-            "stars": 2185
+            "stars": 2188
           }
         },
         {
@@ -7060,7 +7073,7 @@
             "last_commit": "2026-04-01T16:47:12Z",
             "owner": "vetis-server",
             "repo": "vetis",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -7073,7 +7086,7 @@
             "last_commit": "2026-03-09T13:06:33Z",
             "owner": "0x676e67",
             "repo": "vproxy",
-            "stars": 381
+            "stars": 382
           }
         }
       ],
@@ -7089,10 +7102,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:14:35Z",
+            "last_commit": "2026-04-03T04:09:51Z",
             "owner": "antinomyhq",
             "repo": "forgecode",
-            "stars": 5560
+            "stars": 5730
           }
         },
         {
@@ -7118,7 +7131,7 @@
             "last_commit": "2026-03-09T07:09:22Z",
             "owner": "Julien-cpsn",
             "repo": "ATAC",
-            "stars": 3521
+            "stars": 3525
           }
         },
         {
@@ -7141,10 +7154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:46:21Z",
+            "last_commit": "2026-04-02T23:25:35Z",
             "owner": "biomejs",
             "repo": "biome",
-            "stars": 24179
+            "stars": 24199
           }
         },
         {
@@ -7154,10 +7167,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:02:20Z",
+            "last_commit": "2026-04-03T02:46:40Z",
             "owner": "block",
             "repo": "goose",
-            "stars": 33919
+            "stars": 34062
           }
         },
         {
@@ -7167,10 +7180,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T15:42:56Z",
+            "last_commit": "2026-04-02T16:43:27Z",
             "owner": "cachix",
             "repo": "devenv",
-            "stars": 6616
+            "stars": 6619
           }
         },
         {
@@ -7198,7 +7211,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-30T13:00:22Z",
+            "last_commit": "2026-04-02T15:08:59Z",
             "owner": "cloudflare",
             "repo": "foundations",
             "stars": 1565
@@ -7266,7 +7279,7 @@
             "last_commit": "2026-03-28T20:15:33Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 29850
+            "stars": 29862
           }
         },
         {
@@ -7302,10 +7315,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:33:44Z",
+            "last_commit": "2026-04-02T23:33:12Z",
             "owner": "Feel-ix-343",
             "repo": "markdown-oxide",
-            "stars": 2021
+            "stars": 2023
           }
         },
         {
@@ -7315,7 +7328,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:18:04Z",
+            "last_commit": "2026-04-02T23:25:08Z",
             "owner": "flox",
             "repo": "flox",
             "stars": 3859
@@ -7354,7 +7367,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T01:53:53Z",
+            "last_commit": "2026-04-02T14:51:43Z",
             "owner": "kyu08",
             "repo": "fzf-make",
             "stars": 266
@@ -7380,10 +7393,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:48:20Z",
+            "last_commit": "2026-04-03T00:45:10Z",
             "owner": "orhun",
             "repo": "git-cliff",
-            "stars": 11660
+            "stars": 11663
           }
         },
         {
@@ -7396,7 +7409,7 @@
             "last_commit": "2023-01-20T23:42:33Z",
             "owner": "saschagrunert",
             "repo": "git-journal",
-            "stars": 645
+            "stars": 644
           }
         },
         {
@@ -7409,7 +7422,7 @@
             "last_commit": "2025-08-11T12:09:34Z",
             "owner": "rksm",
             "repo": "hot-lib-reloader-rs",
-            "stars": 740
+            "stars": 741
           }
         },
         {
@@ -7422,7 +7435,7 @@
             "last_commit": "2026-03-26T08:19:49Z",
             "owner": "lasantosr",
             "repo": "intelli-shell",
-            "stars": 1211
+            "stars": 1212
           }
         },
         {
@@ -7432,10 +7445,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:57:14Z",
+            "last_commit": "2026-04-02T06:01:25Z",
             "owner": "j178",
             "repo": "prek",
-            "stars": 7136
+            "stars": 7152
           }
         },
         {
@@ -7445,10 +7458,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:57:35Z",
+            "last_commit": "2026-04-03T02:42:43Z",
             "owner": "jj-vcs",
             "repo": "jj",
-            "stars": 27478
+            "stars": 27507
           }
         },
         {
@@ -7458,10 +7471,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T18:24:17Z",
+            "last_commit": "2026-04-03T04:09:59Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 32542
+            "stars": 32567
           }
         },
         {
@@ -7484,10 +7497,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:11:32Z",
+            "last_commit": "2026-04-03T00:17:28Z",
             "owner": "jdx",
             "repo": "mise",
-            "stars": 26299
+            "stars": 26339
           }
         },
         {
@@ -7513,7 +7526,7 @@
             "last_commit": "2026-04-02T00:43:35Z",
             "owner": "dalance",
             "repo": "ptags",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -7536,7 +7549,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-02T01:19:42Z",
+            "last_commit": "2026-04-03T01:21:44Z",
             "owner": "huhu",
             "repo": "rust-search-extension",
             "stars": 1269
@@ -7549,10 +7562,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T17:54:37Z",
+            "last_commit": "2026-04-03T00:59:10Z",
             "owner": "rust-lang",
             "repo": "rustup",
-            "stars": 6835
+            "stars": 6837
           }
         },
         {
@@ -7588,10 +7601,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:16:48Z",
+            "last_commit": "2026-04-03T04:03:04Z",
             "owner": "voidzero-dev",
             "repo": "vite-plus",
-            "stars": 3876
+            "stars": 3915
           }
         },
         {
@@ -7609,7 +7622,7 @@
             "last_commit": "2026-03-25T23:50:27Z",
             "owner": "Wilfred",
             "repo": "difftastic",
-            "stars": 24908
+            "stars": 24914
           }
         }
       ],
@@ -7648,7 +7661,7 @@
                 "last_commit": "2026-03-29T05:21:15Z",
                 "owner": "cargo-bins",
                 "repo": "cargo-binstall",
-                "stars": 2584
+                "stars": 2586
               }
             },
             {
@@ -7727,7 +7740,7 @@
                 "last_commit": "2026-04-01T20:29:45Z",
                 "owner": "cargo-generate",
                 "repo": "cargo-generate",
-                "stars": 2394
+                "stars": 2395
               }
             },
             {
@@ -7763,7 +7776,7 @@
                 "last_commit": "2026-02-05T18:50:48Z",
                 "owner": "sagiegurari",
                 "repo": "cargo-make",
-                "stars": 2914
+                "stars": 2915
               }
             },
             {
@@ -7907,10 +7920,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:00:34Z",
+            "last_commit": "2026-04-03T03:23:22Z",
             "owner": "facebook",
             "repo": "buck2",
-            "stars": 4297
+            "stars": 4298
           }
         },
         {
@@ -7975,10 +7988,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Nix",
-                "last_commit": "2026-04-01T08:59:17Z",
+                "last_commit": "2026-04-02T07:49:58Z",
                 "owner": "nix-community",
                 "repo": "fenix",
-                "stars": 1018
+                "stars": 1020
               }
             }
           ],
@@ -7987,10 +8000,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-04-01T08:59:17Z",
+            "last_commit": "2026-04-02T07:49:58Z",
             "owner": "nix-community",
             "repo": "fenix",
-            "stars": 1018
+            "stars": 1020
           }
         },
         {
@@ -8000,10 +8013,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-01T18:50:06Z",
+            "last_commit": "2026-04-02T22:39:19Z",
             "owner": "pantsbuild",
             "repo": "pants",
-            "stars": 3748
+            "stars": 3749
           }
         },
         {
@@ -8013,10 +8026,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:23:47Z",
+            "last_commit": "2026-04-03T03:16:24Z",
             "owner": "rolldown",
             "repo": "rolldown",
-            "stars": 13257
+            "stars": 13260
           }
         },
         {
@@ -8026,7 +8039,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T17:19:22Z",
+            "last_commit": "2026-04-02T15:06:34Z",
             "owner": "TraceMachina",
             "repo": "nativelink",
             "stars": 1508
@@ -8050,7 +8063,7 @@
                 "last_commit": "2025-06-29T22:40:49Z",
                 "owner": "cs01",
                 "repo": "gdbgui",
-                "stars": 10333
+                "stars": 10334
               }
             }
           ],
@@ -8062,7 +8075,7 @@
             "last_commit": "2025-06-29T22:40:49Z",
             "owner": "cs01",
             "repo": "gdbgui",
-            "stars": 10333
+            "stars": 10334
           }
         },
         {
@@ -8085,7 +8098,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T13:13:36Z",
+            "last_commit": "2026-04-02T15:58:15Z",
             "owner": "kxxt",
             "repo": "tracexec",
             "stars": 432
@@ -8169,10 +8182,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T23:27:45Z",
+                "last_commit": "2026-04-02T22:14:29Z",
                 "owner": "moghtech",
                 "repo": "komodo",
-                "stars": 10784
+                "stars": 10793
               }
             },
             {
@@ -8263,7 +8276,7 @@
             "last_commit": "2026-04-01T09:33:01Z",
             "owner": "release-plz",
             "repo": "release-plz",
-            "stars": 1333
+            "stars": 1334
           }
         }
       ],
@@ -8311,7 +8324,7 @@
                 "last_commit": "2022-07-22T09:06:38Z",
                 "owner": "japaric",
                 "repo": "rust-cross",
-                "stars": 2556
+                "stars": 2555
               }
             },
             {
@@ -8336,7 +8349,7 @@
             "last_commit": "2022-07-22T09:06:38Z",
             "owner": "japaric",
             "repo": "rust-cross",
-            "stars": 2556
+            "stars": 2555
           }
         },
         {
@@ -8389,7 +8402,7 @@
                 "last_commit": "2025-11-21T11:02:14Z",
                 "owner": "oreboot",
                 "repo": "oreboot",
-                "stars": 1766
+                "stars": 1767
               }
             }
           ],
@@ -8401,7 +8414,7 @@
             "last_commit": "2025-11-21T11:02:14Z",
             "owner": "oreboot",
             "repo": "oreboot",
-            "stars": 1766
+            "stars": 1767
           }
         },
         {
@@ -8534,7 +8547,7 @@
                 "last_commit": "2026-02-24T15:55:07Z",
                 "owner": "rust-lang",
                 "repo": "rust-bindgen",
-                "stars": 5156
+                "stars": 5160
               }
             }
           ],
@@ -8561,7 +8574,7 @@
                 "last_commit": "2026-03-15T18:14:42Z",
                 "owner": "rusterlium",
                 "repo": "rustler",
-                "stars": 4769
+                "stars": 4770
               }
             }
           ],
@@ -8573,7 +8586,7 @@
             "last_commit": "2026-03-15T18:14:42Z",
             "owner": "rusterlium",
             "repo": "rustler",
-            "stars": 4769
+            "stars": 4770
           }
         },
         {
@@ -8588,7 +8601,7 @@
                 "last_commit": "2016-12-19T19:15:09Z",
                 "owner": "benanders",
                 "repo": "rjni",
-                "stars": 75
+                "stars": 74
               }
             },
             {
@@ -8633,7 +8646,7 @@
             "last_commit": "2016-12-19T19:15:09Z",
             "owner": "benanders",
             "repo": "rjni",
-            "stars": 75
+            "stars": 74
           }
         },
         {
@@ -8764,10 +8777,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-26T22:58:11Z",
+                "last_commit": "2026-04-03T03:01:01Z",
                 "owner": "neon-bindings",
                 "repo": "neon",
-                "stars": 8405
+                "stars": 8404
               }
             },
             {
@@ -8911,10 +8924,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T00:01:26Z",
+                "last_commit": "2026-04-02T12:50:43Z",
                 "owner": "PyO3",
                 "repo": "pyo3",
-                "stars": 15507
+                "stars": 15513
               }
             },
             {
@@ -8924,10 +8937,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-31T12:06:17Z",
+                "last_commit": "2026-04-02T16:46:44Z",
                 "owner": "RustPython",
                 "repo": "RustPython",
-                "stars": 21929
+                "stars": 21932
               }
             }
           ],
@@ -9004,7 +9017,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T20:23:27Z",
+                "last_commit": "2026-04-03T03:46:29Z",
                 "owner": "wasm-bindgen",
                 "repo": "wasm-bindgen",
                 "stars": 8935
@@ -9020,7 +9033,7 @@
                 "last_commit": "2026-03-24T17:36:21Z",
                 "owner": "wasm-bindgen",
                 "repo": "wasm-pack",
-                "stars": 7138
+                "stars": 7139
               }
             }
           ],
@@ -9048,10 +9061,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:12:53Z",
+            "last_commit": "2026-04-03T02:49:08Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 46801
+            "stars": 46817
           }
         },
         {
@@ -9064,7 +9077,7 @@
             "last_commit": "2026-04-01T18:22:31Z",
             "owner": "dprint",
             "repo": "dprint",
-            "stars": 3855
+            "stars": 3857
           }
         },
         {
@@ -9090,7 +9103,7 @@
             "last_commit": "2026-04-01T03:00:17Z",
             "owner": "rust-lang",
             "repo": "rustfmt",
-            "stars": 6780
+            "stars": 6783
           }
         }
       ],
@@ -9214,7 +9227,7 @@
                 "last_commit": "2024-03-13T19:30:40Z",
                 "owner": "intellij-rust",
                 "repo": "intellij-rust",
-                "stars": 4530
+                "stars": 4531
               }
             }
           ],
@@ -9226,7 +9239,7 @@
             "last_commit": "2024-03-13T19:30:40Z",
             "owner": "intellij-rust",
             "repo": "intellij-rust",
-            "stars": 4530
+            "stars": 4531
           }
         },
         {
@@ -9263,10 +9276,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T00:51:36Z",
+            "last_commit": "2026-04-03T00:53:06Z",
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38195
+            "stars": 38199
           }
         },
         {
@@ -9279,7 +9292,7 @@
             "last_commit": "2025-12-10T13:48:46Z",
             "owner": "madeso",
             "repo": "ride",
-            "stars": 175
+            "stars": 176
           }
         },
         {
@@ -9464,7 +9477,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T04:21:10Z",
+            "last_commit": "2026-04-03T04:10:07Z",
             "owner": "bencherdev",
             "repo": "bencher",
             "stars": 816
@@ -9493,7 +9506,7 @@
             "last_commit": "2023-07-28T13:24:26Z",
             "owner": "koute",
             "repo": "bytehound",
-            "stars": 4774
+            "stars": 4775
           }
         },
         {
@@ -9547,7 +9560,7 @@
                 "last_commit": "2024-02-25T08:27:13Z",
                 "owner": "llogiq",
                 "repo": "flame",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -9572,7 +9585,7 @@
             "last_commit": "2024-02-25T08:27:13Z",
             "owner": "llogiq",
             "repo": "flame",
-            "stars": 731
+            "stars": 732
           }
         },
         {
@@ -9598,7 +9611,7 @@
             "last_commit": "2026-04-01T21:08:14Z",
             "owner": "pawurb",
             "repo": "hotpath-rs",
-            "stars": 1414
+            "stars": 1418
           }
         },
         {
@@ -9611,7 +9624,7 @@
             "last_commit": "2026-02-14T13:01:55Z",
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 27799
+            "stars": 27803
           }
         }
       ],
@@ -9630,7 +9643,7 @@
             "last_commit": "2026-03-18T22:25:48Z",
             "owner": "sopaco",
             "repo": "deepwiki-rs",
-            "stars": 858
+            "stars": 859
           }
         },
         {
@@ -9664,7 +9677,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T11:08:46Z",
+            "last_commit": "2026-04-03T00:55:57Z",
             "owner": "nwiizo",
             "repo": "cargo-coupling",
             "stars": 72
@@ -9708,10 +9721,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:52:28Z",
+            "last_commit": "2026-04-02T21:02:27Z",
             "owner": "verus-lang",
             "repo": "verus",
-            "stars": 2396
+            "stars": 2398
           }
         }
       ],
@@ -9859,7 +9872,7 @@
                 "last_commit": "2026-03-30T13:06:05Z",
                 "owner": "google",
                 "repo": "googletest-rust",
-                "stars": 407
+                "stars": 408
               }
             },
             {
@@ -9917,7 +9930,7 @@
                 "last_commit": "2026-03-08T04:01:37Z",
                 "owner": "asomers",
                 "repo": "mockall",
-                "stars": 1800
+                "stars": 1799
               }
             },
             {
@@ -9943,7 +9956,7 @@
                 "last_commit": "2026-03-16T14:09:23Z",
                 "owner": "cksac",
                 "repo": "fake-rs",
-                "stars": 1201
+                "stars": 1202
               }
             },
             {
@@ -10030,7 +10043,7 @@
             "last_commit": "2026-03-08T04:01:37Z",
             "owner": "asomers",
             "repo": "mockall",
-            "stars": 1800
+            "stars": 1799
           }
         },
         {
@@ -10045,7 +10058,7 @@
                 "last_commit": "2026-03-07T16:01:13Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1116
+                "stars": 1117
               }
             },
             {
@@ -10070,7 +10083,7 @@
             "last_commit": "2026-03-07T16:01:13Z",
             "owner": "sourcefrog",
             "repo": "cargo-mutants",
-            "stars": 1116
+            "stars": 1117
           }
         },
         {
@@ -10162,10 +10175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:18:34Z",
+            "last_commit": "2026-04-03T03:25:00Z",
             "owner": "immunant",
             "repo": "c2rust",
-            "stars": 4671
+            "stars": 4674
           }
         },
         {
@@ -10197,7 +10210,7 @@
             "last_commit": "2026-02-04T18:00:26Z",
             "owner": "ekzhang",
             "repo": "bore",
-            "stars": 10973
+            "stars": 10979
           }
         },
         {
@@ -10207,10 +10220,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-03T20:03:32Z",
+            "last_commit": "2026-04-03T02:22:18Z",
             "owner": "ngrok",
             "repo": "ngrok-rust",
-            "stars": 373
+            "stars": 374
           }
         },
         {
@@ -10223,7 +10236,7 @@
             "last_commit": "2026-02-08T05:27:09Z",
             "owner": "rathole-org",
             "repo": "rathole",
-            "stars": 13184
+            "stars": 13192
           }
         }
       ],
@@ -10367,10 +10380,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:19:33Z",
+            "last_commit": "2026-04-03T00:32:27Z",
             "owner": "tracel-ai",
             "repo": "burn",
-            "stars": 14755
+            "stars": 14763
           }
         },
         {
@@ -10383,7 +10396,7 @@
             "last_commit": "2024-07-23T02:05:58Z",
             "owner": "chelsea0x3b",
             "repo": "dfdx",
-            "stars": 1901
+            "stars": 1902
           }
         },
         {
@@ -10396,7 +10409,7 @@
             "last_commit": "2026-01-13T19:54:39Z",
             "owner": "guillaume-be",
             "repo": "rust-bert",
-            "stars": 3054
+            "stars": 3055
           }
         },
         {
@@ -10406,10 +10419,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:20:37Z",
+            "last_commit": "2026-04-02T19:41:52Z",
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 19862
+            "stars": 19875
           }
         },
         {
@@ -10419,10 +10432,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T15:06:21Z",
+            "last_commit": "2026-04-02T17:25:38Z",
             "owner": "huggingface",
             "repo": "tokenizers",
-            "stars": 10586
+            "stars": 10590
           }
         },
         {
@@ -10432,10 +10445,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:41:07Z",
+            "last_commit": "2026-04-03T01:32:54Z",
             "owner": "katanemo",
             "repo": "plano",
-            "stars": 6131
+            "stars": 6140
           }
         },
         {
@@ -10448,7 +10461,7 @@
             "last_commit": "2026-03-26T13:24:41Z",
             "owner": "LaurentMazare",
             "repo": "tch-rs",
-            "stars": 5330
+            "stars": 5333
           }
         },
         {
@@ -10484,7 +10497,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-24T09:08:58Z",
+            "last_commit": "2026-04-02T10:41:37Z",
             "owner": "perpetual-ml",
             "repo": "perpetual",
             "stars": 667
@@ -10510,10 +10523,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-28T21:50:32Z",
+            "last_commit": "2026-04-03T01:49:30Z",
             "owner": "raphaelmansuy",
             "repo": "edgequake",
-            "stars": 1555
+            "stars": 1560
           }
         },
         {
@@ -10549,7 +10562,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-23T10:41:24Z",
+            "last_commit": "2026-04-02T10:29:03Z",
             "owner": "smartcorelib",
             "repo": "smartcore",
             "stars": 901
@@ -10578,7 +10591,7 @@
             "last_commit": "2025-01-12T17:43:04Z",
             "owner": "tensorflow",
             "repo": "rust",
-            "stars": 5474
+            "stars": 5475
           }
         }
       ],
@@ -10594,10 +10607,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T00:08:33Z",
+            "last_commit": "2026-04-03T02:58:29Z",
             "owner": "0xPlaygrounds",
             "repo": "rig",
-            "stars": 6746
+            "stars": 6760
           }
         },
         {
@@ -10610,7 +10623,7 @@
             "last_commit": "2026-03-23T23:14:10Z",
             "owner": "64bit",
             "repo": "async-openai",
-            "stars": 1835
+            "stars": 1836
           }
         },
         {
@@ -10623,7 +10636,7 @@
             "last_commit": "2026-03-31T16:03:07Z",
             "owner": "liquidos-ai",
             "repo": "AutoAgents",
-            "stars": 529
+            "stars": 531
           }
         },
         {
@@ -10633,10 +10646,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:12:03Z",
+            "last_commit": "2026-04-03T03:29:17Z",
             "owner": "openai",
             "repo": "codex",
-            "stars": 71975
+            "stars": 72698
           }
         },
         {
@@ -10649,7 +10662,7 @@
             "last_commit": "2026-03-27T21:03:31Z",
             "owner": "openai",
             "repo": "harmony",
-            "stars": 4252
+            "stars": 4251
           }
         },
         {
@@ -10662,7 +10675,7 @@
             "last_commit": "2026-04-01T09:17:08Z",
             "owner": "zurawiki",
             "repo": "tiktoken-rs",
-            "stars": 379
+            "stars": 380
           }
         }
       ],
@@ -10678,10 +10691,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:35:48Z",
+            "last_commit": "2026-04-03T03:58:44Z",
             "owner": "BoundaryML",
             "repo": "baml",
-            "stars": 7882
+            "stars": 7891
           }
         },
         {
@@ -10691,7 +10704,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T15:26:33Z",
+            "last_commit": "2026-04-02T11:46:35Z",
             "owner": "sopaco",
             "repo": "cortex-mem",
             "stars": 228
@@ -10704,10 +10717,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T04:13:36Z",
+            "last_commit": "2026-04-02T04:31:41Z",
             "owner": "juyterman1000",
             "repo": "entroly",
-            "stars": 94
+            "stars": 96
           }
         },
         {
@@ -10720,7 +10733,7 @@
             "last_commit": "2026-03-16T13:23:51Z",
             "owner": "memvid",
             "repo": "memvid",
-            "stars": 13670
+            "stars": 13679
           }
         },
         {
@@ -10730,10 +10743,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:00:20Z",
+            "last_commit": "2026-04-02T15:05:58Z",
             "owner": "pydantic",
             "repo": "monty",
-            "stars": 6621
+            "stars": 6644
           }
         }
       ],
@@ -10854,7 +10867,7 @@
             "last_commit": "2026-03-27T16:47:42Z",
             "owner": "tokio-rs",
             "repo": "mio",
-            "stars": 6932
+            "stars": 6931
           }
         },
         {
@@ -10867,7 +10880,7 @@
             "last_commit": "2026-02-15T13:50:45Z",
             "owner": "rust-lang",
             "repo": "futures-rs",
-            "stars": 5836
+            "stars": 5838
           }
         },
         {
@@ -10903,10 +10916,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T09:46:28Z",
+            "last_commit": "2026-04-02T22:19:19Z",
             "owner": "tokio-rs",
             "repo": "tokio",
-            "stars": 31516
+            "stars": 31527
           }
         },
         {
@@ -11021,7 +11034,7 @@
             "last_commit": "2026-01-14T17:35:49Z",
             "owner": "ozankasikci",
             "repo": "rust-music-theory",
-            "stars": 679
+            "stars": 678
           }
         },
         {
@@ -11031,10 +11044,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T02:27:06Z",
+            "last_commit": "2026-04-02T04:39:34Z",
             "owner": "pdeljanov",
             "repo": "Symphonia",
-            "stars": 3115
+            "stars": 3117
           }
         },
         {
@@ -11046,10 +11059,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-30T19:48:11Z",
+                "last_commit": "2026-04-02T20:06:22Z",
                 "owner": "RustAudio",
                 "repo": "cpal",
-                "stars": 3621
+                "stars": 3623
               }
             },
             {
@@ -11084,10 +11097,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-30T19:48:11Z",
+            "last_commit": "2026-04-02T20:06:22Z",
             "owner": "RustAudio",
             "repo": "cpal",
-            "stars": 3621
+            "stars": 3623
           }
         },
         {
@@ -11132,7 +11145,7 @@
             "last_commit": "2026-02-22T12:17:20Z",
             "owner": "Keats",
             "repo": "jsonwebtoken",
-            "stars": 2023
+            "stars": 2025
           }
         },
         {
@@ -11300,7 +11313,7 @@
             "last_commit": "2024-05-04T03:59:24Z",
             "owner": "al8n",
             "repo": "stretto",
-            "stars": 430
+            "stars": 429
           }
         },
         {
@@ -11313,7 +11326,7 @@
             "last_commit": "2026-03-26T23:42:34Z",
             "owner": "hit-box",
             "repo": "hitbox",
-            "stars": 142
+            "stars": 141
           }
         },
         {
@@ -11339,7 +11352,7 @@
             "last_commit": "2026-03-22T10:38:16Z",
             "owner": "moka-rs",
             "repo": "moka",
-            "stars": 2477
+            "stars": 2478
           }
         },
         {
@@ -11396,7 +11409,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T18:53:06Z",
+                "last_commit": "2026-04-02T18:51:28Z",
                 "owner": "awslabs",
                 "repo": "aws-sdk-rust",
                 "stars": 3289
@@ -11412,7 +11425,7 @@
                 "last_commit": "2023-12-11T09:58:15Z",
                 "owner": "rusoto",
                 "repo": "rusoto",
-                "stars": 2728
+                "stars": 2727
               }
             }
           ],
@@ -11436,7 +11449,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T03:44:08Z",
+                "last_commit": "2026-04-02T22:33:43Z",
                 "owner": "Azure",
                 "repo": "azure-sdk-for-rust",
                 "stars": 867
@@ -11448,7 +11461,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:44:08Z",
+            "last_commit": "2026-04-02T22:33:43Z",
             "owner": "Azure",
             "repo": "azure-sdk-for-rust",
             "stars": 867
@@ -11490,7 +11503,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T13:57:47Z",
+                "last_commit": "2026-04-02T19:54:41Z",
                 "owner": "Qovery",
                 "repo": "engine",
                 "stars": 2436
@@ -11502,7 +11515,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T13:57:47Z",
+            "last_commit": "2026-04-02T19:54:41Z",
             "owner": "Qovery",
             "repo": "engine",
             "stars": 2436
@@ -11526,7 +11539,7 @@
                 "last_commit": "2026-04-01T15:58:49Z",
                 "owner": "clap-rs",
                 "repo": "clap",
-                "stars": 16245
+                "stars": 16250
               }
             },
             {
@@ -11616,7 +11629,7 @@
             "last_commit": "2026-04-01T15:58:49Z",
             "owner": "clap-rs",
             "repo": "clap",
-            "stars": 16245
+            "stars": 16250
           }
         },
         {
@@ -11631,7 +11644,7 @@
                 "last_commit": "2026-03-11T12:31:05Z",
                 "owner": "Nukesor",
                 "repo": "comfy-table",
-                "stars": 1319
+                "stars": 1320
               }
             },
             {
@@ -11656,7 +11669,7 @@
             "last_commit": "2026-03-11T12:31:05Z",
             "owner": "Nukesor",
             "repo": "comfy-table",
-            "stars": 1319
+            "stars": 1320
           }
         },
         {
@@ -11668,7 +11681,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T02:33:50Z",
+                "last_commit": "2026-04-02T15:43:35Z",
                 "owner": "rust-cli",
                 "repo": "human-panic",
                 "stars": 1828
@@ -11680,7 +11693,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T02:33:50Z",
+            "last_commit": "2026-04-02T15:43:35Z",
             "owner": "rust-cli",
             "repo": "human-panic",
             "stars": 1828
@@ -11698,7 +11711,7 @@
                 "last_commit": "2026-03-29T07:17:20Z",
                 "owner": "kkawakam",
                 "repo": "rustyline",
-                "stars": 1848
+                "stars": 1851
               }
             },
             {
@@ -11749,7 +11762,7 @@
             "last_commit": "2026-03-29T07:17:20Z",
             "owner": "kkawakam",
             "repo": "rustyline",
-            "stars": 1848
+            "stars": 1851
           }
         },
         {
@@ -11954,7 +11967,7 @@
                 "last_commit": "2026-03-02T14:42:29Z",
                 "owner": "mikaelmello",
                 "repo": "inquire",
-                "stars": 2542
+                "stars": 2543
               }
             },
             {
@@ -11964,10 +11977,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T23:03:42Z",
+                "last_commit": "2026-04-03T00:53:46Z",
                 "owner": "starship",
                 "repo": "starship",
-                "stars": 55689
+                "stars": 55747
               }
             },
             {
@@ -11977,7 +11990,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T08:57:04Z",
+                "last_commit": "2026-04-03T04:08:46Z",
                 "owner": "ynqa",
                 "repo": "promkit",
                 "stars": 458
@@ -12007,7 +12020,7 @@
                 "last_commit": "2026-01-16T16:13:44Z",
                 "owner": "colored-rs",
                 "repo": "colored",
-                "stars": 2003
+                "stars": 2004
               }
             },
             {
@@ -12020,7 +12033,7 @@
                 "last_commit": "2025-11-24T07:52:43Z",
                 "owner": "console-rs",
                 "repo": "dialoguer",
-                "stars": 1567
+                "stars": 1566
               }
             },
             {
@@ -12084,7 +12097,7 @@
             "last_commit": "2026-01-16T16:13:44Z",
             "owner": "colored-rs",
             "repo": "colored",
-            "stars": 2003
+            "stars": 2004
           }
         },
         {
@@ -12139,7 +12152,7 @@
                 "last_commit": "2026-03-31T18:57:55Z",
                 "owner": "ccbrown",
                 "repo": "iocraft",
-                "stars": 1222
+                "stars": 1224
               }
             },
             {
@@ -12231,7 +12244,7 @@
                 "last_commit": "2026-03-31T21:59:43Z",
                 "owner": "ratatui",
                 "repo": "ratatui",
-                "stars": 19481
+                "stars": 19498
               }
             },
             {
@@ -12262,7 +12275,7 @@
                 "last_commit": "2026-03-30T03:46:59Z",
                 "owner": "subinium",
                 "repo": "SuperLightTUI",
-                "stars": 80
+                "stars": 81
               }
             },
             {
@@ -12302,7 +12315,7 @@
                 "last_commit": "2026-03-31T19:38:41Z",
                 "owner": "crossterm-rs",
                 "repo": "crossterm",
-                "stars": 3987
+                "stars": 3990
               }
             }
           ],
@@ -12386,7 +12399,7 @@
                 "last_commit": "2026-02-09T08:06:24Z",
                 "owner": "trifectatechfoundation",
                 "repo": "bzip2-rs",
-                "stars": 166
+                "stars": 165
               }
             }
           ],
@@ -12398,7 +12411,7 @@
             "last_commit": "2026-02-09T08:06:24Z",
             "owner": "trifectatechfoundation",
             "repo": "bzip2-rs",
-            "stars": 166
+            "stars": 165
           }
         },
         {
@@ -12507,7 +12520,7 @@
                 "last_commit": "2026-03-31T23:18:10Z",
                 "owner": "alexcrichton",
                 "repo": "tar-rs",
-                "stars": 713
+                "stars": 714
               }
             }
           ],
@@ -12519,7 +12532,7 @@
             "last_commit": "2026-03-31T23:18:10Z",
             "owner": "alexcrichton",
             "repo": "tar-rs",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -12531,7 +12544,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T22:25:19Z",
+                "last_commit": "2026-04-03T01:06:52Z",
                 "owner": "zip-rs",
                 "repo": "zip2",
                 "stars": 302
@@ -12543,7 +12556,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:25:19Z",
+            "last_commit": "2026-04-03T01:06:52Z",
             "owner": "zip-rs",
             "repo": "zip2",
             "stars": 302
@@ -12658,7 +12671,7 @@
             "last_commit": "2026-03-28T15:15:14Z",
             "owner": "dimforge",
             "repo": "nalgebra",
-            "stars": 4682
+            "stars": 4681
           }
         },
         {
@@ -12819,7 +12832,7 @@
                 "last_commit": "2026-03-28T21:49:09Z",
                 "owner": "cool-japan",
                 "repo": "scirs",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -12829,7 +12842,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T00:27:55Z",
+                "last_commit": "2026-04-02T11:52:47Z",
                 "owner": "cpmech",
                 "repo": "russell",
                 "stars": 180
@@ -12916,7 +12929,7 @@
             "last_commit": "2026-02-22T20:58:32Z",
             "owner": "crossbeam-rs",
             "repo": "crossbeam",
-            "stars": 8382
+            "stars": 8383
           }
         },
         {
@@ -12960,7 +12973,7 @@
             "last_commit": "2026-01-06T20:58:26Z",
             "owner": "rayon-rs",
             "repo": "rayon",
-            "stars": 12824
+            "stars": 12828
           }
         },
         {
@@ -13141,7 +13154,7 @@
             "last_commit": "2026-01-09T16:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1956
+            "stars": 1957
           }
         },
         {
@@ -13271,7 +13284,7 @@
             "last_commit": "2026-03-27T03:04:25Z",
             "owner": "facebook",
             "repo": "opaque-ke",
-            "stars": 387
+            "stars": 389
           }
         },
         {
@@ -13349,7 +13362,7 @@
             "last_commit": "2026-03-27T22:09:23Z",
             "owner": "orion-rs",
             "repo": "orion",
-            "stars": 716
+            "stars": 715
           }
         },
         {
@@ -13398,10 +13411,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T14:55:49Z",
+            "last_commit": "2026-04-02T19:06:51Z",
             "owner": "RustCrypto",
             "repo": "hashes",
-            "stars": 2201
+            "stars": 2200
           }
         },
         {
@@ -13414,7 +13427,7 @@
             "last_commit": "2026-04-01T18:33:49Z",
             "owner": "rustls",
             "repo": "rustls",
-            "stars": 7323
+            "stars": 7325
           }
         },
         {
@@ -13466,7 +13479,7 @@
             "last_commit": "2026-04-01T06:57:07Z",
             "owner": "hamzaydia",
             "repo": "verifyfetch",
-            "stars": 147
+            "stars": 149
           }
         }
       ],
@@ -13498,7 +13511,7 @@
             "last_commit": "2026-02-16T14:20:45Z",
             "owner": "rust-ndarray",
             "repo": "ndarray",
-            "stars": 4260
+            "stars": 4261
           }
         },
         {
@@ -13508,10 +13521,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:30:46Z",
+            "last_commit": "2026-04-02T19:23:35Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 6690
+            "stars": 6704
           }
         },
         {
@@ -13521,10 +13534,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:59:01Z",
+            "last_commit": "2026-04-03T01:28:20Z",
             "owner": "apache",
             "repo": "datafusion",
-            "stars": 8553
+            "stars": 8557
           }
         },
         {
@@ -13547,10 +13560,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:40:31Z",
+            "last_commit": "2026-04-02T16:47:18Z",
             "owner": "ironcalc",
             "repo": "IronCalc",
-            "stars": 3849
+            "stars": 3854
           }
         },
         {
@@ -13573,10 +13586,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-01T05:15:49Z",
+            "last_commit": "2026-04-02T12:41:28Z",
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 63266
+            "stars": 63319
           }
         },
         {
@@ -13586,10 +13599,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:10:46Z",
+            "last_commit": "2026-04-03T04:16:14Z",
             "owner": "paradedb",
             "repo": "paradedb",
-            "stars": 8619
+            "stars": 8625
           }
         },
         {
@@ -13599,10 +13612,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:10:46Z",
+            "last_commit": "2026-04-03T04:16:14Z",
             "owner": "paradedb",
             "repo": "paradedb",
-            "stars": 8619
+            "stars": 8625
           }
         },
         {
@@ -13612,10 +13625,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T17:54:31Z",
+            "last_commit": "2026-04-02T20:16:00Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 37961
+            "stars": 37967
           }
         },
         {
@@ -13660,7 +13673,7 @@
             "last_commit": "2026-04-01T22:55:50Z",
             "owner": "ArroyoSystems",
             "repo": "arroyo",
-            "stars": 4859
+            "stars": 4861
           }
         },
         {
@@ -13673,7 +13686,7 @@
             "last_commit": "2026-03-20T18:10:46Z",
             "owner": "fluvio-community",
             "repo": "fluvio",
-            "stars": 5192
+            "stars": 5193
           }
         },
         {
@@ -13683,10 +13696,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:04:51Z",
+            "last_commit": "2026-04-02T18:37:50Z",
             "owner": "apache",
             "repo": "iggy",
-            "stars": 4079
+            "stars": 4082
           }
         },
         {
@@ -13696,7 +13709,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:00:46Z",
+            "last_commit": "2026-04-02T22:57:06Z",
             "owner": "wingfoil-io",
             "repo": "wingfoil",
             "stars": 149
@@ -13728,10 +13741,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-04-02T02:30:13Z",
+            "last_commit": "2026-04-02T23:34:52Z",
             "owner": "ashvardanian",
             "repo": "NumKong",
-            "stars": 1766
+            "stars": 1771
           }
         },
         {
@@ -13832,7 +13845,7 @@
             "last_commit": "2025-11-10T08:13:05Z",
             "owner": "mrhooray",
             "repo": "kdtree-rs",
-            "stars": 271
+            "stars": 273
           }
         },
         {
@@ -13845,7 +13858,7 @@
             "last_commit": "2025-11-13T18:26:43Z",
             "owner": "orium",
             "repo": "rpds",
-            "stars": 1682
+            "stars": 1680
           }
         },
         {
@@ -13858,7 +13871,7 @@
             "last_commit": "2026-02-26T10:42:18Z",
             "owner": "RoaringBitmap",
             "repo": "roaring-rs",
-            "stars": 911
+            "stars": 913
           }
         },
         {
@@ -13994,7 +14007,7 @@
             "last_commit": "2026-03-17T17:52:23Z",
             "owner": "plotters-rs",
             "repo": "plotters",
-            "stars": 4548
+            "stars": 4549
           }
         },
         {
@@ -14004,10 +14017,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T16:33:20Z",
+            "last_commit": "2026-04-03T01:06:36Z",
             "owner": "rerun-io",
             "repo": "rerun",
-            "stars": 10468
+            "stars": 10471
           }
         },
         {
@@ -14193,7 +14206,7 @@
                     "last_commit": "2020-08-03T13:07:54Z",
                     "owner": "benashford",
                     "repo": "rs-es",
-                    "stars": 219
+                    "stars": 218
                   }
                 },
                 {
@@ -14218,7 +14231,7 @@
                 "last_commit": "2020-08-03T13:07:54Z",
                 "owner": "benashford",
                 "repo": "rs-es",
-                "stars": 219
+                "stars": 218
               }
             },
             {
@@ -14311,7 +14324,7 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Rust",
-                    "last_commit": "2026-04-01T12:35:25Z",
+                    "last_commit": "2026-04-02T12:21:06Z",
                     "owner": "meilisearch",
                     "repo": "heed",
                     "stars": 868
@@ -14336,7 +14349,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T12:35:25Z",
+                "last_commit": "2026-04-02T12:21:06Z",
                 "owner": "meilisearch",
                 "repo": "heed",
                 "stars": 868
@@ -14408,7 +14421,7 @@
                     "last_commit": "2026-03-30T17:54:42Z",
                     "owner": "PoloDB",
                     "repo": "PoloDB",
-                    "stars": 1187
+                    "stars": 1188
                   }
                 }
               ],
@@ -14420,7 +14433,7 @@
                 "last_commit": "2026-03-30T17:54:42Z",
                 "owner": "PoloDB",
                 "repo": "PoloDB",
-                "stars": 1187
+                "stars": 1188
               }
             },
             {
@@ -14432,10 +14445,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Rust",
-                    "last_commit": "2026-04-01T23:17:23Z",
+                    "last_commit": "2026-04-02T23:04:36Z",
                     "owner": "cberner",
                     "repo": "redb",
-                    "stars": 4374
+                    "stars": 4376
                   }
                 }
               ],
@@ -14444,10 +14457,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T23:17:23Z",
+                "last_commit": "2026-04-02T23:04:36Z",
                 "owner": "cberner",
                 "repo": "redb",
-                "stars": 4374
+                "stars": 4376
               }
             },
             {
@@ -14472,10 +14485,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Rust",
-                    "last_commit": "2026-04-01T14:40:23Z",
+                    "last_commit": "2026-04-02T18:50:18Z",
                     "owner": "redis-rs",
                     "repo": "redis-rs",
-                    "stars": 4181
+                    "stars": 4182
                   }
                 }
               ],
@@ -14526,10 +14539,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Rust",
-                    "last_commit": "2026-04-01T18:10:57Z",
+                    "last_commit": "2026-04-02T19:05:42Z",
                     "owner": "surrealdb",
                     "repo": "surrealdb",
-                    "stars": 31739
+                    "stars": 31749
                   }
                 }
               ],
@@ -14538,10 +14551,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T18:10:57Z",
+                "last_commit": "2026-04-02T19:05:42Z",
                 "owner": "surrealdb",
                 "repo": "surrealdb",
-                "stars": 31739
+                "stars": 31749
               }
             },
             {
@@ -14656,10 +14669,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-27T08:10:01Z",
+                "last_commit": "2026-04-02T07:43:19Z",
                 "owner": "diesel-rs",
                 "repo": "diesel",
-                "stars": 14017
+                "stars": 14016
               }
             },
             {
@@ -14698,7 +14711,7 @@
                 "last_commit": "2026-03-27T10:15:42Z",
                 "owner": "rbatis",
                 "repo": "rbatis",
-                "stars": 2449
+                "stars": 2448
               }
             },
             {
@@ -14708,10 +14721,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-31T11:48:54Z",
+                "last_commit": "2026-04-02T09:15:11Z",
                 "owner": "SeaQL",
                 "repo": "sea-orm",
-                "stars": 9491
+                "stars": 9495
               }
             },
             {
@@ -14779,7 +14792,7 @@
                     "last_commit": "2026-03-30T23:47:51Z",
                     "owner": "launchbadge",
                     "repo": "sqlx",
-                    "stars": 16797
+                    "stars": 16798
                   }
                 },
                 {
@@ -14817,7 +14830,7 @@
                 "last_commit": "2026-03-30T23:47:51Z",
                 "owner": "launchbadge",
                 "repo": "sqlx",
-                "stars": 16797
+                "stars": 16798
               }
             },
             {
@@ -14976,10 +14989,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Rust",
-                    "last_commit": "2026-03-22T09:19:39Z",
+                    "last_commit": "2026-04-02T17:50:53Z",
                     "owner": "rusqlite",
                     "repo": "rusqlite",
-                    "stars": 4121
+                    "stars": 4123
                   }
                 }
               ],
@@ -14988,10 +15001,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-22T09:19:39Z",
+                "last_commit": "2026-04-02T17:50:53Z",
                 "owner": "rusqlite",
                 "repo": "rusqlite",
-                "stars": 4121
+                "stars": 4123
               }
             }
           ],
@@ -15003,7 +15016,7 @@
             "last_commit": "2026-03-30T23:47:51Z",
             "owner": "launchbadge",
             "repo": "sqlx",
-            "stars": 16797
+            "stars": 16798
           }
         },
         {
@@ -15048,7 +15061,7 @@
             "last_commit": "2026-03-03T23:29:53Z",
             "owner": "BurntSushi",
             "repo": "jiff",
-            "stars": 2668
+            "stars": 2670
           }
         },
         {
@@ -15061,7 +15074,7 @@
             "last_commit": "2026-03-30T05:50:47Z",
             "owner": "chronotope",
             "repo": "chrono",
-            "stars": 3821
+            "stars": 3823
           }
         },
         {
@@ -15100,7 +15113,7 @@
             "last_commit": "2026-03-27T06:31:30Z",
             "owner": "time-rs",
             "repo": "time",
-            "stars": 1295
+            "stars": 1296
           }
         }
       ],
@@ -15148,7 +15161,7 @@
                 "last_commit": "2026-01-27T11:05:41Z",
                 "owner": "fede1024",
                 "repo": "rust-rdkafka",
-                "stars": 1952
+                "stars": 1953
               }
             },
             {
@@ -15186,7 +15199,7 @@
             "last_commit": "2026-01-27T11:05:41Z",
             "owner": "fede1024",
             "repo": "rust-rdkafka",
-            "stars": 1952
+            "stars": 1953
           }
         },
         {
@@ -15256,7 +15269,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T18:31:08Z",
+            "last_commit": "2026-04-02T21:38:40Z",
             "owner": "aya-rs",
             "repo": "aya",
             "stars": 4414
@@ -15340,7 +15353,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-03-30T08:08:55Z",
+            "last_commit": "2026-04-02T15:54:19Z",
             "owner": "jdrouet",
             "repo": "mrml",
             "stars": 470
@@ -15356,7 +15369,7 @@
             "last_commit": "2026-04-01T08:07:31Z",
             "owner": "lettre",
             "repo": "lettre",
-            "stars": 2190
+            "stars": 2189
           }
         },
         {
@@ -15379,10 +15392,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-01-26T13:37:29Z",
+            "last_commit": "2026-04-02T07:50:20Z",
             "owner": "meli",
             "repo": "meli",
-            "stars": 848
+            "stars": 849
           }
         },
         {
@@ -15395,7 +15408,7 @@
             "last_commit": "2026-03-17T15:14:47Z",
             "owner": "reacherhq",
             "repo": "check-if-email-exists",
-            "stars": 8552
+            "stars": 8553
           }
         },
         {
@@ -15434,7 +15447,7 @@
             "last_commit": "2026-02-24T18:45:37Z",
             "owner": "stalwartlabs",
             "repo": "mail-parser",
-            "stars": 430
+            "stars": 429
           }
         },
         {
@@ -15460,7 +15473,7 @@
             "last_commit": "2026-03-23T13:07:49Z",
             "owner": "tweedegolf",
             "repo": "mailcrab",
-            "stars": 957
+            "stars": 958
           }
         }
       ],
@@ -15508,7 +15521,7 @@
                 "last_commit": "2025-08-15T11:21:51Z",
                 "owner": "bincode-org",
                 "repo": "bincode",
-                "stars": 3075
+                "stars": 3074
               }
             },
             {
@@ -15546,7 +15559,7 @@
             "last_commit": "2025-08-15T11:21:51Z",
             "owner": "bincode-org",
             "repo": "bincode",
-            "stars": 3075
+            "stars": 3074
           }
         },
         {
@@ -15588,7 +15601,7 @@
                 "last_commit": "2024-09-25T20:46:20Z",
                 "owner": "BurntSushi",
                 "repo": "byteorder",
-                "stars": 1079
+                "stars": 1073
               }
             }
           ],
@@ -15600,7 +15613,7 @@
             "last_commit": "2024-09-25T20:46:20Z",
             "owner": "BurntSushi",
             "repo": "byteorder",
-            "stars": 1079
+            "stars": 1073
           }
         },
         {
@@ -15612,7 +15625,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-31T23:10:01Z",
+                "last_commit": "2026-04-02T22:30:38Z",
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
                 "stars": 2446
@@ -15624,7 +15637,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T23:10:01Z",
+            "last_commit": "2026-04-02T22:30:38Z",
             "owner": "capnproto",
             "repo": "capnproto-rust",
             "stars": 2446
@@ -15828,7 +15841,7 @@
                 "last_commit": "2026-03-13T11:35:02Z",
                 "owner": "servo",
                 "repo": "html5ever",
-                "stars": 2543
+                "stars": 2547
               }
             }
           ],
@@ -15840,7 +15853,7 @@
             "last_commit": "2026-03-13T11:35:02Z",
             "owner": "servo",
             "repo": "html5ever",
-            "stars": 2543
+            "stars": 2547
           }
         },
         {
@@ -15894,7 +15907,7 @@
                 "last_commit": "2026-02-16T03:04:05Z",
                 "owner": "serde-rs",
                 "repo": "json",
-                "stars": 5532
+                "stars": 5531
               }
             },
             {
@@ -15907,7 +15920,7 @@
                 "last_commit": "2026-03-11T06:52:57Z",
                 "owner": "simd-lite",
                 "repo": "simd-json",
-                "stars": 1382
+                "stars": 1383
               }
             }
           ],
@@ -16055,7 +16068,7 @@
                 "last_commit": "2026-02-28T15:39:19Z",
                 "owner": "rkyv",
                 "repo": "rkyv",
-                "stars": 4119
+                "stars": 4121
               }
             }
           ],
@@ -16067,7 +16080,7 @@
             "last_commit": "2026-02-28T15:39:19Z",
             "owner": "rkyv",
             "repo": "rkyv",
-            "stars": 4119
+            "stars": 4121
           }
         },
         {
@@ -16136,7 +16149,7 @@
                 "last_commit": "2026-03-11T22:12:04Z",
                 "owner": "tamasfe",
                 "repo": "taplo",
-                "stars": 2203
+                "stars": 2204
               }
             },
             {
@@ -16146,7 +16159,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T21:24:12Z",
+                "last_commit": "2026-04-02T18:51:49Z",
                 "owner": "toml-rs",
                 "repo": "toml",
                 "stars": 1012
@@ -16161,7 +16174,7 @@
             "last_commit": "2026-03-11T22:12:04Z",
             "owner": "tamasfe",
             "repo": "taplo",
-            "stars": 2203
+            "stars": 2204
           }
         },
         {
@@ -16241,7 +16254,7 @@
                 "last_commit": "2026-02-22T16:46:14Z",
                 "owner": "tafia",
                 "repo": "quick-xml",
-                "stars": 1485
+                "stars": 1486
               }
             },
             {
@@ -16254,7 +16267,7 @@
                 "last_commit": "2026-02-10T21:41:54Z",
                 "owner": "luminvent",
                 "repo": "yaserde",
-                "stars": 196
+                "stars": 194
               }
             }
           ],
@@ -16327,7 +16340,7 @@
                 "last_commit": "2026-03-31T22:10:38Z",
                 "owner": "camino-rs",
                 "repo": "camino",
-                "stars": 551
+                "stars": 552
               }
             },
             {
@@ -16353,7 +16366,7 @@
                 "last_commit": "2026-04-01T11:36:33Z",
                 "owner": "apache",
                 "repo": "opendal",
-                "stars": 4973
+                "stars": 4976
               }
             },
             {
@@ -16430,7 +16443,7 @@
             "last_commit": "2026-03-31T22:10:38Z",
             "owner": "camino-rs",
             "repo": "camino",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -16528,7 +16541,7 @@
             "last_commit": "2026-01-22T03:20:09Z",
             "owner": "kand-ta",
             "repo": "kand",
-            "stars": 536
+            "stars": 538
           }
         },
         {
@@ -16538,7 +16551,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-29T21:28:43Z",
+            "last_commit": "2026-04-02T21:34:45Z",
             "owner": "rust-dd",
             "repo": "stochastic-rs",
             "stars": 152
@@ -16719,10 +16732,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T02:53:59Z",
+                "last_commit": "2026-04-02T22:47:48Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 45385
+                "stars": 45403
               }
             },
             {
@@ -16735,7 +16748,7 @@
                 "last_commit": "2026-03-30T17:51:01Z",
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9159
+                "stars": 9176
               }
             },
             {
@@ -16748,7 +16761,7 @@
                 "last_commit": "2026-04-01T11:48:57Z",
                 "owner": "ggez",
                 "repo": "ggez",
-                "stars": 4607
+                "stars": 4605
               }
             },
             {
@@ -16758,10 +16771,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T03:57:20Z",
+                "last_commit": "2026-04-02T16:47:11Z",
                 "owner": "dimforge",
                 "repo": "kiss3d",
-                "stars": 1660
+                "stars": 1661
               }
             },
             {
@@ -16774,7 +16787,7 @@
                 "last_commit": "2023-09-11T07:03:32Z",
                 "owner": "Ruddle",
                 "repo": "oxidator",
-                "stars": 348
+                "stars": 349
               }
             },
             {
@@ -16864,10 +16877,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T22:24:20Z",
+                "last_commit": "2026-04-02T09:12:05Z",
                 "owner": "godot-rust",
                 "repo": "gdext",
-                "stars": 4630
+                "stars": 4636
               }
             },
             {
@@ -16880,7 +16893,7 @@
                 "last_commit": "2025-12-31T11:42:26Z",
                 "owner": "godot-rust",
                 "repo": "gdnative",
-                "stars": 3633
+                "stars": 3634
               }
             }
           ],
@@ -16907,7 +16920,7 @@
                 "last_commit": "2026-04-01T13:35:24Z",
                 "owner": "bedrock-crustaceans",
                 "repo": "bedrock-rs",
-                "stars": 153
+                "stars": 154
               }
             },
             {
@@ -16920,7 +16933,7 @@
                 "last_commit": "2026-02-16T16:24:35Z",
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2211
+                "stars": 2212
               }
             },
             {
@@ -16930,10 +16943,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T22:16:30Z",
+                "last_commit": "2026-04-02T19:52:21Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 7359
+                "stars": 7358
               }
             }
           ],
@@ -16945,7 +16958,7 @@
             "last_commit": "2026-04-01T13:35:24Z",
             "owner": "bedrock-crustaceans",
             "repo": "bedrock-rs",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -17194,10 +17207,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:40:56Z",
+            "last_commit": "2026-04-02T17:37:53Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3520
+            "stars": 3521
           }
         },
         {
@@ -17239,7 +17252,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-04T08:34:48Z",
+            "last_commit": "2026-04-02T05:32:23Z",
             "owner": "neo4j-labs",
             "repo": "graph",
             "stars": 435
@@ -17255,7 +17268,7 @@
             "last_commit": "2026-03-08T19:03:16Z",
             "owner": "petgraph",
             "repo": "petgraph",
-            "stars": 3823
+            "stars": 3822
           }
         }
       ],
@@ -17314,7 +17327,7 @@
             "last_commit": "2023-02-27T01:05:58Z",
             "owner": "gfx-rs",
             "repo": "gfx",
-            "stars": 5402
+            "stars": 5401
           }
         },
         {
@@ -17324,10 +17337,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:56:14Z",
+            "last_commit": "2026-04-03T01:01:28Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 16811
+            "stars": 16818
           }
         },
         {
@@ -17355,7 +17368,7 @@
                 "last_commit": "2025-08-19T12:13:24Z",
                 "owner": "glium",
                 "repo": "glium",
-                "stars": 3610
+                "stars": 3609
               }
             },
             {
@@ -17413,7 +17426,7 @@
                 "last_commit": "2026-02-20T17:49:30Z",
                 "owner": "fschutt",
                 "repo": "printpdf",
-                "stars": 1058
+                "stars": 1059
               }
             },
             {
@@ -17423,7 +17436,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-29T10:53:38Z",
+                "last_commit": "2026-04-02T05:56:08Z",
                 "owner": "J-F-Liu",
                 "repo": "lopdf",
                 "stars": 2113
@@ -17449,10 +17462,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T03:47:30Z",
+                "last_commit": "2026-04-03T03:55:16Z",
                 "owner": "yfedoseev",
                 "repo": "pdf_oxide",
-                "stars": 531
+                "stars": 534
               }
             }
           ],
@@ -17484,7 +17497,7 @@
                 "last_commit": "2026-02-05T11:44:20Z",
                 "owner": "vulkano-rs",
                 "repo": "vulkano",
-                "stars": 5042
+                "stars": 5043
               }
             }
           ],
@@ -17496,7 +17509,7 @@
             "last_commit": "2026-02-05T11:44:20Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5042
+            "stars": 5043
           }
         }
       ],
@@ -17552,10 +17565,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T01:46:48Z",
+            "last_commit": "2026-04-03T00:39:10Z",
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 35501
+            "stars": 35521
           }
         },
         {
@@ -17568,7 +17581,7 @@
             "last_commit": "2026-03-29T08:02:25Z",
             "owner": "emilk",
             "repo": "egui",
-            "stars": 28596
+            "stars": 28609
           }
         },
         {
@@ -17646,7 +17659,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Dart",
-                "last_commit": "2026-04-01T23:47:37Z",
+                "last_commit": "2026-04-03T02:56:55Z",
                 "owner": "fzyzcjy",
                 "repo": "flutter_rust_bridge",
                 "stars": 5171
@@ -17671,10 +17684,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T22:37:19Z",
+            "last_commit": "2026-04-02T21:59:51Z",
             "owner": "fschutt",
             "repo": "azul",
-            "stars": 6097
+            "stars": 6099
           }
         },
         {
@@ -17689,7 +17702,7 @@
                 "last_commit": "2026-03-30T07:23:40Z",
                 "owner": "gtk-rs",
                 "repo": "gtk4-rs",
-                "stars": 2276
+                "stars": 2274
               }
             },
             {
@@ -17714,7 +17727,7 @@
             "last_commit": "2026-03-30T07:23:40Z",
             "owner": "gtk-rs",
             "repo": "gtk4-rs",
-            "stars": 2276
+            "stars": 2274
           }
         },
         {
@@ -17724,10 +17737,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:39:20Z",
+            "last_commit": "2026-04-02T11:46:06Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 30026
+            "stars": 30044
           }
         },
         {
@@ -17742,7 +17755,7 @@
                 "last_commit": "2026-01-25T23:41:47Z",
                 "owner": "imgui-rs",
                 "repo": "imgui-rs",
-                "stars": 2984
+                "stars": 2983
               }
             }
           ],
@@ -17751,10 +17764,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-01T19:36:15Z",
+            "last_commit": "2026-04-02T18:05:25Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 72318
+            "stars": 72359
           }
         },
         {
@@ -17769,7 +17782,7 @@
                 "last_commit": "2018-02-19T23:43:23Z",
                 "owner": "KISS-UI",
                 "repo": "kiss-ui",
-                "stars": 343
+                "stars": 344
               }
             }
           ],
@@ -17781,7 +17794,7 @@
             "last_commit": "2018-02-19T23:43:23Z",
             "owner": "KISS-UI",
             "repo": "kiss-ui",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -17831,10 +17844,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T08:41:01Z",
+            "last_commit": "2026-04-02T06:27:57Z",
             "owner": "longbridge",
             "repo": "gpui-component",
-            "stars": 10820
+            "stars": 10832
           }
         },
         {
@@ -17844,10 +17857,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T21:11:37Z",
+            "last_commit": "2026-04-02T08:16:23Z",
             "owner": "makepad",
             "repo": "makepad",
-            "stars": 6294
+            "stars": 6302
           }
         },
         {
@@ -17874,7 +17887,7 @@
             "last_commit": "2026-03-30T15:04:28Z",
             "owner": "Immediate-Mode-UI",
             "repo": "Nuklear",
-            "stars": 11010
+            "stars": 11014
           }
         },
         {
@@ -17887,7 +17900,7 @@
             "last_commit": "2022-10-18T07:27:31Z",
             "owner": "redox-os",
             "repo": "orbtk",
-            "stars": 3784
+            "stars": 3783
           }
         },
         {
@@ -17943,10 +17956,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T07:37:10Z",
+                "last_commit": "2026-04-02T07:33:39Z",
                 "owner": "woboq",
                 "repo": "qmetaobject-rs",
-                "stars": 718
+                "stars": 719
               }
             }
           ],
@@ -18034,10 +18047,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T17:43:20Z",
+            "last_commit": "2026-04-02T17:45:40Z",
             "owner": "slint-ui",
             "repo": "slint",
-            "stars": 22141
+            "stars": 22145
           }
         },
         {
@@ -18047,10 +18060,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:24:13Z",
+            "last_commit": "2026-04-02T14:02:50Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 104819
+            "stars": 104866
           }
         },
         {
@@ -18063,7 +18076,7 @@
             "last_commit": "2026-04-01T04:16:20Z",
             "owner": "tauri-apps",
             "repo": "wry",
-            "stars": 4728
+            "stars": 4729
           }
         },
         {
@@ -18073,10 +18086,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-31T09:18:49Z",
+            "last_commit": "2026-04-02T15:39:01Z",
             "owner": "linebender",
             "repo": "xilem",
-            "stars": 4949
+            "stars": 4950
           }
         }
       ],
@@ -18121,7 +18134,7 @@
             "last_commit": "2026-03-30T01:05:02Z",
             "owner": "image-rs",
             "repo": "image",
-            "stars": 5708
+            "stars": 5707
           }
         },
         {
@@ -18134,7 +18147,7 @@
             "last_commit": "2026-03-30T21:06:52Z",
             "owner": "image-rs",
             "repo": "imageproc",
-            "stars": 942
+            "stars": 941
           }
         },
         {
@@ -18186,7 +18199,7 @@
             "last_commit": "2026-03-23T09:36:25Z",
             "owner": "twistedfall",
             "repo": "opencv-rust",
-            "stars": 2394
+            "stars": 2395
           }
         }
       ],
@@ -18296,7 +18309,7 @@
             "last_commit": "2026-04-01T09:31:18Z",
             "owner": "tokio-rs",
             "repo": "tracing",
-            "stars": 6602
+            "stars": 6604
           }
         }
       ],
@@ -18342,7 +18355,7 @@
             "last_commit": "2026-03-13T23:59:44Z",
             "owner": "elastio",
             "repo": "bon",
-            "stars": 1999
+            "stars": 2000
           }
         },
         {
@@ -18376,7 +18389,7 @@
                 "last_commit": "2026-03-22T10:38:09Z",
                 "owner": "pulldown-cmark",
                 "repo": "pulldown-cmark",
-                "stars": 2512
+                "stars": 2513
               }
             }
           ],
@@ -18388,7 +18401,7 @@
             "last_commit": "2026-03-22T10:38:09Z",
             "owner": "pulldown-cmark",
             "repo": "pulldown-cmark",
-            "stars": 2512
+            "stars": 2513
           }
         },
         {
@@ -18462,7 +18475,7 @@
                 "last_commit": "2026-04-01T01:48:03Z",
                 "owner": "redbadger",
                 "repo": "crux",
-                "stars": 2465
+                "stars": 2467
               }
             }
           ],
@@ -18576,7 +18589,7 @@
                 "last_commit": "2026-03-28T17:19:54Z",
                 "owner": "fussybeaver",
                 "repo": "bollard",
-                "stars": 1242
+                "stars": 1243
               }
             }
           ],
@@ -18588,7 +18601,7 @@
             "last_commit": "2026-03-28T17:19:54Z",
             "owner": "fussybeaver",
             "repo": "bollard",
-            "stars": 1242
+            "stars": 1243
           }
         },
         {
@@ -18672,7 +18685,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T03:53:21Z",
+                "last_commit": "2026-04-03T03:54:24Z",
                 "owner": "Orange-OpenSource",
                 "repo": "hurl",
                 "stars": 18698
@@ -18684,7 +18697,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:53:21Z",
+            "last_commit": "2026-04-03T03:54:24Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
             "stars": 18698
@@ -18742,7 +18755,7 @@
                 "last_commit": "2026-04-01T03:37:48Z",
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9180
+                "stars": 9181
               }
             },
             {
@@ -18781,7 +18794,7 @@
                 "last_commit": "2026-03-20T15:00:16Z",
                 "owner": "smoltcp-rs",
                 "repo": "smoltcp",
-                "stars": 4394
+                "stars": 4395
               }
             }
           ],
@@ -18793,7 +18806,7 @@
             "last_commit": "2026-04-01T03:37:48Z",
             "owner": "actix",
             "repo": "actix",
-            "stars": 9180
+            "stars": 9181
           }
         },
         {
@@ -18899,10 +18912,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T12:50:15Z",
+                "last_commit": "2026-04-02T08:27:06Z",
                 "owner": "nats-io",
                 "repo": "nats.rs",
-                "stars": 1435
+                "stars": 1436
               }
             }
           ],
@@ -18911,10 +18924,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T12:50:15Z",
+            "last_commit": "2026-04-02T08:27:06Z",
             "owner": "nats-io",
             "repo": "nats.rs",
-            "stars": 1435
+            "stars": 1436
           }
         },
         {
@@ -18964,10 +18977,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T14:10:49Z",
+                "last_commit": "2026-04-02T23:53:30Z",
                 "owner": "libp2p",
                 "repo": "rust-libp2p",
-                "stars": 5467
+                "stars": 5466
               }
             },
             {
@@ -18977,10 +18990,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T11:12:42Z",
+                "last_commit": "2026-04-02T12:11:01Z",
                 "owner": "n0-computer",
                 "repo": "iroh",
-                "stars": 8132
+                "stars": 8136
               }
             }
           ],
@@ -18989,10 +19002,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T14:10:49Z",
+            "last_commit": "2026-04-02T23:53:30Z",
             "owner": "libp2p",
             "repo": "rust-libp2p",
-            "stars": 5467
+            "stars": 5466
           }
         },
         {
@@ -19031,7 +19044,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T20:21:54Z",
+                "last_commit": "2026-04-02T19:39:08Z",
                 "owner": "aws",
                 "repo": "s2n-quic",
                 "stars": 1335
@@ -19044,10 +19057,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T18:19:53Z",
+                "last_commit": "2026-04-03T00:01:25Z",
                 "owner": "cloudflare",
                 "repo": "quiche",
-                "stars": 11370
+                "stars": 11372
               }
             },
             {
@@ -19057,7 +19070,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T14:19:05Z",
+                "last_commit": "2026-04-02T14:07:49Z",
                 "owner": "mozilla",
                 "repo": "neqo",
                 "stars": 2156
@@ -19073,7 +19086,7 @@
                 "last_commit": "2026-03-31T07:20:26Z",
                 "owner": "quinn-rs",
                 "repo": "quinn",
-                "stars": 4998
+                "stars": 5002
               }
             },
             {
@@ -19086,7 +19099,7 @@
                 "last_commit": "2025-12-23T08:42:16Z",
                 "owner": "Tencent",
                 "repo": "tquic",
-                "stars": 1398
+                "stars": 1399
               }
             }
           ],
@@ -19095,7 +19108,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T20:21:54Z",
+            "last_commit": "2026-04-02T19:39:08Z",
             "owner": "aws",
             "repo": "s2n-quic",
             "stars": 1335
@@ -19137,7 +19150,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-05T16:09:11Z",
+                "last_commit": "2026-04-02T09:02:08Z",
                 "owner": "remoc-rs",
                 "repo": "remoc",
                 "stars": 225
@@ -19162,7 +19175,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-05T16:09:11Z",
+            "last_commit": "2026-04-02T09:02:08Z",
             "owner": "remoc-rs",
             "repo": "remoc",
             "stars": 225
@@ -19330,10 +19343,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T00:55:37Z",
+                "last_commit": "2026-04-03T00:59:52Z",
                 "owner": "eclipse-zenoh",
                 "repo": "zenoh",
-                "stars": 2592
+                "stars": 2595
               }
             }
           ],
@@ -19487,7 +19500,7 @@
             "last_commit": "2026-03-24T16:05:26Z",
             "owner": "kevinmehall",
             "repo": "rust-peg",
-            "stars": 1589
+            "stars": 1590
           }
         },
         {
@@ -19500,7 +19513,7 @@
             "last_commit": "2026-03-11T12:50:57Z",
             "owner": "lalrpop",
             "repo": "lalrpop",
-            "stars": 3455
+            "stars": 3456
           }
         },
         {
@@ -19630,7 +19643,7 @@
             "last_commit": "2026-04-01T05:54:18Z",
             "owner": "tree-sitter",
             "repo": "tree-sitter",
-            "stars": 24437
+            "stars": 24458
           }
         }
       ],
@@ -19820,10 +19833,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-26T17:28:11Z",
+                "last_commit": "2026-04-02T14:10:44Z",
                 "owner": "nix-rust",
                 "repo": "nix",
-                "stars": 3005
+                "stars": 3008
               }
             },
             {
@@ -19858,10 +19871,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-26T17:28:11Z",
+            "last_commit": "2026-04-02T14:10:44Z",
             "owner": "nix-rust",
             "repo": "nix",
-            "stars": 3005
+            "stars": 3008
           }
         },
         {
@@ -19873,10 +19886,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T02:45:11Z",
+                "last_commit": "2026-04-03T02:12:59Z",
                 "owner": "microsoft",
                 "repo": "windows-rs",
-                "stars": 12068
+                "stars": 12070
               }
             },
             {
@@ -19898,10 +19911,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T02:45:11Z",
+            "last_commit": "2026-04-03T02:12:59Z",
             "owner": "microsoft",
             "repo": "windows-rs",
-            "stars": 12068
+            "stars": 12070
           }
         }
       ],
@@ -19965,7 +19978,7 @@
             "last_commit": "2026-04-01T23:24:46Z",
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7142
+            "stars": 7146
           }
         },
         {
@@ -19978,7 +19991,7 @@
             "last_commit": "2026-03-12T04:44:34Z",
             "owner": "cel-rust",
             "repo": "cel-rust",
-            "stars": 604
+            "stars": 605
           }
         },
         {
@@ -20001,7 +20014,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T01:41:26Z",
+            "last_commit": "2026-04-02T16:05:24Z",
             "owner": "facebook",
             "repo": "starlark-rust",
             "stars": 954
@@ -20056,7 +20069,7 @@
             "last_commit": "2026-03-23T01:46:04Z",
             "owner": "kcl-lang",
             "repo": "kcl",
-            "stars": 2336
+            "stars": 2335
           }
         },
         {
@@ -20066,10 +20079,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-30T16:02:00Z",
+            "last_commit": "2026-04-02T20:03:16Z",
             "owner": "metacall",
             "repo": "core",
-            "stars": 1793
+            "stars": 1792
           }
         },
         {
@@ -20108,7 +20121,7 @@
             "last_commit": "2025-12-23T13:18:18Z",
             "owner": "PistonDevelopers",
             "repo": "dyon",
-            "stars": 1904
+            "stars": 1901
           }
         },
         {
@@ -20121,7 +20134,7 @@
             "last_commit": "2026-03-24T17:00:39Z",
             "owner": "rhaiscript",
             "repo": "rhai",
-            "stars": 5251
+            "stars": 5254
           }
         },
         {
@@ -20134,7 +20147,7 @@
             "last_commit": "2026-03-26T00:30:04Z",
             "owner": "rune-rs",
             "repo": "rune",
-            "stars": 2179
+            "stars": 2181
           }
         },
         {
@@ -20163,7 +20176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-26T04:40:37Z",
+            "last_commit": "2026-04-02T12:51:46Z",
             "owner": "ardaku",
             "repo": "whoami",
             "stars": 248
@@ -20271,7 +20284,7 @@
                 "last_commit": "2026-03-29T09:40:24Z",
                 "owner": "sunng87",
                 "repo": "handlebars-rust",
-                "stars": 1463
+                "stars": 1464
               }
             },
             {
@@ -20296,7 +20309,7 @@
             "last_commit": "2026-03-29T09:40:24Z",
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -20311,7 +20324,7 @@
                 "last_commit": "2026-04-01T15:15:56Z",
                 "owner": "askama-rs",
                 "repo": "askama",
-                "stars": 1019
+                "stars": 1023
               }
             },
             {
@@ -20337,7 +20350,7 @@
                 "last_commit": "2025-12-11T15:03:50Z",
                 "owner": "Keats",
                 "repo": "tera",
-                "stars": 4167
+                "stars": 4168
               }
             },
             {
@@ -20375,7 +20388,7 @@
             "last_commit": "2026-04-01T15:15:56Z",
             "owner": "askama-rs",
             "repo": "askama",
-            "stars": 1019
+            "stars": 1023
           }
         },
         {
@@ -20460,7 +20473,7 @@
             "last_commit": "2025-06-23T05:24:47Z",
             "owner": "probablykasper",
             "repo": "cpc",
-            "stars": 159
+            "stars": 158
           }
         },
         {
@@ -20486,7 +20499,7 @@
             "last_commit": "2026-04-01T19:16:49Z",
             "owner": "fancy-regex",
             "repo": "fancy-regex",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -20509,10 +20522,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:09:02Z",
+            "last_commit": "2026-04-02T21:23:04Z",
             "owner": "kreuzberg-dev",
             "repo": "kreuzberg",
-            "stars": 7234
+            "stars": 7262
           }
         },
         {
@@ -20590,7 +20603,7 @@
             "last_commit": "2026-02-24T15:41:12Z",
             "owner": "rust-lang",
             "repo": "regex",
-            "stars": 3939
+            "stars": 3938
           }
         },
         {
@@ -20663,10 +20676,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T22:18:07Z",
+            "last_commit": "2026-04-02T17:15:32Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 56903
+            "stars": 56925
           }
         },
         {
@@ -20676,10 +20689,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T04:10:46Z",
+            "last_commit": "2026-04-03T04:16:14Z",
             "owner": "paradedb",
             "repo": "paradedb",
-            "stars": 8619
+            "stars": 8625
           }
         },
         {
@@ -20692,7 +20705,7 @@
             "last_commit": "2026-03-09T22:23:44Z",
             "owner": "SeekStorm",
             "repo": "SeekStorm",
-            "stars": 1859
+            "stars": 1860
           }
         },
         {
@@ -20702,10 +20715,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T11:14:05Z",
+            "last_commit": "2026-04-02T10:15:27Z",
             "owner": "quickwit-oss",
             "repo": "tantivy",
-            "stars": 14828
+            "stars": 14835
           }
         }
       ],
@@ -20737,7 +20750,7 @@
             "last_commit": "2026-03-30T15:39:10Z",
             "owner": "doom-fish",
             "repo": "screencapturekit-rs",
-            "stars": 197
+            "stars": 198
           }
         }
       ],
@@ -20766,10 +20779,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-02T03:30:11Z",
+            "last_commit": "2026-04-02T23:30:41Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 17826
+            "stars": 17834
           }
         },
         {
@@ -20779,10 +20792,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T19:20:59Z",
+            "last_commit": "2026-04-02T21:27:00Z",
             "owner": "mavdol",
             "repo": "capsule",
-            "stars": 272
+            "stars": 274
           }
         },
         {
@@ -20797,7 +20810,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:37:38Z",
+            "last_commit": "2026-04-02T17:56:55Z",
             "owner": "oxidecomputer",
             "repo": "propolis",
             "stars": 238
@@ -20826,7 +20839,7 @@
             "last_commit": "2026-03-26T16:10:47Z",
             "owner": "wasmi-labs",
             "repo": "wasmi",
-            "stars": 2089
+            "stars": 2091
           }
         }
       ],
@@ -20847,7 +20860,7 @@
                 "last_commit": "2026-03-31T09:05:52Z",
                 "owner": "actix",
                 "repo": "actix-web",
-                "stars": 24497
+                "stars": 24500
               }
             },
             {
@@ -20873,7 +20886,7 @@
                 "last_commit": "2025-12-28T18:27:39Z",
                 "owner": "rwf2",
                 "repo": "Rocket",
-                "stars": 25709
+                "stars": 25708
               }
             },
             {
@@ -20886,7 +20899,7 @@
                 "last_commit": "2026-03-30T05:21:56Z",
                 "owner": "summer-rs",
                 "repo": "summer-rs",
-                "stars": 937
+                "stars": 936
               }
             },
             {
@@ -20912,7 +20925,7 @@
                 "last_commit": "2026-03-30T13:04:17Z",
                 "owner": "tokio-rs",
                 "repo": "axum",
-                "stars": 25486
+                "stars": 25497
               }
             }
           ],
@@ -20924,7 +20937,7 @@
             "last_commit": "2026-03-31T09:05:52Z",
             "owner": "actix",
             "repo": "actix-web",
-            "stars": 24497
+            "stars": 24500
           }
         },
         {
@@ -20944,7 +20957,7 @@
                 "last_commit": "2026-03-30T20:42:50Z",
                 "owner": "leptos-rs",
                 "repo": "leptos",
-                "stars": 20497
+                "stars": 20502
               }
             },
             {
@@ -21031,7 +21044,7 @@
             "last_commit": "2026-03-30T20:42:50Z",
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 20497
+            "stars": 20502
           }
         },
         {
@@ -21046,7 +21059,7 @@
                 "last_commit": "2026-04-02T02:35:30Z",
                 "owner": "0x676e67",
                 "repo": "wreq",
-                "stars": 724
+                "stars": 729
               }
             },
             {
@@ -21103,7 +21116,7 @@
                 "last_commit": "2026-03-23T04:28:53Z",
                 "owner": "ducaale",
                 "repo": "xh",
-                "stars": 7708
+                "stars": 7709
               }
             },
             {
@@ -21129,7 +21142,7 @@
                 "last_commit": "2026-03-31T15:40:40Z",
                 "owner": "hyperium",
                 "repo": "hyper",
-                "stars": 16001
+                "stars": 16000
               }
             },
             {
@@ -21139,7 +21152,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T03:33:57Z",
+                "last_commit": "2026-04-02T17:51:30Z",
                 "owner": "plabayo",
                 "repo": "rama",
                 "stars": 986
@@ -21155,7 +21168,7 @@
                 "last_commit": "2026-03-17T13:46:03Z",
                 "owner": "seanmonstar",
                 "repo": "reqwest",
-                "stars": 11511
+                "stars": 11510
               }
             }
           ],
@@ -21167,7 +21180,7 @@
             "last_commit": "2026-04-02T02:35:30Z",
             "owner": "0x676e67",
             "repo": "wreq",
-            "stars": 724
+            "stars": 729
           }
         },
         {
@@ -21210,10 +21223,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T20:19:12Z",
+                "last_commit": "2026-04-02T16:52:56Z",
                 "owner": "cot-rs",
                 "repo": "cot",
-                "stars": 915
+                "stars": 916
               }
             },
             {
@@ -21265,7 +21278,7 @@
                 "last_commit": "2026-03-29T09:40:24Z",
                 "owner": "sunng87",
                 "repo": "handlebars-rust",
-                "stars": 1463
+                "stars": 1464
               }
             },
             {
@@ -21278,7 +21291,7 @@
                 "last_commit": "2026-03-31T15:40:40Z",
                 "owner": "hyperium",
                 "repo": "hyper",
-                "stars": 16001
+                "stars": 16000
               }
             },
             {
@@ -21291,7 +21304,7 @@
                 "last_commit": "2024-06-14T21:59:09Z",
                 "owner": "iron",
                 "repo": "iron",
-                "stars": 6115
+                "stars": 6114
               }
             },
             {
@@ -21304,7 +21317,7 @@
                 "last_commit": "2026-03-19T15:31:52Z",
                 "owner": "graphql-rust",
                 "repo": "juniper",
-                "stars": 5949
+                "stars": 5948
               }
             },
             {
@@ -21340,7 +21353,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T03:33:57Z",
+                "last_commit": "2026-04-02T17:51:30Z",
                 "owner": "plabayo",
                 "repo": "rama",
                 "stars": 986
@@ -21356,7 +21369,7 @@
                 "last_commit": "2026-03-31T10:04:04Z",
                 "owner": "poem-web",
                 "repo": "poem",
-                "stars": 4376
+                "stars": 4375
               }
             },
             {
@@ -21379,10 +21392,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-02T01:26:08Z",
+                "last_commit": "2026-04-02T23:39:42Z",
                 "owner": "salvo-rs",
                 "repo": "salvo",
-                "stars": 4295
+                "stars": 4298
               }
             },
             {
@@ -21408,7 +21421,7 @@
                 "last_commit": "2026-01-28T19:17:53Z",
                 "owner": "seanmonstar",
                 "repo": "warp",
-                "stars": 10269
+                "stars": 10268
               }
             },
             {
@@ -21447,7 +21460,7 @@
                 "last_commit": "2026-04-01T00:36:33Z",
                 "owner": "zino-rs",
                 "repo": "zino",
-                "stars": 1118
+                "stars": 1117
               }
             }
           ],
@@ -21559,10 +21572,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-24T00:37:54Z",
+                "last_commit": "2026-04-02T21:23:33Z",
                 "owner": "serenity-rs",
                 "repo": "serenity",
-                "stars": 5452
+                "stars": 5453
               }
             },
             {
@@ -21585,10 +21598,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T18:17:28Z",
+                "last_commit": "2026-04-02T14:49:53Z",
                 "owner": "svix",
                 "repo": "svix-webhooks",
-                "stars": 3153
+                "stars": 3154
               }
             },
             {
@@ -21606,7 +21619,7 @@
                 "last_commit": "2026-03-31T19:24:21Z",
                 "owner": "teloxide",
                 "repo": "teloxide",
-                "stars": 4079
+                "stars": 4080
               }
             },
             {
@@ -21645,7 +21658,7 @@
                 "last_commit": "2026-02-24T21:16:35Z",
                 "owner": "juhaku",
                 "repo": "utoipa",
-                "stars": 3753
+                "stars": 3755
               }
             },
             {
@@ -21685,7 +21698,7 @@
                 "last_commit": "2026-03-24T14:15:38Z",
                 "owner": "sozu-proxy",
                 "repo": "sozu",
-                "stars": 3639
+                "stars": 3641
               }
             }
           ],
@@ -21697,7 +21710,7 @@
             "last_commit": "2026-03-24T14:15:38Z",
             "owner": "sozu-proxy",
             "repo": "sozu",
-            "stars": 3639
+            "stars": 3641
           }
         },
         {
@@ -21709,7 +21722,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-04-01T23:33:21Z",
+                "last_commit": "2026-04-02T17:21:47Z",
                 "owner": "cobalt-org",
                 "repo": "cobalt.rs",
                 "stars": 1516
@@ -21738,7 +21751,7 @@
                 "last_commit": "2026-03-30T07:12:28Z",
                 "owner": "getzola",
                 "repo": "zola",
-                "stars": 16803
+                "stars": 16808
               }
             },
             {
@@ -21786,7 +21799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T23:33:21Z",
+            "last_commit": "2026-04-02T17:21:47Z",
             "owner": "cobalt-org",
             "repo": "cobalt.rs",
             "stars": 1516
@@ -21856,7 +21869,7 @@
                 "last_commit": "2023-09-17T12:52:17Z",
                 "owner": "websockets-rs",
                 "repo": "rust-websocket",
-                "stars": 1615
+                "stars": 1614
               }
             },
             {
@@ -21869,7 +21882,7 @@
                 "last_commit": "2026-03-30T08:56:58Z",
                 "owner": "snapview",
                 "repo": "tungstenite-rs",
-                "stars": 2325
+                "stars": 2326
               }
             },
             {
@@ -21882,7 +21895,7 @@
                 "last_commit": "2025-12-27T23:16:24Z",
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8428
+                "stars": 8431
               }
             }
           ],
@@ -22060,7 +22073,7 @@
                 "last_commit": "2025-07-08T13:05:48Z",
                 "owner": "cognitive-engineering-lab",
                 "repo": "aquascope",
-                "stars": 3007
+                "stars": 3009
               }
             },
             {
@@ -22152,7 +22165,7 @@
                 "last_commit": "2025-08-19T08:56:17Z",
                 "owner": "cuppar",
                 "repo": "rtd",
-                "stars": 571
+                "stars": 572
               }
             },
             {
@@ -22259,7 +22272,7 @@
                 "last_commit": "2024-10-24T18:33:46Z",
                 "owner": "ctjhoa",
                 "repo": "rust-learning",
-                "stars": 12158
+                "stars": 12159
               }
             },
             {
@@ -22277,7 +22290,7 @@
                 "last_commit": "2026-03-30T15:36:16Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 62343
+                "stars": 62359
               }
             },
             {
@@ -22320,7 +22333,7 @@
             "last_commit": "2025-07-08T13:05:48Z",
             "owner": "cognitive-engineering-lab",
             "repo": "aquascope",
-            "stars": 3007
+            "stars": 3009
           }
         },
         {
@@ -22349,7 +22362,7 @@
             "last_commit": "2026-03-30T21:39:51Z",
             "owner": "rust-unofficial",
             "repo": "patterns",
-            "stars": 8758
+            "stars": 8759
           }
         },
         {
@@ -22390,7 +22403,7 @@
             "last_commit": "2026-01-20T08:34:10Z",
             "owner": "sger",
             "repo": "RustBooks",
-            "stars": 5434
+            "stars": 5437
           }
         },
         {
@@ -22408,7 +22421,7 @@
             "last_commit": "2024-02-13T06:01:59Z",
             "owner": "rustviz",
             "repo": "rustviz",
-            "stars": 2829
+            "stars": 2830
           }
         },
         {
@@ -22426,7 +22439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:16:22.033Z",
+    "last_updated": "2026-04-03T04:17:04.882Z",
     "original_repository": "rust-unofficial/awesome-rust",
     "source_repository": "v1nvn/enhansome-rust",
     "source_repository_description": null,
