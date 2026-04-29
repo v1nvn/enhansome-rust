@@ -1,4 +1,4 @@
-# Awesome Rust [![lint badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/lint.yml/badge.svg)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/lint.yml) ⭐ 56,990 | 🐛 9 | 🌐 Rust | 📅 2026-04-27 [![build badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml) ⭐ 56,990 | 🐛 9 | 🌐 Rust | 📅 2026-04-27 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/) with stars
+# Awesome Rust [![lint badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/lint.yml/badge.svg)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/lint.yml) ⭐ 56,999 | 🐛 9 | 🌐 Rust | 📅 2026-04-28 [![build badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml) ⭐ 56,999 | 🐛 9 | 🌐 Rust | 📅 2026-04-28 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/) with stars
 
 A curated list of Rust code and resources.
 
@@ -126,123 +126,123 @@ If you want to contribute, please read [this](origin/CONTRIBUTING.md).
 
 ## Applications
 
-* [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐ 114,008 | 🐛 299 | 🌐 TypeScript | 📅 2026-04-27 - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
-* [denoland/deno](https://github.com/denoland/deno) ⭐ 106,560 | 🐛 2,317 | 🌐 Rust | 📅 2026-04-28 - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/actions/workflows/ci.yml/badge.svg)](https://github.com/denoland/deno/actions) ⭐ 106,560 | 🐛 2,317 | 🌐 Rust | 📅 2026-04-28
-* [alacritty](https://github.com/alacritty/alacritty) ⭐ 63,693 | 🐛 337 | 🌐 Rust | 📅 2026-04-28 - A cross-platform, GPU enhanced terminal emulator
-* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) ⭐ 60,101 | 🐛 55 | 🌐 Kotlin | 📅 2026-04-23 - A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications
-* [Typst](https://github.com/typst/typst) ⭐ 53,123 | 🐛 1,213 | 🌐 Rust | 📅 2026-04-27 - A markup-based typesetting system [![crates.io](https://img.shields.io/crates/v/typst.svg)](https://crates.io/crates/typst)
-* [Sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 36,615 | 🐛 66 | 🌐 Rust | 📅 2026-04-28 - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) ⭐ 36,615 | 🐛 66 | 🌐 Rust | 📅 2026-04-28 [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
-* [Servo](https://github.com/servo/servo) ⭐ 36,570 | 🐛 3,105 | 🌐 Rust | 📅 2026-04-28 - A prototype web browser engine
-* [TabbyML/tabby](https://github.com/TabbyML/tabby) ⭐ 33,473 | 🐛 308 | 🌐 Rust | 📅 2026-03-02 - Self-hosted AI coding assistant, an open-source alternative to GitHub Copilot with GPU support and OpenAPI interface [![latest release](https://shields.io/github/v/release/TabbyML/tabby)](https://github.com/TabbyML/tabby/releases/latest) ⭐ 33,473 | 🐛 308 | 🌐 Rust | 📅 2026-03-02
-* [SWC](https://github.com/swc-project/swc) ⭐ 33,380 | 🐛 428 | 🌐 Rust | 📅 2026-04-27 - super-fast TypeScript / JavaScript compiler
-* [zellij](https://github.com/zellij-org/zellij) ⭐ 31,995 | 🐛 1,663 | 🌐 Rust | 📅 2026-04-22 - A terminal multiplexer (workspace) with batteries included
-* [wezterm](https://github.com/wezterm/wezterm) ⭐ 25,756 | 🐛 1,696 | 🌐 Rust | 📅 2026-04-24 - A GPU-accelerated cross-platform terminal emulator and multiplexer
-* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 21,566 | 🐛 687 | 🌐 Rust | 📅 2026-04-23 - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/actions/workflows/main.yml/badge.svg)](https://github.com/rust-lang/mdBook/actions) ⭐ 21,566 | 🐛 687 | 🌐 Rust | 📅 2026-04-23
-* [wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,631 | 🐛 212 | 🌐 Rust | 📅 2026-04-27 - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/actions/workflows/build.yml/badge.svg)](https://github.com/wasmerio/wasmer/actions) ⭐ 20,631 | 🐛 212 | 🌐 Rust | 📅 2026-04-27
-* [Edit](https://github.com/microsoft/edit) ⭐ 13,767 | 🐛 149 | 🌐 Rust | 📅 2026-04-27 - A simple editor for simple needs. [![CI](https://github.com/microsoft/edit/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/edit/actions/workflows/ci.yml) ⭐ 13,767 | 🐛 149 | 🌐 Rust | 📅 2026-04-27
-* [glzr-io/glazewm](https://github.com/glzr-io/glazewm) ⭐ 11,948 | 🐛 378 | 🌐 Rust | 📅 2026-04-22 - A tiling window manager for Windows inspired by i3wm, with YAML config, multi-monitor support, and keyboard-driven commands
-* [EasyTier](https://github.com/EasyTier/EasyTier) ⭐ 11,060 | 🐛 360 | 🌐 Rust | 📅 2026-04-27 - A simple, full-featured and decentralized mesh VPN with WireGuard support. [![crates.io](https://img.shields.io/crates/v/easytier)](https://crates.io/crates/easytier) [![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/core.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/) ⭐ 11,060 | 🐛 360 | 🌐 Rust | 📅 2026-04-27[![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/gui.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/) ⭐ 11,060 | 🐛 360 | 🌐 Rust | 📅 2026-04-27
-* [cloudflare/boringtun](https://github.com/cloudflare/boringtun) ⭐ 7,013 | 🐛 102 | 🌐 Rust | 📅 2026-04-27 - A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/crates/v/boringtun.svg)](https://crates.io/crates/boringtun)
+* [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐ 114,391 | 🐛 301 | 🌐 TypeScript | 📅 2026-04-29 - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
+* [denoland/deno](https://github.com/denoland/deno) ⭐ 106,567 | 🐛 2,320 | 🌐 Rust | 📅 2026-04-29 - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/actions/workflows/ci.yml/badge.svg)](https://github.com/denoland/deno/actions) ⭐ 106,567 | 🐛 2,320 | 🌐 Rust | 📅 2026-04-29
+* [alacritty](https://github.com/alacritty/alacritty) ⭐ 63,725 | 🐛 336 | 🌐 Rust | 📅 2026-04-28 - A cross-platform, GPU enhanced terminal emulator
+* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) ⭐ 60,119 | 🐛 55 | 🌐 Kotlin | 📅 2026-04-23 - A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications
+* [Typst](https://github.com/typst/typst) ⭐ 53,158 | 🐛 1,208 | 🌐 Rust | 📅 2026-04-28 - A markup-based typesetting system [![crates.io](https://img.shields.io/crates/v/typst.svg)](https://crates.io/crates/typst)
+* [Sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 36,779 | 🐛 66 | 🌐 Rust | 📅 2026-04-28 - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) ⭐ 36,779 | 🐛 66 | 🌐 Rust | 📅 2026-04-28 [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+* [Servo](https://github.com/servo/servo) ⭐ 36,579 | 🐛 3,102 | 🌐 Rust | 📅 2026-04-29 - A prototype web browser engine
+* [TabbyML/tabby](https://github.com/TabbyML/tabby) ⭐ 33,477 | 🐛 310 | 🌐 Rust | 📅 2026-03-02 - Self-hosted AI coding assistant, an open-source alternative to GitHub Copilot with GPU support and OpenAPI interface [![latest release](https://shields.io/github/v/release/TabbyML/tabby)](https://github.com/TabbyML/tabby/releases/latest) ⭐ 33,477 | 🐛 310 | 🌐 Rust | 📅 2026-03-02
+* [SWC](https://github.com/swc-project/swc) ⭐ 33,382 | 🐛 429 | 🌐 Rust | 📅 2026-04-28 - super-fast TypeScript / JavaScript compiler
+* [zellij](https://github.com/zellij-org/zellij) ⭐ 32,024 | 🐛 1,665 | 🌐 Rust | 📅 2026-04-28 - A terminal multiplexer (workspace) with batteries included
+* [wezterm](https://github.com/wezterm/wezterm) ⭐ 25,791 | 🐛 1,701 | 🌐 Rust | 📅 2026-04-24 - A GPU-accelerated cross-platform terminal emulator and multiplexer
+* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 21,570 | 🐛 687 | 🌐 Rust | 📅 2026-04-23 - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/actions/workflows/main.yml/badge.svg)](https://github.com/rust-lang/mdBook/actions) ⭐ 21,570 | 🐛 687 | 🌐 Rust | 📅 2026-04-23
+* [wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,634 | 🐛 213 | 🌐 Rust | 📅 2026-04-28 - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/actions/workflows/build.yml/badge.svg)](https://github.com/wasmerio/wasmer/actions) ⭐ 20,634 | 🐛 213 | 🌐 Rust | 📅 2026-04-28
+* [Edit](https://github.com/microsoft/edit) ⭐ 13,774 | 🐛 151 | 🌐 Rust | 📅 2026-04-28 - A simple editor for simple needs. [![CI](https://github.com/microsoft/edit/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/edit/actions/workflows/ci.yml) ⭐ 13,774 | 🐛 151 | 🌐 Rust | 📅 2026-04-28
+* [glzr-io/glazewm](https://github.com/glzr-io/glazewm) ⭐ 11,963 | 🐛 378 | 🌐 Rust | 📅 2026-04-22 - A tiling window manager for Windows inspired by i3wm, with YAML config, multi-monitor support, and keyboard-driven commands
+* [EasyTier](https://github.com/EasyTier/EasyTier) ⭐ 11,072 | 🐛 362 | 🌐 Rust | 📅 2026-04-29 - A simple, full-featured and decentralized mesh VPN with WireGuard support. [![crates.io](https://img.shields.io/crates/v/easytier)](https://crates.io/crates/easytier) [![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/core.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/) ⭐ 11,072 | 🐛 362 | 🌐 Rust | 📅 2026-04-29[![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/gui.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/) ⭐ 11,072 | 🐛 362 | 🌐 Rust | 📅 2026-04-29
+* [cloudflare/boringtun](https://github.com/cloudflare/boringtun) ⭐ 7,015 | 🐛 102 | 🌐 Rust | 📅 2026-04-27 - A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/crates/v/boringtun.svg)](https://crates.io/crates/boringtun)
 * [shuttle](https://github.com/shuttle-hq/shuttle) ⚠️ Archived - A serverless platform.
-* [Rio](https://github.com/raphamorim/rio) ⭐ 6,713 | 🐛 339 | 🌐 Rust | 📅 2026-04-28 - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+* [Rio](https://github.com/raphamorim/rio) ⭐ 6,718 | 🐛 338 | 🌐 Rust | 📅 2026-04-29 - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 * [innernet](https://github.com/tonarino/innernet) ⭐ 5,469 | 🐛 92 | 🌐 Rust | 📅 2026-03-19 - An overlay or private mesh network that uses Wireguard under the hood
-* [hickory-dns](https://crates.io/crates/hickory-dns) - A DNS-server [![Build Status](https://github.com/hickory-dns/hickory-dns/actions/workflows/test.yml/badge.svg)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest) ⭐ 5,160 | 🐛 334 | 🌐 Rust | 📅 2026-04-25
-* [mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,050 | 🐛 186 | 🌐 Rust | 📅 2026-04-27 - Connect your local process and your cloud environment, and run local code in cloud conditions
-* [mayocream/koharu](https://github.com/mayocream/koharu) ⭐ 4,156 | 🐛 90 | 🌐 Rust | 📅 2026-04-28 - An ML-powered manga translator with automatic speech bubble detection, OCR, inpainting, and LLM translation, built with Candle and Tauri
+* [hickory-dns](https://crates.io/crates/hickory-dns) - A DNS-server [![Build Status](https://github.com/hickory-dns/hickory-dns/actions/workflows/test.yml/badge.svg)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest) ⭐ 5,163 | 🐛 334 | 🌐 Rust | 📅 2026-04-25
+* [mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,053 | 🐛 184 | 🌐 Rust | 📅 2026-04-29 - Connect your local process and your cloud environment, and run local code in cloud conditions
+* [mayocream/koharu](https://github.com/mayocream/koharu) ⭐ 4,175 | 🐛 96 | 🌐 Rust | 📅 2026-04-28 - An ML-powered manga translator with automatic speech bubble detection, OCR, inpainting, and LLM translation, built with Candle and Tauri
 * [rx](https://github.com/cloudhead/rx) ⭐ 3,430 | 🐛 38 | 🌐 Rust | 📅 2024-01-31 - Vi inspired Modern Pixel Art Editor
-* [Ryot](https://github.com/ignisda/ryot) ⭐ 3,250 | 🐛 41 | 🌐 TypeScript | 📅 2026-04-27 - A self hosted application to track media consumption, fitness, etc.
+* [Ryot](https://github.com/ignisda/ryot) ⭐ 3,252 | 🐛 40 | 🌐 TypeScript | 📅 2026-04-29 - A self hosted application to track media consumption, fitness, etc.
 * [WinterJS](https://github.com/wasmerio/winterjs) ⚠️ Archived - A secure JavaScript runtime built with SpiderMonkey and Axum
-* [habitat](https://github.com/habitat-sh/habitat) ⭐ 2,745 | 🐛 18 | 🌐 Rust | 📅 2026-04-28 - A tool created by Chef to build, deploy, and manage applications.
-* [defguard](https://github.com/defguard/defguard) ⭐ 2,683 | 🐛 305 | 🌐 Rust | 📅 2026-04-27 - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
+* [habitat](https://github.com/habitat-sh/habitat) ⭐ 2,746 | 🐛 18 | 🌐 Rust | 📅 2026-04-29 - A tool created by Chef to build, deploy, and manage applications.
+* [defguard](https://github.com/defguard/defguard) ⭐ 2,684 | 🐛 286 | 🌐 Rust | 📅 2026-04-28 - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 * [fcsonline/drill](https://github.com/fcsonline/drill) ⭐ 2,279 | 🐛 63 | 🌐 Rust | 📅 2026-03-30 - A HTTP load testing application inspired by Ansible syntax
-* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) ⭐ 2,122 | 🐛 12 | 🌐 Rust | 📅 2026-04-27 - Ultralight service mesh for Kubernetes.
+* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) ⭐ 2,122 | 🐛 13 | 🌐 Rust | 📅 2026-04-28 - Ultralight service mesh for Kubernetes.
 * [kalker](https://github.com/PaddiM8/kalker) ⭐ 1,867 | 🐛 39 | 🌐 Rust | 📅 2026-04-08 - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions) ⭐ 1,867 | 🐛 39 | 🌐 Rust | 📅 2026-04-08
-* [kftray](https://github.com/hcavarsan/kftray) ⭐ 1,487 | 🐛 12 | 🌐 Rust | 📅 2026-04-26 - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions) ⭐ 1,487 | 🐛 12 | 🌐 Rust | 📅 2026-04-26
+* [kftray](https://github.com/hcavarsan/kftray) ⭐ 1,497 | 🐛 12 | 🌐 Rust | 📅 2026-04-26 - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions) ⭐ 1,497 | 🐛 12 | 🌐 Rust | 📅 2026-04-26
 * [tiny](https://github.com/osa1/tiny) ⭐ 1,160 | 🐛 94 | 🌐 Rust | 📅 2026-03-19 - A terminal IRC client
-* [Rauthy](https://github.com/sebadob/rauthy) ⭐ 1,095 | 🐛 21 | 🌐 Rust | 📅 2026-04-25 - OpenID Connect Single Sign-On Identity & Access Management
-* [shoes](https://github.com/cfal/shoes) ⭐ 1,050 | 🐛 35 | 🌐 Rust | 📅 2026-04-27 - A multi-protocol proxy server
+* [Rauthy](https://github.com/sebadob/rauthy) ⭐ 1,096 | 🐛 20 | 🌐 Rust | 📅 2026-04-28 - OpenID Connect Single Sign-On Identity & Access Management
+* [shoes](https://github.com/cfal/shoes) ⭐ 1,051 | 🐛 35 | 🌐 Rust | 📅 2026-04-27 - A multi-protocol proxy server
 * [fend](https://github.com/printfn/fend) ⭐ 987 | 🐛 61 | 🌐 Rust | 📅 2026-04-08 - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend/actions/workflows/actions.yml) ⭐ 987 | 🐛 61 | 🌐 Rust | 📅 2026-04-08
 * [run](https://github.com/Esubaalew/run) ⭐ 919 | 🐛 0 | 🌐 Rust | 📅 2026-02-11 \[[run-kit](https://crates.io/crates/run-kit)] - Universal multi-language runner and smart REPL (25+ languages: Python, JS, Go, C, etc.).
 * [Fractalide](https://github.com/fractalide/fractalide) ⭐ 890 | 🐛 28 | 🌐 Racket | 📅 2025-03-17 - Simple microservices
 * [jedisct1/flowgger](https://github.com/awslabs/flowgger) ⭐ 879 | 🐛 15 | 🌐 Rust | 📅 2025-06-23 - A fast, simple and lightweight data collector
 * [Andromeda](https://github.com/tryandromeda/andromeda) ⭐ 813 | 🐛 23 | 🌐 Rust | 📅 2026-04-25 - JavaScript & TypeScript runtime built from the ground up in Rust 🦀 and powered by The Nova Engine.
-* [OxideTerm](https://github.com/AnalyseDeCircuit/oxideterm) ⭐ 626 | 🐛 5 | 🌐 Rust | 📅 2026-04-27 - A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages. [![CI](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml/badge.svg)](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml) ⭐ 626 | 🐛 5 | 🌐 Rust | 📅 2026-04-27
+* [OxideTerm](https://github.com/AnalyseDeCircuit/oxideterm) ⭐ 631 | 🐛 2 | 🌐 Rust | 📅 2026-04-28 - A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages. [![CI](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml/badge.svg)](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml) ⭐ 631 | 🐛 2 | 🌐 Rust | 📅 2026-04-28
 * [ad-si/Woxi](https://github.com/ad-si/Woxi) ⭐ 581 | 🐛 2 | 🌐 Rust | 📅 2026-04-27 \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
 * [kytan](https://github.com/changlan/kytan) ⚠️ Archived - High Performance Peer-to-Peer VPN
-* [Saga Reader](https://github.com/sopaco/saga-reader) ⭐ 501 | 🐛 4 | 🌐 Rust | 📅 2026-01-20 - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
-* [Mega](https://github.com/web3infra-foundation/mega) ⭐ 455 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-28 - A monorepo & monolithic codebase management system that supports Git, also is an unofficial open source implementation of Google Piper.
-* [temps](https://github.com/gotempsh/temps) ⭐ 424 | 🐛 3 | 🌐 Rust | 📅 2026-04-27 - A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary
+* [Saga Reader](https://github.com/sopaco/saga-reader) ⭐ 503 | 🐛 4 | 🌐 Rust | 📅 2026-01-20 - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+* [Mega](https://github.com/web3infra-foundation/mega) ⭐ 458 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-29 - A monorepo & monolithic codebase management system that supports Git, also is an unofficial open source implementation of Google Piper.
+* [temps](https://github.com/gotempsh/temps) ⭐ 424 | 🐛 3 | 🌐 Rust | 📅 2026-04-28 - A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary
+* [arimxyer/models](https://github.com/arimxyer/models) ⭐ 413 | 🐛 1 | 🌐 Rust | 📅 2026-04-29 \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml) ⭐ 413 | 🐛 1 | 🌐 Rust | 📅 2026-04-29
 * [UpVPN](https://github.com/upvpn/upvpn-app) ⭐ 413 | 🐛 4 | 🌐 Kotlin | 📅 2026-03-16 - WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
-* [arimxyer/models](https://github.com/arimxyer/models) ⭐ 412 | 🐛 1 | 🌐 Rust | 📅 2026-04-28 \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml) ⭐ 412 | 🐛 1 | 🌐 Rust | 📅 2026-04-28
 * [vortix](https://github.com/Harry-kp/vortix) ⭐ 412 | 🐛 21 | 🌐 Rust | 📅 2026-04-27 - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 * [vproxy](https://github.com/0x676e67/vproxy) ⭐ 390 | 🐛 1 | 🌐 Rust | 📅 2026-04-13 - A high-performance HTTP/HTTPS/SOCKS5 proxy server [![crates.io](https://img.shields.io/crates/v/vproxy.svg)](https://crates.io/crates/vproxy)
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) ⭐ 358 | 🐛 4 | 🌐 Rust | 📅 2025-04-12 - An interactive assembly shell.
 * [doprz/dipc](https://github.com/doprz/dipc) ⭐ 344 | 🐛 9 | 🌐 Rust | 📅 2026-02-20 - Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
 * [Weld](https://github.com/serayuzgur/weld) ⭐ 322 | 🐛 5 | 🌐 Rust | 📅 2023-12-07 - Full fake REST API generator
 * [Rust Iot Platform](https://github.com/iot-ecology/rust-iot-platform) ⭐ 299 | 🐛 1 | 🌐 Rust | 📅 2025-10-14 - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
-* [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) ⭐ 244 | 🐛 7 | 🌐 Rust | 📅 2025-11-28 \[[mdbook-katex](https://crates.io/crates/mdbook-katex)] - A preprocessor for [mdBook](https://github.com/rust-lang/mdBook) ⭐ 21,566 | 🐛 687 | 🌐 Rust | 📅 2026-04-23, using KaTeX to render LaTeX math expressions.
+* [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) ⭐ 244 | 🐛 7 | 🌐 Rust | 📅 2025-11-28 \[[mdbook-katex](https://crates.io/crates/mdbook-katex)] - A preprocessor for [mdBook](https://github.com/rust-lang/mdBook) ⭐ 21,570 | 🐛 687 | 🌐 Rust | 📅 2026-04-23, using KaTeX to render LaTeX math expressions.
 * [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers) ⭐ 211 | 🐛 27 | 🌐 Rust | 📅 2026-04-23 \[[mdbook-i18n-helpers](https://crates.io/crates/mdbook-i18n-helpers)] - Internationalization and rendering extensions for mdbook.
 * [qiluo-admin](https://github.com/chelunfu/qiluo_admin) ⭐ 184 | 🐛 1 | 🌐 Rust | 📅 2026-04-19 - An enterprise-grade rapid development platform (Axum + SeaORM + JWT + VUE3, supports MySQL/Postgres/SQLite)
 * [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) ⭐ 169 | 🐛 37 | 🌐 Rust | 📅 2024-08-15 \[[mdbook-linkcheck](https://crates.io/crates/mdbook-linkcheck)] - A backend for mdbook which will check your links for you.
 * [nicohman/eidolon](https://github.com/nicohman/eidolon) ⭐ 132 | 🐛 6 | 🌐 Rust | 📅 2023-06-21 - A steam and drm-free game registry and launcher for linux and macosx
 * [s00d/switchshuttle](https://github.com/s00d/switchshuttle) ⭐ 121 | 🐛 2 | 🌐 Rust | 📅 2025-09-29 - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
 * [Herd](https://github.com/imjacobclark/Herd) ⭐ 118 | 🐛 3 | 🌐 Rust | 📅 2023-02-23 - an experimental HTTP load testing application
-* [LWE](https://github.com/YangYuS8/lwe) ⭐ 113 | 🐛 2 | 🌐 Rust | 📅 2026-04-07 - Linux desktop app for browsing, managing, and applying Wallpaper Engine content, built with Rust and Tauri.
-* [rkik](https://github.com/aguacero7/rkik) ⭐ 56 | 🐛 7 | 🌐 Rust | 📅 2026-04-24 - CLI tool designed for stateless and passive NTP inspection, just as dig or ping are for DNS and ICMP. It supports async requests and continuous monitoring. [![crates.io](https://img.shields.io/crates/v/rkik?logo=rust)](https://crates.io/crates/rkik)
+* [LWE](https://github.com/YangYuS8/lwe) ⭐ 114 | 🐛 2 | 🌐 Rust | 📅 2026-04-07 - Linux desktop app for browsing, managing, and applying Wallpaper Engine content, built with Rust and Tauri.
+* [rkik](https://github.com/aguacero7/rkik) ⭐ 56 | 🐛 7 | 🌐 Rust | 📅 2026-04-28 - CLI tool designed for stateless and passive NTP inspection, just as dig or ping are for DNS and ICMP. It supports async requests and continuous monitoring. [![crates.io](https://img.shields.io/crates/v/rkik?logo=rust)](https://crates.io/crates/rkik)
 * [Arti](https://gitlab.torproject.org/tpo/core/arti) - An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 * [MaidSafe](https://github.com/maidsafe) - A decentralized platform.
 * [Pijul](https://pijul.org) - A patch-based distributed version control system
 
 ### Audio and Music
 
-* [Spotifyd](https://github.com/Spotifyd/spotifyd) ⭐ 10,610 | 🐛 61 | 🌐 Rust | 📅 2026-04-23 - An open source Spotify client running as a UNIX daemon. [![Continuous Integration](https://github.com/Spotifyd/spotifyd/actions/workflows/ci.yml/badge.svg)](https://github.com/Spotifyd/spotifyd/actions/workflows/ci.yml) ⭐ 10,610 | 🐛 61 | 🌐 Rust | 📅 2026-04-23
-* [Spotify Player](https://github.com/aome510/spotify-player) ⭐ 6,634 | 🐛 122 | 🌐 Rust | 📅 2026-04-10 - A Spotify player in the terminal with full feature parity.
+* [Spotifyd](https://github.com/Spotifyd/spotifyd) ⭐ 10,611 | 🐛 61 | 🌐 Rust | 📅 2026-04-23 - An open source Spotify client running as a UNIX daemon. [![Continuous Integration](https://github.com/Spotifyd/spotifyd/actions/workflows/ci.yml/badge.svg)](https://github.com/Spotifyd/spotifyd/actions/workflows/ci.yml) ⭐ 10,611 | 🐛 61 | 🌐 Rust | 📅 2026-04-23
+* [Spotify Player](https://github.com/aome510/spotify-player) ⭐ 6,638 | 🐛 122 | 🌐 Rust | 📅 2026-04-10 - A Spotify player in the terminal with full feature parity.
 * [ncspot](https://github.com/hrkfdn/ncspot) ⭐ 6,570 | 🐛 209 | 🌐 Rust | 📅 2026-04-27 - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/actions/workflows/ci.yml/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild) ⭐ 6,570 | 🐛 209 | 🌐 Rust | 📅 2026-04-27
-* [Glicol](https://github.com/chaosprint/glicol) ⭐ 2,950 | 🐛 48 | 🌐 Rust | 📅 2025-04-06 - Graph-oriented live coding language, for collaborative musicking in browsers.
-* [mierak/rmpc](https://github.com/mierak/rmpc) ⭐ 2,715 | 🐛 31 | 🌐 Rust | 📅 2026-04-24 \[[rmpc](https://crates.io/crates/rmpc)] - A modern and configurable, terminal based MPD Client with album art support
+* [Glicol](https://github.com/chaosprint/glicol) ⭐ 2,951 | 🐛 48 | 🌐 Rust | 📅 2025-04-06 - Graph-oriented live coding language, for collaborative musicking in browsers.
+* [mierak/rmpc](https://github.com/mierak/rmpc) ⭐ 2,720 | 🐛 30 | 🌐 Rust | 📅 2026-04-28 \[[rmpc](https://crates.io/crates/rmpc)] - A modern and configurable, terminal based MPD Client with album art support
 * [Polaris](https://github.com/agersant/polaris) ⭐ 2,599 | 🐛 24 | 🌐 Rust | 📅 2026-04-12 - A music streaming application.
-* [termusic](https://github.com/tramhao/termusic) ⭐ 1,989 | 🐛 58 | 🌐 Rust | 📅 2026-04-17 - Music Player TUI written
-* [Pinepods](https://github.com/madeofpendletonwool/PinePods) ⭐ 852 | 🐛 145 | 🌐 Rust | 📅 2026-03-18 - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! [![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml) ⭐ 852 | 🐛 145 | 🌐 Rust | 📅 2026-03-18
-* [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) ⭐ 617 | 🐛 23 | 🌐 Rust | 📅 2026-04-27 \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml) ⭐ 617 | 🐛 23 | 🌐 Rust | 📅 2026-04-27
-* [enginesound](https://github.com/DasEtwas/enginesound) ⭐ 364 | 🐛 2 | 🌐 Rust | 📅 2023-06-06 - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+* [termusic](https://github.com/tramhao/termusic) ⭐ 1,992 | 🐛 58 | 🌐 Rust | 📅 2026-04-17 - Music Player TUI written
+* [Pinepods](https://github.com/madeofpendletonwool/PinePods) ⭐ 856 | 🐛 145 | 🌐 Rust | 📅 2026-03-18 - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! [![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml) ⭐ 856 | 🐛 145 | 🌐 Rust | 📅 2026-03-18
+* [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) ⭐ 620 | 🐛 23 | 🌐 Rust | 📅 2026-04-27 \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml) ⭐ 620 | 🐛 23 | 🌐 Rust | 📅 2026-04-27
+* [enginesound](https://github.com/DasEtwas/enginesound) ⭐ 365 | 🐛 2 | 🌐 Rust | 📅 2023-06-06 - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 * [Festival](https://github.com/hinto-janai/festival) ⭐ 315 | 🐛 33 | 🌐 Rust | 📅 2024-03-27 - A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml) ⭐ 315 | 🐛 33 | 🌐 Rust | 📅 2024-03-27
 * [dano](https://github.com/kimono-koans/dano) ⭐ 175 | 🐛 2 | 🌐 Rust | 📅 2025-12-06 - A hashdeep/md5tree (but much more) for media files
-* [OpenMeters](https://github.com/httpsworldview/openmeters) ⭐ 130 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 - Fast, simple, and professional audio metering/visualization for Linux written in Rust.
+* [OpenMeters](https://github.com/httpsworldview/openmeters) ⭐ 130 | 🐛 1 | 🌐 Rust | 📅 2026-04-29 - Fast, simple, and professional audio metering/visualization for Linux written in Rust.
 * [figsoda/mmtc](https://github.com/figsoda/mmtc) ⭐ 100 | 🐛 13 | 🌐 Rust | 📅 2024-05-15 \[[mmtc](https://crates.io/crates/mmtc)] - Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml) ⭐ 100 | 🐛 13 | 🌐 Rust | 📅 2024-05-15
 * [WhatBPM](https://github.com/sergree/whatbpm) ⭐ 97 | 🐛 4 | 🌐 Rust | 📅 2023-07-22 - A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify.
-* [tunein-cli](https://github.com/tsirysndr/tunein-cli) ⭐ 86 | 🐛 6 | 🌐 Rust | 📅 2026-04-04 - Browse and listen to thousands of radio stations across the globe right from your terminal [![CI](https://github.com/tsirysndr/tunein-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/tsirysndr/tunein-cli/actions/workflows/ci.yml) ⭐ 86 | 🐛 6 | 🌐 Rust | 📅 2026-04-04
+* [tunein-cli](https://github.com/tsirysndr/tunein-cli) ⭐ 87 | 🐛 6 | 🌐 Rust | 📅 2026-04-04 - Browse and listen to thousands of radio stations across the globe right from your terminal [![CI](https://github.com/tsirysndr/tunein-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/tsirysndr/tunein-cli/actions/workflows/ci.yml) ⭐ 87 | 🐛 6 | 🌐 Rust | 📅 2026-04-04
 
 ### Blockchain
 
-* [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) ⭐ 32,124 | 🐛 641 | 🌐 Rust | 📅 2026-04-28 - A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications [![Build Status](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml) ⭐ 32,124 | 🐛 641 | 🌐 Rust | 📅 2026-04-28
-* [Diem](https://github.com/diem/diem) ⭐ 16,681 | 🐛 360 | 🌐 Rust | 📅 2026-04-21 - Diem’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,308 | 🐛 614 | 🌐 Rust | 📅 2026-04-28 - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
+* [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) ⭐ 32,124 | 🐛 641 | 🌐 Rust | 📅 2026-04-29 - A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications [![Build Status](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml) ⭐ 32,124 | 🐛 641 | 🌐 Rust | 📅 2026-04-29
+* [Diem](https://github.com/diem/diem) ⭐ 16,682 | 🐛 360 | 🌐 Rust | 📅 2026-04-21 - Diem’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,309 | 🐛 618 | 🌐 Rust | 📅 2026-04-29 - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
 * [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) ⭐ 7,989 | 🐛 4 | 🌐 Rust | 📅 2026-04-17 - AI-First Decentralized Storage secured by EigenLayer.
-* [Sui](https://github.com/MystenLabs/sui) ⭐ 7,672 | 🐛 705 | 🌐 Rust | 📅 2026-04-28 - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
-* [reth](https://github.com/paradigmxyz/reth) ⭐ 5,549 | 🐛 292 | 🌐 Rust | 📅 2026-04-27 - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol.
+* [Sui](https://github.com/MystenLabs/sui) ⭐ 7,672 | 🐛 710 | 🌐 Rust | 📅 2026-04-29 - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
+* [reth](https://github.com/paradigmxyz/reth) ⭐ 5,551 | 🐛 292 | 🌐 Rust | 📅 2026-04-29 - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol.
 * [zcash](https://github.com/zcash/zcash) ⭐ 5,400 | 🐛 1,116 | 🌐 C++ | 📅 2026-04-23 - Zcash is an implementation of the "Zerocash" protocol.
 * [Grin](https://github.com/mimblewimble/grin/) ⭐ 5,087 | 🐛 140 | 🌐 Rust | 📅 2026-04-09 - Evolution of the MimbleWimble protocol
-* [Anchor](https://github.com/solana-foundation/anchor) ⭐ 5,041 | 🐛 200 | 🌐 Rust | 📅 2026-04-27 - Anchor is the leading development framework for building secure Solana programs (smart contracts).
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,426 | 🐛 479 | 🌐 Rust | 📅 2026-04-28 - Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/actions/workflows/test-suite.yml/badge.svg)](https://github.com/sigp/lighthouse/actions) ⭐ 3,426 | 🐛 479 | 🌐 Rust | 📅 2026-04-28
-* [artemis](https://github.com/paradigmxyz/artemis) ⭐ 2,934 | 🐛 37 | 🌐 Rust | 📅 2024-03-05 - A simple, modular, and fast framework for writing MEV bots.
-* [polkadot-sdk](https://github.com/paritytech/polkadot-sdk) ⭐ 2,758 | 🐛 2,225 | 🌐 Rust | 📅 2026-04-28 - The Parity Polkadot Blockchain SDK
-* [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,621 | 🐛 472 | 🌐 Rust | 📅 2026-04-27 - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
-* [near/nearcore](https://github.com/near/nearcore) ⭐ 2,590 | 🐛 506 | 🌐 Rust | 📅 2026-04-27 - decentralized smart-contract platform for low-end mobile devices.
-* [revm](https://github.com/bluealloy/revm) ⭐ 2,179 | 🐛 88 | 🌐 Rust | 📅 2026-04-27 - Revolutionary Machine (revm) is a fast Ethereum virtual machine.
-* [cairo](https://github.com/starkware-libs/cairo) ⭐ 1,879 | 🐛 190 | 🌐 Rust | 📅 2026-04-28 - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+* [Anchor](https://github.com/solana-foundation/anchor) ⭐ 5,043 | 🐛 198 | 🌐 Rust | 📅 2026-04-28 - Anchor is the leading development framework for building secure Solana programs (smart contracts).
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,427 | 🐛 478 | 🌐 Rust | 📅 2026-04-28 - Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/actions/workflows/test-suite.yml/badge.svg)](https://github.com/sigp/lighthouse/actions) ⭐ 3,427 | 🐛 478 | 🌐 Rust | 📅 2026-04-28
+* [artemis](https://github.com/paradigmxyz/artemis) ⭐ 2,936 | 🐛 37 | 🌐 Rust | 📅 2024-03-05 - A simple, modular, and fast framework for writing MEV bots.
+* [polkadot-sdk](https://github.com/paritytech/polkadot-sdk) ⭐ 2,758 | 🐛 2,229 | 🌐 Rust | 📅 2026-04-29 - The Parity Polkadot Blockchain SDK
+* [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,621 | 🐛 476 | 🌐 Rust | 📅 2026-04-27 - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
+* [near/nearcore](https://github.com/near/nearcore) ⭐ 2,590 | 🐛 490 | 🌐 Rust | 📅 2026-04-29 - decentralized smart-contract platform for low-end mobile devices.
+* [revm](https://github.com/bluealloy/revm) ⭐ 2,180 | 🐛 93 | 🌐 Rust | 📅 2026-04-29 - Revolutionary Machine (revm) is a fast Ethereum virtual machine.
+* [cairo](https://github.com/starkware-libs/cairo) ⭐ 1,879 | 🐛 190 | 🌐 Rust | 📅 2026-04-29 - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
 * [Joystream](https://github.com/Joystream/joystream) ⭐ 1,402 | 🐛 564 | 🌐 Rust | 📅 2025-11-22 - A user governed video platform
-* [Holochain](https://github.com/holochain/holochain) ⭐ 1,372 | 🐛 277 | 🌐 Rust | 📅 2026-04-27 - Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/autorebase.yml/badge.svg)](https://github.com/holochain/holochain/actions/) ⭐ 1,372 | 🐛 277 | 🌐 Rust | 📅 2026-04-27
-* [electrumrs](https://github.com/romanz/electrs) ⭐ 1,354 | 🐛 125 | 🌐 Rust | 📅 2026-04-27 - An efficient re-implementation of Electrum Server.
-* [rust-lightning](https://github.com/lightningdevkit/rust-lightning) ⭐ 1,352 | 🐛 357 | 🌐 Rust | 📅 2026-04-27 [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) - Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
+* [Holochain](https://github.com/holochain/holochain) ⭐ 1,372 | 🐛 275 | 🌐 Rust | 📅 2026-04-28 - Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/autorebase.yml/badge.svg)](https://github.com/holochain/holochain/actions/) ⭐ 1,372 | 🐛 275 | 🌐 Rust | 📅 2026-04-28
+* [electrumrs](https://github.com/romanz/electrs) ⭐ 1,354 | 🐛 126 | 🌐 Rust | 📅 2026-04-27 - An efficient re-implementation of Electrum Server.
+* [rust-lightning](https://github.com/lightningdevkit/rust-lightning) ⭐ 1,353 | 🐛 355 | 🌐 Rust | 📅 2026-04-28 [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) - Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 * [CITA](https://github.com/citahub/cita) ⭐ 1,308 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 - A high performance blockchain kernel for enterprise users.
-* [Nervos CKB](https://github.com/nervosnetwork/ckb) ⭐ 1,209 | 🐛 66 | 🌐 Rust | 📅 2026-04-28 - Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-* [tempoxyz/tempo](https://github.com/tempoxyz/tempo) ⭐ 922 | 🐛 114 | 🌐 Rust | 📅 2026-04-28 - A blockchain built for stablecoin payments at scale, with EVM compatibility, sub-second finality, and native smart account features, built on the Reth SDK
-* [Kaspa](https://github.com/kaspanet/rusty-kaspa) ⭐ 806 | 🐛 169 | 🌐 Rust | 📅 2026-04-27 - The fastest, open-source, decentralized & fully scalable Layer-1 in the world.
+* [Nervos CKB](https://github.com/nervosnetwork/ckb) ⭐ 1,209 | 🐛 67 | 🌐 Rust | 📅 2026-04-29 - Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
+* [tempoxyz/tempo](https://github.com/tempoxyz/tempo) ⭐ 923 | 🐛 118 | 🌐 Rust | 📅 2026-04-29 - A blockchain built for stablecoin payments at scale, with EVM compatibility, sub-second finality, and native smart account features, built on the Reth SDK
+* [Kaspa](https://github.com/kaspanet/rusty-kaspa) ⭐ 806 | 🐛 169 | 🌐 Rust | 📅 2026-04-28 - The fastest, open-source, decentralized & fully scalable Layer-1 in the world.
 * [Parity-Bitcoin](https://github.com/paritytech/parity-bitcoin) ⭐ 725 | 🐛 54 | 🌐 Rust | 📅 2023-06-14 - The Parity Bitcoin client
-* [Forest](https://github.com/ChainSafe/forest) ⭐ 694 | 🐛 134 | 🌐 Rust | 📅 2026-04-28 - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+* [Forest](https://github.com/ChainSafe/forest) ⭐ 694 | 🐛 137 | 🌐 Rust | 📅 2026-04-29 - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 * [tendermint-rs](https://github.com/cometbft/tendermint-rs) ⭐ 670 | 🐛 176 | 🌐 Rust | 📅 2026-04-17 - Tendermint blockchain data structures and clients
 * [wagyu](https://github.com/howardwu/wagyu) ⭐ 644 | 🐛 19 | 🌐 Rust | 📅 2022-02-17 \[[wagyu](https://crates.io/crates/wagyu)] - Library for generating cryptocurrency wallets
-* [starkware-libs/cairo-vm](https://github.com/starkware-libs/cairo-vm) ⭐ 583 | 🐛 35 | 🌐 Rust | 📅 2026-04-27 - Implementation of the Cairo VM [![rust](https://github.com/starkware-libs/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/starkware-libs/cairo-vm/actions/workflows/rust.yml) ⭐ 583 | 🐛 35 | 🌐 Rust | 📅 2026-04-27
+* [starkware-libs/cairo-vm](https://github.com/starkware-libs/cairo-vm) ⭐ 583 | 🐛 35 | 🌐 Rust | 📅 2026-04-28 - Implementation of the Cairo VM [![rust](https://github.com/starkware-libs/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/starkware-libs/cairo-vm/actions/workflows/rust.yml) ⭐ 583 | 🐛 35 | 🌐 Rust | 📅 2026-04-28
 * [ethabi](https://github.com/rust-ethereum/ethabi) ⭐ 525 | 🐛 47 | 🌐 Rust | 📅 2023-08-16 - Encode and decode smart contract invocations.
 * [ibc-rs](https://github.com/informalsystems/hermes) ⭐ 499 | 🐛 221 | 🌐 Rust | 📅 2025-10-29 - Implementation of the [Interblockchain Communication](https://docs.cosmos.network/ibc) protocol
 * [Subspace](https://github.com/autonomys/subspace) ⭐ 404 | 🐛 136 | 🌐 Rust | 📅 2026-04-27 - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
@@ -256,50 +256,50 @@ If you want to contribute, please read [this](origin/CONTRIBUTING.md).
 * [dusk-network/rusk](https://github.com/dusk-network/rusk) ⭐ 201 | 🐛 138 | 🌐 Rust | 📅 2026-04-02 - Reference implementation of Dusk, a privacy-focused, scalable FMI for real-world assets (RWA) and compliant financial applications. [![Build Status](https://github.com/dusk-network/rusk/actions/workflows/rusk_ci.yml/badge.svg)](https://github.com/dusk-network/rusk/actions/workflows/rusk_ci.yml) ⭐ 201 | 🐛 138 | 🌐 Rust | 📅 2026-04-02
 * [ethaddrgen](https://github.com/Limeth/ethaddrgen) ⭐ 178 | 🐛 5 | 🌐 Rust | 📅 2019-06-08 - Custom Ethereum vanity address generator
 * [coinbase-pro-rs](https://github.com/inv2004/coinbase-pro-rs) ⭐ 153 | 🐛 5 | 🌐 Rust | 📅 2023-08-04 - Coinbase pro client, supports sync/async/websocket
-* [pragma-org/amaru](https://github.com/pragma-org/amaru) ⭐ 100 | 🐛 58 | 🌐 Rust | 📅 2026-04-27 - A Cardano node client written in Rust.
+* [pragma-org/amaru](https://github.com/pragma-org/amaru) ⭐ 100 | 🐛 61 | 🌐 Rust | 📅 2026-04-28 - A Cardano node client written in Rust.
 * [sigma-rust](https://github.com/ergoplatform/sigma-rust) ⭐ 76 | 🐛 75 | 🌐 Rust | 📅 2026-02-05 - ErgoTree interpreter and wallet-related features.
 * [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) ⭐ 63 | 🐛 3 | 🌐 Rust | 📅 2024-04-16 \[[sv](https://crates.io/crates/sv)] - A library for working with Bitcoin SV.
-* [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo) ⭐ 56 | 🐛 814 | 🌐 TypeScript | 📅 2026-04-27 - Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
+* [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo) ⭐ 56 | 🐛 815 | 🌐 TypeScript | 📅 2026-04-28 - Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
 * [infincia/bip39-rs](https://github.com/infincia/bip39-rs) ⭐ 55 | 🐛 9 | 🌐 Rust | 📅 2020-01-20 \[[bip39](https://crates.io/crates/bip39)] - Implementation of BIP39.
 * [hdwallet](https://github.com/jjyr/hdwallet) ⚠️ Archived \[[hdwallet](https://crates.io/crates/hdwallet)] - BIP-32 HD wallet related key derivation utilities.
 
 ### Database
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 31,960 | 🐛 660 | 🌐 Rust | 📅 2026-04-27 - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions) ⭐ 31,960 | 🐛 660 | 🌐 Rust | 📅 2026-04-27
-* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 30,799 | 🐛 538 | 🌐 Rust | 📅 2026-04-27 - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg)](https://github.com/qdrant/qdrant/actions) ⭐ 30,799 | 🐛 538 | 🌐 Rust | 📅 2026-04-27
-* [RustFS](https://github.com/rustfs/rustfs) ⭐ 26,618 | 🐛 62 | 🌐 Rust | 📅 2026-04-28 \[[RustFS](https://crates.io/crates/rustfs)] - 🚀 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  [![status-badge](https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg)](https://github.com/rustfs/rustfs) ⭐ 26,618 | 🐛 62 | 🌐 Rust | 📅 2026-04-28
-* [Neon](https://github.com/neondatabase/neon) ⭐ 21,638 | 🐛 526 | 🌐 Rust | 📅 2026-03-25 - Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-* [Turso](https://github.com/tursodatabase/turso) ⭐ 18,389 | 🐛 626 | 🌐 Rust | 📅 2026-04-28 - Turso Database is an in-process SQL database, compatible with SQLite.
-* [tikv](https://github.com/tikv/tikv) ⭐ 16,651 | 🐛 1,727 | 🌐 Rust | 📅 2026-04-27 - A distributed KV database in Rust
-* [lancedb](https://github.com/lancedb/lancedb) ⭐ 10,108 | 🐛 666 | 🌐 HTML | 📅 2026-04-28 \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
-* [Databend](https://github.com/databendlabs/databend) ⭐ 9,271 | 🐛 548 | 🌐 Rust | 📅 2026-04-28 - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/databendlabs/databend/actions/workflows/release.yml/badge.svg)](https://github.com/databendlabs/databend/actions) ⭐ 9,271 | 🐛 548 | 🌐 Rust | 📅 2026-04-28
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 31,966 | 🐛 654 | 🌐 Rust | 📅 2026-04-28 - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions) ⭐ 31,966 | 🐛 654 | 🌐 Rust | 📅 2026-04-28
+* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 30,834 | 🐛 534 | 🌐 Rust | 📅 2026-04-29 - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg)](https://github.com/qdrant/qdrant/actions) ⭐ 30,834 | 🐛 534 | 🌐 Rust | 📅 2026-04-29
+* [RustFS](https://github.com/rustfs/rustfs) ⭐ 26,758 | 🐛 65 | 🌐 Rust | 📅 2026-04-29 \[[RustFS](https://crates.io/crates/rustfs)] - 🚀 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  [![status-badge](https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg)](https://github.com/rustfs/rustfs) ⭐ 26,758 | 🐛 65 | 🌐 Rust | 📅 2026-04-29
+* [Neon](https://github.com/neondatabase/neon) ⭐ 21,648 | 🐛 527 | 🌐 Rust | 📅 2026-03-25 - Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+* [Turso](https://github.com/tursodatabase/turso) ⭐ 18,403 | 🐛 631 | 🌐 Rust | 📅 2026-04-28 - Turso Database is an in-process SQL database, compatible with SQLite.
+* [tikv](https://github.com/tikv/tikv) ⭐ 16,653 | 🐛 1,728 | 🌐 Rust | 📅 2026-04-27 - A distributed KV database in Rust
+* [lancedb](https://github.com/lancedb/lancedb) ⭐ 10,119 | 🐛 669 | 🌐 HTML | 📅 2026-04-28 \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
+* [Databend](https://github.com/databendlabs/databend) ⭐ 9,272 | 🐛 550 | 🌐 Rust | 📅 2026-04-29 - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/databendlabs/databend/actions/workflows/release.yml/badge.svg)](https://github.com/databendlabs/databend/actions) ⭐ 9,272 | 🐛 550 | 🌐 Rust | 📅 2026-04-29
 * [sled](https://crates.io/crates/sled) - A (beta) modern embedded database [![Build Status](https://github.com/spacejam/sled/actions/workflows/test.yml/badge.svg)](https://github.com/spacejam/sled/actions?workflow=Rust) ⭐ 8,981 | 🐛 170 | 🌐 Rust | 📅 2026-04-04
-* [RisingWaveLabs/RisingWave](https://github.com/RisingWaveLabs/risingwave) ⭐ 8,953 | 🐛 1,459 | 🌐 Rust | 📅 2026-04-28 - the next-generation streaming database in the cloud [![CI](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg)](https://github.com/risingwavelabs/risingwave/actions) ⭐ 8,953 | 🐛 1,459 | 🌐 Rust | 📅 2026-04-28
-* [ParadeDB](https://github.com/paradedb/paradedb/) ⭐ 8,704 | 🐛 159 | 🌐 Rust | 📅 2026-04-28 - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
+* [RisingWaveLabs/RisingWave](https://github.com/RisingWaveLabs/risingwave) ⭐ 8,955 | 🐛 1,463 | 🌐 Rust | 📅 2026-04-29 - the next-generation streaming database in the cloud [![CI](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg)](https://github.com/risingwavelabs/risingwave/actions) ⭐ 8,955 | 🐛 1,463 | 🌐 Rust | 📅 2026-04-29
+* [ParadeDB](https://github.com/paradedb/paradedb/) ⭐ 8,709 | 🐛 166 | 🌐 Rust | 📅 2026-04-29 - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
 * [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) ⭐ 7,221 | 🐛 0 | 🌐 Rust | 📅 2026-02-14 - Distributed SQL database, written as a learning project.
-* [Materialize](https://github.com/MaterializeInc/materialize) ⭐ 6,277 | 🐛 533 | 🌐 Rust | 📅 2026-04-28 - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign:
-* [GreptimeDB](https://github.com/grepTimeTeam/greptimedb/) ⭐ 6,215 | 🐛 193 | 🌐 Rust | 📅 2026-04-28 - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml) ⭐ 6,215 | 🐛 193 | 🌐 Rust | 📅 2026-04-28
+* [Materialize](https://github.com/MaterializeInc/materialize) ⭐ 6,277 | 🐛 532 | 🌐 Rust | 📅 2026-04-29 - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign:
+* [GreptimeDB](https://github.com/grepTimeTeam/greptimedb/) ⭐ 6,217 | 🐛 191 | 🌐 Rust | 📅 2026-04-29 - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml) ⭐ 6,217 | 🐛 191 | 🌐 Rust | 📅 2026-04-29
 * [noria](https://github.com/mit-pdos/noria) ⭐ 5,231 | 🐛 47 | 🌐 Rust | 📅 2021-10-30 \[[noria](https://crates.io/crates/noria)] - Dynamically changing, partially-stateful data-flow for web application backends
-* [TrailBase](https://github.com/trailbaseio/trailbase) ⭐ 4,856 | 🐛 39 | 🌐 Rust | 📅 2026-04-26 - A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard [![GitHub Workflow Status](https://github.com/trailbaseio/trailbase/workflows/test/badge.svg)](https://github.com/trailbaseio/trailbase/actions?workflow=test) ⭐ 4,856 | 🐛 39 | 🌐 Rust | 📅 2026-04-26
-* [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) ⭐ 4,308 | 🐛 120 | 🌐 Rust | 📅 2026-04-28 - A fast proxy for scaling PostgreSQL with connection pooling, load balancing, and sharding.
-* [HelixDB](https://github.com/HelixDB/helix-db) ⭐ 4,093 | 🐛 41 | 🌐 Rust | 📅 2026-04-23 - A powerful, graph-vector database for intelligent data storage for RAG and AI
-* [USearch](https://github.com/unum-cloud/usearch) ⭐ 4,064 | 🐛 97 | 🌐 C++ | 📅 2026-04-20 - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
+* [TrailBase](https://github.com/trailbaseio/trailbase) ⭐ 4,860 | 🐛 38 | 🌐 Rust | 📅 2026-04-28 - A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard [![GitHub Workflow Status](https://github.com/trailbaseio/trailbase/workflows/test/badge.svg)](https://github.com/trailbaseio/trailbase/actions?workflow=test) ⭐ 4,860 | 🐛 38 | 🌐 Rust | 📅 2026-04-28
+* [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) ⭐ 4,313 | 🐛 119 | 🌐 Rust | 📅 2026-04-28 - A fast proxy for scaling PostgreSQL with connection pooling, load balancing, and sharding.
+* [HelixDB](https://github.com/HelixDB/helix-db) ⭐ 4,094 | 🐛 41 | 🌐 Rust | 📅 2026-04-23 - A powerful, graph-vector database for intelligent data storage for RAG and AI
+* [USearch](https://github.com/unum-cloud/usearch) ⭐ 4,067 | 🐛 97 | 🌐 C++ | 📅 2026-04-20 - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
 * [CozoDB](https://github.com/cozodb/cozo) ⭐ 3,975 | 🐛 47 | 🌐 Rust | 📅 2024-12-04 - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml) ⭐ 3,975 | 🐛 47 | 🌐 Rust | 📅 2024-12-04
-* [ruvnet/ruvector](https://github.com/ruvnet/ruvector) ⭐ 3,855 | 🐛 100 | 🌐 Rust | 📅 2026-04-27 \[[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
-* [Garage](https://github.com/deuxfleurs-org/garage) ⭐ 3,638 | 🐛 2 | 🌐 Rust | 📅 2026-04-27 \[[garage](https://crates.io/crates/garage)] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale. [![status-badge](https://woodpecker.deuxfleurs.fr/api/badges/1/status.svg)](https://woodpecker.deuxfleurs.fr/repos/1)
+* [ruvnet/ruvector](https://github.com/ruvnet/ruvector) ⭐ 3,859 | 🐛 101 | 🌐 Rust | 📅 2026-04-27 \[[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
+* [Garage](https://github.com/deuxfleurs-org/garage) ⭐ 3,647 | 🐛 2 | 🌐 Rust | 📅 2026-04-28 \[[garage](https://crates.io/crates/garage)] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale. [![status-badge](https://woodpecker.deuxfleurs.fr/api/badges/1/status.svg)](https://woodpecker.deuxfleurs.fr/repos/1)
 * [GlueSQL](https://github.com/gluesql/gluesql) ⭐ 3,058 | 🐛 205 | 🌐 Rust | 📅 2026-04-25 - Rust library for SQL databases that includes a parser (sqlparser-rs), an execution layer, and a variety of storage options, both persistent and non-persistent, all in one package. [![crates.io](https://img.shields.io/crates/v/gluesql.svg)](https://crates.io/crates/gluesql)
 * [SQLSync](https://github.com/orbitinghail/sqlsync) ⭐ 2,893 | 🐛 27 | 🌐 Rust | 📅 2025-11-19 - Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain) ⭐ 2,893 | 🐛 27 | 🌐 Rust | 📅 2025-11-19
-* [Skytable](https://github.com/skytable/skytable) ⭐ 2,658 | 🐛 31 | 🌐 Rust | 📅 2026-04-23 - A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
+* [Skytable](https://github.com/skytable/skytable) ⭐ 2,659 | 🐛 31 | 🌐 Rust | 📅 2026-04-23 - A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
 * [seppo0010/rsedis](https://github.com/seppo0010/rsedis) ⭐ 1,816 | 🐛 4 | 🌐 Rust | 📅 2024-06-03 - A Redis reimplementation.
-* [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,630 | 🐛 123 | 🌐 Rust | 📅 2026-04-28 \[[oxigraph](https://crates.io/crates/oxigraph)] - graph database implementing the [SPARQL](https://www.w3.org/TR/sparql11-overview/) standard ![Crates.io Version](https://img.shields.io/crates/v/oxigraph?logo=Rust)
-* [Atomic-Server](https://github.com/ontola/atomic-server/) ⭐ 1,537 | 🐛 377 | 🌐 TypeScript | 📅 2026-04-23 \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/ontola/atomic-server/actions/workflows/release_please.yml/badge.svg)](https://github.com/ontola/atomic-server/actions) ⭐ 1,537 | 🐛 377 | 🌐 TypeScript | 📅 2026-04-23
-* [Tonbo](https://github.com/tonbo-io/tonbo) ⭐ 1,523 | 🐛 27 | 🌐 Rust | 📅 2026-04-23 - Tonbo is an embedded persistent database built on Apache Arrow & Parquet [![crates.io](https://img.shields.io/crates/v/tonbo.svg)](https://crates.io/crates/tonbo)
+* [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,630 | 🐛 124 | 🌐 Rust | 📅 2026-04-29 \[[oxigraph](https://crates.io/crates/oxigraph)] - graph database implementing the [SPARQL](https://www.w3.org/TR/sparql11-overview/) standard ![Crates.io Version](https://img.shields.io/crates/v/oxigraph?logo=Rust)
+* [Atomic-Server](https://github.com/ontola/atomic-server/) ⭐ 1,539 | 🐛 377 | 🌐 TypeScript | 📅 2026-04-23 \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/ontola/atomic-server/actions/workflows/release_please.yml/badge.svg)](https://github.com/ontola/atomic-server/actions) ⭐ 1,539 | 🐛 377 | 🌐 TypeScript | 📅 2026-04-23
+* [Tonbo](https://github.com/tonbo-io/tonbo) ⭐ 1,522 | 🐛 27 | 🌐 Rust | 📅 2026-04-23 - Tonbo is an embedded persistent database built on Apache Arrow & Parquet [![crates.io](https://img.shields.io/crates/v/tonbo.svg)](https://crates.io/crates/tonbo)
 * [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) ⭐ 1,402 | 🐛 40 | 🌐 Rust | 📅 2020-03-21 - an event sourcing database engine
-* [tabularis](https://github.com/TabularisDB/tabularis) ⭐ 1,242 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-27 - A lightweight, developer-focused database management tool, built with Tauri and React.
-* [KiteSQL](https://github.com/KipData/KiteSQL) ⭐ 698 | 🐛 35 | 🌐 Rust | 📅 2026-04-16 - SQL as a Function for Rust
+* [tabularis](https://github.com/TabularisDB/tabularis) ⭐ 1,249 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-28 - A lightweight, developer-focused database management tool, built with Tauri and React.
+* [KiteSQL](https://github.com/KipData/KiteSQL) ⭐ 699 | 🐛 35 | 🌐 Rust | 📅 2026-04-16 - SQL as a Function for Rust
 * [native\_db](https://github.com/vincent-herlemont/native_db) ⭐ 690 | 🐛 38 | 🌐 Rust | 📅 2026-04-24 \[[native\_db](https://crates.io/crates/native_db)] - Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly
-* [Curvine](https://github.com/CurvineIO/curvine) ⭐ 647 | 🐛 70 | 🌐 Rust | 📅 2026-04-28 - Curvine is a high-performance, concurrent distributed cache system written in Rust, designed for low-latency and high-throughput workloads in AI,Bigdata etc.
-* [apecloud/ape-dts](https://github.com/apecloud/ape-dts) ⭐ 568 | 🐛 45 | 🌐 Rust | 📅 2026-04-27 - Data Transfer Suite. Provides data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse, and more.
+* [Curvine](https://github.com/CurvineIO/curvine) ⭐ 647 | 🐛 69 | 🌐 Rust | 📅 2026-04-29 - Curvine is a high-performance, concurrent distributed cache system written in Rust, designed for low-latency and high-throughput workloads in AI,Bigdata etc.
+* [apecloud/ape-dts](https://github.com/apecloud/ape-dts) ⭐ 568 | 🐛 45 | 🌐 Rust | 📅 2026-04-28 - Data Transfer Suite. Provides data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse, and more.
 * [darkbird](https://github.com/Rustixir/darkbird) ⭐ 548 | 🐛 0 | 🌐 Rust | 📅 2024-06-02 \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
 * [Hiqlite](https://github.com/sebadob/hiqlite) ⭐ 435 | 🐛 2 | 🌐 Rust | 📅 2026-04-24 - highly-available, embeddable, raft-based SQLite + cache
 * [Lucid](https://github.com/lucid-kv/lucid) ⭐ 388 | 🐛 19 | 🌐 Rust | 📅 2026-04-22 - High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid) ⭐ 388 | 🐛 19 | 🌐 Rust | 📅 2026-04-22
@@ -308,38 +308,38 @@ If you want to contribute, please read [this](origin/CONTRIBUTING.md).
 * [tsink](https://github.com/h2337/tsink) ⭐ 295 | 🐛 1 | 🌐 Rust | 📅 2026-03-17 - Embedded time-series database for Rust [![crates.io](https://img.shields.io/crates/v/tsink.svg)](https://crates.io/crates/tsink)
 * [ParityDB](https://github.com/paritytech/parity-db) ⭐ 284 | 🐛 17 | 🌐 Rust | 📅 2025-07-28 - Fast and reliable database, optimised for read operation
 * [QuillSQL](https://github.com/feichai0017/QuillSQL) ⭐ 177 | 🐛 1 | 🌐 Rust | 📅 2026-01-19 - An educational Rust relational database (RDBMS) inspired by CMU 15445
-* [sabiql](https://github.com/riii111/sabiql) ⭐ 169 | 🐛 1 | 🌐 Rust | 📅 2026-04-26 \[[sabiql](https://crates.io/crates/sabiql)] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases. [![CI](https://github.com/riii111/sabiql/actions/workflows/ci.yml/badge.svg)](https://github.com/riii111/sabiql/actions/workflows/ci.yml) ⭐ 169 | 🐛 1 | 🌐 Rust | 📅 2026-04-26
+* [sabiql](https://github.com/riii111/sabiql) ⭐ 173 | 🐛 4 | 🌐 Rust | 📅 2026-04-26 \[[sabiql](https://crates.io/crates/sabiql)] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases. [![CI](https://github.com/riii111/sabiql/actions/workflows/ci.yml/badge.svg)](https://github.com/riii111/sabiql/actions/workflows/ci.yml) ⭐ 173 | 🐛 4 | 🌐 Rust | 📅 2026-04-26
 * [WooriDB](https://github.com/naomijub/wooridb) ⭐ 137 | 🐛 5 | 🌐 Rust | 📅 2023-06-26 - General purpose time serial database inspired by Crux and Datomic.
 * [ayarotsky/redis-shield](https://github.com/ayarotsky/redis-shield) ⭐ 96 | 🐛 14 | 🌐 Rust | 📅 2026-04-13 - A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting
 * [vorot93/libmdbx-rs](https://github.com/vorot93/libmdbx-rs) ⭐ 96 | 🐛 3 | 🌐 C | 📅 2026-02-10 \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] - Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
-* [dsplce-co/supabase-plus](https://github.com/dsplce-co/supabase-plus) ⭐ 68 | 🐛 1 | 🌐 Rust | 📅 2026-03-19 \[[supabase-plus](https://crates.io/crates/supabase-plus)] - A batteries-included command-line utility that extends the official Supabase CLI [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dsplce-co/supabase-plus/publish.yml)
-  ](https://github.com/dsplce-co/supabase-plus/actions/workflows/publish.yml) ⭐ 68 | 🐛 1 | 🌐 Rust | 📅 2026-03-19
+* [dsplce-co/supabase-plus](https://github.com/dsplce-co/supabase-plus) ⭐ 69 | 🐛 1 | 🌐 Rust | 📅 2026-03-19 \[[supabase-plus](https://crates.io/crates/supabase-plus)] - A batteries-included command-line utility that extends the official Supabase CLI [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dsplce-co/supabase-plus/publish.yml)
+  ](https://github.com/dsplce-co/supabase-plus/actions/workflows/publish.yml) ⭐ 69 | 🐛 1 | 🌐 Rust | 📅 2026-03-19
 * [Qrlew/qrlew](https://github.com/Qrlew/qrlew) ⭐ 47 | 🐛 35 | 🌐 Rust | 📅 2024-12-12 \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ⭐ 47 | 🐛 35 | 🌐 Rust | 📅 2024-12-12 ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
 * [valentinus](https://github.com/kn0sys/valentinus) ⭐ 16 | 🐛 1 | 🌐 Rust | 📅 2026-04-07 - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
 * [indradb](https://crates.io/crates/indradb) - Graph database
 
 ### Embedded
 
-* [rmk](https://github.com/haobogu/rmk) ⭐ 1,604 | 🐛 57 | 🌐 Rust | 📅 2026-04-28 - A feature-rich keyboard firmware.
-* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,593 | 🐛 35 | 🌐 Rust | 📅 2026-04-27 - Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.
+* [rmk](https://github.com/haobogu/rmk) ⭐ 1,604 | 🐛 58 | 🌐 Rust | 📅 2026-04-29 - A feature-rich keyboard firmware.
+* [uefi-rs](https://github.com/rust-osdev/uefi-rs) ⭐ 1,595 | 🐛 33 | 🌐 Rust | 📅 2026-04-28 - Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.
 
 ### Emulators
 
 See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulator).
 
 * Flash Player
-  * [Ruffle](https://github.com/ruffle-rs/ruffle) ⭐ 18,005 | 🐛 5,740 | 🌐 Rust | 📅 2026-04-28 - Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml) ⭐ 18,005 | 🐛 5,740 | 🌐 Rust | 📅 2026-04-28[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml) ⭐ 18,005 | 🐛 5,740 | 🌐 Rust | 📅 2026-04-28
+  * [Ruffle](https://github.com/ruffle-rs/ruffle) ⭐ 18,006 | 🐛 5,743 | 🌐 Rust | 📅 2026-04-29 - Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml) ⭐ 18,006 | 🐛 5,743 | 🌐 Rust | 📅 2026-04-29[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml) ⭐ 18,006 | 🐛 5,743 | 🌐 Rust | 📅 2026-04-29
 * iOS
-  * [touchHLE](https://github.com/touchHLE/touchHLE) ⭐ 3,675 | 🐛 93 | 🌐 Rust | 📅 2026-04-27 - High-level emulator for iPhone OS apps
+  * [touchHLE](https://github.com/touchHLE/touchHLE) ⭐ 3,675 | 🐛 93 | 🌐 Rust | 📅 2026-04-28 - High-level emulator for iPhone OS apps
 * Gameboy
-  * [mohanson/gameboy](https://github.com/mohanson/gameboy) ⭐ 1,424 | 🐛 6 | 🌐 Rust | 📅 2026-04-27 - Full featured Cross-platform GameBoy emulator. Forever boys!.
+  * [mohanson/gameboy](https://github.com/mohanson/gameboy) ⭐ 1,424 | 🐛 6 | 🌐 Rust | 📅 2026-04-29 - Full featured Cross-platform GameBoy emulator. Forever boys!.
   * [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) ⭐ 962 | 🐛 43 | 🌐 Rust | 📅 2023-03-16 - A Game Boy research project and emulator
-  * [joamag/boytacean](https://github.com/joamag/boytacean) ⭐ 669 | 🐛 10 | 🌐 Rust | 📅 2026-04-22 - GameBoy Color emulator that runs on the Web using WebAssembly.
+  * [joamag/boytacean](https://github.com/joamag/boytacean) ⭐ 670 | 🐛 10 | 🌐 Rust | 📅 2026-04-22 - GameBoy Color emulator that runs on the Web using WebAssembly.
   * [mvdnes/rboy](https://github.com/mvdnes/rboy) ⭐ 665 | 🐛 4 | 🌐 Rust | 📅 2025-06-15 - A Gameboy Emulator
 * Nintendo 64
-  * [gopher64](https://github.com/gopher64/gopher64) ⭐ 999 | 🐛 10 | 🌐 Rust | 📅 2026-04-27 - N64 emulator written in Rust
+  * [gopher64](https://github.com/gopher64/gopher64) ⭐ 1,006 | 🐛 9 | 🌐 Rust | 📅 2026-04-28 - N64 emulator written in Rust
 * IBM PC
-  * [MartyPC](https://github.com/dbalsom/martypc) ⭐ 821 | 🐛 27 | 🌐 Rust | 📅 2026-04-05 - An IBM PC/XT emulator written in Rust.
+  * [MartyPC](https://github.com/dbalsom/martypc) ⭐ 821 | 🐛 26 | 🌐 Rust | 📅 2026-04-29 - An IBM PC/XT emulator written in Rust.
 * NES
   * [koute/pinky](https://github.com/koute/pinky) ⭐ 800 | 🐛 11 | 🌐 Rust | 📅 2023-11-27 - A NES emulator
   * [pcwalton/sprocketnes](https://github.com/pcwalton/sprocketnes) ⭐ 756 | 🐛 8 | 🌐 Rust | 📅 2019-10-23 - A NES emulator
@@ -350,9 +350,9 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 * GameMaker
   * [OpenGMK](https://github.com/OpenGMK/OpenGMK) ⭐ 385 | 🐛 31 | 🌐 Rust | 📅 2026-04-23 - OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 * Shockwave Player
-  * [DirPlayer](https://github.com/igorlira/dirplayer-rs) ⭐ 355 | 🐛 37 | 🌐 Rust | 📅 2026-04-26 - A web-compatible Shockwave Player emulator written in Rust
+  * [DirPlayer](https://github.com/igorlira/dirplayer-rs) ⭐ 357 | 🐛 37 | 🌐 Rust | 📅 2026-04-26 - A web-compatible Shockwave Player emulator written in Rust
 * Nintendo DS
-  * [dust](https://github.com/kelpsyberry/dust) ⭐ 319 | 🐛 7 | 🌐 Rust | 📅 2026-02-03 - A Nintendo DS emulator
+  * [dust](https://github.com/kelpsyberry/dust) ⭐ 320 | 🐛 7 | 🌐 Rust | 📅 2026-02-03 - A Nintendo DS emulator
 * Commodore 64
   * [kondrak/rust64](https://github.com/kondrak/rust64) ⭐ 281 | 🐛 4 | 🌐 Rust | 📅 2023-07-08 - Commodore 64 emulator
 * CHIP-8
@@ -367,12 +367,12 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 ### File manager
 
-* [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) ⭐ 37,910 | 🐛 32 | 🌐 Rust | 📅 2026-04-19 - A file manager built on a virtual distributed filesystem.
-* [yazi](https://github.com/sxyazi/yazi) ⭐ 37,144 | 🐛 67 | 🌐 Rust | 📅 2026-04-27 - Blazing fast terminal file manager, based on async I/O.
-* [broot](https://github.com/Canop/broot) ⭐ 12,627 | 🐛 246 | 🌐 Rust | 📅 2026-04-11 - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
-* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,738 | 🐛 16 | 🌐 Rust | 📅 2025-12-24 - A hackable, minimal, fast TUI file explorer
-* [joshuto](https://github.com/kamiyaa/joshuto) ⭐ 3,693 | 🐛 105 | 🌐 Rust | 📅 2026-04-14 - ranger-like terminal file manager
-* [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) ⭐ 233 | 🐛 2 | 🌐 Rust | 📅 2026-04-27 - Search your files using nature language
+* [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) ⭐ 37,921 | 🐛 32 | 🌐 Rust | 📅 2026-04-19 - A file manager built on a virtual distributed filesystem.
+* [yazi](https://github.com/sxyazi/yazi) ⭐ 37,189 | 🐛 67 | 🌐 Rust | 📅 2026-04-27 - Blazing fast terminal file manager, based on async I/O.
+* [broot](https://github.com/Canop/broot) ⭐ 12,631 | 🐛 246 | 🌐 Rust | 📅 2026-04-11 - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,741 | 🐛 16 | 🌐 Rust | 📅 2025-12-24 - A hackable, minimal, fast TUI file explorer
+* [joshuto](https://github.com/kamiyaa/joshuto) ⭐ 3,694 | 🐛 105 | 🌐 Rust | 📅 2026-04-14 - ranger-like terminal file manager
+* [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) ⭐ 233 | 🐛 2 | 🌐 Rust | 📅 2026-04-28 - Search your files using nature language
 * [FileSSH](https://github.com/JayanAXHF/FileSSH) ⭐ 219 | 🐛 5 | 🌐 Rust | 📅 2026-03-15 - A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more! ![crates.io](https://img.shields.io/crates/v/filessh)
 * [pikeru](https://github.com/dvhar/pikeru) ⭐ 57 | 🐛 2 | 🌐 Rust | 📅 2026-03-04 - File picker for linux with good thumbnails and search
 
@@ -380,31 +380,31 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Payments](#payments) applications.
 
-* [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) ⭐ 22,313 | 🐛 72 | 🌐 Rust | 📅 2026-04-28 - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
+* [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) ⭐ 22,334 | 🐛 76 | 🌐 Rust | 📅 2026-04-29 - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
 * [tarkah/tickrs](https://github.com/tarkah/tickrs) ⭐ 1,576 | 🐛 32 | 🌐 Rust | 📅 2025-12-15 - Realtime ticker data in your terminal
-* [tackler](https://github.com/tackler-ng/tackler) ⭐ 143 | 🐛 9 | 🌐 Rust | 📅 2026-04-27 \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml) ⭐ 143 | 🐛 9 | 🌐 Rust | 📅 2026-04-27
-* [klirr](https://github.com/Sajjon/klirr) ⭐ 127 | 🐛 0 | 🌐 Rust | 📅 2026-02-26 \[[klirr](https://crates.io/crates/klirr)] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
+* [tackler](https://github.com/tackler-ng/tackler) ⭐ 143 | 🐛 9 | 🌐 Rust | 📅 2026-04-28 \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml) ⭐ 143 | 🐛 9 | 🌐 Rust | 📅 2026-04-28
+* [klirr](https://github.com/Sajjon/klirr) ⭐ 128 | 🐛 0 | 🌐 Rust | 📅 2026-02-26 \[[klirr](https://crates.io/crates/klirr)] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
 
 ### Games
 
 See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston) ⭐ 4,694 | 🐛 36 | 🌐 Rust | 📅 2024-05-21.
 
-* [louis-e/arnis](https://github.com/louis-e/arnis) ⭐ 15,336 | 🐛 109 | 🌐 Rust | 📅 2026-04-24 - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions) ⭐ 15,336 | 🐛 109 | 🌐 Rust | 📅 2026-04-24
+* [louis-e/arnis](https://github.com/louis-e/arnis) ⭐ 15,345 | 🐛 114 | 🌐 Rust | 📅 2026-04-24 - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions) ⭐ 15,345 | 🐛 114 | 🌐 Rust | 📅 2026-04-24
 * [citybound](https://github.com/citybound/citybound) ⭐ 8,105 | 🐛 153 | 🌐 Rust | 📅 2023-01-07 - The city sim you deserve
-* [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 5,365 | 🐛 54 | 🌐 Rust | 📅 2026-04-17 - Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) ⭐ 5,365 | 🐛 54 | 🌐 Rust | 📅 2026-04-17 [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
+* [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 5,372 | 🐛 54 | 🌐 Rust | 📅 2026-04-17 - Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) ⭐ 5,372 | 🐛 54 | 🌐 Rust | 📅 2026-04-17 [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
 * [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) ⭐ 2,411 | 🐛 8 | 🌐 Rust | 📅 2024-01-29 - A renderer for Doom, may progress to being a playable game
 * [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) ⭐ 1,445 | 🐛 91 | 🌐 Rust | 📅 2024-03-26 - A small 2D turn-based hexagonal strategy game
 * [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) ⭐ 1,369 | 🐛 65 | 🌐 Rust | 📅 2026-02-19 - Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) ⭐ 1,200 | 🐛 51 | 🌐 Rust | 📅 2026-04-26 - Reimplementation of Cave Story engine with some enhancements.
-* [GitType](https://github.com/unhappychoice/gittype) ⭐ 1,079 | 🐛 13 | 🌐 Rust | 📅 2026-04-27 - A CLI code-typing game that turns your source code into typing challenges
+* [GitType](https://github.com/unhappychoice/gittype) ⭐ 1,082 | 🐛 13 | 🌐 Rust | 📅 2026-04-27 - A CLI code-typing game that turns your source code into typing challenges
 * [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) ⭐ 1,079 | 🐛 66 | 🌐 Rust | 📅 2026-04-25 - A user-friendly tool for managing game saves [![build badge](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml/badge.svg)](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml) ⭐ 1,079 | 🐛 66 | 🌐 Rust | 📅 2026-04-25
-* [chess-tui](https://github.com/thomas-mauran/chess-tui) ⭐ 1,019 | 🐛 19 | 🌐 Rust | 📅 2026-04-23 - A Chess TUI implementation ♟️
+* [chess-tui](https://github.com/thomas-mauran/chess-tui) ⭐ 1,020 | 🐛 19 | 🌐 Rust | 📅 2026-04-28 - A Chess TUI implementation ♟️
 * [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) ⭐ 553 | 🐛 2 | 🌐 Rust | 📅 2023-04-03 - Extensible open world rogue like game with pixel art
-* [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) ⭐ 539 | 🐛 2 | 🌐 Rust | 📅 2026-04-24 \[[tetro-tui](https://crates.io/crates/tetro-tui)] - A cross-platform terminal game where tetrominos fall and stack.
+* [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) ⭐ 540 | 🐛 2 | 🌐 Rust | 📅 2026-04-24 \[[tetro-tui](https://crates.io/crates/tetro-tui)] - A cross-platform terminal game where tetrominos fall and stack.
 * [SoftbearStudios/mk48](https://github.com/SoftbearStudios/mk48) ⭐ 425 | 🐛 96 | 🌐 Rust | 📅 2025-08-11 - Mk48.io is an online multiplayer naval combat game
 * [Zone of Control](https://github.com/ozkriff/zoc) ⭐ 389 | 🐛 80 | 🌐 Rust | 📅 2019-11-11 - A turn-based hexagonal strategy game
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) ⭐ 383 | 🐛 4 | 🌐 Rust | 📅 2023-01-20 - A roguelike game.
-* [zipxing/rust\_pixel](https://github.com/zipxing/rust_pixel) ⭐ 284 | 🐛 0 | 🌐 Rust | 📅 2026-04-22 \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
+* [zipxing/rust\_pixel](https://github.com/zipxing/rust_pixel) ⭐ 285 | 🐛 0 | 🌐 Rust | 📅 2026-04-22 \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
 * [thetawavegame/thetawave-legacy](https://github.com/thetawavegame/thetawave-legacy) ⭐ 197 | 🐛 29 | 🌐 Rust | 📅 2021-07-22 - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
 * [rhex](https://github.com/dpc/rhex) ⭐ 170 | 🐛 7 | 🌐 Rust | 📅 2025-03-07 - hexagonal ascii roguelike
 * [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) ⭐ 161 | 🐛 8 | 🌐 Rust | 📅 2021-07-21 - A Sokoban implementation
@@ -419,48 +419,48 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 
 ### Graphics
 
-* [flxzt/rnote](https://github.com/flxzt/rnote) ⭐ 11,165 | 🐛 428 | 🌐 Rust | 📅 2026-04-25 - Sketch and take handwritten notes.
+* [flxzt/rnote](https://github.com/flxzt/rnote) ⭐ 11,167 | 🐛 428 | 🌐 Rust | 📅 2026-04-25 - Sketch and take handwritten notes.
 * [ivanceras/svgbob](https://github.com/ivanceras/svgbob) ⭐ 4,181 | 🐛 38 | 🌐 Rust | 📅 2026-04-22 - converts ASCII diagrams into SVG graphics
 * [linebender/resvg](https://github.com/linebender/resvg) ⭐ 3,800 | 🐛 150 | 🌐 Rust | 📅 2026-04-09 - An SVG rendering library.
-* [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 1,560 | 🐛 96 | 🌐 Rust | 📅 2026-04-28 - An AI-powered IDE and tangible computing surface for molding scenes, videos, and images like clay.
+* [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 1,562 | 🐛 96 | 🌐 Rust | 📅 2026-04-29 - An AI-powered IDE and tangible computing surface for molding scenes, videos, and images like clay.
 * [wahn/rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 836 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Implements a counterpart to the PBRT book's (3rd edition) C++ code.
 * [Twinklebear/tray\_rust](https://github.com/Twinklebear/tray_rust) ⭐ 521 | 🐛 0 | 🌐 Rust | 📅 2021-04-08 - A ray tracer
 * [rustq/vue-skia](https://github.com/rustq/vue-skia) ⭐ 325 | 🐛 4 | 🌐 Rust | 📅 2024-09-10 - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 * [dps/rust-raytracer](https://github.com/dps/rust-raytracer) ⭐ 264 | 🐛 0 | 🌐 Rust | 📅 2022-01-05 - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
-* [rodrigorc/papercraft](https://github.com/rodrigorc/papercraft) ⭐ 244 | 🐛 1 | 🌐 Rust | 📅 2026-04-25 - A tool to unwrap 3D models and create them in paper with scissors and glue.
+* [rodrigorc/papercraft](https://github.com/rodrigorc/papercraft) ⭐ 245 | 🐛 1 | 🌐 Rust | 📅 2026-04-25 - A tool to unwrap 3D models and create them in paper with scissors and glue.
 * [Limeth/euclider](https://github.com/Limeth/euclider) ⭐ 224 | 🐛 6 | 🌐 Rust | 📅 2018-12-07 - A real-time 4D CPU ray tracer
 * [KaminariOS/rustracer](https://github.com/KaminariOS/rustracer) ⚠️ Archived - A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
 * [turnage/valora](https://crates.io/crates/valora) - A library for generative fine art
 
 ### Image processing
 
-* [visioncortex/vtracer](https://github.com/visioncortex/vtracer) ⭐ 5,908 | 🐛 12 | 🌐 Rust | 📅 2026-03-23 \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
-* [oxipng](https://github.com/oxipng/oxipng) ⭐ 3,922 | 🐛 36 | 🌐 Rust | 📅 2026-04-22 \[[oxipng](https://crates.io/crates/oxipng)] - Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/oxipng/oxipng/workflows/oxipng/badge.svg)](https://github.com/oxipng/oxipng/actions?query=branch%3Amaster) ⭐ 3,922 | 🐛 36 | 🌐 Rust | 📅 2026-04-22 [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
+* [visioncortex/vtracer](https://github.com/visioncortex/vtracer) ⭐ 5,919 | 🐛 12 | 🌐 Rust | 📅 2026-03-23 \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
+* [oxipng](https://github.com/oxipng/oxipng) ⭐ 3,925 | 🐛 36 | 🌐 Rust | 📅 2026-04-22 \[[oxipng](https://crates.io/crates/oxipng)] - Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/oxipng/oxipng/workflows/oxipng/badge.svg)](https://github.com/oxipng/oxipng/actions?query=branch%3Amaster) ⭐ 3,925 | 🐛 36 | 🌐 Rust | 📅 2026-04-22 [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
 * [Imager](https://github.com/imager-io/imager) ⭐ 724 | 🐛 8 | 🌐 Rust | 📅 2021-04-18 - Automated image optimization.
 
 ### Industrial automation
 
-* [dora-rs/dora](https://github.com/dora-rs/dora) ⭐ 3,717 | 🐛 177 | 🌐 Rust | 📅 2026-04-27 \[[dora-cli](https://crates.io/crates/dora-cli)] - A fast and simple dataflow-oriented framework for building robotic and multi-AI applications, with Python, Rust, and C/C++ APIs [![CI](https://github.com/dora-rs/dora/workflows/CI/badge.svg)](https://github.com/dora-rs/dora/actions) ⭐ 3,717 | 🐛 177 | 🌐 Rust | 📅 2026-04-27
+* [dora-rs/dora](https://github.com/dora-rs/dora) ⭐ 3,721 | 🐛 177 | 🌐 Rust | 📅 2026-04-28 \[[dora-cli](https://crates.io/crates/dora-cli)] - A fast and simple dataflow-oriented framework for building robotic and multi-AI applications, with Python, Rust, and C/C++ APIs [![CI](https://github.com/dora-rs/dora/workflows/CI/badge.svg)](https://github.com/dora-rs/dora/actions) ⭐ 3,721 | 🐛 177 | 🌐 Rust | 📅 2026-04-28
 * [locka99/opcua](https://github.com/locka99/opcua) ⭐ 568 | 🐛 114 | 🌐 Rust | 📅 2025-04-08 - A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
-* [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) ⭐ 535 | 🐛 44 | 🌐 Rust | 📅 2026-03-11 - A [tokio](https://tokio.rs)-based [modbus](https://www.modbus.org) library.
+* [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) ⭐ 534 | 🐛 44 | 🌐 Rust | 📅 2026-03-11 - A [tokio](https://tokio.rs)-based [modbus](https://www.modbus.org) library.
 
 ### Message Queue
 
-* [RobustMQ](https://github.com/robustmq/robustmq) ⭐ 1,564 | 🐛 110 | 🌐 Rust | 📅 2026-04-27 - Next generation cloud-native converged message queue.
-* [Rocketmq-Rust](https://github.com/mxsm/rocketmq-rust) ⭐ 1,506 | 🐛 35 | 🌐 Rust | 📅 2026-04-28 - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
-* [Rmqtt](https://github.com/rmqtt/rmqtt) ⭐ 937 | 🐛 22 | 🌐 Rust | 📅 2026-04-21 - MQTT Server/MQTT Broker — Scalable distributed MQTT message broker for IoT in the 5G era.
-* [lonewolf-io/Narwhal](https://github.com/lonewolf-io/narwhal) ⭐ 131 | 🐛 5 | 🌐 Rust | 📅 2026-04-27 - An extensible pub/sub messaging server for edge applications.
+* [RobustMQ](https://github.com/robustmq/robustmq) ⭐ 1,565 | 🐛 109 | 🌐 Rust | 📅 2026-04-29 - Next generation cloud-native converged message queue.
+* [Rocketmq-Rust](https://github.com/mxsm/rocketmq-rust) ⭐ 1,507 | 🐛 34 | 🌐 Rust | 📅 2026-04-28 - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+* [Rmqtt](https://github.com/rmqtt/rmqtt) ⭐ 938 | 🐛 22 | 🌐 Rust | 📅 2026-04-21 - MQTT Server/MQTT Broker — Scalable distributed MQTT message broker for IoT in the 5G era.
+* [lonewolf-io/Narwhal](https://github.com/lonewolf-io/narwhal) ⭐ 131 | 🐛 1 | 🌐 Rust | 📅 2026-04-28 - An extensible pub/sub messaging server for edge applications.
 
 ### MLOps
 
-* [TensorZero](https://github.com/tensorzero/tensorzero) ⭐ 11,283 | 🐛 379 | 🌐 Rust | 📅 2026-04-27 - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
+* [TensorZero](https://github.com/tensorzero/tensorzero) ⭐ 11,285 | 🐛 381 | 🌐 Rust | 📅 2026-04-28 - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
 
 ### Observability
 
-* [vectordotdev/vector](https://github.com/vectordotdev/vector) ⭐ 21,727 | 🐛 2,433 | 🌐 Rust | 📅 2026-04-28 - A High-Performance, Logs, Metrics, & Events Router.
-* [openobserve](https://github.com/openobserve/openobserve) ⭐ 18,639 | 🐛 649 | 🌐 TypeScript | 📅 2026-04-28 - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
-* [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,114 | 🐛 751 | 🌐 Rust | 📅 2026-04-27 - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI) ⭐ 11,114 | 🐛 751 | 🌐 Rust | 📅 2026-04-27
-* [OpenTelemetry](https://crates.io/crates/opentelemetry) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/actions/workflows/ci.yml/badge.svg)](https://github.com/open-telemetry/opentelemetry-rust/actions/workflows/ci.yml) ⭐ 2,556 | 🐛 306 | 🌐 Rust | 📅 2026-04-27
+* [vectordotdev/vector](https://github.com/vectordotdev/vector) ⭐ 21,732 | 🐛 2,432 | 🌐 Rust | 📅 2026-04-29 - A High-Performance, Logs, Metrics, & Events Router.
+* [openobserve](https://github.com/openobserve/openobserve) ⭐ 18,650 | 🐛 628 | 🌐 TypeScript | 📅 2026-04-29 - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
+* [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,117 | 🐛 749 | 🌐 Rust | 📅 2026-04-28 - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI) ⭐ 11,117 | 🐛 749 | 🌐 Rust | 📅 2026-04-28
+* [OpenTelemetry](https://crates.io/crates/opentelemetry) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/actions/workflows/ci.yml/badge.svg)](https://github.com/open-telemetry/opentelemetry-rust/actions/workflows/ci.yml) ⭐ 2,556 | 🐛 303 | 🌐 Rust | 📅 2026-04-28
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,933 | 🐛 91 | 🌐 Rust | 📅 2026-04-22 - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 * [avito-tech/bioyino](https://github.com/avito-tech/bioyino) ⭐ 236 | 🐛 16 | 🌐 Rust | 📅 2024-03-11 - A high-performance scalable StatsD compatible server.
 * [MegaAntiCheat/client-backend](https://github.com/MegaAntiCheat/client-backend) ⭐ 139 | 🐛 30 | 🌐 Rust | 📅 2025-03-15 - The client app for [MAC](https://github.com/MegaAntiCheat).
@@ -469,16 +469,16 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 
 See also [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison) ⭐ 850 | 🐛 11 | 📅 2025-10-21.
 
-* [tock/tock](https://github.com/tock/tock) ⭐ 6,301 | 🐛 176 | 🌐 Rust | 📅 2026-04-27 - A secure embedded operating system for Cortex-M based microcontrollers
-* [asterinas/asterinas](https://github.com/asterinas/asterinas) ⭐ 4,439 | 🐛 288 | 🌐 Rust | 📅 2026-04-28 - A secure, fast, and general-purpose OS kernel that provides Linux-compatible ABI.
-* [theseus-os/Theseus](https://github.com/theseus-os/Theseus) ⭐ 3,150 | 🐛 69 | 🌐 Rust | 📅 2024-09-22 - A safe-language, single address space and single privilege level OS written from scratch - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
-* [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) ⭐ 1,936 | 🐛 17 | 🌐 Rust | 📅 2026-04-27 - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
+* [tock/tock](https://github.com/tock/tock) ⭐ 6,300 | 🐛 177 | 🌐 Rust | 📅 2026-04-28 - A secure embedded operating system for Cortex-M based microcontrollers
+* [asterinas/asterinas](https://github.com/asterinas/asterinas) ⭐ 4,438 | 🐛 289 | 🌐 Rust | 📅 2026-04-29 - A secure, fast, and general-purpose OS kernel that provides Linux-compatible ABI.
+* [theseus-os/Theseus](https://github.com/theseus-os/Theseus) ⭐ 3,151 | 🐛 69 | 🌐 Rust | 📅 2024-09-22 - A safe-language, single address space and single privilege level OS written from scratch - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
+* [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) ⭐ 1,937 | 🐛 17 | 🌐 Rust | 📅 2026-04-27 - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
 * [Andy-Python-Programmer/aero](https://github.com/Andy-Python-Programmer/aero) ⭐ 1,241 | 🐛 27 | 🌐 Rust | 📅 2025-04-07 - A modern, unix-like operating system following the monolithic kernel design.
-* [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) ⭐ 1,162 | 🐛 198 | 🌐 Rust | 📅 2026-04-26 - An operating system with a self-developed kernel from scratch and Linux compatibility.
-* [vinc/moros](https://github.com/vinc/moros) ⭐ 1,070 | 🐛 19 | 🌐 Rust | 📅 2026-04-27 - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
+* [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) ⭐ 1,163 | 🐛 198 | 🌐 Rust | 📅 2026-04-28 - An operating system with a self-developed kernel from scratch and Linux compatibility.
+* [vinc/moros](https://github.com/vinc/moros) ⭐ 1,070 | 🐛 19 | 🌐 Rust | 📅 2026-04-28 - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
 * [thepowersgang/rust\_os](https://github.com/thepowersgang/rust_os) ⭐ 813 | 🐛 2 | 🌐 Rust | 📅 2026-04-21 - An OS kernel written in rust. Non POSIX
 * [0x59616e/SteinsOS](https://github.com/0x59616e/SteinsOS) ⭐ 124 | 🐛 0 | 🌐 Rust | 📅 2021-10-15 - An OS for armv8-a architecture.
-* [koibtw/highlightos](https://github.com/koibtw/highlightos) ⭐ 75 | 🐛 9 | 🌐 Rust | 📅 2026-04-20 - x86\_64 OS kernel written in Rust & Assembly.
+* [koibtw/highlightos](https://github.com/koibtw/highlightos) ⭐ 76 | 🐛 9 | 🌐 Rust | 📅 2026-04-20 - x86\_64 OS kernel written in Rust & Assembly.
 * [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) - A Unix-like general-purpose microkernel-based operating system with a focus on security, stability, performance, correctness, simplicity and pragmatism that aims to be a complete alternative for Linux and BSD.
 
 ### Package Managers
@@ -488,33 +488,33 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Payments
 
-* [hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 42,539 | 🐛 1,582 | 🌐 Rust | 📅 2026-04-28 - An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+* [hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 42,565 | 🐛 1,593 | 🌐 Rust | 📅 2026-04-29 - An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
 ### Productivity
 
-* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ⭐ 53,304 | 🐛 641 | 🌐 Rust | 📅 2026-04-26 - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
-* [rtk-ai/rtk](https://github.com/rtk-ai/rtk) ⭐ 37,144 | 🐛 707 | 🌐 Rust | 📅 2026-04-27 - High-performance CLI proxy that reduces LLM token consumption by 60-90% for AI coding assistants. Filters and compresses command outputs for Claude Code, Copilot, Cursor, Gemini CLI, Codex, and more. [![CI](https://github.com/rtk-ai/rtk/workflows/Security%20Check/badge.svg)](https://github.com/rtk-ai/rtk/actions) ⭐ 37,144 | 🐛 707 | 🌐 Rust | 📅 2026-04-27
-* [screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 18,435 | 🐛 56 | 🌐 Rust | 📅 2026-04-28 - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.
-* [espanso](https://github.com/espanso/espanso) ⭐ 13,687 | 🐛 503 | 🌐 Rust | 📅 2026-04-26 - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml) ⭐ 13,687 | 🐛 503 | 🌐 Rust | 📅 2026-04-26
-* [ast-grep](https://github.com/ast-grep/ast-grep) ⭐ 13,602 | 🐛 35 | 🌐 Rust | 📅 2026-04-27 - A CLI tool for code structural search, lint and rewriting.
-* [aichat](https://github.com/sigoden/aichat) ⭐ 9,905 | 🐛 78 | 🌐 Rust | 📅 2026-02-23 - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-* [LLDAP](https://github.com/lldap/lldap) ⭐ 6,195 | 🐛 117 | 🌐 Rust | 📅 2026-03-29 - Simplified LDAP interface for authentication.
-* [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) ⭐ 4,785 | 🐛 36 | 🌐 Rust | 📅 2026-04-28 \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci) ⭐ 4,785 | 🐛 36 | 🌐 Rust | 📅 2026-04-28
-* [agent-of-empires](https://github.com/njbrake/agent-of-empires) ⭐ 1,726 | 🐛 25 | 🌐 Rust | 📅 2026-04-27 - A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing [![CI](https://github.com/njbrake/agent-of-empires/actions/workflows/ci.yml/badge.svg)](https://github.com/njbrake/agent-of-empires/actions) ⭐ 1,726 | 🐛 25 | 🌐 Rust | 📅 2026-04-27
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ⭐ 54,738 | 🐛 661 | 🌐 Rust | 📅 2026-04-28 - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
+* [rtk-ai/rtk](https://github.com/rtk-ai/rtk) ⭐ 37,879 | 🐛 738 | 🌐 Rust | 📅 2026-04-28 - High-performance CLI proxy that reduces LLM token consumption by 60-90% for AI coding assistants. Filters and compresses command outputs for Claude Code, Copilot, Cursor, Gemini CLI, Codex, and more. [![CI](https://github.com/rtk-ai/rtk/workflows/Security%20Check/badge.svg)](https://github.com/rtk-ai/rtk/actions) ⭐ 37,879 | 🐛 738 | 🌐 Rust | 📅 2026-04-28
+* [screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 18,441 | 🐛 73 | 🌐 Rust | 📅 2026-04-29 - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.
+* [espanso](https://github.com/espanso/espanso) ⭐ 13,701 | 🐛 504 | 🌐 Rust | 📅 2026-04-26 - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml) ⭐ 13,701 | 🐛 504 | 🌐 Rust | 📅 2026-04-26
+* [ast-grep](https://github.com/ast-grep/ast-grep) ⭐ 13,615 | 🐛 38 | 🌐 Rust | 📅 2026-04-29 - A CLI tool for code structural search, lint and rewriting.
+* [aichat](https://github.com/sigoden/aichat) ⭐ 9,906 | 🐛 78 | 🌐 Rust | 📅 2026-02-23 - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+* [LLDAP](https://github.com/lldap/lldap) ⭐ 6,194 | 🐛 118 | 🌐 Rust | 📅 2026-03-29 - Simplified LDAP interface for authentication.
+* [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) ⭐ 4,805 | 🐛 36 | 🌐 Rust | 📅 2026-04-29 \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci) ⭐ 4,805 | 🐛 36 | 🌐 Rust | 📅 2026-04-29
+* [agent-of-empires](https://github.com/njbrake/agent-of-empires) ⭐ 1,745 | 🐛 37 | 🌐 Rust | 📅 2026-04-28 - A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing [![CI](https://github.com/njbrake/agent-of-empires/actions/workflows/ci.yml/badge.svg)](https://github.com/njbrake/agent-of-empires/actions) ⭐ 1,745 | 🐛 37 | 🌐 Rust | 📅 2026-04-28
 * [CookCLI](https://github.com/cooklang/CookCLI) ⭐ 1,265 | 🐛 24 | 🌐 Rust | 📅 2026-04-24 - Command-line recipe manager with web server, shopping lists, and meal planning capabilities.
-* [iwe-org/iwe](https://github.com/iwe-org/iwe) ⭐ 965 | 🐛 1 | 🌐 Rust | 📅 2026-04-28 \[[iwe](https://crates.io/crates/iwe)] - A markdown-based knowledge management tool with LSP server and CLI [![Build Status](https://github.com/iwe-org/iwe/actions/workflows/rust.yml/badge.svg)](https://github.com/iwe-org/iwe/actions/workflows/rust.yml) ⭐ 965 | 🐛 1 | 🌐 Rust | 📅 2026-04-28
-* [Bartib](https://github.com/nikolassv/bartib) ⭐ 829 | 🐛 19 | 🌐 Rust | 📅 2026-03-25 \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml) ⭐ 829 | 🐛 19 | 🌐 Rust | 📅 2026-03-25
+* [iwe-org/iwe](https://github.com/iwe-org/iwe) ⭐ 968 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 \[[iwe](https://crates.io/crates/iwe)] - A markdown-based knowledge management tool with LSP server and CLI [![Build Status](https://github.com/iwe-org/iwe/actions/workflows/rust.yml/badge.svg)](https://github.com/iwe-org/iwe/actions/workflows/rust.yml) ⭐ 968 | 🐛 0 | 🌐 Rust | 📅 2026-04-28
+* [Bartib](https://github.com/nikolassv/bartib) ⭐ 830 | 🐛 19 | 🌐 Rust | 📅 2026-03-25 \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml) ⭐ 830 | 🐛 19 | 🌐 Rust | 📅 2026-03-25
+* [thClaws/thClaws](https://github.com/thClaws/thClaws) ⭐ 611 | 🐛 3 | 🌐 Rust | 📅 2026-04-29 - Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes. [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](https://github.com/thClaws/thClaws) ⭐ 611 | 🐛 3 | 🌐 Rust | 📅 2026-04-29
 * [pier-cli/pier](https://github.com/pier-cli/pier) ⭐ 596 | 🐛 6 | 🌐 Rust | 📅 2026-02-01 - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
-* [thClaws/thClaws](https://github.com/thClaws/thClaws) ⭐ 576 | 🐛 4 | 🌐 Rust | 📅 2026-04-28 - Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes. [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](https://github.com/thClaws/thClaws) ⭐ 576 | 🐛 4 | 🌐 Rust | 📅 2026-04-28
-* [Furtherance](https://github.com/unobserved-io/Furtherance) ⭐ 384 | 🐛 5 | 🌐 Rust | 📅 2026-02-17 - Time tracking app built with GTK4
+* [Furtherance](https://github.com/unobserved-io/Furtherance) ⭐ 385 | 🐛 5 | 🌐 Rust | 📅 2026-02-17 - Time tracking app built with GTK4
 * [tambourine-voice](https://github.com/kstonekuan/tambourine-voice) ⭐ 338 | 🐛 32 | 🌐 Rust | 📅 2026-04-24 - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
-* [kruseio/hygg](https://github.com/kruseio/hygg) ⭐ 301 | 🐛 16 | 🌐 Rust | 📅 2026-02-19 \[[hygg](https://crates.io/crates/hygg)] - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
+* [kruseio/hygg](https://github.com/kruseio/hygg) ⭐ 302 | 🐛 16 | 🌐 Rust | 📅 2026-02-19 \[[hygg](https://crates.io/crates/hygg)] - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 * [illacloud/illa](https://github.com/illacloud/illa) ⭐ 263 | 🐛 2 | 🌐 Rust | 📅 2026-02-11 - Low-code internal tool builder.
 * [yashs662/rust\_kanban](https://github.com/yashs662/rust_kanban) ⭐ 261 | 🐛 1 | 🌐 Rust | 📅 2025-02-13 \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) ⭐ 261 | 🐛 1 | 🌐 Rust | 📅 2025-02-13 - A Kanban App for the terminal
-* [aannoo/hcom](https://github.com/aannoo/hcom) ⭐ 245 | 🐛 7 | 🌐 Rust | 📅 2026-04-24 - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml) ⭐ 245 | 🐛 7 | 🌐 Rust | 📅 2026-04-24
+* [aannoo/hcom](https://github.com/aannoo/hcom) ⭐ 248 | 🐛 5 | 🌐 Rust | 📅 2026-04-28 - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml) ⭐ 248 | 🐛 5 | 🌐 Rust | 📅 2026-04-28
 * [tassiovirginio/try-rs](https://github.com/tassiovirginio/try-rs) ⭐ 244 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 \[[try-rs](https://crates.io/crates/try-rs)] - Workspace manager CLI with a TUI to organize and navigate temporary experiments.
 * [flusterIO/fluster](https://github.com/flusterIO/fluster) ⭐ 191 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-17 - An all-in-one note taking application built for STEM students and professionals. [![publish](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml/badge.svg)](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml) ⭐ 191 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-17
-* [fulsomenko/kanban](https://github.com/fulsomenko/kanban) ⭐ 95 | 🐛 2 | 🌐 Rust | 📅 2026-04-27 \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml) ⭐ 95 | 🐛 2 | 🌐 Rust | 📅 2026-04-27
+* [fulsomenko/kanban](https://github.com/fulsomenko/kanban) ⭐ 95 | 🐛 3 | 🌐 Rust | 📅 2026-04-29 \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml) ⭐ 95 | 🐛 3 | 🌐 Rust | 📅 2026-04-29
 * [iBz-04/gloamy](https://github.com/iBz-04/gloamy) ⭐ 52 | 🐛 1 | 🌐 Rust | 📅 2026-04-22 \[[gloamy](https://crates.io/crates/gloamy)] - Rust-first autonomous agent runtime for CLI, channels, gateway, and hardware workflows.
 * [0xdea/jiggy](https://github.com/0xdea/jiggy) ⭐ 25 | 🐛 0 | 🌐 Rust | 📅 2026-04-26 \[[jiggy](https://crates.io/crates/jiggy)] - Minimalistic cross-platform mouse jiggler written in Rust [![build](https://github.com/0xdea/jiggy/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/jiggy/workflows/build.yml) ⭐ 131 | 🐛 0 | 🌐 Rust | 📅 2026-04-26
 * [ShadoySV/work-break](https://github.com/ShadoySV/work-break) ⭐ 22 | 🐛 1 | 🌐 Rust | 📅 2025-09-13 \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/ShadoySV/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/actions/workflows/release.yml) ⭐ 22 | 🐛 1 | 🌐 Rust | 📅 2025-09-13
@@ -528,36 +528,36 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Security tools
 
-* [rustscan](https://github.com/bee-san/RustScan) ⭐ 19,683 | 🐛 48 | 🌐 Rust | 📅 2026-04-21 - Make Nmap faster with this port scanning tool [![build badge](https://github.com/bee-san/RustScan/actions/workflows/test.yml/badge.svg)](https://github.com/bee-san/RustScan/actions) ⭐ 19,683 | 🐛 48 | 🌐 Rust | 📅 2026-04-21
-* [epi052/feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 7,698 | 🐛 40 | 🌐 Rust | 📅 2026-04-15 - A simple, fast, recursive content discovery tool.
-* [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,022 | 🐛 141 | 🌐 Rust | 📅 2026-04-28 - Cross-platform VPN client application for the Mullvad VPN service with WireGuard support, quantum-resistant tunnels, and privacy-focused features. [![CI](https://github.com/mullvad/mullvadvpn-app/actions/workflows/verify.yml/badge.svg)](https://github.com/mullvad/mullvadvpn-app/actions) ⭐ 7,022 | 🐛 141 | 🌐 Rust | 📅 2026-04-28
-* [EFForg/rayhunter](https://github.com/EFForg/rayhunter) ⭐ 5,138 | 🐛 97 | 🌐 Rust | 📅 2026-04-27 - IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators) [![Tests](https://github.com/EFForg/rayhunter/actions/workflows/main.yml/badge.svg)](https://github.com/EFForg/rayhunter/actions/workflows/main.yml) ⭐ 5,138 | 🐛 97 | 🌐 Rust | 📅 2026-04-27
-* [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) ⭐ 2,560 | 🐛 159 | 🌐 Rust | 📅 2026-04-24 - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml) ⭐ 2,560 | 🐛 159 | 🌐 Rust | 📅 2026-04-24
-* [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) ⭐ 2,431 | 🐛 54 | 🌐 Rust | 📅 2025-01-31 - A semi-automatic OSINT framework and package manager
-* [domcyrus/rustnet](https://github.com/domcyrus/rustnet) ⭐ 2,035 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 - Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection [![build badge](https://img.shields.io/github/actions/workflow/status/domcyrus/rustnet/rust.yml?logo=github)](https://github.com/domcyrus/rustnet/actions/workflows/rust.yml) ⭐ 2,035 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 [![crate](https://img.shields.io/crates/v/rustnet-monitor?logo=rust)](https://crates.io/crates/rustnet-monitor)
+* [rustscan](https://github.com/bee-san/RustScan) ⭐ 19,690 | 🐛 48 | 🌐 Rust | 📅 2026-04-21 - Make Nmap faster with this port scanning tool [![build badge](https://github.com/bee-san/RustScan/actions/workflows/test.yml/badge.svg)](https://github.com/bee-san/RustScan/actions) ⭐ 19,690 | 🐛 48 | 🌐 Rust | 📅 2026-04-21
+* [epi052/feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 7,700 | 🐛 40 | 🌐 Rust | 📅 2026-04-15 - A simple, fast, recursive content discovery tool.
+* [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,023 | 🐛 142 | 🌐 Rust | 📅 2026-04-29 - Cross-platform VPN client application for the Mullvad VPN service with WireGuard support, quantum-resistant tunnels, and privacy-focused features. [![CI](https://github.com/mullvad/mullvadvpn-app/actions/workflows/verify.yml/badge.svg)](https://github.com/mullvad/mullvadvpn-app/actions) ⭐ 7,023 | 🐛 142 | 🌐 Rust | 📅 2026-04-29
+* [EFForg/rayhunter](https://github.com/EFForg/rayhunter) ⭐ 5,144 | 🐛 97 | 🌐 Rust | 📅 2026-04-28 - IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators) [![Tests](https://github.com/EFForg/rayhunter/actions/workflows/main.yml/badge.svg)](https://github.com/EFForg/rayhunter/actions/workflows/main.yml) ⭐ 5,144 | 🐛 97 | 🌐 Rust | 📅 2026-04-28
+* [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) ⭐ 2,561 | 🐛 159 | 🌐 Rust | 📅 2026-04-24 - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml) ⭐ 2,561 | 🐛 159 | 🌐 Rust | 📅 2026-04-24
+* [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) ⭐ 2,432 | 🐛 54 | 🌐 Rust | 📅 2025-01-31 - A semi-automatic OSINT framework and package manager
+* [domcyrus/rustnet](https://github.com/domcyrus/rustnet) ⭐ 2,037 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 - Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection [![build badge](https://img.shields.io/github/actions/workflow/status/domcyrus/rustnet/rust.yml?logo=github)](https://github.com/domcyrus/rustnet/actions/workflows/rust.yml) ⭐ 2,037 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 [![crate](https://img.shields.io/crates/v/rustnet-monitor?logo=rust)](https://crates.io/crates/rustnet-monitor)
 * [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) ⭐ 1,548 | 🐛 25 | 🌐 Rust | 📅 2026-04-26 \[[adguardian](https://crates.io/crates/adguardian)] - Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
-* [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) ⭐ 1,254 | 🐛 17 | 🌐 Rust | 📅 2026-04-19 - A secure multithreaded packet sniffer
+* [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) ⭐ 1,255 | 🐛 17 | 🌐 Rust | 📅 2026-04-19 - A secure multithreaded packet sniffer
 * [Cherrybomb](https://github.com/blst-security/cherrybomb) ⭐ 1,232 | 🐛 38 | 🌐 Rust | 📅 2024-10-25 - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
-* [mongodb/kingfisher](https://github.com/mongodb/kingfisher) ⭐ 1,050 | 🐛 14 | 🌐 Rust | 📅 2026-04-28 - A blazingly fast tool for secret detection and live validation across files, Git repos, S3, Jira, and Confluence
+* [mongodb/kingfisher](https://github.com/mongodb/kingfisher) ⭐ 1,064 | 🐛 12 | 🌐 Rust | 📅 2026-04-29 - A blazingly fast tool for secret detection and live validation across files, Git repos, S3, Jira, and Confluence
 * [ripasso](https://github.com/cortex/ripasso/) ⭐ 818 | 🐛 32 | 🌐 Rust | 📅 2026-04-22 - A password manager, filesystem compatible with pass
-* [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero) ⭐ 787 | 🐛 8 | 🌐 Rust | 📅 2026-04-27 - Enterprise-grade web vulnerability scanner with 60+ attack modules for penetration testing and security assessments
+* [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero) ⭐ 787 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 - Enterprise-grade web vulnerability scanner with 60+ attack modules for penetration testing and security assessments
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) ⭐ 536 | 🐛 0 | 🌐 Rust | 📅 2024-10-30 - A TCP connection hijacker; rewrite of shijack
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) ⭐ 504 | 🐛 1 | 🌐 Rust | 📅 2026-04-28 - A simple tool to manage secrets using ssh keys for encryption and decryption.
 * [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) ⭐ 416 | 🐛 22 | 🌐 Rust | 📅 2023-12-19 - A scriptable network authentication cracker
 * [cotp](https://github.com/replydev/cotp) ⭐ 370 | 🐛 11 | 🌐 Rust | 📅 2026-04-24 - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 * [Inspektor](https://github.com/inspektor-dev/inspektor) ⭐ 284 | 🐛 18 | 🌐 Rust | 📅 2022-07-15 - A database protocol-aware proxy that is used to enforce access policies 👮
 * [LeChatP/RootAsRole](https://github.com/LeChatP/RootAsRole) ⭐ 266 | 🐛 7 | 🌐 Rust | 📅 2026-04-19 - A better alternative to sudo(-rs)/su • ⚡ Blazing fast • 🛡️ Memory-safe • 🔐 Security-oriented ![Build](https://img.shields.io/github/actions/workflow/status/LeChatP/RootAsRole/build.yml?logo=githubactions\&label=Build\&logoColor=white) ![Coverage](https://img.shields.io/codecov/c/github/lechatp/rootasrole?color=green\&link=https%3A%2F%2Fapp.codecov.io%2Fgh%2FLeChatP%2FRootAsRole\&label=Test%20Coverage) ![crates.io](https://img.shields.io/crates/v/rootasrole.svg?label=Version\&color=e37602\&logo=rust)
-* [Raspirus](https://github.com/Raspirus/Raspirus) ⭐ 215 | 🐛 10 | 🌐 Rust | 📅 2026-02-19 - User- and resources-friendly rules-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml) ⭐ 215 | 🐛 10 | 🌐 Rust | 📅 2026-02-19
+* [Raspirus](https://github.com/Raspirus/Raspirus) ⭐ 216 | 🐛 10 | 🌐 Rust | 📅 2026-02-19 - User- and resources-friendly rules-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml) ⭐ 216 | 🐛 10 | 🌐 Rust | 📅 2026-02-19
 * [biandratti/huginn-net](https://github.com/biandratti/huginn-net) ⭐ 173 | 🐛 9 | 🌐 Rust | 📅 2026-04-24 - Multi-protocol passive network fingerprinting combining p0f TCP and JA4 TLS analysis for OS and application detection [![CI](https://github.com/biandratti/huginn-net/actions/workflows/ci.yml/badge.svg)](https://github.com/biandratti/huginn-net/actions/workflows/ci.yml) ⭐ 173 | 🐛 9 | 🌐 Rust | 📅 2026-04-24
 * [arp-scan-rs](https://github.com/kongbytes/arp-scan-rs) ⭐ 161 | 🐛 3 | 🌐 Rust | 📅 2025-11-18 - A minimalistic ARP scan tool for fast local network scans
 * [SystemVll/TAuth](https://github.com/SystemVll/TAuth) ⭐ 141 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-10 - An easy and user friendly 2FA & Credentials manager, for your PC.
 * [0xdea/oneiromancer](https://github.com/0xdea/oneiromancer) ⭐ 131 | 🐛 0 | 🌐 Rust | 📅 2026-04-26 \[[oneiromancer](https://crates.io/crates/oneiromancer)] - Reverse engineering assistant that uses a locally running LLM to aid with source code analysis [![build](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml) ⭐ 131 | 🐛 0 | 🌐 Rust | 📅 2026-04-26
-* [observer\_ward](https://github.com/emo-crab/observer_ward) ⭐ 128 | 🐛 2 | 🌐 Rust | 📅 2026-04-08 - Web application and service fingerprint identification tool
+* [observer\_ward](https://github.com/emo-crab/observer_ward) ⭐ 130 | 🐛 2 | 🌐 Rust | 📅 2026-04-08 - Web application and service fingerprint identification tool
 * [entropic-security/xgadget](https://github.com/entropic-security/xgadget) ⭐ 124 | 🐛 3 | 🌐 Rust | 📅 2023-11-24 \[[xgadget](https://crates.io/crates/xgadget)] - Fast, parallel, cross-variant ROP/JOP gadget search [![GitHub Actions](https://github.com/entropic-security/xgadget/workflows/test/badge.svg)](https://github.com/entropic-security/xgadget/actions) ⭐ 124 | 🐛 3 | 🌐 Rust | 📅 2023-11-24
 * [0xdea/rhabdomancer](https://github.com/0xdea/rhabdomancer) ⭐ 115 | 🐛 2 | 🌐 Rust | 📅 2026-04-24 \[[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml) ⭐ 115 | 🐛 2 | 🌐 Rust | 📅 2026-04-24
 * [0xdea/haruspex](https://github.com/0xdea/haruspex) ⭐ 111 | 🐛 0 | 🌐 Rust | 📅 2026-04-24 \[[haruspex](https://crates.io/crates/haruspex)] - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler [![build](https://github.com/0xdea/haruspex/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/haruspex/actions/workflows/build.yml) ⭐ 111 | 🐛 0 | 🌐 Rust | 📅 2026-04-24
+* [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) ⭐ 108 | 🐛 39 | 🌐 Rust | 📅 2026-04-29 - Self-defending security agent for Linux and macOS with 22 eBPF kernel hooks, 39 detectors, and AI-driven incident response [![CI](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg)](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml) ⭐ 108 | 🐛 39 | 🌐 Rust | 📅 2026-04-29
 * [0xdea/augur](https://github.com/0xdea/augur) ⭐ 107 | 🐛 0 | 🌐 Rust | 📅 2026-04-24 \[[augur](https://crates.io/crates/augur)] - Reverse engineering assistant that extracts strings and related pseudo-code from a binary file [![build](https://github.com/0xdea/augur/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/augur/actions/workflows/build.yml) ⭐ 107 | 🐛 0 | 🌐 Rust | 📅 2026-04-24
-* [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) ⭐ 107 | 🐛 39 | 🌐 Rust | 📅 2026-04-28 - Self-defending security agent for Linux and macOS with 22 eBPF kernel hooks, 39 detectors, and AI-driven incident response [![CI](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg)](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml) ⭐ 107 | 🐛 39 | 🌐 Rust | 📅 2026-04-28
 * [sherlock](https://github.com/jonaylor89/sherlock-rs) ⭐ 54 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 \[[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml) ⭐ 54 | 🐛 1 | 🌐 Rust | 📅 2026-04-27
 * [cargo-audit](https://crates.io/crates/cargo-audit) - Audit Cargo.lock for crates with security vulnerabilities
 * [cargo-auditable](https://crates.io/crates/cargo-auditable) - Make production Rust binaries auditable
@@ -568,59 +568,59 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 ### Social networks
 
 * Telegram
-  * [tgt](https://github.com/FedericoBruzzone/tgt) ⭐ 908 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 - A crossplatform TUI for Telegram [![ci-linux](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml) ⭐ 908 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 [![ci-macos](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml) ⭐ 908 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 [![ci-windows](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml) ⭐ 908 | 🐛 24 | 🌐 Rust | 📅 2026-04-27
+  * [tgt](https://github.com/FedericoBruzzone/tgt) ⭐ 909 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 - A crossplatform TUI for Telegram [![ci-linux](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml) ⭐ 909 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 [![ci-macos](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml) ⭐ 909 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 [![ci-windows](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml) ⭐ 909 | 🐛 24 | 🌐 Rust | 📅 2026-04-27
 * Mastodon
   * [Rustodon](https://github.com/rustodon/rustodon) ⭐ 882 | 🐛 36 | 🌐 Rust | 📅 2021-07-05 - A Mastodon-compatible, ActivityPub-speaking server.
 
 ### System tools
 
-* [sharkdp/bat](https://github.com/sharkdp/bat) ⭐ 58,582 | 🐛 348 | 🌐 Rust | 📅 2026-04-27 - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml) ⭐ 58,582 | 🐛 348 | 🌐 Rust | 📅 2026-04-27
-* [sharkdp/fd](https://github.com/sharkdp/fd) ⭐ 42,725 | 🐛 177 | 🌐 Rust | 📅 2026-04-24 - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml) ⭐ 42,725 | 🐛 177 | 🌐 Rust | 📅 2026-04-24
-* [nushell/nushell](https://github.com/nushell/nushell) ⭐ 39,189 | 🐛 1,485 | 🌐 Rust | 📅 2026-04-27 - A new type of shell
-* [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide/) ⭐ 36,129 | 🐛 163 | 🌐 Rust | 📅 2026-04-13 - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions) ⭐ 36,129 | 🐛 163 | 🌐 Rust | 📅 2026-04-13
-* [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ⭐ 33,317 | 🐛 552 | 🌐 Rust | 📅 2026-04-27 - The user-friendly command line shell
-* [qarmin/czkawka](https://github.com/qarmin/czkawka) ⭐ 30,763 | 🐛 431 | 🌐 Fluent | 📅 2026-04-26 - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions) ⭐ 30,763 | 🐛 431 | 🌐 Fluent | 📅 2026-04-26
-* [atuin](https://github.com/atuinsh/atuin) ⭐ 29,511 | 🐛 482 | 🌐 Rust | 📅 2026-04-27 \[[atuin](https://crates.io/crates/atuin)] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
-* [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 23,172 | 🐛 876 | 🌐 Rust | 📅 2026-04-27 - A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml) ⭐ 23,172 | 🐛 876 | 🌐 Rust | 📅 2026-04-27
-* [gitui](https://github.com/gitui-org/gitui) ⭐ 21,836 | 🐛 294 | 🌐 Rust | 📅 2026-04-23 - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions) ⭐ 21,836 | 🐛 294 | 🌐 Rust | 📅 2026-04-23
-* [eza-community/eza](https://github.com/eza-community/eza) ⭐ 21,511 | 🐛 355 | 🌐 Rust | 📅 2026-04-10 - A replacement for 'ls'
-* [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ⭐ 20,693 | 🐛 658 | 🌐 Rust | 📅 2026-04-28 - A modern Git-based version control interface with both a GUI and CLI built from the ground up for AI-powered workflows.
-* [lsd](https://github.com/lsd-rs/lsd) ⭐ 15,947 | 🐛 190 | 🌐 Rust | 📅 2026-04-09 - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/actions/workflows/CICD.yml/badge.svg)](https://github.com/lsd-rs/lsd/actions) ⭐ 15,947 | 🐛 190 | 🌐 Rust | 📅 2026-04-09
-* [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) ⭐ 14,321 | 🐛 233 | 🌐 Rust | 📅 2026-01-25 - counts the lines of code
-* [bottom](https://github.com/ClementTsang/bottom) ⭐ 13,246 | 🐛 111 | 🌐 Rust | 📅 2026-04-26 - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster) ⭐ 13,246 | 🐛 111 | 🌐 Rust | 📅 2026-04-26
+* [sharkdp/bat](https://github.com/sharkdp/bat) ⭐ 58,599 | 🐛 348 | 🌐 Rust | 📅 2026-04-28 - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml) ⭐ 58,599 | 🐛 348 | 🌐 Rust | 📅 2026-04-28
+* [sharkdp/fd](https://github.com/sharkdp/fd) ⭐ 42,741 | 🐛 177 | 🌐 Rust | 📅 2026-04-24 - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml) ⭐ 42,741 | 🐛 177 | 🌐 Rust | 📅 2026-04-24
+* [nushell/nushell](https://github.com/nushell/nushell) ⭐ 39,224 | 🐛 1,493 | 🌐 Rust | 📅 2026-04-29 - A new type of shell
+* [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide/) ⭐ 36,160 | 🐛 163 | 🌐 Rust | 📅 2026-04-13 - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions) ⭐ 36,160 | 🐛 163 | 🌐 Rust | 📅 2026-04-13
+* [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ⭐ 33,328 | 🐛 541 | 🌐 Rust | 📅 2026-04-28 - The user-friendly command line shell
+* [qarmin/czkawka](https://github.com/qarmin/czkawka) ⭐ 30,780 | 🐛 432 | 🌐 Fluent | 📅 2026-04-26 - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions) ⭐ 30,780 | 🐛 432 | 🌐 Fluent | 📅 2026-04-26
+* [atuin](https://github.com/atuinsh/atuin) ⭐ 29,521 | 🐛 481 | 🌐 Rust | 📅 2026-04-28 \[[atuin](https://crates.io/crates/atuin)] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
+* [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 23,177 | 🐛 894 | 🌐 Rust | 📅 2026-04-28 - A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml) ⭐ 23,177 | 🐛 894 | 🌐 Rust | 📅 2026-04-28
+* [gitui](https://github.com/gitui-org/gitui) ⭐ 21,845 | 🐛 294 | 🌐 Rust | 📅 2026-04-23 - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions) ⭐ 21,845 | 🐛 294 | 🌐 Rust | 📅 2026-04-23
+* [eza-community/eza](https://github.com/eza-community/eza) ⭐ 21,520 | 🐛 355 | 🌐 Rust | 📅 2026-04-10 - A replacement for 'ls'
+* [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ⭐ 20,707 | 🐛 656 | 🌐 Rust | 📅 2026-04-29 - A modern Git-based version control interface with both a GUI and CLI built from the ground up for AI-powered workflows.
+* [lsd](https://github.com/lsd-rs/lsd) ⭐ 15,950 | 🐛 190 | 🌐 Rust | 📅 2026-04-09 - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/actions/workflows/CICD.yml/badge.svg)](https://github.com/lsd-rs/lsd/actions) ⭐ 15,950 | 🐛 190 | 🌐 Rust | 📅 2026-04-09
+* [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) ⭐ 14,329 | 🐛 233 | 🌐 Rust | 📅 2026-01-25 - counts the lines of code
+* [bottom](https://github.com/ClementTsang/bottom) ⭐ 13,248 | 🐛 112 | 🌐 Rust | 📅 2026-04-28 - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster) ⭐ 13,248 | 🐛 112 | 🌐 Rust | 📅 2026-04-28
 * [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,707 | 🐛 44 | 🌐 Rust | 📅 2026-04-25 - Terminal bandwidth utilization tool
-* [dust](https://github.com/bootandy/dust) ⭐ 11,629 | 🐛 15 | 🌐 Rust | 📅 2026-02-21 - A more intuitive version of du
+* [dust](https://github.com/bootandy/dust) ⭐ 11,634 | 🐛 15 | 🌐 Rust | 📅 2026-02-21 - A more intuitive version of du
 * [sharkdp/hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,113 | 🐛 27 | 🌐 Rust | 📅 2026-02-14 \[[hexyl](https://crates.io/crates/hexyl)] - A command-line hex viewer with colored output for different byte categories [![CICD](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml) ⭐ 10,113 | 🐛 27 | 🌐 Rust | 📅 2026-02-14
-* [cantino/mcfly](https://github.com/cantino/mcfly) ⭐ 7,706 | 🐛 135 | 🌐 Rust | 📅 2026-04-14 - Fly through your shell history. Great Scott!
-* [watchexec](https://github.com/watchexec/watchexec) ⭐ 6,933 | 🐛 62 | 🌐 Rust | 📅 2026-04-27 - Executes commands in response to file modifications
-* [trippy](https://github.com/fujiapple852/trippy) ⭐ 6,825 | 🐛 74 | 🌐 Rust | 📅 2026-04-27 - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml) ⭐ 6,825 | 🐛 74 | 🌐 Rust | 📅 2026-04-27
-* [skim](https://github.com/skim-rs/skim) ⭐ 6,779 | 🐛 20 | 🌐 Rust | 📅 2026-04-28 - A fuzzy finder
-* [pueue](https://github.com/nukesor/pueue) ⭐ 6,189 | 🐛 16 | 🌐 Rust | 📅 2026-03-09 - Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/Nukesor/pueue/actions/workflows/test.yml/badge.svg)](https://github.com/nukesor/pueue/actions) ⭐ 6,189 | 🐛 16 | 🌐 Rust | 📅 2026-03-09
-* [dalance/procs](https://github.com/dalance/procs) ⭐ 6,029 | 🐛 30 | 🌐 Rust | 📅 2026-04-23 - A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml) ⭐ 6,029 | 🐛 30 | 🌐 Rust | 📅 2026-04-23
-* [ynqa/jnv](https://github.com/ynqa/jnv) ⭐ 6,002 | 🐛 22 | 🌐 Rust | 📅 2026-04-03 - Interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml) ⭐ 6,002 | 🐛 22 | 🌐 Rust | 📅 2026-04-03
-* [tw93/Kaku](https://github.com/tw93/Kaku) ⭐ 4,739 | 🐛 3 | 🌐 Rust | 📅 2026-04-28 - A fast, out-of-the-box terminal emulator built for AI coding, with zero-config defaults, AI assistant integration, and WezTerm-compatible Lua configuration. macOS-only.
-* [LACT](https://github.com/ilya-zlobintsev/LACT) ⭐ 4,348 | 🐛 67 | 🌐 Rust | 📅 2026-04-27 - Linux AMDGPU Controller
-* [ouch](https://github.com/ouch-org/ouch) ⭐ 3,526 | 🐛 97 | 🌐 Rust | 📅 2026-04-27 - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster) ⭐ 3,526 | 🐛 97 | 🌐 Rust | 📅 2026-04-27
+* [cantino/mcfly](https://github.com/cantino/mcfly) ⭐ 7,705 | 🐛 135 | 🌐 Rust | 📅 2026-04-14 - Fly through your shell history. Great Scott!
+* [watchexec](https://github.com/watchexec/watchexec) ⭐ 6,937 | 🐛 62 | 🌐 Rust | 📅 2026-04-27 - Executes commands in response to file modifications
+* [trippy](https://github.com/fujiapple852/trippy) ⭐ 6,826 | 🐛 74 | 🌐 Rust | 📅 2026-04-27 - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml) ⭐ 6,826 | 🐛 74 | 🌐 Rust | 📅 2026-04-27
+* [skim](https://github.com/skim-rs/skim) ⭐ 6,783 | 🐛 20 | 🌐 Rust | 📅 2026-04-28 - A fuzzy finder
+* [pueue](https://github.com/nukesor/pueue) ⭐ 6,187 | 🐛 16 | 🌐 Rust | 📅 2026-04-28 - Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/Nukesor/pueue/actions/workflows/test.yml/badge.svg)](https://github.com/nukesor/pueue/actions) ⭐ 6,187 | 🐛 16 | 🌐 Rust | 📅 2026-04-28
+* [dalance/procs](https://github.com/dalance/procs) ⭐ 6,028 | 🐛 30 | 🌐 Rust | 📅 2026-04-23 - A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml) ⭐ 6,028 | 🐛 30 | 🌐 Rust | 📅 2026-04-23
+* [ynqa/jnv](https://github.com/ynqa/jnv) ⭐ 6,003 | 🐛 22 | 🌐 Rust | 📅 2026-04-03 - Interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml) ⭐ 6,003 | 🐛 22 | 🌐 Rust | 📅 2026-04-03
+* [tw93/Kaku](https://github.com/tw93/Kaku) ⭐ 4,763 | 🐛 4 | 🌐 Rust | 📅 2026-04-29 - A fast, out-of-the-box terminal emulator built for AI coding, with zero-config defaults, AI assistant integration, and WezTerm-compatible Lua configuration. macOS-only.
+* [LACT](https://github.com/ilya-zlobintsev/LACT) ⭐ 4,359 | 🐛 68 | 🌐 Rust | 📅 2026-04-28 - Linux AMDGPU Controller
+* [ouch](https://github.com/ouch-org/ouch) ⭐ 3,527 | 🐛 90 | 🌐 Rust | 📅 2026-04-29 - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster) ⭐ 3,527 | 🐛 90 | 🌐 Rust | 📅 2026-04-29
 * [GQL](https://github.com/amrdeveloper/gql) ⭐ 3,490 | 🐛 11 | 🌐 Rust | 📅 2026-04-21 - A SQL like query language to run on .git files.
 * [diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,037 | 🐛 43 | 🌐 Rust | 📅 2024-03-07 - Terminal visual disk space navigator
 * [orhun/kmon](https://github.com/orhun/kmon) ⭐ 2,887 | 🐛 16 | 🌐 Rust | 📅 2025-04-22 - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
-* [pkolaczk/fclones](https://github.com/pkolaczk/fclones) ⭐ 2,723 | 🐛 84 | 🌐 Rust | 📅 2025-03-03 - Efficient duplicate file finder and remover
+* [pkolaczk/fclones](https://github.com/pkolaczk/fclones) ⭐ 2,724 | 🐛 84 | 🌐 Rust | 📅 2025-03-03 - Efficient duplicate file finder and remover
 * [Kondo](https://github.com/tbillington/kondo) ⭐ 2,264 | 🐛 41 | 🌐 Rust | 📅 2026-04-24 - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
-* [ataraxy-labs/sem](https://github.com/ataraxy-labs/sem) ⭐ 1,908 | 🐛 3 | 🌐 Rust | 📅 2026-04-28 - Entity-level semantic version control CLI. Diff, blame, graph, and impact analysis at the function/class level across 26 languages via tree-sitter. [![Release](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml/badge.svg)](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml) ⭐ 1,908 | 🐛 3 | 🌐 Rust | 📅 2026-04-28
+* [ataraxy-labs/sem](https://github.com/ataraxy-labs/sem) ⭐ 1,917 | 🐛 5 | 🌐 Rust | 📅 2026-04-29 - Entity-level semantic version control CLI. Diff, blame, graph, and impact analysis at the function/class level across 26 languages via tree-sitter. [![Release](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml/badge.svg)](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml) ⭐ 1,917 | 🐛 5 | 🌐 Rust | 📅 2026-04-29
 * [m4b/bingrep](https://github.com/m4b/bingrep) ⭐ 1,772 | 🐛 7 | 🌐 Rust | 📅 2026-01-05 - Greps through binaries from various OSs and architectures, and colors them.
 * [netscanner](https://github.com/Chleba/netscanner) ⭐ 1,758 | 🐛 11 | 🌐 Rust | 📅 2026-01-20 - TUI Network Scanner
-* [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) ⭐ 1,727 | 🐛 146 | 🌐 Rust | 📅 2026-04-28 - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
+* [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) ⭐ 1,739 | 🐛 150 | 🌐 Rust | 📅 2026-04-29 - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
 * [nivekuil/rip](https://github.com/nivekuil/rip) ⭐ 1,708 | 🐛 26 | 🌐 Rust | 📅 2024-04-08 - A safe and ergonomic alternative to `rm`
 * [redox-os/ion](https://github.com/redox-os/ion) ⭐ 1,638 | 🐛 60 | 🌐 Rust | 📅 2026-04-01 - Next-generation system shell
 * [httm](https://github.com/kimono-koans/httm) ⭐ 1,631 | 🐛 5 | 🌐 Rust | 📅 2026-04-24 - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
-* [orhun/systeroid](https://github.com/orhun/systeroid) ⭐ 1,454 | 🐛 12 | 🌐 Rust | 📅 2026-01-01 - A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/actions/workflow/status/orhun/systeroid/ci.yml?branch=main\&label=build)
+* [orhun/systeroid](https://github.com/orhun/systeroid) ⭐ 1,453 | 🐛 12 | 🌐 Rust | 📅 2026-01-01 - A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/actions/workflow/status/orhun/systeroid/ci.yml?branch=main\&label=build)
 * [brush-shell](https://github.com/reubeno/brush) ⭐ 1,343 | 🐛 80 | 🌐 Rust | 📅 2026-04-27 - bash/POSIX-compatible shell [![CICD](https://github.com/reubeno/brush/actions/workflows/ci.yaml/badge.svg)](https://github.com/reubeno/brush/actions/workflows/ci.yaml) ⭐ 1,343 | 🐛 80 | 🌐 Rust | 📅 2026-04-27[![Crate](https://img.shields.io/crates/v/brush-shell.svg?logo=rust)](https://crates.io/crates/brush-shell)
-* [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) ⭐ 1,250 | 🐛 5 | 🌐 Rust | 📅 2026-03-01 \[[systemd-manager-tui](https://crates.io/crates/systemd-manager-tui)] - A program for managing systemd services through a TUI (Terminal User Interfaces).
-* [anylinuxfs](https://github.com/nohajc/anylinuxfs) ⭐ 1,207 | 🐛 26 | 🌐 Rust | 📅 2026-04-27 - CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM
+* [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) ⭐ 1,251 | 🐛 5 | 🌐 Rust | 📅 2026-03-01 \[[systemd-manager-tui](https://crates.io/crates/systemd-manager-tui)] - A program for managing systemd services through a TUI (Terminal User Interfaces).
+* [anylinuxfs](https://github.com/nohajc/anylinuxfs) ⭐ 1,210 | 🐛 25 | 🌐 Rust | 📅 2026-04-28 - CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM
 * [mitnk/cicada](https://github.com/mitnk/cicada) ⭐ 1,002 | 🐛 0 | 🌐 Rust | 📅 2026-04-23 - A bash-like Unix shell
-* [ataraxy-labs/weave](https://github.com/ataraxy-labs/weave) ⭐ 967 | 🐛 1 | 🌐 Rust | 📅 2026-04-25 - Entity-level merge driver for Git. Resolves merge conflicts by understanding code structure via tree-sitter. Drops into git as a custom merge driver via .gitattributes. [![Release](https://github.com/ataraxy-labs/weave/actions/workflows/release.yml/badge.svg)](https://github.com/ataraxy-labs/weave/actions/workflows/release.yml) ⭐ 967 | 🐛 1 | 🌐 Rust | 📅 2026-04-25
+* [ataraxy-labs/weave](https://github.com/ataraxy-labs/weave) ⭐ 968 | 🐛 1 | 🌐 Rust | 📅 2026-04-25 - Entity-level merge driver for Git. Resolves merge conflicts by understanding code structure via tree-sitter. Drops into git as a custom merge driver via .gitattributes. [![Release](https://github.com/ataraxy-labs/weave/actions/workflows/release.yml/badge.svg)](https://github.com/ataraxy-labs/weave/actions/workflows/release.yml) ⭐ 968 | 🐛 1 | 🌐 Rust | 📅 2026-04-25
 * [Luminarys/synapse](https://github.com/Luminarys/synapse) ⭐ 851 | 🐛 50 | 🌐 Rust | 📅 2023-10-18 - Flexible and fast BitTorrent daemon.
-* [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) ⭐ 837 | 🐛 1 | 🌐 Rust | 📅 2026-03-31 \[[homebrew](https://github.com/J-x-Z/homebrew-tap) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2026-01-21] - Native macOS Wayland compositor for running Linux GUI apps without VM overhead. Built with Smithay. [![build badge](https://github.com/J-x-Z/cocoa-way/actions/workflows/release.yml/badge.svg)](https://github.com/J-x-Z/cocoa-way/actions) ⭐ 837 | 🐛 1 | 🌐 Rust | 📅 2026-03-31
+* [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) ⭐ 839 | 🐛 1 | 🌐 Rust | 📅 2026-03-31 \[[homebrew](https://github.com/J-x-Z/homebrew-tap) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2026-01-21] - Native macOS Wayland compositor for running Linux GUI apps without VM overhead. Built with Smithay. [![build badge](https://github.com/J-x-Z/cocoa-way/actions/workflows/release.yml/badge.svg)](https://github.com/J-x-Z/cocoa-way/actions) ⭐ 839 | 🐛 1 | 🌐 Rust | 📅 2026-03-31
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) ⭐ 828 | 🐛 30 | 🌐 Rust | 📅 2026-03-09 - GTK3 & CLI utility for flashing multiple USB devices in parallel
 * [macpow](https://github.com/k06a/macpow) ⭐ 772 | 🐛 6 | 🌐 Rust | 📅 2026-04-09 - Real-time power consumption monitor TUI for Apple Silicon Macs (M1–M5+). Reads IOReport, SMC, IORegistry — no sudo required. [![CI](https://github.com/k06a/macpow/actions/workflows/ci.yml/badge.svg)](https://github.com/k06a/macpow/actions/workflows/ci.yml) ⭐ 772 | 🐛 6 | 🌐 Rust | 📅 2026-04-09[![crates.io](https://img.shields.io/crates/v/macpow.svg?logo=rust)](https://crates.io/crates/macpow)
 * [ynqa/sig](https://github.com/ynqa/sig) ⭐ 748 | 🐛 1 | 🌐 Rust | 📅 2026-03-02 - Interactive grep (for streaming) [![ci](https://github.com/ynqa/sig/actions/workflows/ci.yml/badge.svg)](https://github.com/ynqa/sig/actions/workflows/ci.yml) ⭐ 748 | 🐛 1 | 🌐 Rust | 📅 2026-03-02
@@ -630,26 +630,26 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [sitkevij/hex](https://github.com/sitkevij/hex) ⭐ 564 | 🐛 2 | 🌐 Rust | 📅 2025-12-01 - A colorized hexdump terminal utility.
 * [brocode/fblog](https://github.com/brocode/fblog) ⭐ 562 | 🐛 3 | 🌐 Rust | 📅 2026-04-02 - Small command-line JSON Log viewer
 * [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) ⭐ 525 | 🐛 13 | 🌐 Rust | 📅 2026-04-25 \[[pik](https://crates.io/crates/pik)] - A TUI command line tool that helps to find and kill processes
-* [supercilex/fuc](https://github.com/supercilex/fuc) ⭐ 517 | 🐛 7 | 🌐 Rust | 📅 2026-02-22 - Fast `cp` and `rm` commands
+* [supercilex/fuc](https://github.com/supercilex/fuc) ⭐ 516 | 🐛 7 | 🌐 Rust | 📅 2026-02-22 - Fast `cp` and `rm` commands
 * [ddh](https://github.com/darakian/ddh) ⭐ 486 | 🐛 1 | 🌐 Rust | 📅 2025-08-27 - Fast duplicate file finder
 * [j0ru/kickoff](https://github.com/j0ru/kickoff) ⭐ 475 | 🐛 12 | 🌐 Rust | 📅 2026-04-22 - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions) ⭐ 475 | 🐛 12 | 🌐 Rust | 📅 2026-04-22
-* [nickgerace/gfold](https://github.com/nickgerace/gfold) ⭐ 389 | 🐛 8 | 🌐 Rust | 📅 2026-04-24 \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain) ⭐ 389 | 🐛 8 | 🌐 Rust | 📅 2026-04-24
+* [nickgerace/gfold](https://github.com/nickgerace/gfold) ⭐ 390 | 🐛 8 | 🌐 Rust | 📅 2026-04-24 \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain) ⭐ 390 | 🐛 8 | 🌐 Rust | 📅 2026-04-24
 * [crabz](https://github.com/sstadick/crabz) ⭐ 367 | 🐛 12 | 🌐 Rust | 📅 2024-03-20 - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck) ⭐ 367 | 🐛 12 | 🌐 Rust | 📅 2024-03-20
 * [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) ⭐ 362 | 🐛 0 | 🌐 Rust | 📅 2026-03-26 - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
 * [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) ⭐ 290 | 🐛 18 | 🌐 Rust | 📅 2026-03-06 - A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 * [mmstick/fontfinder](https://github.com/mmstick/fontfinder) ⭐ 274 | 🐛 6 | 🌐 Rust | 📅 2023-04-14 - GTK3 application for previewing and installing Google's fonts
 * [bustd](https://github.com/vrmiguel/bustd) ⭐ 247 | 🐛 9 | 🌐 Rust | 📅 2025-11-11 - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster) ⭐ 247 | 🐛 9 | 🌐 Rust | 📅 2025-11-11
-* [erickochen/purple](https://github.com/erickochen/purple) ⭐ 241 | 🐛 6 | 🌐 Rust | 📅 2026-04-27 \[[purple-ssh](https://crates.io/crates/purple-ssh)] - Ratatui-powered SSH client with cloud sync, container management, file transfer, tunnels, snippets and password management [![CI](https://github.com/erickochen/purple/actions/workflows/ci.yml/badge.svg)](https://github.com/erickochen/purple/actions/workflows/ci.yml) ⭐ 241 | 🐛 6 | 🌐 Rust | 📅 2026-04-27
-* [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) ⭐ 176 | 🐛 4 | 🌐 Rust | 📅 2026-04-14 \[[unifly](https://crates.io/crates/unifly)] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard [![CI](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml/badge.svg)](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml) ⭐ 176 | 🐛 4 | 🌐 Rust | 📅 2026-04-14
+* [erickochen/purple](https://github.com/erickochen/purple) ⭐ 244 | 🐛 6 | 🌐 Rust | 📅 2026-04-27 \[[purple-ssh](https://crates.io/crates/purple-ssh)] - Ratatui-powered SSH client with cloud sync, container management, file transfer, tunnels, snippets and password management [![CI](https://github.com/erickochen/purple/actions/workflows/ci.yml/badge.svg)](https://github.com/erickochen/purple/actions/workflows/ci.yml) ⭐ 244 | 🐛 6 | 🌐 Rust | 📅 2026-04-27
+* [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) ⭐ 178 | 🐛 4 | 🌐 Rust | 📅 2026-04-14 \[[unifly](https://crates.io/crates/unifly)] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard [![CI](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml/badge.svg)](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml) ⭐ 178 | 🐛 4 | 🌐 Rust | 📅 2026-04-14
 * [ChurchTao/clipboard-rs](https://github.com/ChurchTao/clipboard-rs) ⭐ 159 | 🐛 4 | 🌐 Rust | 📅 2026-04-02 \[[clipboard-rs](https://crates.io/crates/clipboard-rs)] - Cross-platform library written in Rust for getting and setting and monitoring changes the system-level clipboard content.
 * [mmstick/tv-renamer](https://github.com/mmstick/tv-renamer) ⭐ 152 | 🐛 4 | 🌐 Rust | 📅 2018-10-28 - A tv series renaming application with an optional GTK3 frontend.
 * [ynqa/logu](https://github.com/ynqa/logu) ⭐ 122 | 🐛 0 | 🌐 Rust | 📅 2025-07-11 - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml) ⭐ 122 | 🐛 0 | 🌐 Rust | 📅 2025-07-11
 * [mmstick/concurr](https://github.com/mmstick/concurr) ⚠️ Archived - Alternative to GNU Parallel w/ a client-server architecture
 * [buster/rrun](https://github.com/buster/rrun) ⭐ 112 | 🐛 7 | 🌐 Rust | 📅 2018-11-14 - A command launcher for Linux, similar to gmrun
 * [mxseev/logram](https://github.com/mxseev/logram) ⭐ 95 | 🐛 6 | 🌐 Rust | 📅 2022-01-26 - Push log files' updates to Telegram
-* [anylinuxfs-gui](https://github.com/fenio/anylinuxfs-gui) ⭐ 93 | 🐛 1 | 🌐 Rust | 📅 2026-04-18 - GUI application for anylinuxfs
-* [bolivian-peru/os-moda](https://github.com/bolivian-peru/os-moda) ⭐ 87 | 🐛 18 | 🌐 Rust | 📅 2026-04-23 - NixOS distribution where an AI agent has root through 91 typed MCP tools. 9 Rust daemons (system bridge, atomic SafeSwitch deploys with auto-rollback, hash-chained audit ledger, AES-256-GCM crypto wallets, Noise\_XX + ML-KEM-768 P2P mesh, local STT/TTS, MCP server lifecycle, system learning, domain-allowlisted egress proxy) communicate over Unix sockets.
-* [fork](https://github.com/immortal/fork) ⭐ 83 | 🐛 1 | 🌐 Rust | 📅 2026-03-09 - Library for creating a new process detached from the controlling terminal (daemon)
+* [anylinuxfs-gui](https://github.com/fenio/anylinuxfs-gui) ⭐ 94 | 🐛 1 | 🌐 Rust | 📅 2026-04-18 - GUI application for anylinuxfs
+* [bolivian-peru/os-moda](https://github.com/bolivian-peru/os-moda) ⭐ 88 | 🐛 17 | 🌐 Rust | 📅 2026-04-29 - NixOS distribution where an AI agent has root through 91 typed MCP tools. 9 Rust daemons (system bridge, atomic SafeSwitch deploys with auto-rollback, hash-chained audit ledger, AES-256-GCM crypto wallets, Noise\_XX + ML-KEM-768 P2P mesh, local STT/TTS, MCP server lifecycle, system learning, domain-allowlisted egress proxy) communicate over Unix sockets.
+* [fork](https://github.com/immortal/fork) ⭐ 82 | 🐛 1 | 🌐 Rust | 📅 2026-03-09 - Library for creating a new process detached from the controlling terminal (daemon)
 * [deshaw/procfd](https://github.com/deshaw/procfd) ⭐ 79 | 🐛 3 | 🌐 Rust | 📅 2026-01-17 \[[procfd](https://crates.io/crates/procfd)] - Linux lsof replacement to list open file descriptors for processes
 * [nwiizo/tfocus](https://github.com/nwiizo/tfocus) ⭐ 68 | 🐛 0 | 🌐 Rust | 📅 2025-01-19 - Interactive tool for selecting and executing Terraform plan/apply operations
 * [lodosgroup/lpm](https://github.com/lodosgroup/lpm) ⭐ 66 | 🐛 21 | 🌐 Rust | 📅 2024-03-03 - An experimental system package manager
@@ -662,10 +662,10 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Text editors
 
-* [zed](https://github.com/zed-industries/zed) ⭐ 79,910 | 🐛 2,839 | 🌐 Rust | 📅 2026-04-28 - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [helix](https://github.com/helix-editor/helix) ⭐ 44,139 | 🐛 1,517 | 🌐 Rust | 📅 2026-04-24 - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions) ⭐ 44,139 | 🐛 1,517 | 🌐 Rust | 📅 2026-04-24
-* [Lapce](https://github.com/lapce/lapce) ⭐ 38,325 | 🐛 878 | 🌐 Rust | 📅 2026-04-28 - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor](https://github.com/xi-editor/xi-editor) ⭐ 19,828 | 🐛 154 | 🌐 Rust | 📅 2024-03-19.
-* [Fresh](https://github.com/sinelaw/fresh) ⭐ 6,945 | 🐛 169 | 🌐 Rust | 📅 2026-04-28 - An easy-to-use, powerful and fast terminal text editor & IDE, with TypeScript plugin support.
+* [zed](https://github.com/zed-industries/zed) ⭐ 79,989 | 🐛 2,846 | 🌐 Rust | 📅 2026-04-28 - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+* [helix](https://github.com/helix-editor/helix) ⭐ 44,155 | 🐛 1,519 | 🌐 Rust | 📅 2026-04-28 - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions) ⭐ 44,155 | 🐛 1,519 | 🌐 Rust | 📅 2026-04-28
+* [Lapce](https://github.com/lapce/lapce) ⭐ 38,326 | 🐛 878 | 🌐 Rust | 📅 2026-04-29 - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor](https://github.com/xi-editor/xi-editor) ⭐ 19,828 | 🐛 154 | 🌐 Rust | 📅 2024-03-19.
+* [Fresh](https://github.com/sinelaw/fresh) ⭐ 6,954 | 🐛 166 | 🌐 Rust | 📅 2026-04-28 - An easy-to-use, powerful and fast terminal text editor & IDE, with TypeScript plugin support.
 * [ox](https://github.com/curlpipe/ox) ⭐ 3,694 | 🐛 33 | 🌐 Rust | 📅 2026-04-23 - An independent Rust text editor that runs in your terminal!
 * [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) ⭐ 1,900 | 🐛 21 | 🌐 Rust | 📅 2026-04-26 - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/actions/workflows/ci.yml/badge.svg)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster) ⭐ 1,900 | 🐛 21 | 🌐 Rust | 📅 2026-04-26
 * [gchp/iota](https://github.com/gchp/iota) ⭐ 1,656 | 🐛 41 | 🌐 Rust | 📅 2024-05-02 - A simple text editor
@@ -673,21 +673,21 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) ⭐ 920 | 🐛 173 | 🌐 Rust | 📅 2026-04-26 - A multi-cursor combinatoric modal editor
 * [mathall/rim](https://github.com/mathall/rim) ⭐ 629 | 🐛 7 | 🌐 Rust | 📅 2021-01-16 - Vim-like text editor.
 * [Inkwell](https://github.com/4worlds4w-svg/inkwell) ⭐ 201 | 🐛 3 | 📅 2026-04-02 - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
-* [SoloMD](https://github.com/zhitongblog/solomd) ⭐ 193 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-28 - A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.
+* [SoloMD](https://github.com/zhitongblog/solomd) ⭐ 196 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-29 - A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.
 * [amp](https://amp.rs) - Inspired by Vi/Vim.
 * [vamolessa/pepper](https://git.sr.ht/~lessa/pepper) \[[pepper](https://crates.io/crates/pepper)] - An opinionated modal editor to simplify code editing from the terminal
 
 ### Text processing
 
-* [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) ⭐ 9,593 | 🐛 71 | 🌐 Rust | 📅 2026-03-25 - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+* [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) ⭐ 9,595 | 🐛 71 | 🌐 Rust | 📅 2026-03-25 - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 * [grex](https://github.com/pemistahl/grex) ⭐ 8,111 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases
 * [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,747 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) ⭐ 4,747 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
-* [dathere/qsv](https://github.com/dathere/qsv) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-28 \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-28 [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-28 [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-28
-* [ashvardanian/stringzilla](https://github.com/ashvardanian/StringZilla) ⭐ 3,443 | 🐛 49 | 🌐 C | 📅 2026-03-23 - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
+* [dathere/qsv](https://github.com/dathere/qsv) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-29 \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-29 [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-29 [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml) ⭐ 3,620 | 🐛 47 | 🌐 Rust | 📅 2026-04-29
+* [ashvardanian/stringzilla](https://github.com/ashvardanian/StringZilla) ⭐ 3,444 | 🐛 49 | 🌐 C | 📅 2026-03-23 - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
 * [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) ⭐ 1,857 | 🐛 2 | 🌐 Rust | 📅 2025-10-16 \[[cfonts](https://crates.io/crates/cfonts)] - Sexy ANSI fonts for the console ![build badge](https://github.com/dominikwilkowski/cfonts/actions/workflows/testing.yml/badge.svg)
-* [scooter](https://github.com/thomasschafer/scooter) ⭐ 1,239 | 🐛 8 | 🌐 Rust | 📅 2026-04-27 - Interactive find and replace in the terminal.
+* [scooter](https://github.com/thomasschafer/scooter) ⭐ 1,241 | 🐛 8 | 🌐 Rust | 📅 2026-04-27 - Interactive find and replace in the terminal.
 * [sstadick/hck](https://github.com/sstadick/hck) ⭐ 738 | 🐛 6 | 🌐 Rust | 📅 2025-12-01 - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck) ⭐ 738 | 🐛 6 | 🌐 Rust | 📅 2025-12-01
-* [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep) ⭐ 633 | 🐛 4 | 🌐 Rust | 📅 2026-04-26 \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
+* [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep) ⭐ 634 | 🐛 4 | 🌐 Rust | 📅 2026-04-26 \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
 * [ruplacer](https://github.com/your-tools/ruplacer) ⚠️ Archived - Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml) ⚠️ Archived
 * [vishaltelangre/ff](https://github.com/vishaltelangre/ff) ⭐ 345 | 🐛 1 | 🌐 Rust | 📅 2022-01-27 - Find files (ff) by name!
 * [whitfin/runiq](https://github.com/whitfin/runiq) ⭐ 226 | 🐛 5 | 🌐 Rust | 📅 2025-12-13 - an efficient way to filter duplicate lines from unsorted input.
@@ -701,30 +701,30 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Utilities
 
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 113,024 | 🐛 116 | 🌐 Rust | 📅 2026-04-28 - A remote desktop software, great alternative to TeamViewer and AnyDesk.
-* [vaultwarden](https://github.com/dani-garcia/vaultwarden#readme) ⭐ 59,386 | 🐛 56 | 🌐 Rust | 📅 2026-04-25 [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) ⭐ 59,386 | 🐛 56 | 🌐 Rust | 📅 2026-04-25 - Alternative implementation of the Bitwarden server API written in Rust
-* [ruvnet/RuView](https://github.com/ruvnet/RuView) ⭐ 50,555 | 🐛 68 | 🌐 Rust | 📅 2026-04-27 - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
-* [warpdotdev/Warp](https://github.com/warpdotdev/Warp) ⭐ 26,521 | 🐛 3,034 | 📅 2026-04-21 - :heavy\_dollar\_sign: Warp is a blazingly-fast modern GPU-accelerated terminal built to make you and your team more productive.
-* [Vibe](https://github.com/thewh1teagle/vibe) ⭐ 5,896 | 🐛 332 | 🌐 TypeScript | 📅 2026-04-19 - Transcribe audio or video in every language on every platform.
-* [television](https://github.com/alexpasmantier/television) ⭐ 5,781 | 🐛 76 | 🌐 Rust | 📅 2026-04-16 - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
-* [gitlogue](https://github.com/unhappychoice/gitlogue) ⭐ 4,649 | 🐛 11 | 🌐 Rust | 📅 2026-04-27 - A TUI screensaver that visualizes Git commit history in your terminal
-* [str4d/rage](https://github.com/str4d/rage) ⭐ 3,448 | 🐛 60 | 🌐 Rust | 📅 2026-04-22 \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age](https://github.com/FiloSottile/age) ⭐ 22,117 | 🐛 19 | 🌐 Go | 📅 2026-03-20.
-* [rustic-rs/rustic](https://github.com/rustic-rs/rustic) ⭐ 3,021 | 🐛 147 | 🌐 Rust | 📅 2026-04-24 \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
-* [Tabiew](https://github.com/shshemi/tabiew) ⭐ 2,849 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 - A lightweight TUI app to view and query CSV files.
-* [veirt/weathr](https://github.com/Veirt/weathr) ⭐ 2,757 | 🐛 12 | 🌐 Rust | 📅 2026-04-27 \[[weathr](https://crates.io/crates/weathr)] - A terminal weather app with ASCII animation. [![Release](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg)](https://github.com/Veirt/weathr/actions/workflows/release.yml) ⭐ 2,757 | 🐛 12 | 🌐 Rust | 📅 2026-04-27
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 113,108 | 🐛 107 | 🌐 Rust | 📅 2026-04-29 - A remote desktop software, great alternative to TeamViewer and AnyDesk.
+* [vaultwarden](https://github.com/dani-garcia/vaultwarden#readme) ⭐ 59,440 | 🐛 54 | 🌐 Rust | 📅 2026-04-28 [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) ⭐ 59,440 | 🐛 54 | 🌐 Rust | 📅 2026-04-28 - Alternative implementation of the Bitwarden server API written in Rust
+* [ruvnet/RuView](https://github.com/ruvnet/RuView) ⭐ 50,654 | 🐛 109 | 🌐 Rust | 📅 2026-04-28 - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
+* [warpdotdev/Warp](https://github.com/warpdotdev/Warp) ⭐ 35,286 | 🐛 3,135 | 🌐 Rust | 📅 2026-04-29 - :heavy\_dollar\_sign: Warp is a blazingly-fast modern GPU-accelerated terminal built to make you and your team more productive.
+* [Vibe](https://github.com/thewh1teagle/vibe) ⭐ 5,915 | 🐛 332 | 🌐 TypeScript | 📅 2026-04-28 - Transcribe audio or video in every language on every platform.
+* [television](https://github.com/alexpasmantier/television) ⭐ 5,785 | 🐛 77 | 🌐 Rust | 📅 2026-04-28 - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
+* [gitlogue](https://github.com/unhappychoice/gitlogue) ⭐ 4,653 | 🐛 11 | 🌐 Rust | 📅 2026-04-27 - A TUI screensaver that visualizes Git commit history in your terminal
+* [str4d/rage](https://github.com/str4d/rage) ⭐ 3,448 | 🐛 60 | 🌐 Rust | 📅 2026-04-22 \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age](https://github.com/FiloSottile/age) ⭐ 22,124 | 🐛 19 | 🌐 Go | 📅 2026-03-20.
+* [rustic-rs/rustic](https://github.com/rustic-rs/rustic) ⭐ 3,020 | 🐛 147 | 🌐 Rust | 📅 2026-04-24 \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
+* [Tabiew](https://github.com/shshemi/tabiew) ⭐ 2,852 | 🐛 8 | 🌐 Rust | 📅 2026-04-29 - A lightweight TUI app to view and query CSV files.
+* [veirt/weathr](https://github.com/Veirt/weathr) ⭐ 2,760 | 🐛 12 | 🌐 Rust | 📅 2026-04-27 \[[weathr](https://crates.io/crates/weathr)] - A terminal weather app with ASCII animation. [![Release](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg)](https://github.com/Veirt/weathr/actions/workflows/release.yml) ⭐ 2,760 | 🐛 12 | 🌐 Rust | 📅 2026-04-27
 * [mprocs](https://github.com/pvolok/mprocs) ⭐ 2,535 | 🐛 64 | 🌐 Rust | 📅 2026-04-27 - TUI for running multiple processes
-* [mrjackwills/oxker](https://github.com/mrjackwills/oxker) ⭐ 1,632 | 🐛 20 | 🌐 Rust | 📅 2026-03-24 \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
-* [nix-community/nix-init](https://github.com/nix-community/nix-init) ⭐ 1,377 | 🐛 23 | 🌐 Rust | 📅 2026-04-27 - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml) ⭐ 1,377 | 🐛 23 | 🌐 Rust | 📅 2026-04-27
+* [mrjackwills/oxker](https://github.com/mrjackwills/oxker) ⭐ 1,634 | 🐛 21 | 🌐 Rust | 📅 2026-03-24 \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
+* [nix-community/nix-init](https://github.com/nix-community/nix-init) ⭐ 1,382 | 🐛 23 | 🌐 Rust | 📅 2026-04-27 - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml) ⭐ 1,382 | 🐛 23 | 🌐 Rust | 📅 2026-04-27
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) ⭐ 1,065 | 🐛 47 | 🌐 Rust | 📅 2024-04-20 - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 * [suckit](https://github.com/Skallwar/suckit) ⭐ 800 | 🐛 37 | 🌐 Rust | 📅 2026-03-12 - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml) ⭐ 800 | 🐛 37 | 🌐 Rust | 📅 2026-03-12
-* [nix-community/nurl](https://github.com/nix-community/nurl) ⭐ 728 | 🐛 12 | 🌐 Rust | 📅 2026-04-26 \[[nurl](https://crates.io/crates/nurl)] - Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml) ⭐ 728 | 🐛 12 | 🌐 Rust | 📅 2026-04-26
+* [nix-community/nurl](https://github.com/nix-community/nurl) ⭐ 729 | 🐛 12 | 🌐 Rust | 📅 2026-04-28 \[[nurl](https://crates.io/crates/nurl)] - Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml) ⭐ 729 | 🐛 12 | 🌐 Rust | 📅 2026-04-28
 * [nomino](https://github.com/yaa110/nomino) ⭐ 710 | 🐛 6 | 🌐 Rust | 📅 2025-08-07 - Batch rename utility for developers
-* [restsend/rustpbx](https://github.com/restsend/rustpbx) ⭐ 607 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 - Software-Defined SIP Proxy including register, presence, b2bua. alternative to Freeswitch/FreePBX.
-* [1History](https://github.com/localfirstapp/1History) ⭐ 540 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-26 - Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/localfirstapp/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/localfirstapp/1History/actions/workflows/CI.yml) ⭐ 540 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-26
+* [restsend/rustpbx](https://github.com/restsend/rustpbx) ⭐ 610 | 🐛 0 | 🌐 Rust | 📅 2026-04-29 - Software-Defined SIP Proxy including register, presence, b2bua. alternative to Freeswitch/FreePBX.
+* [1History](https://github.com/localfirstapp/1History) ⭐ 541 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-26 - Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/localfirstapp/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/localfirstapp/1History/actions/workflows/CI.yml) ⭐ 541 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-26
 * [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) ⭐ 500 | 🐛 88 | 🌐 Rust | 📅 2026-03-23 - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 * [Mobslide](https://github.com/thewh1teagle/mobslide) ⭐ 489 | 🐛 1 | 🌐 TypeScript | 📅 2025-01-25 - Desktop application that turns your smartphone into presentation remote controller.
 * [Linus-Mussmaecher/rucola](https://github.com/Linus-Mussmaecher/rucola) ⭐ 487 | 🐛 2 | 🌐 Rust | 📅 2026-04-16 - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml) ⭐ 487 | 🐛 2 | 🌐 Rust | 📅 2026-04-16
-* [wthrr](https://github.com/ttytm/wthrr-the-weathercrab) ⭐ 482 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 - Weather companion for the terminal. [![crates.io](https://img.shields.io/crates/v/wthrr?logo=rust)](https://crates.io/crates/wthrr)
+* [wthrr](https://github.com/ttytm/wthrr-the-weathercrab) ⭐ 483 | 🐛 24 | 🌐 Rust | 📅 2026-04-27 - Weather companion for the terminal. [![crates.io](https://img.shields.io/crates/v/wthrr?logo=rust)](https://crates.io/crates/wthrr)
 * [bloznelis/kbt](https://github.com/bloznelis/kbt) ⭐ 389 | 🐛 5 | 🌐 Rust | 📅 2025-11-26 \[[kbt](https://crates.io/crates/kbt)] - A simple TUI tool for keyboard testing.
 * [guoxbin/dtool](https://github.com/guoxbin/dtool) ⭐ 379 | 🐛 3 | 🌐 Rust | 📅 2025-11-24 - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 * [cartesiancs/vessel](https://github.com/cartesiancs/vessel) ⭐ 320 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-28 - C2 (Command & Control) software for orchestrating physical devices.
@@ -744,56 +744,56 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Video
 
-* [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ⭐ 8,441 | 🐛 79 | 🌐 Rust | 📅 2026-04-22 - Video stabilization application using gyroscope data
+* [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ⭐ 8,446 | 🐛 79 | 🌐 Rust | 📅 2026-04-22 - Video stabilization application using gyroscope data
 * [xiph/rav1e](https://github.com/xiph/rav1e) ⭐ 4,084 | 🐛 256 | 🌐 Assembly | 📅 2026-04-27 - The fastest and safest AV1 encoder.
-* [harlanc/xiu](https://github.com/harlanc/xiu) ⭐ 2,280 | 🐛 37 | 🌐 Rust | 📅 2026-03-07 - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+* [harlanc/xiu](https://github.com/harlanc/xiu) ⭐ 2,280 | 🐛 38 | 🌐 Rust | 📅 2026-03-07 - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 * [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) ⭐ 316 | 🐛 1 | 🌐 Rust | 📅 2026-04-24 \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
-* [vidmerger](https://github.com/TGotwig/vidmerger) ⭐ 149 | 🐛 22 | 🌐 Rust | 📅 2026-04-17 - Merge video & audio files via CLI
+* [vidmerger](https://github.com/TGotwig/vidmerger) ⭐ 149 | 🐛 22 | 🌐 Rust | 📅 2026-04-28 - Merge video & audio files via CLI
 
 ### Virtualization
 
-* [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 33,996 | 🐛 85 | 🌐 Rust | 📅 2026-04-27 - A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
-* [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐ 7,818 | 🐛 1,632 | 🌐 Rust | 📅 2026-04-27 - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
-* [youki-dev/youki](https://github.com/youki-dev/youki) ⭐ 7,363 | 🐛 123 | 🌐 Rust | 📅 2026-04-25 - A container runtime [![build badge](https://github.com/youki-dev/youki/actions/workflows/basic.yml/badge.svg)](https://github.com/youki-dev/youki/actions) ⭐ 7,363 | 🐛 123 | 🌐 Rust | 📅 2026-04-25
-* [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) ⭐ 5,855 | 🐛 43 | 🌐 Rust | 📅 2026-04-28 - Lightweight microVM sandboxing library for running isolated code execution in milliseconds. Supports Rust, Python, and TypeScript SDKs with OCI-compatible container images. [![GitHub release](https://img.shields.io/github/v/release/superradcompany/microsandbox?include_prereleases)](https://github.com/superradcompany/microsandbox/releases) ⭐ 5,855 | 🐛 43 | 🌐 Rust | 📅 2026-04-28
+* [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 34,015 | 🐛 84 | 🌐 Rust | 📅 2026-04-28 - A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
+* [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐ 7,822 | 🐛 1,631 | 🌐 Rust | 📅 2026-04-28 - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+* [youki-dev/youki](https://github.com/youki-dev/youki) ⭐ 7,363 | 🐛 124 | 🌐 Rust | 📅 2026-04-25 - A container runtime [![build badge](https://github.com/youki-dev/youki/actions/workflows/basic.yml/badge.svg)](https://github.com/youki-dev/youki/actions) ⭐ 7,363 | 🐛 124 | 🌐 Rust | 📅 2026-04-25
+* [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) ⭐ 5,876 | 🐛 41 | 🌐 Rust | 📅 2026-04-29 - Lightweight microVM sandboxing library for running isolated code execution in milliseconds. Supports Rust, Python, and TypeScript SDKs with OCI-compatible container images. [![GitHub release](https://img.shields.io/github/v/release/superradcompany/microsandbox?include_prereleases)](https://github.com/superradcompany/microsandbox/releases) ⭐ 5,876 | 🐛 41 | 🌐 Rust | 📅 2026-04-29
 * [tailhook/vagga](https://github.com/tailhook/vagga) ⭐ 1,897 | 🐛 78 | 🌐 Rust | 📅 2023-03-31 - A containerization tool without daemons
 
 ### Web
 
-* [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) ⭐ 14,357 | 🐛 127 | 🌐 Rust | 📅 2026-04-28 - A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
-* [agrinman/tunnelto](https://github.com/agrinman/tunnelto) ⭐ 6,602 | 🐛 51 | 🌐 Rust | 📅 2022-09-24 \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
-* [Redlib](https://github.com/redlib-org/redlib) ⭐ 3,273 | 🐛 203 | 🌐 Rust | 📅 2026-04-24 - An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit) ⭐ 5,192 | 🐛 197 | 🌐 Rust | 📅 2025-02-15
-* [Stoatchat](https://github.com/stoatchat/stoatchat) ⭐ 2,995 | 🐛 131 | 🌐 Rust | 📅 2026-04-27 - User-first chat platform built with modern web technologies.
+* [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) ⭐ 14,356 | 🐛 130 | 🌐 Rust | 📅 2026-04-28 - A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+* [agrinman/tunnelto](https://github.com/agrinman/tunnelto) ⭐ 6,608 | 🐛 51 | 🌐 Rust | 📅 2022-09-24 \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
+* [Redlib](https://github.com/redlib-org/redlib) ⭐ 3,281 | 🐛 203 | 🌐 Rust | 📅 2026-04-24 - An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit) ⭐ 5,192 | 🐛 197 | 🌐 Rust | 📅 2025-02-15
+* [Stoatchat](https://github.com/stoatchat/stoatchat) ⭐ 2,996 | 🐛 129 | 🌐 Rust | 📅 2026-04-27 - User-first chat platform built with modern web technologies.
 * [Plume-org/Plume](https://github.com/Plume-org/Plume) ⭐ 2,213 | 🐛 166 | 🌐 Rust | 📅 2025-04-08 - ActivityPub federating blogging application
-* [zhom/donutbrowser](https://github.com/zhom/donutbrowser) ⭐ 2,064 | 🐛 5 | 🌐 Rust | 📅 2026-04-27 - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases) ⭐ 2,064 | 🐛 5 | 🌐 Rust | 📅 2026-04-27
-* [hook0/hook0](https://github.com/hook0/hook0) ⭐ 1,408 | 🐛 3 | 🌐 Rust | 📅 2026-04-27 - An open-source webhooks-as-a-service platform that makes it easy for SaaS developers to send webhooks
-* [0xMassi/webclaw](https://github.com/0xMassi/webclaw) ⭐ 819 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 - Web content extraction for LLMs with TLS fingerprinting, MCP server, and no browser needed [![CI](https://github.com/0xMassi/webclaw/actions/workflows/ci.yml/badge.svg)](https://github.com/0xMassi/webclaw/actions) ⭐ 819 | 🐛 0 | 🌐 Rust | 📅 2026-04-27
-* [SinTan1729/Chhoto URL](https://github.com/SinTan1729/chhoto-url) ⭐ 805 | 🐛 3 | 🌐 Rust | 📅 2026-04-28 - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.[![release](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml/badge.svg)](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml) ⭐ 805 | 🐛 3 | 🌐 Rust | 📅 2026-04-28
-* [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 733 | 🐛 17 | 🌐 Rust | 📅 2026-03-30 \[[siteone-crawler](https://crates.io/crates/siteone-crawler)] - All-in-one
+* [zhom/donutbrowser](https://github.com/zhom/donutbrowser) ⭐ 2,153 | 🐛 5 | 🌐 Rust | 📅 2026-04-28 - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases) ⭐ 2,153 | 🐛 5 | 🌐 Rust | 📅 2026-04-28
+* [hook0/hook0](https://github.com/hook0/hook0) ⭐ 1,409 | 🐛 3 | 🌐 Rust | 📅 2026-04-28 - An open-source webhooks-as-a-service platform that makes it easy for SaaS developers to send webhooks
+* [0xMassi/webclaw](https://github.com/0xMassi/webclaw) ⭐ 830 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 - Web content extraction for LLMs with TLS fingerprinting, MCP server, and no browser needed [![CI](https://github.com/0xMassi/webclaw/actions/workflows/ci.yml/badge.svg)](https://github.com/0xMassi/webclaw/actions) ⭐ 830 | 🐛 0 | 🌐 Rust | 📅 2026-04-27
+* [SinTan1729/Chhoto URL](https://github.com/SinTan1729/chhoto-url) ⭐ 807 | 🐛 3 | 🌐 Rust | 📅 2026-04-29 - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.[![release](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml/badge.svg)](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml) ⭐ 807 | 🐛 3 | 🌐 Rust | 📅 2026-04-29
+* [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 734 | 🐛 17 | 🌐 Rust | 📅 2026-03-30 \[[siteone-crawler](https://crates.io/crates/siteone-crawler)] - All-in-one
   website crawler, auditor, offline archiver, and AI-ready markdown exporter with CI/CD quality gating
-  [![CI](https://github.com/janreges/siteone-crawler/workflows/CI/badge.svg)](https://github.com/janreges/siteone-crawler/actions) ⭐ 733 | 🐛 17 | 🌐 Rust | 📅 2026-03-30
-* [cfal/tobaru](https://github.com/cfal/tobaru) ⭐ 281 | 🐛 12 | 🌐 Rust | 📅 2026-02-24 - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+  [![CI](https://github.com/janreges/siteone-crawler/workflows/CI/badge.svg)](https://github.com/janreges/siteone-crawler/actions) ⭐ 734 | 🐛 17 | 🌐 Rust | 📅 2026-03-30
+* [cfal/tobaru](https://github.com/cfal/tobaru) ⭐ 280 | 🐛 12 | 🌐 Rust | 📅 2026-02-24 - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 * [importantimport/hatsu](https://github.com/importantimport/hatsu) ⭐ 245 | 🐛 10 | 🌐 Rust | 📅 2025-12-14 - 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. [![release](https://github.com/importantimport/hatsu/actions/workflows/release.yml/badge.svg)](https://github.com/importantimport/hatsu/actions/workflows/release.yml) ⭐ 245 | 🐛 10 | 🌐 Rust | 📅 2025-12-14
 * [MASQ-Project/Node](https://github.com/MASQ-Project/Node) ⭐ 192 | 🐛 149 | 🌐 Rust | 📅 2026-04-24 - MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions) ⭐ 192 | 🐛 149 | 🌐 Rust | 📅 2026-04-24
 * [shouya/rss-funnel](https://github.com/shouya/rss-funnel) ⭐ 151 | 🐛 10 | 🌐 Rust | 📅 2026-02-28 - A modular RSS processing pipeline system.
 
 ### Web Servers
 
-* [cloudflare/pingora](https://github.com/cloudflare/pingora) ⭐ 26,504 | 🐛 256 | 🌐 Rust | 📅 2026-04-27 - A library for building fast, reliable and evolvable network services.
-* [svenstaro/miniserve](https://github.com/svenstaro/miniserve) ⭐ 7,569 | 🐛 80 | 🌐 Rust | 📅 2026-04-10 - A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions) ⭐ 7,569 | 🐛 80 | 🌐 Rust | 📅 2026-04-10
-* [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) ⭐ 3,413 | 🐛 43 | 🌐 Rust | 📅 2026-03-18 - simple static http server
-* [static-web-server](https://github.com/static-web-server/static-web-server) ⭐ 2,226 | 🐛 35 | 🌐 Rust | 📅 2026-04-27 - A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster) ⭐ 2,226 | 🐛 35 | 🌐 Rust | 📅 2026-04-27
-* [orhun/rustypaste](https://github.com/orhun/rustypaste) ⭐ 1,154 | 🐛 17 | 🌐 Rust | 📅 2026-04-21 - A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
+* [cloudflare/pingora](https://github.com/cloudflare/pingora) ⭐ 26,509 | 🐛 256 | 🌐 Rust | 📅 2026-04-27 - A library for building fast, reliable and evolvable network services.
+* [svenstaro/miniserve](https://github.com/svenstaro/miniserve) ⭐ 7,570 | 🐛 80 | 🌐 Rust | 📅 2026-04-10 - A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions) ⭐ 7,570 | 🐛 80 | 🌐 Rust | 📅 2026-04-10
+* [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) ⭐ 3,412 | 🐛 43 | 🌐 Rust | 📅 2026-03-18 - simple static http server
+* [static-web-server](https://github.com/static-web-server/static-web-server) ⭐ 2,228 | 🐛 35 | 🌐 Rust | 📅 2026-04-28 - A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster) ⭐ 2,228 | 🐛 35 | 🌐 Rust | 📅 2026-04-28
+* [orhun/rustypaste](https://github.com/orhun/rustypaste) ⭐ 1,152 | 🐛 17 | 🌐 Rust | 📅 2026-04-21 - A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
 * [mufeedvh/binserve](https://github.com/mufeedvh/binserve) ⭐ 1,126 | 🐛 13 | 🌐 Rust | 📅 2024-02-18 - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/actions/workflows/build.yml/badge.svg)](https://github.com/mufeedvh/binserve/actions) ⭐ 1,126 | 🐛 13 | 🌐 Rust | 📅 2024-02-18
-* [plabayo/rama](https://github.com/plabayo/rama) ⭐ 1,000 | 🐛 76 | 🌐 Rust | 📅 2026-04-28 - A modular service framework to move and transform your network packets, used to build web clients, servers and — above all — proxies
-* [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) ⭐ 948 | 🐛 4 | 🌐 Rust | 📅 2026-04-27 - A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/proxelar/actions/workflows/autofix.yml/badge.svg)](https://github.com/emanuele-em/proxelar/actions) ⭐ 948 | 🐛 4 | 🌐 Rust | 📅 2026-04-27
+* [plabayo/rama](https://github.com/plabayo/rama) ⭐ 1,000 | 🐛 75 | 🌐 Rust | 📅 2026-04-28 - A modular service framework to move and transform your network packets, used to build web clients, servers and — above all — proxies
+* [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) ⭐ 952 | 🐛 4 | 🌐 Rust | 📅 2026-04-27 - A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/proxelar/actions/workflows/autofix.yml/badge.svg)](https://github.com/emanuele-em/proxelar/actions) ⭐ 952 | 🐛 4 | 🌐 Rust | 📅 2026-04-27
 * [g3proxy](https://github.com/bytedance/g3) ⭐ 865 | 🐛 22 | 🌐 Rust | 📅 2026-04-27 - Forward proxy server, support Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation, Transparent Proxy [![CodeCoverage](https://github.com/bytedance/g3/actions/workflows/codecov.yml/badge.svg)](https://github.com/bytedance/g3/actions) ⭐ 865 | 🐛 22 | 🌐 Rust | 📅 2026-04-27
 * [thecoshman/http](https://github.com/thecoshman/http) ⭐ 484 | 🐛 5 | 🌐 Rust | 📅 2026-01-03 - Host These Things Please - A basic http server for hosting a folder fast and simply
 * [vproxy/0x676e67](https://github.com/0x676e67/vproxy) ⭐ 390 | 🐛 1 | 🌐 Rust | 📅 2026-04-13 - An fast asynchronous Rust HTTP/Socks5 Proxy
 * [mu-arch/skyfolder](https://github.com/mu-arch/skyfolder) ⭐ 161 | 🐛 19 | 🌐 Rust | 📅 2024-03-02 - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 * [ronanyeah/rust-hasura](https://github.com/ronanyeah/rust-hasura) ⭐ 141 | 🐛 0 | 🌐 Rust | 📅 2022-04-19 - A demonstration of how a GraphQL server can be used as a remote schema with [Hasura](https://hasura.io/) ![Rust](https://github.com/ronanyeah/rust-hasura/workflows/Rust/badge.svg?branch=master)
-* [vetis-server/vetis](https://github.com/vetis-server/vetis) ⭐ 109 | 🐛 41 | 🌐 Rust | 📅 2026-04-28 - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
-* [Mini RPS](https://github.com/marcodpt/minirps) ⭐ 44 | 🐛 3 | 🌐 Rust | 📅 2024-11-06 - Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja) [crates.io](https://crates.io/crates/minirps)
+* [vetis-server/vetis](https://github.com/vetis-server/vetis) ⭐ 109 | 🐛 41 | 🌐 Rust | 📅 2026-04-29 - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
+* [Mini RPS](https://github.com/marcodpt/minirps) ⭐ 45 | 🐛 3 | 🌐 Rust | 📅 2024-11-06 - Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja) [crates.io](https://crates.io/crates/minirps)
 
 ### Workflow Automation
 
@@ -801,33 +801,33 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ## Development tools
 
-* [aaif-goose/goose](https://github.com/aaif-goose/goose) ⭐ 43,420 | 🐛 381 | 🌐 Rust | 📅 2026-04-28 - An open-source, local AI agent that automates engineering tasks.
-* [just](https://github.com/casey/just) ⭐ 33,198 | 🐛 302 | 🌐 Rust | 📅 2026-04-26 - A handy command runner for project-specific tasks
-* [delta](https://crates.io/crates/git-delta) - A syntax-highlighter for git and diff output[![build badge](https://github.com/dandavison/delta/actions/workflows/ci.yml/badge.svg)](https://github.com/dandavison/delta//actions) ⭐ 30,526 | 🐛 378 | 🌐 Rust | 📅 2026-03-28
-* [jj-vcs/jj](https://github.com/jj-vcs/jj) ⭐ 28,369 | 🐛 1,064 | 🌐 Rust | 📅 2026-04-27 - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases) ⭐ 28,369 | 🐛 1,064 | 🌐 Rust | 📅 2026-04-27
-* [mise](https://github.com/jdx/mise) ⭐ 27,353 | 🐛 47 | 🌐 Rust | 📅 2026-04-28 \[[mise](https://crates.io/crates/mise)] - Polyglot tool version manager and task runner; drop-in replacement for asdf with faster performance. [![build badge](https://github.com/jdx/mise/actions/workflows/test.yml/badge.svg)](https://github.com/jdx/mise/actions/workflows/test.yml) ⭐ 27,353 | 🐛 47 | 🌐 Rust | 📅 2026-04-28
-* [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,163 | 🐛 263 | 🌐 Rust | 📅 2026-04-26 \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
-* [biome](https://github.com/biomejs/biome) ⭐ 24,483 | 🐛 453 | 🌐 Rust | 📅 2026-04-27 - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
-* [git-cliff](https://github.com/orhun/git-cliff) ⭐ 11,785 | 🐛 110 | 🌐 Rust | 📅 2026-04-26 - A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
-* [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) ⭐ 11,246 | 🐛 181 | 🌐 Rust | 📅 2026-04-28 \[[gix](https://crates.io/crates/gix)] - Pure-Rust Git implementation with high-performance plumbing crates and CLI tools for clone, fetch, status, diff, commit, config, refs, and more. [![CI](https://github.com/GitoxideLabs/gitoxide/workflows/ci/badge.svg)](https://github.com/GitoxideLabs/gitoxide/actions) ⭐ 11,246 | 🐛 181 | 🌐 Rust | 📅 2026-04-28
-* [j178/prek](https://github.com/j178/prek) ⭐ 7,447 | 🐛 74 | 🌐 Rust | 📅 2026-04-28 - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
-* [forgecode](https://github.com/tailcallhq/forgecode) ⭐ 7,080 | 🐛 118 | 🌐 Rust | 📅 2026-04-28 - A terminal-based AI pair programmer for code generation and editing. [![Website](https://img.shields.io/badge/website-forgecode.dev-blue)](https://forgecode.dev/)
-* [Rustup](https://github.com/rust-lang/rustup) ⭐ 6,858 | 🐛 454 | 🌐 Rust | 📅 2026-04-27 - the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/actions/workflows/ci.yaml/badge.svg)](https://github.com/rust-lang/rustup/actions) ⭐ 6,858 | 🐛 454 | 🌐 Rust | 📅 2026-04-27
-* [cachix/devenv](https://github.com/cachix/devenv) ⭐ 6,717 | 🐛 320 | 🌐 Rust | 📅 2026-04-27 - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml) ⭐ 6,717 | 🐛 320 | 🌐 Rust | 📅 2026-04-27
-* [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) ⭐ 4,420 | 🐛 122 | 🌐 Rust | 📅 2026-04-28 - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
-* [Flox](https://github.com/flox/flox) ⭐ 3,930 | 🐛 397 | 🌐 Rust | 📅 2026-04-27 - Flox is a virtual environment and package manager all in one.
-* [typos](https://github.com/crate-ci/typos) ⭐ 3,917 | 🐛 146 | 🌐 Rust | 📅 2026-04-27 \[[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
-* [ATAC](https://github.com/Julien-cpsn/ATAC) ⭐ 3,578 | 🐛 15 | 🌐 Rust | 📅 2026-03-09 - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+* [aaif-goose/goose](https://github.com/aaif-goose/goose) ⭐ 43,492 | 🐛 391 | 🌐 Rust | 📅 2026-04-29 - An open-source, local AI agent that automates engineering tasks.
+* [just](https://github.com/casey/just) ⭐ 33,224 | 🐛 303 | 🌐 Rust | 📅 2026-04-28 - A handy command runner for project-specific tasks
+* [delta](https://crates.io/crates/git-delta) - A syntax-highlighter for git and diff output[![build badge](https://github.com/dandavison/delta/actions/workflows/ci.yml/badge.svg)](https://github.com/dandavison/delta//actions) ⭐ 30,539 | 🐛 378 | 🌐 Rust | 📅 2026-03-28
+* [jj-vcs/jj](https://github.com/jj-vcs/jj) ⭐ 28,409 | 🐛 1,070 | 🌐 Rust | 📅 2026-04-28 - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases) ⭐ 28,409 | 🐛 1,070 | 🌐 Rust | 📅 2026-04-28
+* [mise](https://github.com/jdx/mise) ⭐ 27,398 | 🐛 48 | 🌐 Rust | 📅 2026-04-29 \[[mise](https://crates.io/crates/mise)] - Polyglot tool version manager and task runner; drop-in replacement for asdf with faster performance. [![build badge](https://github.com/jdx/mise/actions/workflows/test.yml/badge.svg)](https://github.com/jdx/mise/actions/workflows/test.yml) ⭐ 27,398 | 🐛 48 | 🌐 Rust | 📅 2026-04-29
+* [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,164 | 🐛 263 | 🌐 Rust | 📅 2026-04-28 \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
+* [biome](https://github.com/biomejs/biome) ⭐ 24,491 | 🐛 443 | 🌐 Rust | 📅 2026-04-29 - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
+* [git-cliff](https://github.com/orhun/git-cliff) ⭐ 11,790 | 🐛 110 | 🌐 Rust | 📅 2026-04-26 - A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
+* [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) ⭐ 11,250 | 🐛 182 | 🌐 Rust | 📅 2026-04-29 \[[gix](https://crates.io/crates/gix)] - Pure-Rust Git implementation with high-performance plumbing crates and CLI tools for clone, fetch, status, diff, commit, config, refs, and more. [![CI](https://github.com/GitoxideLabs/gitoxide/workflows/ci/badge.svg)](https://github.com/GitoxideLabs/gitoxide/actions) ⭐ 11,250 | 🐛 182 | 🌐 Rust | 📅 2026-04-29
+* [j178/prek](https://github.com/j178/prek) ⭐ 7,460 | 🐛 74 | 🌐 Rust | 📅 2026-04-28 - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+* [forgecode](https://github.com/tailcallhq/forgecode) ⭐ 7,098 | 🐛 119 | 🌐 Rust | 📅 2026-04-29 - A terminal-based AI pair programmer for code generation and editing. [![Website](https://img.shields.io/badge/website-forgecode.dev-blue)](https://forgecode.dev/)
+* [Rustup](https://github.com/rust-lang/rustup) ⭐ 6,861 | 🐛 453 | 🌐 Rust | 📅 2026-04-29 - the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/actions/workflows/ci.yaml/badge.svg)](https://github.com/rust-lang/rustup/actions) ⭐ 6,861 | 🐛 453 | 🌐 Rust | 📅 2026-04-29
+* [cachix/devenv](https://github.com/cachix/devenv) ⭐ 6,720 | 🐛 319 | 🌐 Rust | 📅 2026-04-28 - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml) ⭐ 6,720 | 🐛 319 | 🌐 Rust | 📅 2026-04-28
+* [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) ⭐ 4,430 | 🐛 121 | 🌐 Rust | 📅 2026-04-29 - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
+* [Flox](https://github.com/flox/flox) ⭐ 3,934 | 🐛 395 | 🌐 Rust | 📅 2026-04-28 - Flox is a virtual environment and package manager all in one.
+* [typos](https://github.com/crate-ci/typos) ⭐ 3,919 | 🐛 145 | 🌐 Rust | 📅 2026-04-27 \[[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
+* [ATAC](https://github.com/Julien-cpsn/ATAC) ⭐ 3,580 | 🐛 15 | 🌐 Rust | 📅 2026-03-09 - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 * [Racer](https://github.com/racer-rust/racer) ⭐ 3,352 | 🐛 146 | 🌐 Rust | 📅 2023-11-19 - code completion for Rust
-* [bacon](https://github.com/Canop/bacon) ⭐ 3,230 | 🐛 66 | 🌐 Rust | 📅 2026-04-15 - background rust code checker, similar to cargo-watch
-* [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) ⭐ 2,079 | 🐛 38 | 🌐 Rust | 📅 2026-04-27 - A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune
-* [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) ⭐ 2,072 | 🐛 30 | 🌐 Rust | 📅 2026-02-05 - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/actions/workflows/ci.yml/badge.svg)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster) ⭐ 2,072 | 🐛 30 | 🌐 Rust | 📅 2026-02-05
+* [bacon](https://github.com/Canop/bacon) ⭐ 3,231 | 🐛 66 | 🌐 Rust | 📅 2026-04-15 - background rust code checker, similar to cargo-watch
+* [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) ⭐ 2,082 | 🐛 39 | 🌐 Rust | 📅 2026-04-28 - A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune
+* [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) ⭐ 2,072 | 🐛 31 | 🌐 Rust | 📅 2026-02-05 - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/actions/workflows/ci.yml/badge.svg)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster) ⭐ 2,072 | 🐛 31 | 🌐 Rust | 📅 2026-02-05
 * [create-rust-app](https://github.com/Wulf/create-rust-app) ⭐ 1,602 | 🐛 23 | 🌐 Rust | 📅 2025-06-22 - Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 * [mask](https://github.com/jacobdeichert/mask) ⭐ 1,587 | 🐛 21 | 🌐 Rust | 📅 2026-01-10 - A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI) ⭐ 1,587 | 🐛 21 | 🌐 Rust | 📅 2026-01-10
-* [cloudflare/foundations](https://github.com/cloudflare/foundations) ⭐ 1,580 | 🐛 19 | 🌐 Rust | 📅 2026-04-27 - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
+* [cloudflare/foundations](https://github.com/cloudflare/foundations) ⭐ 1,581 | 🐛 18 | 🌐 Rust | 📅 2026-04-28 - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
 * [geiger](https://github.com/geiger-rs/cargo-geiger) ⭐ 1,574 | 🐛 52 | 🌐 Rust | 📅 2026-01-11 - A program that list statistics related to usage of unsafe code in a crate and all its dependencies [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/geiger-rs.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1\&branchName=master)
-* [Rust Search Extension](https://github.com/huhu/rust-search-extension) ⭐ 1,271 | 🐛 33 | 🌐 JavaScript | 📅 2026-04-28 - A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions) ⭐ 1,271 | 🐛 33 | 🌐 JavaScript | 📅 2026-04-28
-* [intelli-shell](https://github.com/lasantosr/intelli-shell) ⭐ 1,217 | 🐛 4 | 🌐 Rust | 📅 2026-03-26 - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml) ⭐ 1,217 | 🐛 4 | 🌐 Rust | 📅 2026-03-26
+* [Rust Search Extension](https://github.com/huhu/rust-search-extension) ⭐ 1,271 | 🐛 33 | 🌐 JavaScript | 📅 2026-04-29 - A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions) ⭐ 1,271 | 🐛 33 | 🌐 JavaScript | 📅 2026-04-29
+* [intelli-shell](https://github.com/lasantosr/intelli-shell) ⭐ 1,218 | 🐛 4 | 🌐 Rust | 📅 2026-03-26 - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml) ⭐ 1,218 | 🐛 4 | 🌐 Rust | 📅 2026-03-26
 * [scriptisto](https://github.com/igor-petruk/scriptisto) ⭐ 1,082 | 🐛 10 | 🌐 Rust | 📅 2025-02-08 - A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 * [envio](https://github.com/humblepenguinn/envio) ⭐ 936 | 🐛 11 | 🌐 Rust | 📅 2026-03-03 - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml) ⭐ 936 | 🐛 11 | 🌐 Rust | 📅 2026-03-03
 * [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) ⭐ 914 | 🐛 27 | 🌐 Rust | 📅 2024-08-15 - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
@@ -835,33 +835,34 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [git-journal](https://github.com/saschagrunert/git-journal/) ⭐ 645 | 🐛 25 | 🌐 Rust | 📅 2023-01-20 - The Git Commit Message and Changelog Generation Framework
 * [comtrya](https://github.com/comtrya/comtrya) ⚠️ Archived - A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions) ⚠️ Archived
 * [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) ⭐ 563 | 🐛 34 | 🌐 Rust | 📅 2026-03-11 - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain) ⭐ 563 | 🐛 34 | 🌐 Rust | 📅 2026-03-11
-* [fw](https://github.com/brocode/fw) ⭐ 562 | 🐛 8 | 🌐 Rust | 📅 2026-04-26 - workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml) ⭐ 562 | 🐛 8 | 🌐 Rust | 📅 2026-04-26
+* [fw](https://github.com/brocode/fw) ⭐ 563 | 🐛 8 | 🌐 Rust | 📅 2026-04-26 - workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml) ⭐ 563 | 🐛 8 | 🌐 Rust | 📅 2026-04-26
 * [dan-t/rusty-tags](https://github.com/dan-t/rusty-tags) ⭐ 424 | 🐛 5 | 🌐 Rust | 📅 2024-03-05 - create ctags/etags for a cargo project and all of its dependencies
+* [Muvon/octocode](https://github.com/Muvon/octocode) ⭐ 336 | 🐛 7 | 🌐 Rust | 📅 2026-04-24 \[[octocode](https://crates.io/crates/octocode)] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf. [![CI](https://github.com/Muvon/octocode/actions/workflows/ci.yml/badge.svg)](https://github.com/Muvon/octocode/actions/workflows/ci.yml) ⭐ 336 | 🐛 7 | 🌐 Rust | 📅 2026-04-24
 * [fzf-make](https://github.com/kyu08/fzf-make) ⭐ 275 | 🐛 51 | 🌐 Rust | 📅 2026-04-22 \[[fzf-make](https://crates.io/crates/fzf-make)] - A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
 * [Module Linker](https://github.com/fiatjaf/module-linker) ⭐ 256 | 🐛 16 | 🌐 JavaScript | 📅 2021-08-13 - Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
-* [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch) ⭐ 210 | 🐛 2 | 🌐 Rust | 📅 2026-03-30 \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml) ⭐ 210 | 🐛 2 | 🌐 Rust | 📅 2026-03-30
+* [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch) ⭐ 211 | 🐛 2 | 🌐 Rust | 📅 2026-03-30 \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml) ⭐ 211 | 🐛 2 | 🌐 Rust | 📅 2026-03-30
 * [frolic](https://github.com/frolicflow/Frolic) ⭐ 200 | 🐛 0 | 🌐 Rust | 📅 2023-08-15 - An API layer to build customer facing dashboards 10x faster
 * [ptags](https://github.com/dalance/ptags) ⭐ 139 | 🐛 0 | 🌐 Rust | 📅 2026-04-08 - A parallel universal-ctags wrapper for git repository
-* [claudectl](https://github.com/mercurialsolo/claudectl) ⭐ 124 | 🐛 20 | 🌐 Rust | 📅 2026-04-28 \[[claudectl](https://crates.io/crates/claudectl)] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control. [![CI](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml/badge.svg)](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml) ⭐ 124 | 🐛 20 | 🌐 Rust | 📅 2026-04-28
-* [git-time-machine](https://github.com/dinakars777/git-time-machine) ⭐ 57 | 🐛 5 | 🌐 Rust | 📅 2026-04-20 - Visual git reflog TUI for undoing git mistakes [![crate](https://img.shields.io/crates/v/git-time-machine.svg)](https://crates.io/crates/git-time-machine) [![build badge](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml/badge.svg)](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml) ⭐ 57 | 🐛 5 | 🌐 Rust | 📅 2026-04-20
+* [claudectl](https://github.com/mercurialsolo/claudectl) ⭐ 126 | 🐛 24 | 🌐 Rust | 📅 2026-04-29 \[[claudectl](https://crates.io/crates/claudectl)] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control. [![CI](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml/badge.svg)](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml) ⭐ 126 | 🐛 24 | 🌐 Rust | 📅 2026-04-29
+* [git-time-machine](https://github.com/dinakars777/git-time-machine) ⭐ 58 | 🐛 5 | 🌐 Rust | 📅 2026-04-20 - Visual git reflog TUI for undoing git mistakes [![crate](https://img.shields.io/crates/v/git-time-machine.svg)](https://crates.io/crates/git-time-machine) [![build badge](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml/badge.svg)](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml) ⭐ 58 | 🐛 5 | 🌐 Rust | 📅 2026-04-20
 * [clippy](https://crates.io/crates/clippy) - Rust lints
 * [VT Code](https://crates.io/crates/vtcode) - Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
 
 ### Build system
 
-* [rolldown/rolldown](https://github.com/rolldown/rolldown) ⭐ 13,374 | 🐛 257 | 🌐 Rust | 📅 2026-04-28 - A JavaScript/TypeScript bundler written in Rust intended to serve as the future bundler in Vite.
-* [facebook/buck2](https://github.com/facebook/buck2) ⭐ 4,323 | 🐛 387 | 🌐 Rust | 📅 2026-04-28 - [Buck2](https://buck2.build/) is a large-scale build tool built in Rust
-* [pantsbuild/pants](https://github.com/pantsbuild/pants) ⭐ 3,763 | 🐛 1,103 | 🌐 Python | 📅 2026-04-28 - [Pants](https://www.pantsbuild.org/) is a fast, scalable, user-friendly build system for codebases of all sizes built in Rust.
+* [rolldown/rolldown](https://github.com/rolldown/rolldown) ⭐ 13,382 | 🐛 257 | 🌐 Rust | 📅 2026-04-29 - A JavaScript/TypeScript bundler written in Rust intended to serve as the future bundler in Vite.
+* [facebook/buck2](https://github.com/facebook/buck2) ⭐ 4,324 | 🐛 387 | 🌐 Rust | 📅 2026-04-29 - [Buck2](https://buck2.build/) is a large-scale build tool built in Rust
+* [pantsbuild/pants](https://github.com/pantsbuild/pants) ⭐ 3,763 | 🐛 1,100 | 🌐 Python | 📅 2026-04-28 - [Pants](https://www.pantsbuild.org/) is a fast, scalable, user-friendly build system for codebases of all sizes built in Rust.
 * [Cargo](https://crates.io/) - the Rust package manager
   * [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) ⭐ 3,073 | 🐛 9 | 🌐 Rust | 📅 2026-02-12 - Expand macros in your source code
-  * [cargo-make](https://crates.io/crates/cargo-make) - Task runner and build tool. [![build badge](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions) ⭐ 2,918 | 🐛 85 | 🌐 Rust | 📅 2026-02-05
-  * [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) ⭐ 2,632 | 🐛 102 | 🌐 Rust | 📅 2026-04-27 \[[cargo-binstall](https://crates.io/crates/cargo-binstall)] - A fast binary installer for Rust crates, fetching pre-built artifacts instead of compiling from source [![CI](https://github.com/cargo-bins/cargo-binstall/actions/workflows/ci.yml/badge.svg)](https://github.com/cargo-bins/cargo-binstall/actions) ⭐ 2,632 | 🐛 102 | 🌐 Rust | 📅 2026-04-27
+  * [cargo-make](https://crates.io/crates/cargo-make) - Task runner and build tool. [![build badge](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions) ⭐ 2,919 | 🐛 85 | 🌐 Rust | 📅 2026-02-05
+  * [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) ⭐ 2,635 | 🐛 100 | 🌐 Rust | 📅 2026-04-28 \[[cargo-binstall](https://crates.io/crates/cargo-binstall)] - A fast binary installer for Rust crates, fetching pre-built artifacts instead of compiling from source [![CI](https://github.com/cargo-bins/cargo-binstall/actions/workflows/ci.yml/badge.svg)](https://github.com/cargo-bins/cargo-binstall/actions) ⭐ 2,635 | 🐛 100 | 🌐 Rust | 📅 2026-04-28
   * [cargo-generate](https://github.com/cargo-generate/cargo-generate) ⭐ 2,402 | 🐛 56 | 🌐 Rust | 📅 2026-04-27 - A generator of a rust project by leveraging a pre-existing git repository as a template.
-  * [cargo-udeps](https://github.com/est31/cargo-udeps) ⭐ 2,092 | 🐛 41 | 🌐 Rust | 📅 2026-04-25 \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] - find unused dependencies
-  * [cargo-release](https://crates.io/crates/cargo-release) - tool for releasing git-managed cargo project, build, tag, publish, doc and push [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml) ⭐ 1,551 | 🐛 64 | 🌐 Rust | 📅 2026-04-27
+  * [cargo-udeps](https://github.com/est31/cargo-udeps) ⭐ 2,094 | 🐛 41 | 🌐 Rust | 📅 2026-04-29 \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] - find unused dependencies
+  * [cargo-release](https://crates.io/crates/cargo-release) - tool for releasing git-managed cargo project, build, tag, publish, doc and push [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml) ⭐ 1,552 | 🐛 63 | 🌐 Rust | 📅 2026-04-27
   * [cargo-cache](https://crates.io/crates/cargo-cache) - inspect/manage/clean your cargo cache (`~/.cargo/`/`${CARGO_HOME}`), print sizes etc [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions) ⭐ 976 | 🐛 35 | 🌐 Rust | 📅 2023-06-04
   * [cargo-limit](https://crates.io/crates/cargo-limit) - Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc. [![build badge](https://github.com/cargo-limit/cargo-limit/actions/workflows/ci.yml/badge.svg)](https://github.com/cargo-limit/cargo-limit/actions) ⭐ 291 | 🐛 7 | 🌐 Rust | 📅 2026-03-09
-  * [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) ⭐ 184 | 🐛 37 | 🌐 Rust | 📅 2025-11-27 - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml) ⭐ 184 | 🐛 37 | 🌐 Rust | 📅 2025-11-27
+  * [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) ⭐ 185 | 🐛 37 | 🌐 Rust | 📅 2025-11-27 - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml) ⭐ 185 | 🐛 37 | 🌐 Rust | 📅 2025-11-27
   * [cargo-rdme](https://github.com/orium/cargo-rdme) ⭐ 176 | 🐛 24 | 🌐 Rust | 📅 2026-01-24 \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] - Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI) ⭐ 176 | 🐛 24 | 🌐 Rust | 📅 2026-01-24
   * [cargo-commander](https://crates.io/crates/cargo-commander) - A subcommand for `cargo` to run CLI commands similar to how the scripts section in `package.json` works [![Build and test](https://github.com/simonhyll/cargo-commander/actions/workflows/build.yml/badge.svg)](https://github.com/simonhyll/cargo-commander/actions/workflows/build.yml) ⭐ 15 | 🐛 2 | 🌐 Rust | 📅 2022-12-02
   * [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - A utility to compare micro-benchmarks
@@ -882,10 +883,10 @@ See also [A comparison of operating systems written in Rust](https://github.com/
   * [cargo-update](https://crates.io/crates/cargo-update) - cargo subcommand for checking and applying updates to installed executables
   * [cargo-watch](https://crates.io/crates/cargo-watch) - utility for cargo to compile projects when sources change
 * [Fleet](https://github.com/suptejas/fleet) ⭐ 2,415 | 🐛 27 | 🌐 Rust | 📅 2026-04-22 \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
-* [tracemachina/nativelink](https://github.com/TraceMachina/nativelink) ⭐ 1,521 | 🐛 172 | 🌐 Rust | 📅 2026-04-27 - [NativeLink](https://www.nativelink.com) is a Backend Remote Execution platform written in rust for client build systems such as [Buck2](https://buck2.build/), [Bazel](https://bazel.build/), [Pants](https://www.pantsbuild.org/), etc.. [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TraceMachina/nativelink/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TraceMachina/nativelink) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8050/badge)](https://www.bestpractices.dev/projects/8050)
+* [tracemachina/nativelink](https://github.com/TraceMachina/nativelink) ⭐ 1,522 | 🐛 173 | 🌐 Rust | 📅 2026-04-28 - [NativeLink](https://www.nativelink.com) is a Backend Remote Execution platform written in rust for client build systems such as [Buck2](https://buck2.build/), [Bazel](https://bazel.build/), [Pants](https://www.pantsbuild.org/), etc.. [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TraceMachina/nativelink/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TraceMachina/nativelink) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8050/badge)](https://www.bestpractices.dev/projects/8050)
 * [Nix](https://nixos.org/)
-  * [nix-community/fenix](https://github.com/nix-community/fenix) ⭐ 1,028 | 🐛 37 | 🌐 Nix | 📅 2026-04-27 - Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml) ⭐ 1,028 | 🐛 37 | 🌐 Nix | 📅 2026-04-27
-* [better-fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 386 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-27 - End-to-end fullstack scaffolding tool supporting Rust (Axum, Actix Web, Leptos, Dioxus, SeaORM, SQLx, tonic, async-graphql) alongside TypeScript, Go, and Python — code ready for you or your AI agent.
+  * [nix-community/fenix](https://github.com/nix-community/fenix) ⭐ 1,028 | 🐛 37 | 🌐 Nix | 📅 2026-04-28 - Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml) ⭐ 1,028 | 🐛 37 | 🌐 Nix | 📅 2026-04-28
+* [better-fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 388 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-27 - End-to-end fullstack scaffolding tool supporting Rust (Axum, Actix Web, Leptos, Dioxus, SeaORM, SQLx, tonic, async-graphql) alongside TypeScript, Go, and Python — code ready for you or your AI agent.
 * CMake
   * [Devolutions/CMakeRust](https://github.com/Devolutions/CMakeRust) ⭐ 174 | 🐛 5 | 🌐 CMake | 📅 2025-10-29 - useful for integrating a Rust library into a CMake project
   * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) ⭐ 110 | 🐛 3 | 🌐 CMake | 📅 2018-04-15 - an example project showing usage of CMake with Rust
@@ -895,17 +896,17 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 ### Debugging
 
 * GDB
-  * [gdbgui](https://github.com/cs01/gdbgui) ⭐ 10,330 | 🐛 176 | 🌐 TypeScript | 📅 2025-06-29 - Browser based frontend for gdb to debug C, C++, Rust, and go.
+  * [gdbgui](https://github.com/cs01/gdbgui) ⭐ 10,331 | 🐛 176 | 🌐 TypeScript | 📅 2025-06-29 - Browser based frontend for gdb to debug C, C++, Rust, and go.
 * [godzie44/BugStalker](https://github.com/godzie44/BugStalker) ⭐ 1,359 | 🐛 14 | 🌐 Rust | 📅 2026-04-18 - Modern debugger for Linux x86-64. Written in Rust for Rust programs.
-* [kxxt/tracexec](https://github.com/kxxt/tracexec) ⭐ 432 | 🐛 26 | 🌐 Rust | 📅 2026-04-27 \[[tracexec](https://crates.io/crates/tracexec)] - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
+* [kxxt/tracexec](https://github.com/kxxt/tracexec) ⭐ 432 | 🐛 26 | 🌐 Rust | 📅 2026-04-28 \[[tracexec](https://crates.io/crates/tracexec)] - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 * LLDB
   * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - A LLDB extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 ### Deployment
 
 * Docker
-  * [moghtech/komodo](https://github.com/moghtech/komodo) ⭐ 11,024 | 🐛 484 | 🌐 Rust | 📅 2026-04-24 - A tool to build and deploy software across many servers, with a web UI, API, and no server limits
-  * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) ⭐ 2,582 | 🐛 38 | 🌐 Rust | 📅 2026-04-13 - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+  * [moghtech/komodo](https://github.com/moghtech/komodo) ⭐ 11,035 | 🐛 484 | 🌐 Rust | 📅 2026-04-28 - A tool to build and deploy software across many servers, with a web UI, API, and no server limits
+  * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) ⭐ 2,583 | 🐛 38 | 🌐 Rust | 📅 2026-04-13 - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
   * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) ⭐ 1,591 | 🐛 18 | 🌐 Dockerfile | 📅 2024-05-04 - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
   * [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) ⭐ 736 | 🐛 6 | 🌐 Shell | 📅 2026-04-23 - Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild) ⭐ 736 | 🐛 6 | 🌐 Shell | 📅 2026-04-23
   * [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) ⭐ 526 | 🐛 40 | 🌐 Dockerfile | 📅 2026-04-16 - the official Rust Docker image
@@ -918,19 +919,19 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Embedded
 
-[Rust Embedded](https://rust-embedded.org/) focuses on improving the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms. See [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 7,829 | 🐛 10 | 📅 2026-04-22 for a curated, and more extended list of embedded Rust resources.
+[Rust Embedded](https://rust-embedded.org/) focuses on improving the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms. See [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 7,831 | 🐛 8 | 📅 2026-04-28 for a curated, and more extended list of embedded Rust resources.
 
 * Cross compiling
   * [japaric/rust-cross](https://github.com/japaric/rust-cross) ⭐ 2,554 | 🐛 30 | 🌐 Shell | 📅 2022-07-22 - everything you need to know about cross compiling Rust programs
   * [japaric/xargo](https://github.com/japaric/xargo) ⭐ 1,132 | 🐛 66 | 🌐 Rust | 📅 2023-05-02 - effortless cross compilation of Rust programs to custom bare-metal targets like ARM Cortex-M
 * Firmware
-  * [oreboot/oreboot](https://github.com/oreboot/oreboot) ⭐ 1,771 | 🐛 67 | 🌐 Rust | 📅 2026-04-17 - oreboot is a fork of coreboot, with C removed, written in Rust
+  * [oreboot/oreboot](https://github.com/oreboot/oreboot) ⭐ 1,772 | 🐛 64 | 🌐 Rust | 📅 2026-04-28 - oreboot is a fork of coreboot, with C removed, written in Rust
 * Arduino
   * [avr-rust/ruduino](https://github.com/avr-rust/ruduino) ⭐ 730 | 🐛 19 | 🌐 Rust | 📅 2022-12-22 - Reusable components for the Arduino Uno.
 * nRF
-  * [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) ⭐ 587 | 🐛 61 | 🌐 Rust | 📅 2026-03-08 - A Rust HAL for the nRF family of devices
+  * [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) ⭐ 588 | 🐛 61 | 🌐 Rust | 📅 2026-03-08 - A Rust HAL for the nRF family of devices
 * Development Tools
-  * [Vaishnav-Sabari-Girish/ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) ⭐ 94 | 🐛 6 | 🌐 Rust | 📅 2026-04-24 - A minimal serial monitor with plotter TUI.
+  * [Vaishnav-Sabari-Girish/ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) ⭐ 95 | 🐛 6 | 🌐 Rust | 📅 2026-04-24 - A minimal serial monitor with plotter TUI.
 * Espressif
   * [esp-rs](https://github.com/esp-rs) - home to a number of community projects enabling the use of the Rust programming language on various SoCs and modules produced by Espressif Systems.
 
@@ -939,29 +940,29 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html), [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages) and [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples) ⚠️ Archived.
 
 * Python
-  * [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,024 | 🐛 379 | 🌐 Rust | 📅 2026-04-28 - A Python Interpreter written in Rust [![Build Status](https://github.com/RustPython/RustPython/workflows/CI/badge.svg)](https://github.com/RustPython/RustPython/actions?query=workflow%3ACI) ⭐ 22,024 | 🐛 379 | 🌐 Rust | 📅 2026-04-28
-  * [PyO3/PyO3](https://github.com/PyO3/PyO3) ⭐ 15,620 | 🐛 341 | 🌐 Rust | 📅 2026-04-25 - Rust bindings for the Python interpreter
+  * [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,025 | 🐛 377 | 🌐 Rust | 📅 2026-04-28 - A Python Interpreter written in Rust [![Build Status](https://github.com/RustPython/RustPython/workflows/CI/badge.svg)](https://github.com/RustPython/RustPython/actions?query=workflow%3ACI) ⭐ 22,025 | 🐛 377 | 🌐 Rust | 📅 2026-04-28
+  * [PyO3/PyO3](https://github.com/PyO3/PyO3) ⭐ 15,623 | 🐛 341 | 🌐 Rust | 📅 2026-04-28 - Rust bindings for the Python interpreter
   * [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) ⭐ 1,835 | 🐛 62 | 🌐 Rust | 📅 2024-08-14 - Python bindings
   * [getsentry/milksnake](https://github.com/getsentry/milksnake) ⭐ 801 | 🐛 10 | 🌐 Python | 📅 2023-04-11 - extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
 * Web Assembly
-  * [wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) ⭐ 8,971 | 🐛 544 | 🌐 Rust | 📅 2026-04-28 - A project for facilitating high-level interactions between wasm modules and JS.
-  * [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) ⭐ 7,157 | 🐛 400 | 🌐 Rust | 📅 2026-04-27 - :package: :sparkles: pack up the wasm and publish it to npm!
+  * [wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) ⭐ 8,974 | 🐛 545 | 🌐 Rust | 📅 2026-04-28 - A project for facilitating high-level interactions between wasm modules and JS.
+  * [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) ⭐ 7,158 | 🐛 392 | 🌐 Rust | 📅 2026-04-28 - :package: :sparkles: pack up the wasm and publish it to npm!
   * [rhysd/wain](https://github.com/rhysd/wain) ⭐ 460 | 🐛 2 | 🌐 Rust | 📅 2024-07-22 - wain: WebAssembly INterpreter from scratch in Safe Rust with zero dependency [![build badge](https://github.com/rhysd/wain/workflows/CI/badge.svg?branch=master\&event=push)](https://github.com/rhysd/wain/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush) ⭐ 460 | 🐛 2 | 🌐 Rust | 📅 2024-07-22
 * Node.js
-  * [neon-bindings/neon](https://github.com/neon-bindings/neon) ⭐ 8,408 | 🐛 121 | 🌐 Rust | 📅 2026-04-20 - Rust bindings for writing safe and fast native Node.js modules
+  * [neon-bindings/neon](https://github.com/neon-bindings/neon) ⭐ 8,405 | 🐛 121 | 🌐 Rust | 📅 2026-04-20 - Rust bindings for writing safe and fast native Node.js modules
   * [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) ⭐ 589 | 🐛 45 | 🌐 Rust | 📅 2025-01-13 - Easy way to generate nodejs module using Rust
-  * [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) ⭐ 334 | 🐛 7 | 🌐 Rust | 📅 2026-04-23 - A module written in Rust and N-API provides interface (FFI) features for Node.js
+  * [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) ⭐ 336 | 🐛 7 | 🌐 Rust | 📅 2026-04-23 - A module written in Rust and N-API provides interface (FFI) features for Node.js
 * C++
-  * [dtolnay/cxx](https://github.com/dtolnay/cxx) ⭐ 6,707 | 🐛 182 | 🌐 Rust | 📅 2026-04-24 - Safe interop between Rust and C++ [![build badge](https://img.shields.io/badge/github-dtolnay/cxx-8da0cb?style=for-the-badge\&labelColor=555555\&logo=github)](https://github.com/dtolnay/cxx) ⭐ 6,707 | 🐛 182 | 🌐 Rust | 📅 2026-04-24
-  * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) ⭐ 5,176 | 🐛 562 | 🌐 Rust | 📅 2026-04-22 - A Rust bindings generator
+  * [dtolnay/cxx](https://github.com/dtolnay/cxx) ⭐ 6,708 | 🐛 182 | 🌐 Rust | 📅 2026-04-24 - Safe interop between Rust and C++ [![build badge](https://img.shields.io/badge/github-dtolnay/cxx-8da0cb?style=for-the-badge\&labelColor=555555\&logo=github)](https://github.com/dtolnay/cxx) ⭐ 6,708 | 🐛 182 | 🌐 Rust | 📅 2026-04-24
+  * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) ⭐ 5,176 | 🐛 563 | 🌐 Rust | 📅 2026-04-22 - A Rust bindings generator
   * [rust-cpp](https://crates.io/crates/cpp) - Embed C++ code directly in Rust. [![Build status](https://ci.appveyor.com/api/projects/status/uu76vmcrwnjqra0u/branch/master?svg=true)](https://ci.appveyor.com/project/mystor/rust-cpp/branch/master)
 * Erlang
-  * [rusterlium/rustler](https://github.com/rusterlium/rustler) ⭐ 4,783 | 🐛 48 | 🌐 Rust | 📅 2026-03-15 - safe Rust bridge for creating Erlang NIF functions
+  * [rusterlium/rustler](https://github.com/rusterlium/rustler) ⭐ 4,785 | 🐛 48 | 🌐 Rust | 📅 2026-03-15 - safe Rust bridge for creating Erlang NIF functions
 * C
-  * [mozilla/cbindgen](https://github.com/mozilla/cbindgen) ⭐ 2,875 | 🐛 265 | 🌐 Rust | 📅 2026-04-01 - generates C header files from Rust source files. Used in Gecko for WebRender
+  * [mozilla/cbindgen](https://github.com/mozilla/cbindgen) ⭐ 2,875 | 🐛 265 | 🌐 Rust | 📅 2026-04-28 - generates C header files from Rust source files. Used in Gecko for WebRender
   * [Sean1708/rusty-cheddar](https://github.com/Sean1708/rusty-cheddar) ⚠️ Archived - generates C header files from Rust source files
 * Lua
-  * [mlua-rs/mlua](https://github.com/mlua-rs/mlua) ⭐ 2,679 | 🐛 64 | 🌐 Rust | 📅 2026-04-22 - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support [![build badge](https://github.com/mlua-rs/mlua/workflows/CI/badge.svg)](https://github.com/mlua-rs/mlua/actions) ⭐ 2,679 | 🐛 64 | 🌐 Rust | 📅 2026-04-22
+  * [mlua-rs/mlua](https://github.com/mlua-rs/mlua) ⭐ 2,678 | 🐛 64 | 🌐 Rust | 📅 2026-04-22 - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support [![build badge](https://github.com/mlua-rs/mlua/workflows/CI/badge.svg)](https://github.com/mlua-rs/mlua/actions) ⭐ 2,678 | 🐛 64 | 🌐 Rust | 📅 2026-04-22
   * [tomaka/hlua](https://github.com/tomaka/hlua) ⭐ 521 | 🐛 50 | 🌐 C | 📅 2025-09-11 - Rust library to interface with Lua
   * [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) ⭐ 160 | 🐛 21 | 🌐 C | 📅 2023-11-17 - Lua 5.3 bindings for Rust
   * [lilyball/rust-lua](https://github.com/lilyball/rust-lua) ⭐ 131 | 🐛 6 | 🌐 Rust | 📅 2020-01-22 - Safe Rust bindings to Lua 5.1
@@ -989,29 +990,29 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 
 ### Formatters
 
-* [astral-sh/ruff](https://github.com/astral-sh/ruff) ⭐ 47,274 | 🐛 1,971 | 🌐 Rust | 📅 2026-04-28 - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions) ⭐ 47,274 | 🐛 1,971 | 🌐 Rust | 📅 2026-04-28
-* [rustfmt](https://github.com/rust-lang/rustfmt) ⭐ 6,808 | 🐛 924 | 🌐 Rust | 📅 2026-04-26 - Rust code formatter maintained by the Rust team and included in cargo
-* [dprint](https://github.com/dprint/dprint) ⭐ 3,898 | 🐛 127 | 🌐 Rust | 📅 2026-04-08 - A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI) ⭐ 3,898 | 🐛 127 | 🌐 Rust | 📅 2026-04-08
+* [astral-sh/ruff](https://github.com/astral-sh/ruff) ⭐ 47,289 | 🐛 1,967 | 🌐 Rust | 📅 2026-04-29 - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions) ⭐ 47,289 | 🐛 1,967 | 🌐 Rust | 📅 2026-04-29
+* [rustfmt](https://github.com/rust-lang/rustfmt) ⭐ 6,811 | 🐛 920 | 🌐 Rust | 📅 2026-04-29 - Rust code formatter maintained by the Rust team and included in cargo
+* [dprint](https://github.com/dprint/dprint) ⭐ 3,903 | 🐛 127 | 🌐 Rust | 📅 2026-04-08 - A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI) ⭐ 3,903 | 🐛 127 | 🌐 Rust | 📅 2026-04-08
 * [Prettier Rust](https://github.com/jinxdash/prettier-plugin-rust) ⭐ 204 | 🐛 13 | 🌐 Rust | 📅 2023-05-26 - An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 
 ### IDEs
 
 See also [Rust Tools](https://rust-lang.org/tools/).
 
-* [lapce](https://github.com/lapce/lapce) ⭐ 38,325 | 🐛 878 | 🌐 Rust | 📅 2026-04-28 - Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml) ⭐ 38,325 | 🐛 878 | 🌐 Rust | 📅 2026-04-28
+* [lapce](https://github.com/lapce/lapce) ⭐ 38,326 | 🐛 878 | 🌐 Rust | 📅 2026-04-29 - Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml) ⭐ 38,326 | 🐛 878 | 🌐 Rust | 📅 2026-04-29
 * [IntelliJ](https://www.jetbrains.com/idea/)
   * [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) ⭐ 4,530 | 🐛 1,831 | 🌐 Kotlin | 📅 2024-03-13 - Rust plugin for the IntelliJ Platform
 * [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
-  * [rust.vim](https://github.com/rust-lang/rust.vim) ⭐ 4,155 | 🐛 136 | 🌐 Vim Script | 📅 2024-06-02 - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+  * [rust.vim](https://github.com/rust-lang/rust.vim) ⭐ 4,157 | 🐛 136 | 🌐 Vim Script | 📅 2024-06-02 - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
   * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) ⭐ 3,554 | 🐛 124 | 🌐 Rust | 📅 2025-10-09 - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
   * [crates.nvim](https://github.com/Saecki/crates.nvim) ⭐ 1,095 | 🐛 10 | 🌐 Lua | 📅 2026-04-13 - plugin that helps to managing crates.io dependencies.
   * [vim-racer](https://github.com/racer-rust/vim-racer) ⭐ 624 | 🐛 5 | 🌐 Vim script | 📅 2021-04-04 - allows vim to use [Racer](https://github.com/racer-rust/racer) ⭐ 3,352 | 🐛 146 | 🌐 Rust | 📅 2023-11-19 for Rust code completion and navigation.
-  * [cargo.nvim](https://github.com/nwiizo/cargo.nvim) ⭐ 87 | 🐛 2 | 🌐 Rust | 📅 2025-05-14 - A Neovim plugin for seamless integration with Cargo commands.
+  * [cargo.nvim](https://github.com/nwiizo/cargo.nvim) ⭐ 88 | 🐛 2 | 🌐 Rust | 📅 2025-05-14 - A Neovim plugin for seamless integration with Cargo commands.
 * [Emacs](https://www.gnu.org/software/emacs/)
   * [rust-mode](https://github.com/rust-lang/rust-mode) ⭐ 1,243 | 🐛 70 | 🌐 Emacs Lisp | 📅 2026-04-16 - Rust Major Mode
   * [emacs-racer](https://github.com/racer-rust/emacs-racer) ⭐ 397 | 🐛 36 | 🌐 Emacs Lisp | 📅 2021-03-07 - Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete](https://github.com/auto-complete/auto-complete) ⭐ 1,763 | 🐛 104 | 🌐 Emacs Lisp | 📅 2025-12-31)
   * [rustic](https://github.com/emacs-rustic/rustic) ⭐ 170 | 🐛 29 | 🌐 Emacs Lisp | 📅 2026-04-07 - Rust development environment for Emacs [![build badge](https://github.com/emacs-rustic/rustic/workflows/CI/badge.svg)](https://github.com/emacs-rustic/rustic/actions?query=workflow%3ACI) ⭐ 170 | 🐛 29 | 🌐 Emacs Lisp | 📅 2026-04-07
-  * [flycheck-rust](https://github.com/flycheck/flycheck-rust) ⭐ 124 | 🐛 4 | 🌐 Emacs Lisp | 📅 2025-12-31 - Rust support for [Flycheck](https://github.com/flycheck/flycheck) ⭐ 2,515 | 🐛 34 | 🌐 Emacs Lisp | 📅 2026-03-20
+  * [flycheck-rust](https://github.com/flycheck/flycheck-rust) ⭐ 124 | 🐛 4 | 🌐 Emacs Lisp | 📅 2025-12-31 - Rust support for [Flycheck](https://github.com/flycheck/flycheck) ⭐ 2,515 | 🐛 36 | 🌐 Emacs Lisp | 📅 2026-03-20
 * [Sublime Text](https://www.sublimetext.com/)
   * [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) ⭐ 818 | 🐛 76 | 🌐 Python | 📅 2026-01-26 - official Rust package
 * Visual Studio
@@ -1033,13 +1034,13 @@ See also [Rust Tools](https://rust-lang.org/tools/).
 
 ### Profiling
 
-* [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,001 | 🐛 76 | 🌐 Rust | 📅 2026-02-14 - A command-line benchmarking tool
-* [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) ⭐ 5,466 | 🐛 222 | 🌐 Rust | 📅 2026-04-23 - Statistics-driven benchmarking library
+* [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,010 | 🐛 76 | 🌐 Rust | 📅 2026-02-14 - A command-line benchmarking tool
+* [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) ⭐ 5,467 | 🐛 222 | 🌐 Rust | 📅 2026-04-23 - Statistics-driven benchmarking library
 * [Bytehound](https://github.com/koute/bytehound) ⭐ 4,780 | 🐛 52 | 🌐 C | 📅 2023-07-28 - A memory profiler for Linux
-* [pawurb/hotpath](https://github.com/pawurb/hotpath-rs) ⭐ 1,451 | 🐛 7 | 🌐 Rust | 📅 2026-04-27 - A simple profiler that shows exactly where your code spends time and allocates [![GH Actions](https://github.com/pawurb/hotpath-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/pawurb/hotpath-rs/actions) ⭐ 1,451 | 🐛 7 | 🌐 Rust | 📅 2026-04-27
+* [pawurb/hotpath](https://github.com/pawurb/hotpath-rs) ⭐ 1,451 | 🐛 6 | 🌐 Rust | 📅 2026-04-28 - A simple profiler that shows exactly where your code spends time and allocates [![GH Actions](https://github.com/pawurb/hotpath-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/pawurb/hotpath-rs/actions) ⭐ 1,451 | 🐛 6 | 🌐 Rust | 📅 2026-04-28
 * [Divan](https://github.com/nvzqz/divan) ⭐ 1,390 | 🐛 48 | 🌐 Rust | 📅 2025-04-17 - Simple yet powerful benchmarking library with allocation profiling
 * [g3bench](https://github.com/bytedance/g3) ⭐ 865 | 🐛 22 | 🌐 Rust | 📅 2026-04-27 - A benchmark tool that supports HTTP 1.x, HTTP 2, HTTP 3, TLS Handshake, DNS and Cloudflare Keyless
-* [Bencher](https://github.com/bencherdev/bencher) ⭐ 829 | 🐛 153 | 🌐 MDX | 📅 2026-04-24 - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+* [Bencher](https://github.com/bencherdev/bencher) ⭐ 829 | 🐛 153 | 🌐 MDX | 📅 2026-04-29 - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 * FlameGraphs
   * [llogiq/flame](https://github.com/llogiq/flame) ⭐ 731 | 🐛 14 | 🌐 Rust | 📅 2024-02-25 - An intrusive flamegraph profiling tool for rust
 * [cong-or/hud](https://github.com/cong-or/hud) ⭐ 155 | 🐛 1 | 🌐 Rust | 📅 2026-04-20 - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
@@ -1047,7 +1048,7 @@ See also [Rust Tools](https://rust-lang.org/tools/).
 
 ### Services
 
-* [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) ⭐ 942 | 🐛 9 | 🌐 Rust | 📅 2026-04-21 - Transform your codebase into professional architecture documentation. [![crates.io](https://img.shields.io/crates/v/deepwiki-rs?logo=rust)](https://crates.io/crates/deepwiki-rs)
+* [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) ⭐ 943 | 🐛 7 | 🌐 Rust | 📅 2026-04-29 - Transform your codebase into professional architecture documentation. [![crates.io](https://img.shields.io/crates/v/deepwiki-rs?logo=rust)](https://crates.io/crates/deepwiki-rs)
 * [deps.rs](https://github.com/deps-rs/deps.rs) ⭐ 483 | 🐛 42 | 🌐 Sass | 📅 2026-04-22 - Detect outdated or insecure dependencies
 * [docs.rs](https://docs.rs) - Automatic documentation generation of crates
 
@@ -1055,9 +1056,9 @@ See also [Rust Tools](https://rust-lang.org/tools/).
 
 \[[assert](https://crates.io/keywords/assert), [static](https://crates.io/keywords/static)]
 
-* [verus-lang/verus](https://github.com/verus-lang/verus) ⭐ 2,511 | 🐛 233 | 🌐 Rust | 📅 2026-04-27 - Verified Rust for low-level systems code
-* [creusot-rs/creusot](https://github.com/creusot-rs/creusot) ⭐ 1,567 | 🐛 106 | 🌐 Rust | 📅 2026-04-27 - A deductive verifier for Rust that proves absence of panics, overflows, and assertion failures by translating code to the Why3 verification platform
-* [MIRAI](https://github.com/endorlabs/mirai) ⭐ 208 | 🐛 12 | 🌐 Rust | 📅 2026-04-14 - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml) ⭐ 208 | 🐛 12 | 🌐 Rust | 📅 2026-04-14
+* [verus-lang/verus](https://github.com/verus-lang/verus) ⭐ 2,517 | 🐛 236 | 🌐 Rust | 📅 2026-04-28 - Verified Rust for low-level systems code
+* [creusot-rs/creusot](https://github.com/creusot-rs/creusot) ⭐ 1,567 | 🐛 108 | 🌐 Rust | 📅 2026-04-28 - A deductive verifier for Rust that proves absence of panics, overflows, and assertion failures by translating code to the Why3 verification platform
+* [MIRAI](https://github.com/endorlabs/mirai) ⭐ 210 | 🐛 12 | 🌐 Rust | 📅 2026-04-14 - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml) ⭐ 210 | 🐛 12 | 🌐 Rust | 📅 2026-04-14
 * [RAPx](https://github.com/safer-rust/RAPx) ⭐ 144 | 🐛 5 | 🌐 Rust | 📅 2026-04-13 - A platform that helps Rust programmers develop and use advanced static analysis tools beyond those provided by the rustc compiler.
 * [cargo-coupling](https://github.com/nwiizo/cargo-coupling) ⭐ 73 | 🐛 1 | 🌐 Rust | 📅 2026-04-26 - A Rust coupling analysis tool using Vlad Khononov's "Balancing Coupling in Software Design" framework
 * [static\_assertions](https://crates.io/crates/static_assertions) - Compile-time assertions to ensure that invariants are met
@@ -1066,23 +1067,8 @@ See also [Rust Tools](https://rust-lang.org/tools/).
 
 \[[test](https://crates.io/keywords/test), [testing](https://crates.io/keywords/testing)]
 
-* Property Testing and Fuzzing
-  * [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) ⭐ 1,820 | 🐛 39 | 🌐 Rust | 📅 2026-04-27 - A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
-  * [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident) ⭐ 380 | 🐛 19 | 🌐 Rust | 📅 2026-04-01 - Fuzzing framework for Solana smart contracts with manually-guided testing, flow-based sequences, and property-based validation
-  * [proptest](https://crates.io/crates/proptest) - property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python
-  * [quickcheck](https://crates.io/crates/quickcheck) - A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
-* Mocking and Test Data
-  * [asomers/mockall](https://github.com/asomers/mockall) ⭐ 1,807 | 🐛 53 | 🌐 Rust | 📅 2026-04-17 \[[mockall](https://crates.io/crates/mockall)] - A powerful mock object library. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
-  * [synth](https://github.com/shuttle-hq/synth/) ⭐ 1,479 | 🐛 98 | 🌐 Rust | 📅 2024-09-27 - Generate database data declaratively. [![build](https://github.com/shuttle-hq/synth/actions/workflows/synth-test.yml/badge.svg)](https://github.com/shuttle-hq/synth) ⭐ 1,479 | 🐛 98 | 🌐 Rust | 📅 2024-09-27
-  * [fake-rs](https://github.com/cksac/fake-rs) ⭐ 1,212 | 🐛 10 | 🌐 Rust | 📅 2026-03-16 - A library for generating fake data
-  * [httpmock](https://github.com/httpmock/httpmock) ⭐ 655 | 🐛 38 | 🌐 Rust | 📅 2026-04-06 - HTTP mocking [![Build](https://github.com/httpmock/httpmock/actions/workflows/build.yml/badge.svg)](https://github.com/httpmock/httpmock/actions/workflows/build.yml) ⭐ 655 | 🐛 38 | 🌐 Rust | 📅 2026-04-06
-  * [nrxus/faux](https://github.com/nrxus/faux/) ⭐ 485 | 🐛 14 | 🌐 Rust | 📅 2025-09-27 [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) - A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
-  * [mocktail](https://github.com/IBM/mocktail) ⭐ 86 | 🐛 10 | 🌐 Rust | 📅 2026-04-16 [![mocktail](https://img.shields.io/crates/v/mocktail)](https://crates.io/crates/mocktail) - HTTP & gRPC server mocking for Rust ![build](https://github.com/IBM/mocktail/actions/workflows/build.yml/badge.svg)
-  * [goldenfile](https://github.com/calder/rust-goldenfile) ⭐ 44 | 🐛 0 | 🌐 Rust | 📅 2026-02-25 \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
-  * [bcheidemann/fixtures-rs](https://github.com/bcheidemann/fixtures-rs/tree/main/fixtures) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-10-23 \[[fixtures](https://crates.io/crates/fixtures)] - A proc macro for generating tests from fixtures using glob patterns
-  * [mockiato](https://crates.io/crates/mockiato) - A strict, yet friendly mocking library for unstable Rust 2018
-  * [mockito](https://crates.io/crates/mockito) - HTTP mocking
 * Frameworks and Runners
+  * [nextest-rs/nextest](https://github.com/nextest-rs/nextest) ⭐ 2,936 | 🐛 92 | 🌐 Rust | 📅 2026-04-29 \[[cargo-nextest](https://crates.io/crates/cargo-nextest)] - Next-generation test runner for Rust with parallel test execution, faster test runs, advanced filtering, and rich output. [![cargo-nextest on crates.io](https://img.shields.io/crates/v/cargo-nextest)](https://crates.io/crates/cargo-nextest)
   * [rstest](https://crates.io/crates/rstest) - Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions) ⭐ 1,550 | 🐛 70 | 🌐 Rust | 📅 2026-03-26
   * [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg)](https://crates.io/crates/cucumber) - An implementation of the Cucumber testing framework for Rust. Fully native, no external test runners or dependencies. [![Build Status](https://github.com/cucumber-rs/cucumber/actions/workflows/ci.yml/badge.svg)](https://github.com/cucumber-rs/cucumber/actions) ⭐ 709 | 🐛 24 | 🌐 Rust | 📅 2026-04-23
   * [GoogleTest Rust](https://crates.io/crates/googletest) - Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain) ⭐ 410 | 🐛 41 | 🌐 Rust | 📅 2026-04-24
@@ -1093,6 +1079,22 @@ See also [Rust Tools](https://rust-lang.org/tools/).
   * [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - A cargo extension to simplify running library tests and benches on smartphones and other small processor devices.
   * [demonstrate](https://crates.io/crates/demonstrate) - Declarative Testing Framework
   * [speculate](https://crates.io/crates/speculate) - An RSpec inspired minimal testing framework
+* Property Testing and Fuzzing
+  * [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) ⭐ 1,819 | 🐛 39 | 🌐 Rust | 📅 2026-04-27 - A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
+  * [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident) ⭐ 380 | 🐛 19 | 🌐 Rust | 📅 2026-04-01 - Fuzzing framework for Solana smart contracts with manually-guided testing, flow-based sequences, and property-based validation
+  * [proptest](https://crates.io/crates/proptest) - property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python
+  * [quickcheck](https://crates.io/crates/quickcheck) - A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
+* Mocking and Test Data
+  * [asomers/mockall](https://github.com/asomers/mockall) ⭐ 1,807 | 🐛 53 | 🌐 Rust | 📅 2026-04-17 \[[mockall](https://crates.io/crates/mockall)] - A powerful mock object library. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
+  * [synth](https://github.com/shuttle-hq/synth/) ⭐ 1,480 | 🐛 98 | 🌐 Rust | 📅 2024-09-27 - Generate database data declaratively. [![build](https://github.com/shuttle-hq/synth/actions/workflows/synth-test.yml/badge.svg)](https://github.com/shuttle-hq/synth) ⭐ 1,480 | 🐛 98 | 🌐 Rust | 📅 2024-09-27
+  * [fake-rs](https://github.com/cksac/fake-rs) ⭐ 1,212 | 🐛 10 | 🌐 Rust | 📅 2026-03-16 - A library for generating fake data
+  * [httpmock](https://github.com/httpmock/httpmock) ⭐ 655 | 🐛 38 | 🌐 Rust | 📅 2026-04-06 - HTTP mocking [![Build](https://github.com/httpmock/httpmock/actions/workflows/build.yml/badge.svg)](https://github.com/httpmock/httpmock/actions/workflows/build.yml) ⭐ 655 | 🐛 38 | 🌐 Rust | 📅 2026-04-06
+  * [nrxus/faux](https://github.com/nrxus/faux/) ⭐ 485 | 🐛 14 | 🌐 Rust | 📅 2025-09-27 [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) - A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
+  * [mocktail](https://github.com/IBM/mocktail) ⭐ 86 | 🐛 10 | 🌐 Rust | 📅 2026-04-16 [![mocktail](https://img.shields.io/crates/v/mocktail)](https://crates.io/crates/mocktail) - HTTP & gRPC server mocking for Rust ![build](https://github.com/IBM/mocktail/actions/workflows/build.yml/badge.svg)
+  * [goldenfile](https://github.com/calder/rust-goldenfile) ⭐ 44 | 🐛 0 | 🌐 Rust | 📅 2026-02-25 \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
+  * [bcheidemann/fixtures-rs](https://github.com/bcheidemann/fixtures-rs/tree/main/fixtures) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-10-23 \[[fixtures](https://crates.io/crates/fixtures)] - A proc macro for generating tests from fixtures using glob patterns
+  * [mockiato](https://crates.io/crates/mockiato) - A strict, yet friendly mocking library for unstable Rust 2018
+  * [mockito](https://crates.io/crates/mockito) - HTTP mocking
 * Continuous Integration
   * [trust](https://github.com/japaric/trust) ⭐ 1,280 | 🐛 40 | 🌐 Shell | 📅 2022-11-15 - A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 * Mutation Testing
@@ -1105,15 +1107,15 @@ See also [Rust Tools](https://rust-lang.org/tools/).
 
 ### Transpiling
 
-* [immunant/c2rust](https://github.com/immunant/c2rust) ⭐ 4,687 | 🐛 365 | 🌐 Rust | 📅 2026-04-24 - C to Rust translator and cross checker built atop Clang/LLVM.
+* [immunant/c2rust](https://github.com/immunant/c2rust) ⭐ 4,687 | 🐛 364 | 🌐 Rust | 📅 2026-04-28 - C to Rust translator and cross checker built atop Clang/LLVM.
 * [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,977 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [![GitHub Actions Status](https://github.com/BayesWitnesses/m2cgen/workflows/GitHub%20Actions/badge.svg?branch=master)](https://github.com/BayesWitnesses/m2cgen/actions) ⭐ 2,977 | 🐛 62 | 🌐 Python | 📅 2024-08-03
 * [jameysharp/corrode](https://github.com/jameysharp/corrode) ⭐ 2,188 | 🐛 80 | 🌐 Haskell | 📅 2019-03-10 - A C to Rust translator written in Haskell.
 * [aleph-lang/aleph\_ollama](https://github.com/aleph-lang/aleph_ollama) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-03-27 \[[aleph\_ollama](https://crates.io/crates/aleph_ollama)] - AI-powered source code translation tool using local Ollama API.
 
 ### Tunnel
 
-* [rathole-org/rathole](https://github.com/rathole-org/rathole) ⭐ 13,445 | 🐛 110 | 🌐 Rust | 📅 2026-04-16 - A secure, high-performance reverse proxy for NAT traversal with Noise Protocol/TLS encryption and hot-reload config support ![CI](https://img.shields.io/github/actions/workflow/status/rathole-org/rathole/rust.yml?branch=main)
-* [ekzhang/bore](https://github.com/ekzhang/bore) ⭐ 11,085 | 🐛 16 | 🌐 Rust | 📅 2026-02-04 \[[bore-cli](https://crates.io/crates/bore-cli)] - A simple TCP tunnel to expose local ports to a remote server, bypassing NAT firewalls [![Build status](https://img.shields.io/github/actions/workflow/status/ekzhang/bore/ci.yml)](https://github.com/ekzhang/bore/actions) ⭐ 11,085 | 🐛 16 | 🌐 Rust | 📅 2026-02-04
+* [rathole-org/rathole](https://github.com/rathole-org/rathole) ⭐ 13,462 | 🐛 110 | 🌐 Rust | 📅 2026-04-16 - A secure, high-performance reverse proxy for NAT traversal with Noise Protocol/TLS encryption and hot-reload config support ![CI](https://img.shields.io/github/actions/workflow/status/rathole-org/rathole/rust.yml?branch=main)
+* [ekzhang/bore](https://github.com/ekzhang/bore) ⭐ 11,089 | 🐛 16 | 🌐 Rust | 📅 2026-02-04 \[[bore-cli](https://crates.io/crates/bore-cli)] - A simple TCP tunnel to expose local ports to a remote server, bypassing NAT firewalls [![Build status](https://img.shields.io/github/actions/workflow/status/ekzhang/bore/ci.yml)](https://github.com/ekzhang/bore/actions) ⭐ 11,089 | 🐛 16 | 🌐 Rust | 📅 2026-02-04
 * [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) ⭐ 374 | 🐛 1 | 🌐 Rust | 📅 2026-04-03 \[[ngrok-rust](https://crates.io/crates/ngrok)] - ngrok is a developer tool that exposes your local app to the internet securely.
 
 ## Libraries
@@ -1140,20 +1142,20 @@ See \[[Machine learning](https://crates.io/keywords/machine-learning)]
 
 See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f) and [Are we learning yet?](https://www.arewelearningyet.com).
 
-* [huggingface/candle](https://github.com/huggingface/candle) ⭐ 20,105 | 🐛 649 | 🌐 Rust | 📅 2026-04-27 \[[candle-core](https://crates.io/crates/candle-core)] - a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
-* [burn](https://github.com/tracel-ai/burn) ⭐ 14,957 | 🐛 265 | 🌐 Rust | 📅 2026-04-27 - A Flexible and Comprehensive Deep Learning Framework.
-* [huggingface/tokenizers](https://github.com/huggingface/tokenizers) ⭐ 10,679 | 🐛 163 | 🌐 Rust | 📅 2026-04-27 - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions) ⭐ 10,679 | 🐛 163 | 🌐 Rust | 📅 2026-04-27
-* [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) ⭐ 7,066 | 🐛 349 | 🌐 Rust | 📅 2026-04-15 \[[mistralrs](https://crates.io/crates/mistralrs)] - Fast, flexible LLM inference engine supporting multimodal models, quantization (GGUF/GPTQ/ISQ), and OpenAI-compatible API
-* [katanemo/plano](https://github.com/katanemo/plano) ⭐ 6,396 | 🐛 128 | 🌐 Rust | 📅 2026-04-27 - The AI-native proxy server and data plane for agentic apps.
+* [huggingface/candle](https://github.com/huggingface/candle) ⭐ 20,119 | 🐛 649 | 🌐 Rust | 📅 2026-04-27 \[[candle-core](https://crates.io/crates/candle-core)] - a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
+* [burn](https://github.com/tracel-ai/burn) ⭐ 14,962 | 🐛 267 | 🌐 Rust | 📅 2026-04-28 - A Flexible and Comprehensive Deep Learning Framework.
+* [huggingface/tokenizers](https://github.com/huggingface/tokenizers) ⭐ 10,681 | 🐛 166 | 🌐 Rust | 📅 2026-04-27 - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions) ⭐ 10,681 | 🐛 166 | 🌐 Rust | 📅 2026-04-27
+* [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) ⭐ 7,070 | 🐛 348 | 🌐 Rust | 📅 2026-04-15 \[[mistralrs](https://crates.io/crates/mistralrs)] - Fast, flexible LLM inference engine supporting multimodal models, quantization (GGUF/GPTQ/ISQ), and OpenAI-compatible API
+* [katanemo/plano](https://github.com/katanemo/plano) ⭐ 6,402 | 🐛 133 | 🌐 Rust | 📅 2026-04-27 - The AI-native proxy server and data plane for agentic apps.
 * [autumnai/leaf](https://github.com/autumnai/leaf) ⭐ 5,545 | 🐛 33 | 🌐 Rust | 📅 2024-03-20 - Open Machine Intelligence framework.. Abandoned project. The most updated fork is [juice](https://github.com/fff-rs/juice) ⭐ 1,128 | 🐛 45 | 🌐 Rust | 📅 2024-07-22.
 * [tensorflow/rust](https://github.com/tensorflow/rust) ⚠️ Archived - Bindings for TensorFlow.
-* [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,364 | 🐛 233 | 🌐 Rust | 📅 2026-03-26 - Bindings for PyTorch.
-* [rust-ml/linfa](https://github.com/rust-ml/linfa) ⭐ 4,638 | 🐛 71 | 🌐 Rust | 📅 2026-04-16 - Machine learning framework.
+* [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,367 | 🐛 233 | 🌐 Rust | 📅 2026-03-26 - Bindings for PyTorch.
+* [rust-ml/linfa](https://github.com/rust-ml/linfa) ⭐ 4,637 | 🐛 71 | 🌐 Rust | 📅 2026-04-16 - Machine learning framework.
 * [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) ⭐ 3,057 | 🐛 74 | 🌐 Rust | 📅 2026-01-13 \[[rust\_bert](https://crates.io/crates/rust_bert)] - Ready-to-use NLP pipelines and language models
-* [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) ⭐ 1,931 | 🐛 14 | 🌐 Rust | 📅 2026-04-27 - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
-* [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) ⭐ 1,906 | 🐛 90 | 🌐 Rust | 📅 2024-07-23 - CUDA accelerated machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
+* [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) ⭐ 1,932 | 🐛 14 | 🌐 Rust | 📅 2026-04-28 - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
+* [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) ⭐ 1,907 | 🐛 90 | 🌐 Rust | 📅 2024-07-23 - CUDA accelerated machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
 * [smartcorelib/smartcore](https://github.com/smartcorelib/smartcore) ⭐ 909 | 🐛 47 | 🌐 Rust | 📅 2026-04-15 - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
-* [perpetual-ml/perpetual](https://github.com/perpetual-ml/perpetual) ⭐ 674 | 🐛 1 | 🌐 Rust | 📅 2026-04-02 \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
+* [perpetual-ml/perpetual](https://github.com/perpetual-ml/perpetual) ⭐ 675 | 🐛 1 | 🌐 Rust | 📅 2026-04-02 \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 * [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) ⭐ 640 | 🐛 13 | 🌐 Rust | 📅 2021-06-07 - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
 * [blackportal-ai/delta](https://github.com/blackportal-ai/delta) ⭐ 413 | 🐛 8 | 🌐 Rust | 📅 2025-06-10 - Δ An Open-Source Machine Learning Framework in Rust. ![crates.io](https://img.shields.io/crates/v/deltaml.svg) ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/delta/core.yml?branch=master)
 * [blackportal-ai/nebula](https://github.com/blackportal-ai/nebula) ⭐ 84 | 🐛 1 | 🌐 Rust | 📅 2025-04-14 - A Package Manager for Machine Learning Datasets and Models. ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/nebula/core.yml?branch=master)
@@ -1165,38 +1167,38 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 #### OpenAI
 
-* [openai/codex](https://github.com/openai/codex) ⭐ 78,357 | 🐛 3,294 | 🌐 Rust | 📅 2026-04-28 - Codex CLI is a coding agent from OpenAI that runs locally.
-* [0xplaygrounds/rig](https://github.com/0xplaygrounds/rig) ⭐ 7,073 | 🐛 101 | 🌐 Rust | 📅 2026-04-28 - Library for creating agents and modular, scalable LLM-powered applications
-* [openai/harmony](https://github.com/openai/harmony) ⭐ 4,345 | 🐛 55 | 🌐 Rust | 📅 2026-04-08 \[[openai-harmony](https://crates.io/crates/openai-harmony/0.0.3)] - Renderer for the harmony response format to be used with gpt-oss.
-* [64bit/async-openai](https://github.com/64bit/async-openai) ⭐ 1,857 | 🐛 33 | 🌐 Rust | 📅 2026-04-26 \[[async-openai](https://crates.io/crates/async-openai)] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
-* [liquidos-ai/AutoAgents](https://github.com/liquidos-ai/AutoAgents) ⭐ 600 | 🐛 17 | 🌐 Rust | 📅 2026-04-27 \[[AutoAgents](https://crates.io/crates/autoagents)] - Multi Agent Framework for building AI agents with native edge support.
+* [openai/codex](https://github.com/openai/codex) ⭐ 78,669 | 🐛 3,305 | 🌐 Rust | 📅 2026-04-29 - Codex CLI is a coding agent from OpenAI that runs locally.
+* [0xplaygrounds/rig](https://github.com/0xplaygrounds/rig) ⭐ 7,091 | 🐛 95 | 🌐 Rust | 📅 2026-04-28 - Library for creating agents and modular, scalable LLM-powered applications
+* [openai/harmony](https://github.com/openai/harmony) ⭐ 4,347 | 🐛 56 | 🌐 Rust | 📅 2026-04-08 \[[openai-harmony](https://crates.io/crates/openai-harmony/0.0.3)] - Renderer for the harmony response format to be used with gpt-oss.
+* [64bit/async-openai](https://github.com/64bit/async-openai) ⭐ 1,859 | 🐛 33 | 🌐 Rust | 📅 2026-04-26 \[[async-openai](https://crates.io/crates/async-openai)] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+* [liquidos-ai/AutoAgents](https://github.com/liquidos-ai/AutoAgents) ⭐ 603 | 🐛 17 | 🌐 Rust | 📅 2026-04-27 \[[AutoAgents](https://crates.io/crates/autoagents)] - Multi Agent Framework for building AI agents with native edge support.
 * [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) ⭐ 385 | 🐛 5 | 🌐 Rust | 📅 2026-04-08 \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] - Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml) ⭐ 385 | 🐛 5 | 🌐 Rust | 📅 2026-04-08
 
 #### Tooling
 
-* [memvid/memvid](https://github.com/memvid/memvid) ⭐ 15,220 | 🐛 19 | 🌐 Rust | 📅 2026-03-16 \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
-* [BAML](https://github.com/BoundaryML/baml) ⭐ 8,074 | 🐛 256 | 🌐 Rust | 📅 2026-04-28 - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
-* [pydantic/monty](https://github.com/pydantic/monty) ⭐ 7,026 | 🐛 75 | 🌐 Rust | 📅 2026-04-27 - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml) ⭐ 7,026 | 🐛 75 | 🌐 Rust | 📅 2026-04-27
-* [juyterman1000/entroly](https://github.com/juyterman1000/entroly) ⭐ 312 | 🐛 6 | 🌐 Rust | 📅 2026-04-28 - Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.
-* [Cortex Memory](https://github.com/sopaco/cortex-mem) ⭐ 270 | 🐛 2 | 🌐 Rust | 📅 2026-04-25 - A complete solution for agent memory, from extraction and vector search to automated optimization, and insights dashboard out-of-the-box.
+* [memvid/memvid](https://github.com/memvid/memvid) ⭐ 15,291 | 🐛 21 | 🌐 Rust | 📅 2026-03-16 \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
+* [BAML](https://github.com/BoundaryML/baml) ⭐ 8,085 | 🐛 258 | 🌐 Rust | 📅 2026-04-29 - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
+* [pydantic/monty](https://github.com/pydantic/monty) ⭐ 7,041 | 🐛 72 | 🌐 Rust | 📅 2026-04-28 - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml) ⭐ 7,041 | 🐛 72 | 🌐 Rust | 📅 2026-04-28
+* [juyterman1000/entroly](https://github.com/juyterman1000/entroly) ⭐ 316 | 🐛 7 | 🌐 Rust | 📅 2026-04-28 - Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.
+* [Cortex Memory](https://github.com/sopaco/cortex-mem) ⭐ 272 | 🐛 3 | 🌐 Rust | 📅 2026-04-25 - A complete solution for agent memory, from extraction and vector search to automated optimization, and insights dashboard out-of-the-box.
 
 ### Astronomy
 
 \[[astronomy](https://crates.io/keywords/astronomy)]
 
-* [saurvs/astro-rust](https://github.com/saurvs/astro-rust) ⭐ 310 | 🐛 11 | 🌐 Rust | 📅 2019-10-20 - astronomy
+* [saurvs/astro-rust](https://github.com/saurvs/astro-rust) ⭐ 311 | 🐛 11 | 🌐 Rust | 📅 2019-10-20 - astronomy
 * [cds-astro/aladin-lite](https://github.com/cds-astro/aladin-lite) ⭐ 146 | 🐛 64 | 🌐 JavaScript | 📅 2026-04-27 - Web application for visualizing spatial and planetary image surveys in different projections
 * [flosse/rust-sun](https://github.com/flosse/rust-sun) ⭐ 51 | 🐛 1 | 📅 2025-12-07 \[[sun](https://crates.io/crates/sun)] - A rust port of the JS library suncalc
 * [fitsio](https://crates.io/crates/fitsio) - fits interface library wrapping cfitsio
 
 ### Asynchronous
 
-* [tokio-rs/tokio](https://github.com/tokio-rs/tokio) ⭐ 31,786 | 🐛 417 | 🌐 Rust | 📅 2026-04-27 - A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
-* [mio](https://github.com/tokio-rs/mio) ⭐ 6,953 | 🐛 19 | 🌐 Rust | 📅 2026-04-17 - MIO is a lightweight IO library, with a focus on adding as little overhead as possible over the OS abstractions
-* [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) ⭐ 5,848 | 🐛 271 | 🌐 Rust | 📅 2026-04-12 - Zero-cost futures
+* [tokio-rs/tokio](https://github.com/tokio-rs/tokio) ⭐ 31,813 | 🐛 416 | 🌐 Rust | 📅 2026-04-28 - A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
+* [mio](https://github.com/tokio-rs/mio) ⭐ 6,954 | 🐛 20 | 🌐 Rust | 📅 2026-04-17 - MIO is a lightweight IO library, with a focus on adding as little overhead as possible over the OS abstractions
+* [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) ⭐ 5,849 | 🐛 271 | 🌐 Rust | 📅 2026-04-12 - Zero-cost futures
 * [async-std](https://async.rs/) \[[async-std](https://crates.io/crates/async-std)] - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml) ⭐ 4,067 | 🐛 193 | 🌐 Rust | 📅 2025-08-15
 * [Xudong-Huang/may](https://github.com/Xudong-Huang/may) ⭐ 2,381 | 🐛 25 | 🌐 Rust | 📅 2025-11-26 - Stackful coroutine library
-* [tqwewe/kameo](https://github.com/tqwewe/kameo) ⭐ 1,279 | 🐛 9 | 🌐 Rust | 📅 2026-04-27 - Fault-tolerant Async Actors Built on Tokio
+* [tqwewe/kameo](https://github.com/tqwewe/kameo) ⭐ 1,281 | 🐛 9 | 🌐 Rust | 📅 2026-04-27 - Fault-tolerant Async Actors Built on Tokio
 * [dagrs](https://github.com/dagrs-dev/dagrs) ⚠️ Archived - A high-performance asynchronous task programming framework, which follows the concept of Flow based Programming.
 * [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) ⭐ 463 | 🐛 10 | 🌐 Rust | 📅 2018-08-24 - A coroutine I/O library with a working-stealing scheduler
 * [dpc/mioco](https://github.com/dpc/mioco) ⭐ 148 | 🐛 4 | 🌐 Rust | 📅 2019-03-11 - Scalable, coroutine-based, asynchronous IO handling library
@@ -1209,10 +1211,10 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 \[[audio](https://crates.io/keywords/audio)]
 
 * [RustAudio](https://github.com/RustAudio)
-  * [RustAudio/cpal](https://github.com/RustAudio/cpal) ⭐ 3,678 | 🐛 135 | 🌐 Rust | 📅 2026-04-27 - Low-level cross-platform audio I/O library. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions) ⭐ 3,678 | 🐛 135 | 🌐 Rust | 📅 2026-04-27
-  * [RustAudio/rodio](https://github.com/RustAudio/rodio) ⭐ 2,331 | 🐛 146 | 🌐 Rust | 📅 2026-04-27 - Audio playback library
+  * [RustAudio/cpal](https://github.com/RustAudio/cpal) ⭐ 3,683 | 🐛 137 | 🌐 Rust | 📅 2026-04-28 - Low-level cross-platform audio I/O library. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions) ⭐ 3,683 | 🐛 137 | 🌐 Rust | 📅 2026-04-28
+  * [RustAudio/rodio](https://github.com/RustAudio/rodio) ⭐ 2,332 | 🐛 146 | 🌐 Rust | 📅 2026-04-27 - Audio playback library
   * [RustAudio/rust-portaudio](https://github.com/RustAudio/rust-portaudio) ⭐ 391 | 🐛 43 | 🌐 Rust | 📅 2024-10-13 - PortAudio bindings
-* [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) ⭐ 3,181 | 🐛 67 | 🌐 Rust | 📅 2026-04-19 - Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
+* [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) ⭐ 3,183 | 🐛 67 | 🌐 Rust | 📅 2026-04-19 - Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 * [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) ⭐ 680 | 🐛 10 | 🌐 Rust | 📅 2026-01-14 - Music theory library
 * [Serial-ATA/lofty-rs](https://github.com/Serial-ATA/lofty-rs) ⭐ 313 | 🐛 22 | 🌐 Rust | 📅 2026-04-26 \[[lofty](https://crates.io/crates/lofty)] - A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions) ⭐ 313 | 🐛 22 | 🌐 Rust | 📅 2026-04-26
 * [aschey/stream-download-rs](https://github.com/aschey/stream-download-rs) ⭐ 108 | 🐛 4 | 🌐 Rust | 📅 2026-04-17 \[[stream-download](https://crates.io/crates/stream-download)] - A library for streaming audio, video, and other media content [![build badge](https://github.com/aschey/stream-download-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aschey/stream-download-rs/actions) ⭐ 108 | 🐛 4 | 🌐 Rust | 📅 2026-04-17
@@ -1223,10 +1225,10 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Authentication
 
-* [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) ⭐ 2,037 | 🐛 65 | 🌐 Rust | 📅 2026-04-18 - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
+* [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) ⭐ 2,037 | 🐛 66 | 🌐 Rust | 📅 2026-04-18 - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 * [oauth2](https://github.com/ramosbugs/oauth2-rs) ⭐ 1,173 | 🐛 44 | 🌐 Rust | 📅 2026-02-22 - Extensible, strongly-typed OAuth2 client library
-* [oxide-auth](https://github.com/197g/oxide-auth) ⭐ 775 | 🐛 30 | 🌐 Rust | 📅 2026-01-31 - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/197g/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-* [constantoine/totp-rs](https://github.com/constantoine/totp-rs) ⭐ 258 | 🐛 7 | 🌐 Rust | 📅 2026-04-08 \[[totp-rs](https://crates.io/crates/totp-rs)] - 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+* [oxide-auth](https://github.com/197g/oxide-auth) ⭐ 776 | 🐛 30 | 🌐 Rust | 📅 2026-01-31 - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/197g/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
+* [constantoine/totp-rs](https://github.com/constantoine/totp-rs) ⭐ 260 | 🐛 7 | 🌐 Rust | 📅 2026-04-08 \[[totp-rs](https://crates.io/crates/totp-rs)] - 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 * [yup-oauth2](https://github.com/dermesser/yup-oauth2) ⭐ 238 | 🐛 31 | 🌐 Rust | 📅 2026-02-06 - An oauth2 client implementation providing the Device, Installed and Service Account flows
 * [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) ⭐ 67 | 🐛 0 | 🌐 Rust | 📅 2020-05-25 - Async library to manage and orchestrate JWT workflow
 
@@ -1240,14 +1242,14 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Bioinformatics
 
-* [polars-bio](https://github.com/biodatageeks/polars-bio) ⭐ 159 | 🐛 40 | 🌐 Python | 📅 2026-04-27 - Blazing-Fast Bioinformatic Operations on Python DataFrames ![PyPI - Version](https://img.shields.io/pypi/v/polars-bio)
+* [polars-bio](https://github.com/biodatageeks/polars-bio) ⭐ 160 | 🐛 41 | 🌐 Python | 📅 2026-04-29 - Blazing-Fast Bioinformatic Operations on Python DataFrames ![PyPI - Version](https://img.shields.io/pypi/v/polars-bio)
 * [Rust-Bio](https://github.com/rust-bio) - bioinformatics libraries.
 
 ### Caching
 
-* [mozilla/sccache](https://github.com/mozilla/sccache/) ⭐ 7,219 | 🐛 456 | 🌐 Rust | 📅 2026-04-23 - Shared Compilation Cache, great compilation
-* [moka-rs/moka](https://github.com/moka-rs/moka) ⭐ 2,517 | 🐛 64 | 🌐 Rust | 📅 2026-03-22 - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml) ⭐ 2,517 | 🐛 64 | 🌐 Rust | 📅 2026-03-22
-* [jaemk/cached](https://github.com/jaemk/cached) ⭐ 1,999 | 🐛 70 | 🌐 Rust | 📅 2026-03-22 - Simple function caching/memoization
+* [mozilla/sccache](https://github.com/mozilla/sccache/) ⭐ 7,220 | 🐛 450 | 🌐 Rust | 📅 2026-04-28 - Shared Compilation Cache, great compilation
+* [moka-rs/moka](https://github.com/moka-rs/moka) ⭐ 2,518 | 🐛 64 | 🌐 Rust | 📅 2026-03-22 - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml) ⭐ 2,518 | 🐛 64 | 🌐 Rust | 📅 2026-03-22
+* [jaemk/cached](https://github.com/jaemk/cached) ⭐ 2,000 | 🐛 70 | 🌐 Rust | 📅 2026-03-22 - Simple function caching/memoization
 * [zkat/cacache-rs](https://github.com/zkat/cacache-rs) ⭐ 698 | 🐛 22 | 🌐 Rust | 📅 2024-11-26 - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml) ⭐ 698 | 🐛 22 | 🌐 Rust | 📅 2024-11-26
 * [al8n/stretto](https://github.com/al8n/stretto) ⭐ 430 | 🐛 16 | 🌐 Rust | 📅 2026-04-25 - A high performance thread-safe memory-bound cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml) ⭐ 430 | 🐛 16 | 🌐 Rust | 📅 2026-04-25
 * [aisk/rust-memcache](https://github.com/aisk/rust-memcache) ⭐ 148 | 🐛 19 | 🌐 Rust | 📅 2026-02-14 - Memcached client library
@@ -1257,44 +1259,44 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Cloud
 
 * AWS \[[aws](https://crates.io/keywords/aws)]
-  * [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) ⭐ 3,594 | 🐛 21 | 🌐 Rust | 📅 2026-04-16 \[[lambda\_runtime](https://crates.io/crates/lambda_runtime)] - Runtime for AWS Lambda [![build badge](https://github.com/aws/aws-lambda-rust-runtime/workflows/Rust/badge.svg)](https://github.com/aws/aws-lambda-rust-runtime/actions) ⭐ 3,594 | 🐛 21 | 🌐 Rust | 📅 2026-04-16
-  * [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) ⭐ 3,305 | 🐛 148 | 🌐 Rust | 📅 2026-04-27 - The new AWS SDK
+  * [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) ⭐ 3,595 | 🐛 21 | 🌐 Rust | 📅 2026-04-16 \[[lambda\_runtime](https://crates.io/crates/lambda_runtime)] - Runtime for AWS Lambda [![build badge](https://github.com/aws/aws-lambda-rust-runtime/workflows/Rust/badge.svg)](https://github.com/aws/aws-lambda-rust-runtime/actions) ⭐ 3,595 | 🐛 21 | 🌐 Rust | 📅 2026-04-16
+  * [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) ⭐ 3,306 | 🐛 147 | 🌐 Rust | 📅 2026-04-27 - The new AWS SDK
   * [rusoto/rusoto](https://github.com/rusoto/rusoto) ⭐ 2,728 | 🐛 258 | 🌐 Rust | 📅 2023-12-11 - An AWS SDK for Rust
-  * [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 256 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions) ⭐ 256 | 🐛 0 | 🌐 Rust | 📅 2026-04-28
+  * [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 261 | 🐛 1 | 🌐 Rust | 📅 2026-04-29 \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions) ⭐ 261 | 🐛 1 | 🌐 Rust | 📅 2026-04-29
 * Multi Cloud
-  * [Qovery/engine](https://github.com/Qovery/engine) ⭐ 2,439 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 - Abstraction layer library that turns easy application deployment on Cloud providers in just a few minutes
+  * [Qovery/engine](https://github.com/Qovery/engine) ⭐ 2,439 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 - Abstraction layer library that turns easy application deployment on Cloud providers in just a few minutes
 * Azure
-  * [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust) ⭐ 871 | 🐛 241 | 🌐 Rust | 📅 2026-04-28 - Official Azure SDK for Rust
+  * [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust) ⭐ 871 | 🐛 249 | 🌐 Rust | 📅 2026-04-29 - Official Azure SDK for Rust
 * Load Balancer
   * [Convey](https://github.com/bparli/convey) ⭐ 353 | 🐛 6 | 🌐 Rust | 📅 2021-06-17 - Layer 4 Load Balancer with dynamic configuration loading.
 
 ### Command-line
 
 * Prompt
-  * [starship/starship](https://starship.rs/) \[[starship](https://crates.io/crates/starship)] - A minimal, blazing fast, and extremely customizable prompt for any shell [![Build status](https://github.com/starship/starship/actions/workflows/workflow.yml/badge.svg)](https://github.com/starship/starship/actions) ⭐ 56,945 | 🐛 1,005 | 🌐 Rust | 📅 2026-04-28
+  * [starship/starship](https://starship.rs/) \[[starship](https://crates.io/crates/starship)] - A minimal, blazing fast, and extremely customizable prompt for any shell [![Build status](https://github.com/starship/starship/actions/workflows/workflow.yml/badge.svg)](https://github.com/starship/starship/actions) ⭐ 56,980 | 🐛 1,010 | 🌐 Rust | 📅 2026-04-28
   * [mikaelmello/inquire](https://github.com/mikaelmello/inquire) ⭐ 2,560 | 🐛 81 | 🌐 Rust | 📅 2026-03-02 \[[inquire](https://crates.io/crates/inquire)] - A library for building interactive prompts on terminals. [![Build status](https://github.com/mikaelmello/inquire/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mikaelmello/inquire/actions) ⭐ 2,560 | 🐛 81 | 🌐 Rust | 📅 2026-03-02
   * [ynqa/promkit](https://github.com/ynqa/promkit) ⭐ 459 | 🐛 9 | 🌐 Rust | 📅 2026-04-20 \[[promkit](https://crates.io/crates/promkit)] - A toolkit for building interactive command-line tools [![ci](https://github.com/ynqa/promkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/promkit/actions/workflows/ci.yml) ⭐ 459 | 🐛 9 | 🌐 Rust | 📅 2026-04-20
   * [hashmismatch/terminal\_cli.rs](https://github.com/hashmismatch/terminal_cli.rs) ⭐ 58 | 🐛 0 | 🌐 Rust | 📅 2020-12-08 \[[terminal\_cli](https://crates.io/crates/terminal_cli)] - build an interactive command prompt
 * TUI
-  * [ratatui-org/ratatui](https://github.com/ratatui/ratatui) ⭐ 20,093 | 🐛 191 | 🌐 Rust | 📅 2026-04-27 \[[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
-  * [gyscos/Cursive](https://github.com/gyscos/Cursive) ⭐ 4,787 | 🐛 213 | 🌐 Rust | 📅 2026-04-25 \[[cursive](https://crates.io/crates/cursive)] - build rich TUI applications
-  * [TimonPost/crossterm](https://github.com/crossterm-rs/crossterm) ⭐ 4,024 | 🐛 208 | 🌐 Rust | 📅 2026-04-08 \[[crossterm](https://crates.io/crates/crossterm)] - crossplatform terminal library
+  * [ratatui-org/ratatui](https://github.com/ratatui/ratatui) ⭐ 20,115 | 🐛 192 | 🌐 Rust | 📅 2026-04-27 \[[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
+  * [gyscos/Cursive](https://github.com/gyscos/Cursive) ⭐ 4,786 | 🐛 213 | 🌐 Rust | 📅 2026-04-25 \[[cursive](https://crates.io/crates/cursive)] - build rich TUI applications
+  * [TimonPost/crossterm](https://github.com/crossterm-rs/crossterm) ⭐ 4,026 | 🐛 214 | 🌐 Rust | 📅 2026-04-08 \[[crossterm](https://crates.io/crates/crossterm)] - crossplatform terminal library
   * [redox-os/termion](https://github.com/redox-os/termion) ⭐ 2,168 | 🐛 27 | 🌐 Rust | 📅 2025-12-11 \[[termion](https://crates.io/crates/termion)] - bindless library for controlling terminals/TTY
-  * [ccbrown/iocraft](https://github.com/ccbrown/iocraft) ⭐ 1,259 | 🐛 26 | 🌐 Rust | 📅 2026-04-28 \[[iocraft](https://crates.io/crates/iocraft)] - A crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. [![Build status](https://github.com/ccbrown/iocraft/actions/workflows/commit.yaml/badge.svg?branch=main)](https://github.com/ccbrown/iocraft/actions) ⭐ 1,259 | 🐛 26 | 🌐 Rust | 📅 2026-04-28 [![docs.rs](https://img.shields.io/docsrs/iocraft)](https://docs.rs/iocraft/)
+  * [ccbrown/iocraft](https://github.com/ccbrown/iocraft) ⭐ 1,264 | 🐛 26 | 🌐 Rust | 📅 2026-04-28 \[[iocraft](https://crates.io/crates/iocraft)] - A crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. [![Build status](https://github.com/ccbrown/iocraft/actions/workflows/commit.yaml/badge.svg?branch=main)](https://github.com/ccbrown/iocraft/actions) ⭐ 1,264 | 🐛 26 | 🌐 Rust | 📅 2026-04-28 [![docs.rs](https://img.shields.io/docsrs/iocraft)](https://docs.rs/iocraft/)
   * ncurses
     * [jeaye/ncurses-rs](https://github.com/jeaye/ncurses-rs) ⚠️ Archived \[[ncurses](https://crates.io/crates/ncurses)] - [ncurses](https://invisible-island.net/ncurses/ncurses.html) bindings
     * [ihalila/pancurses](https://github.com/ihalila/pancurses) ⭐ 413 | 🐛 27 | 🌐 Rust | 📅 2024-07-12 \[[pancurses](https://crates.io/crates/pancurses)] - curses library, supports linux and windows
   * Termbox
     * [gchp/rustbox](https://github.com/gchp/rustbox) ⭐ 470 | 🐛 23 | 🌐 Rust | 📅 2020-10-10 \[[rustbox](https://crates.io/crates/rustbox)] - bindings to [Termbox](https://github.com/nsf/termbox) ⭐ 2,006 | 🐛 20 | 🌐 C | 📅 2020-08-25
-  * [AppCUI](https://github.com/gdt050579/AppCUI-rs) ⭐ 370 | 🐛 15 | 🌐 Rust | 📅 2026-04-24 \[[appcui](https://crates.io/crates/appcui)] - A full-featured, cross-platform TUI/CUI framework in Rust, with built-in widgets, layout control, animations, Unicode and theming support.
-  * [subinium/SuperLightTUI](https://github.com/subinium/SuperLightTUI) ⭐ 130 | 🐛 51 | 🌐 Rust | 📅 2026-04-28 \[[superlighttui](https://crates.io/crates/superlighttui)] - Immediate-mode TUI library with 50+ widgets, flexbox layout, and animation system [![CI](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml/badge.svg)](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml) ⭐ 130 | 🐛 51 | 🌐 Rust | 📅 2026-04-28
+  * [AppCUI](https://github.com/gdt050579/AppCUI-rs) ⭐ 371 | 🐛 15 | 🌐 Rust | 📅 2026-04-24 \[[appcui](https://crates.io/crates/appcui)] - A full-featured, cross-platform TUI/CUI framework in Rust, with built-in widgets, layout control, animations, Unicode and theming support.
+  * [subinium/SuperLightTUI](https://github.com/subinium/SuperLightTUI) ⭐ 133 | 🐛 8 | 🌐 Rust | 📅 2026-04-29 \[[superlighttui](https://crates.io/crates/superlighttui)] - Immediate-mode TUI library with 50+ widgets, flexbox layout, and animation system [![CI](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml/badge.svg)](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml) ⭐ 133 | 🐛 8 | 🌐 Rust | 📅 2026-04-29
   * [ivanceras/titik](https://github.com/ivanceras/titik) ⭐ 123 | 🐛 3 | 🌐 Rust | 📅 2022-03-02 - a crossplatform TUI widget library with the goal of providing interactive widgets
   * [ogham/rust-term-grid](https://github.com/ogham/rust-term-grid) ⭐ 70 | 🐛 7 | 🌐 Rust | 📅 2023-05-08 \[[term\_grid](https://crates.io/crates/term_grid)] - Library for putting things in a grid
   * BearLibTerminal
     * [cfyzium/bearlibterminal](https://github.com/nabijaczleweli/BearLibTerminal.rs) ⭐ 32 | 🐛 1 | 🌐 Rust | 📅 2020-09-15 \[[bear-lib-terminal](https://crates.io/crates/bear-lib-terminal)] - [BearLibTerminal](https://github.com/tommyettinger/BearLibTerminal) ⭐ 78 | 🐛 1 | 🌐 C | 📅 2020-03-07 bindings
   * [ruterm](https://crates.io/crates/ruterm) - tiny & simple library for working with TTY
 * Argument parsing
-  * [clap-rs](https://github.com/clap-rs/clap) ⭐ 16,343 | 🐛 424 | 🌐 Rust | 📅 2026-04-27 \[[clap](https://crates.io/crates/clap)] - A simple to use, full featured command-line argument parser
+  * [clap-rs](https://github.com/clap-rs/clap) ⭐ 16,344 | 🐛 424 | 🌐 Rust | 📅 2026-04-27 \[[clap](https://crates.io/crates/clap)] - A simple to use, full featured command-line argument parser
   * [TeXitoi/structopt](https://github.com/TeXitoi/structopt) ⭐ 2,728 | 🐛 5 | 🌐 Rust | 📅 2024-01-07 \[[structopt](https://crates.io/crates/structopt)] - parse command line argument by defining a struct
   * [google/argh](https://github.com/google/argh) ⭐ 1,906 | 🐛 75 | 🌐 Rust | 📅 2026-03-16 \[[argh](https://crates.io/crates/argh)] - An opinionated Derive-based argument parser optimized for code size [![build badge](https://github.com/google/argh/workflows/Argh/badge.svg?branch=master)](https://github.com/google/argh/actions) ⭐ 1,906 | 🐛 75 | 🌐 Rust | 📅 2026-03-16
   * [docopt/docopt.rs](https://github.com/docopt/docopt.rs) ⚠️ Archived \[[docopt](https://crates.io/crates/docopt)] - Implementation of DocOpt
@@ -1302,18 +1304,18 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [ksk001100/seahorse](https://github.com/ksk001100/seahorse) ⭐ 305 | 🐛 6 | 🌐 Rust | 📅 2025-12-09 \[[seahorse](https://crates.io/crates/seahorse)] - A minimal CLI framework [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions) ⭐ 305 | 🐛 6 | 🌐 Rust | 📅 2025-12-09
   * [cliparser](https://crates.io/crates/cliparser) - Simple command line parser. [![build badge](https://github.com/sagiegurari/cliparser/actions/workflows/ci.yml/badge.svg)](https://github.com/sagiegurari/cliparser/actions) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2024-07-29
 * Progress
-  * [console-rs/indicatif](https://github.com/console-rs/indicatif) ⭐ 5,124 | 🐛 96 | 🌐 Rust | 📅 2026-04-21 \[[indicatif](https://crates.io/crates/indicatif)] - indicate progress to users
-  * [vyfor/rattles](https://github.com/vyfor/rattles) ⭐ 948 | 🐛 0 | 🌐 Rust | 📅 2026-04-14 \[[rattles](https://crates.io/crates/rattles)] - A minimal, dependency-free terminal spinner library.
+  * [console-rs/indicatif](https://github.com/console-rs/indicatif) ⭐ 5,125 | 🐛 97 | 🌐 Rust | 📅 2026-04-21 \[[indicatif](https://crates.io/crates/indicatif)] - indicate progress to users
+  * [vyfor/rattles](https://github.com/vyfor/rattles) ⭐ 949 | 🐛 0 | 🌐 Rust | 📅 2026-04-14 \[[rattles](https://crates.io/crates/rattles)] - A minimal, dependency-free terminal spinner library.
   * [a8m/pb](https://github.com/a8m/pb) ⭐ 599 | 🐛 25 | 🌐 Rust | 📅 2024-01-10 \[[pbr](https://crates.io/crates/pbr)] - console progress bar
-  * [FGRibreau/spinners](https://github.com/FGRibreau/spinners) ⭐ 590 | 🐛 10 | 🌐 Rust | 📅 2026-03-04 \[[spinners](https://crates.io/crates/spinners)] - 60+ elegant terminal spinners
+  * [FGRibreau/spinners](https://github.com/FGRibreau/spinners) ⭐ 591 | 🐛 10 | 🌐 Rust | 📅 2026-03-04 \[[spinners](https://crates.io/crates/spinners)] - 60+ elegant terminal spinners
   * [clitic/kdam](https://github.com/clitic/kdam) ⭐ 244 | 🐛 2 | 🌐 Rust | 📅 2026-01-06 \[[kdam](https://crates.io/crates/kdam)] - A console progress bar library inspired by tqdm & rich.progress [![CI](https://github.com/clitic/kdam/actions/workflows/tests.yml/badge.svg)](https://github.com/clitic/kdam/actions/workflows/tests.yml) ⭐ 244 | 🐛 2 | 🌐 Rust | 📅 2026-01-06
   * [etienne-napoleone/spinach](https://github.com/etienne-napoleone/spinach) ⭐ 117 | 🐛 0 | 🌐 Rust | 📅 2025-12-05 \[[spinach](https://crates.io/crates/spinach)] - Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml) ⭐ 117 | 🐛 0 | 🌐 Rust | 📅 2025-12-05
 * Data visualization
-  * [zhiburt/tabled](https://github.com/zhiburt/tabled) ⭐ 2,325 | 🐛 118 | 🌐 Rust | 📅 2026-04-25 \[[tabled](https://crates.io/crates/tabled)] - An easy to use library for pretty print tables of structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions) ⭐ 2,325 | 🐛 118 | 🌐 Rust | 📅 2026-04-25
-  * [nukesor/comfy-table](https://github.com/nukesor/comfy-table) ⭐ 1,328 | 🐛 8 | 🌐 Rust | 📅 2026-03-11 \[[comfy-table](https://crates.io/crates/comfy-table)] - Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions) ⭐ 1,328 | 🐛 8 | 🌐 Rust | 📅 2026-03-11
+  * [zhiburt/tabled](https://github.com/zhiburt/tabled) ⭐ 2,325 | 🐛 119 | 🌐 Rust | 📅 2026-04-25 \[[tabled](https://crates.io/crates/tabled)] - An easy to use library for pretty print tables of structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions) ⭐ 2,325 | 🐛 119 | 🌐 Rust | 📅 2026-04-25
+  * [nukesor/comfy-table](https://github.com/nukesor/comfy-table) ⭐ 1,329 | 🐛 8 | 🌐 Rust | 📅 2026-03-11 \[[comfy-table](https://crates.io/crates/comfy-table)] - Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions) ⭐ 1,329 | 🐛 8 | 🌐 Rust | 📅 2026-03-11
 * Style
   * [colored](https://github.com/colored-rs/colored) ⭐ 2,009 | 🐛 52 | 🌐 Rust | 📅 2026-01-16 \[[colored](https://crates.io/crates/colored)] - Coloring terminal so simple, you already know how to do it!
-  * [console-rs/dialoguer](https://github.com/console-rs/dialoguer) ⭐ 1,585 | 🐛 94 | 🌐 Rust | 📅 2026-04-08 \[[dialoguer](https://crates.io/crates/dialoguer)] - Library for command line prompts and similar things.
+  * [console-rs/dialoguer](https://github.com/console-rs/dialoguer) ⭐ 1,586 | 🐛 94 | 🌐 Rust | 📅 2026-04-08 \[[dialoguer](https://crates.io/crates/dialoguer)] - Library for command line prompts and similar things.
   * [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) ⭐ 481 | 🐛 27 | 🌐 Rust | 📅 2024-08-01 \[[ansi\_term](https://crates.io/crates/ansi_term)] - control colours and formatting on ANSI terminals
   * [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) ⭐ 280 | 🐛 5 | 🌐 Rust | 📅 2024-03-13 \[[yansi](https://crates.io/crates/yansi)] - A dead simple ANSI terminal color painting library
   * [LukasKalbertodt/bunt](https://github.com/LukasKalbertodt/bunt) ⭐ 228 | 🐛 5 | 🌐 Rust | 📅 2025-10-20 \[[bunt](https://crates.io/crates/bunt)] - cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster) ⭐ 228 | 🐛 5 | 🌐 Rust | 📅 2025-10-20
@@ -1326,8 +1328,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * Human-centered design
   * [rust-cli/human-panic](https://github.com/rust-cli/human-panic) ⭐ 1,837 | 🐛 13 | 🌐 Rust | 📅 2026-04-16 \[[human-panic](https://crates.io/crates/human-panic)] - panic messages for humans
 * Pipeline
-  * [oconnor663/duct.rs](https://github.com/oconnor663/duct.rs) ⭐ 1,028 | 🐛 35 | 🌐 Rust | 📅 2025-11-18 \[[duct](https://crates.io/crates/duct)] - A builder for subprocess pipelines and IO redirection
-  * [hniksic/rust-subprocess](https://github.com/hniksic/rust-subprocess) ⭐ 450 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 \[[subprocess](https://crates.io/crates/subprocess)] - facilities for interaction with external pipelines
+  * [oconnor663/duct.rs](https://github.com/oconnor663/duct.rs) ⭐ 1,029 | 🐛 35 | 🌐 Rust | 📅 2025-11-18 \[[duct](https://crates.io/crates/duct)] - A builder for subprocess pipelines and IO redirection
+  * [hniksic/rust-subprocess](https://github.com/hniksic/rust-subprocess) ⭐ 450 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 \[[subprocess](https://crates.io/crates/subprocess)] - facilities for interaction with external pipelines
   * [rust-cli/rexpect](https://github.com/rust-cli/rexpect) ⭐ 383 | 🐛 34 | 🌐 Rust | 📅 2026-04-01 \[[rexpect](https://crates.io/crates/rexpect)] - automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml) ⭐ 383 | 🐛 34 | 🌐 Rust | 📅 2026-04-01
   * [zhiburt/expectrl](https://github.com/zhiburt/expectrl) ⭐ 212 | 🐛 17 | 🌐 Rust | 📅 2026-04-25 \[[expectrl](https://crates.io/crates/expectrl)] - A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml) ⭐ 212 | 🐛 17 | 🌐 Rust | 📅 2026-04-25
   * [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] - pipe your output through an external pager
@@ -1344,7 +1346,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * tar
   * [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) ⭐ 717 | 🐛 131 | 🌐 Rust | 📅 2026-04-04 - tar archive reading/writing
 * zstd
-  * [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ⭐ 634 | 🐛 82 | 🌐 Rust | 📅 2026-03-10 - rust binding for the zstd compression library
+  * [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ⭐ 634 | 🐛 81 | 🌐 Rust | 📅 2026-03-10 - rust binding for the zstd compression library
 * zip
   * [zip-rs/zip2](https://github.com/zip-rs/zip2) ⭐ 308 | 🐛 59 | 🌐 Rust | 📅 2026-04-27 \[[zip](https://crates.io/crates/zip)] - read and write  ZIP archives
 * gzp
@@ -1360,7 +1362,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Computation
 
 * [dimforge/nalgebra](https://github.com/dimforge/nalgebra) ⭐ 4,709 | 🐛 421 | 🌐 Rust | 📅 2026-04-23 - low-dimensional linear algebra library
-* [faer-rs](https://github.com/sarah-quinones/faer-rs) ⭐ 2,506 | 🐛 38 | 🌐 Rust | 📅 2026-01-26 \[[faer](https://crates.io/crates/faer)] - Linear algebra foundation for Rust
+* [faer-rs](https://github.com/sarah-quinones/faer-rs) ⭐ 2,507 | 🐛 38 | 🌐 Rust | 📅 2026-01-26 \[[faer](https://crates.io/crates/faer)] - Linear algebra foundation for Rust
 * [calebwin/emu](https://github.com/calebwin/emu) ⭐ 1,608 | 🐛 29 | 🌐 Rust | 📅 2023-01-20 - A language for GPGPU numerical computing
 * [argmin-rs/argmin](https://github.com/argmin-rs/argmin) ⭐ 1,250 | 🐛 80 | 🌐 Rust | 📅 2025-11-07 \[[argmin](https://crates.io/crates/argmin)] - Optimization library
 * Parallel
@@ -1371,10 +1373,10 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [statrs-dev/statrs](https://github.com/statrs-dev/statrs) ⭐ 791 | 🐛 72 | 🌐 Rust | 📅 2026-04-06 - Robust statistical computation library
 * Science
   * [Axect/Peroxide](https://github.com/Axect/Peroxide) ⭐ 692 | 🐛 16 | 🌐 Rust | 📅 2026-03-22 - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-  * [cool-japan/scirs](https://github.com/cool-japan/scirs) ⭐ 208 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
-  * [cpmech/russell](https://github.com/cpmech/russell) ⭐ 181 | 🐛 6 | 🌐 Rust | 📅 2026-04-10 - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
+  * [cool-japan/scirs](https://github.com/cool-japan/scirs) ⭐ 209 | 🐛 0 | 🌐 Rust | 📅 2026-04-29 - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+  * [cpmech/russell](https://github.com/cpmech/russell) ⭐ 182 | 🐛 6 | 🌐 Rust | 📅 2026-04-10 - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
   * [Nonanti/mathcore](https://github.com/Nonanti/mathcore) ⭐ 112 | 🐛 10 | 🌐 Rust | 📅 2026-03-23 - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
-  * [Ryan-D-Gast/differential-equations](https://github.com/Ryan-D-Gast/differential-equations) ⭐ 79 | 🐛 14 | 🌐 Rust | 📅 2026-04-26 - A high-performance library for numerically solving differential equations
+  * [Ryan-D-Gast/differential-equations](https://github.com/Ryan-D-Gast/differential-equations) ⭐ 79 | 🐛 17 | 🌐 Rust | 📅 2026-04-28 - A high-performance library for numerically solving differential equations
 * [alphaville/optimization-engine](https://github.com/alphaville/optimization-engine) ⭐ 631 | 🐛 11 | 🌐 Rust | 📅 2026-03-31 \[[optimization-engine](https://crates.io/crates/optimization_engine)] - Optimization Engine (OpEn) is a solver for constrained nonconvex optimization problems [![Continuous integration](https://github.com/alphaville/optimization-engine/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/alphaville/optimization-engine/actions/workflows/ci.yml) ⭐ 631 | 🐛 11 | 🌐 Rust | 📅 2026-03-31
 * [fastnum](https://github.com/neogenie/fastnum) ⭐ 251 | 🐛 15 | 🌐 Rust | 📅 2025-12-28 [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
 * [GSL](http://www.gnu.org/software/gsl/)
@@ -1386,18 +1388,18 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Concurrency
 
-* [Rayon](https://github.com/rayon-rs/rayon) ⭐ 12,931 | 🐛 217 | 🌐 Rust | 📅 2026-04-23 - A data parallelism library
-* [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) ⭐ 8,422 | 🐛 154 | 🌐 Rust | 📅 2026-02-22 - Support for parallelism and low-level concurrency
+* [Rayon](https://github.com/rayon-rs/rayon) ⭐ 12,933 | 🐛 217 | 🌐 Rust | 📅 2026-04-23 - A data parallelism library
+* [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) ⭐ 8,424 | 🐛 154 | 🌐 Rust | 📅 2026-02-22 - Support for parallelism and low-level concurrency
 * [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) ⭐ 463 | 🐛 10 | 🌐 Rust | 📅 2018-08-24 - Coroutine I/O
 * [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) ⭐ 419 | 🐛 4 | 🌐 Rust | 📅 2022-07-01 - Coroutine Library
-* [orium/archery](https://github.com/orium/archery) ⭐ 171 | 🐛 5 | 🌐 Rust | 📅 2025-11-13 \[[archery](https://crates.io/crates/archery)] - Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI) ⭐ 171 | 🐛 5 | 🌐 Rust | 📅 2025-11-13
-* [NikitaSmithTheOne/rate-limiters-rs](https://github.com/NikitaSmithTheOne/rate-limiters-rs) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-09-06 \[[rate-limiters](https://crates.io/crates/rate_limiters)] - Rust library for rate limiting (Leaky Bucket, Token Bucket, Fixed/Sliding Window)
+* [orium/archery](https://github.com/orium/archery) ⭐ 172 | 🐛 5 | 🌐 Rust | 📅 2025-11-13 \[[archery](https://crates.io/crates/archery)] - Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI) ⭐ 172 | 🐛 5 | 🌐 Rust | 📅 2025-11-13
+* [NikitaSmithTheOne/rate-limiters-rs](https://github.com/NikitaSmithTheOne/rate-limiters-rs) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 \[[rate-limiters](https://crates.io/crates/rate_limiters)] - Rust library for rate limiting (Leaky Bucket, Token Bucket, Fixed/Sliding Window)
 * [orx-parallel](https://crates.io/crates/orx-parallel) - High performance, configurable and expressive parallel computation library.
 
 ### Configuration
 
-* [rust-cli/config-rs](https://github.com/rust-cli/config-rs) ⭐ 3,140 | 🐛 139 | 🌐 Rust | 📅 2026-04-16 \[[config](https://crates.io/crates/config)] - Layered configuration system (with strong support for 12-factor applications).
-* [softprops/envy](https://github.com/softprops/envy) ⭐ 971 | 🐛 20 | 🌐 Rust | 📅 2024-06-07 - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml) ⭐ 971 | 🐛 20 | 🌐 Rust | 📅 2024-06-07
+* [rust-cli/config-rs](https://github.com/rust-cli/config-rs) ⭐ 3,139 | 🐛 139 | 🌐 Rust | 📅 2026-04-16 \[[config](https://crates.io/crates/config)] - Layered configuration system (with strong support for 12-factor applications).
+* [softprops/envy](https://github.com/softprops/envy) ⭐ 972 | 🐛 20 | 🌐 Rust | 📅 2024-06-07 - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml) ⭐ 972 | 🐛 20 | 🌐 Rust | 📅 2024-06-07
 * [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment) ⭐ 889 | 🐛 31 | 🌐 Rust | 📅 2024-09-13 \[[figment](https://crates.io/crates/figment)] - A configuration library so con-free, it's unreal.
 * [Kixunil/configure\_me](https://github.com/Kixunil/configure_me) ⭐ 70 | 🐛 26 | 🌐 Rust | 📅 2024-09-12 \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
 * [leptonyu/cfg-rs](https://github.com/leptonyu/cfg-rs) ⭐ 53 | 🐛 1 | 🌐 Rust | 📅 2026-02-24 \[[cfg-rs](https://crates.io/crates/cfg-rs)] - A Configuration Library for Rust Applications.
@@ -1407,25 +1409,25 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 \[[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
-* [rustls/rustls](https://github.com/rustls/rustls) ⭐ 7,371 | 🐛 84 | 🌐 Rust | 📅 2026-04-26 - Implementation of TLS
-* [briansmith/ring](https://github.com/briansmith/ring) ⭐ 4,076 | 🐛 51 | 🌐 Assembly | 📅 2026-04-28 - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
+* [rustls/rustls](https://github.com/rustls/rustls) ⭐ 7,374 | 🐛 82 | 🌐 Rust | 📅 2026-04-28 - Implementation of TLS
+* [briansmith/ring](https://github.com/briansmith/ring) ⭐ 4,076 | 🐛 49 | 🌐 Assembly | 📅 2026-04-28 - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 * [RustCrypto/hashes](https://github.com/RustCrypto/hashes) ⭐ 2,209 | 🐛 31 | 🌐 Rust | 📅 2026-04-24 - Collection of cryptographic hash functions
-* [cossacklabs/themis](https://github.com/cossacklabs/themis) ⭐ 1,960 | 🐛 31 | 🌐 C | 📅 2026-04-24 \[[themis](https://crates.io/crates/themis)] - a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
-* [rust-openssl](https://github.com/rust-openssl/rust-openssl) ⭐ 1,613 | 🐛 343 | 🌐 Rust | 📅 2026-04-28 - [OpenSSL](https://www.openssl.org/) bindings
+* [cossacklabs/themis](https://github.com/cossacklabs/themis) ⭐ 1,962 | 🐛 31 | 🌐 C | 📅 2026-04-24 \[[themis](https://crates.io/crates/themis)] - a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
+* [rust-openssl](https://github.com/rust-openssl/rust-openssl) ⭐ 1,613 | 🐛 344 | 🌐 Rust | 📅 2026-04-28 - [OpenSSL](https://www.openssl.org/) bindings
 * [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) ⭐ 1,453 | 🐛 110 | 🌐 Rust | 📅 2023-03-20 - cryptographic algorithms
 * [exonum/exonum](https://github.com/exonum/exonum) ⭐ 1,242 | 🐛 44 | 🌐 Rust | 📅 2024-02-25 \[[exonum](https://crates.io/crates/exonum)] - extensible framework for blockchain projects
-* [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) ⭐ 1,153 | 🐛 115 | 🌐 Rust | 📅 2026-04-27 - Curve25519 operations
+* [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) ⭐ 1,154 | 🐛 116 | 🌐 Rust | 📅 2026-04-27 - Curve25519 operations
 * [orion-rs/orion](https://github.com/orion-rs/orion) ⭐ 715 | 🐛 18 | 🌐 Rust | 📅 2026-04-25 - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml) ⭐ 715 | 🐛 18 | 🌐 Rust | 📅 2026-04-25
 * [dusk-network/plonk](https://github.com/dusk-network/plonk/) ⭐ 631 | 🐛 12 | 🌐 Rust | 📅 2026-03-27 - A high-performance, Rust-native implementation of the PLONK zk-SNARK over BLS12-381, optimized with custom gates and KZG10 polynomial commitment for efficient zero-knowledge proofs. ![Build Status](https://github.com/dusk-network/plonk/workflows/Continuous%20integration/badge.svg) \[[PLONK](https://crates.io/crates/dusk-plonk)]
 * [rust-native-tls/rust-native-tls](https://github.com/rust-native-tls/rust-native-tls) ⭐ 543 | 🐛 54 | 🌐 Rust | 📅 2026-02-18 - Bindings for native TLS libraries
 * [briansmith/webpki](https://github.com/briansmith/webpki) ⭐ 480 | 🐛 109 | 🌐 Rust | 📅 2025-01-21 - Web PKI TLS X.509 certificate validation.
-* [facebook/opaque-ke](https://github.com/facebook/opaque-ke) ⭐ 394 | 🐛 5 | 🌐 Rust | 📅 2026-03-27 - Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke) ⭐ 394 | 🐛 5 | 🌐 Rust | 📅 2026-03-27
-* [schnorrkel](https://github.com/paritytech/schnorrkel) ⭐ 331 | 🐛 26 | 🌐 Rust | 📅 2026-03-27 - Schnorr VRFs and signatures on the Ristretto group
+* [facebook/opaque-ke](https://github.com/facebook/opaque-ke) ⭐ 396 | 🐛 5 | 🌐 Rust | 📅 2026-03-27 - Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke) ⭐ 396 | 🐛 5 | 🌐 Rust | 📅 2026-03-27
+* [schnorrkel](https://github.com/paritytech/schnorrkel) ⭐ 332 | 🐛 26 | 🌐 Rust | 📅 2026-03-27 - Schnorr VRFs and signatures on the Ristretto group
 * [kornelski/rust-security-framework](https://github.com/kornelski/rust-security-framework) ⭐ 295 | 🐛 12 | 🌐 Rust | 📅 2026-02-26 - Bindings for Security Framework (OSX native)
-* [arkworks-rs/circom-compat](https://github.com/arkworks-rs/circom-compat) ⭐ 282 | 🐛 24 | 🌐 Rust | 📅 2026-04-26 - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
+* [arkworks-rs/circom-compat](https://github.com/arkworks-rs/circom-compat) ⭐ 283 | 🐛 24 | 🌐 Rust | 📅 2026-04-26 - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
 * [dusk-network/poseidon252](https://github.com/dusk-network/Poseidon252) ⭐ 217 | 🐛 1 | 🌐 Rust | 📅 2026-04-03 - A Rust-native Poseidon hash over BLS12-381, Poseidon252 is built for zk-SNARK efficiency, ideal for privacy-focused protocols and zero-knowledge applications. ![Build Status](https://github.com/dusk-network/Poseidon252/workflows/Continuous%20integration/badge.svg) \[[Poseidon](https://crates.io/crates/dusk-poseidon)]
 * [debris/tiny-keccak](https://github.com/debris/tiny-keccak) ⭐ 203 | 🐛 9 | 🌐 Rust | 📅 2024-06-10 - Keccak family (SHA3)
-* [conradkleinespel/rooster](https://github.com/conradkleinespel/rooster) ⭐ 166 | 🐛 0 | 🌐 Rust | 📅 2026-04-25 \[[rooster](https://crates.io/crates/rooster)] - Simple password manager to use in your terminal
+* [conradkleinespel/rooster](https://github.com/conradkleinespel/rooster) ⭐ 167 | 🐛 0 | 🌐 Rust | 📅 2026-04-25 \[[rooster](https://crates.io/crates/rooster)] - Simple password manager to use in your terminal
 * [verifyfetch](https://github.com/hamzaydia/verifyfetch) ⭐ 151 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07 - Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.
 * [libOctavo/octavo](https://github.com/libOctavo/octavo) ⭐ 141 | 🐛 10 | 🌐 Rust | 📅 2018-03-24 - Modular hash and crypto library
 * [klutzy/suruga](https://github.com/klutzy/suruga) ⭐ 126 | 🐛 2 | 🌐 Rust | 📅 2016-01-19 - Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
@@ -1438,14 +1440,14 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Data processing
 
-* [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 63,393 | 🐛 29 | 🌐 Python | 📅 2026-04-28 - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
-* [pola-rs/polars](https://github.com/pola-rs/polars) ⭐ 38,322 | 🐛 2,759 | 🌐 Rust | 📅 2026-04-28 - Fast feature complete DataFrame library [![Lint Rust](https://github.com/pola-rs/polars/actions/workflows/lint-rust.yml/badge.svg)](https://github.com/pola-rs/polars/actions) ⭐ 38,322 | 🐛 2,759 | 🌐 Rust | 📅 2026-04-28
-* [pg\_analytics](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) ⭐ 8,704 | 🐛 159 | 🌐 Rust | 📅 2026-04-28 - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
-* [pg\_lakehouse](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) ⭐ 8,704 | 🐛 159 | 🌐 Rust | 📅 2026-04-28 - PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
-* [datafusion](https://github.com/apache/datafusion) ⭐ 8,652 | 🐛 1,924 | 🌐 Rust | 📅 2026-04-28 - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.
-* [cocoindex](https://github.com/cocoindex-io/cocoindex) ⭐ 7,122 | 🐛 49 | 🌐 Python | 📅 2026-04-28 - ETL framework to build fresh index
-* [bluss/ndarray](https://github.com/rust-ndarray/ndarray) ⭐ 4,275 | 🐛 205 | 🌐 Rust | 📅 2026-02-16 - N-dimensional array with array views, multidimensional slicing, and efficient operations
-* [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) ⭐ 3,881 | 🐛 209 | 🌐 Rust | 📅 2026-04-27 \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
+* [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 63,387 | 🐛 29 | 🌐 Python | 📅 2026-04-28 - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+* [pola-rs/polars](https://github.com/pola-rs/polars) ⭐ 38,330 | 🐛 2,747 | 🌐 Rust | 📅 2026-04-28 - Fast feature complete DataFrame library [![Lint Rust](https://github.com/pola-rs/polars/actions/workflows/lint-rust.yml/badge.svg)](https://github.com/pola-rs/polars/actions) ⭐ 38,330 | 🐛 2,747 | 🌐 Rust | 📅 2026-04-28
+* [pg\_analytics](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) ⭐ 8,709 | 🐛 166 | 🌐 Rust | 📅 2026-04-29 - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+* [pg\_lakehouse](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) ⭐ 8,709 | 🐛 166 | 🌐 Rust | 📅 2026-04-29 - PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
+* [datafusion](https://github.com/apache/datafusion) ⭐ 8,657 | 🐛 1,920 | 🌐 Rust | 📅 2026-04-29 - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.
+* [cocoindex](https://github.com/cocoindex-io/cocoindex) ⭐ 7,144 | 🐛 47 | 🌐 Python | 📅 2026-04-29 - ETL framework to build fresh index
+* [bluss/ndarray](https://github.com/rust-ndarray/ndarray) ⭐ 4,274 | 🐛 205 | 🌐 Rust | 📅 2026-02-16 - N-dimensional array with array views, multidimensional slicing, and efficient operations
+* [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) ⭐ 3,886 | 🐛 210 | 🌐 Rust | 📅 2026-04-28 \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
 * [weld-project/weld](https://github.com/weld-project/weld) ⭐ 3,002 | 🐛 76 | 🌐 Rust | 📅 2026-04-13 - High-performance runtime for data analytics applications
 * [amv-dev/yata](https://github.com/amv-dev/yata) ⭐ 392 | 🐛 9 | 🌐 Rust | 📅 2024-09-19 - high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust) ⭐ 392 | 🐛 9 | 🌐 Rust | 📅 2024-09-19
 * [kernelmachine/utah](https://github.com/kernelmachine/utah) ⭐ 145 | 🐛 1 | 🌐 Rust | 📅 2018-07-24 - Dataframe structure and operations
@@ -1454,16 +1456,16 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Data streaming
 
-* [fluvio](https://github.com/fluvio-community/fluvio) ⭐ 5,203 | 🐛 145 | 🌐 Rust | 📅 2026-04-27 - Programmable data streaming platform [![CI](https://github.com/fluvio-community/fluvio/actions/workflows/ci.yml/badge.svg)](https://github.com/fluvio-community/fluvio/actions) ⭐ 5,203 | 🐛 145 | 🌐 Rust | 📅 2026-04-27
-* [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) ⭐ 4,888 | 🐛 109 | 🌐 Rust | 📅 2026-04-23 - High-performance real-time analytics in Rust and SQL [![CI](https://github.com/ArroyoSystems/arroyo/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ArroyoSystems/arroyo/actions) ⭐ 4,888 | 🐛 109 | 🌐 Rust | 📅 2026-04-23
-* [iggy](https://github.com/apache/iggy) ⭐ 4,172 | 🐛 120 | 🌐 Rust | 📅 2026-04-27 \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml) ⭐ 4,172 | 🐛 120 | 🌐 Rust | 📅 2026-04-27
+* [fluvio](https://github.com/fluvio-community/fluvio) ⭐ 5,203 | 🐛 143 | 🌐 Rust | 📅 2026-04-28 - Programmable data streaming platform [![CI](https://github.com/fluvio-community/fluvio/actions/workflows/ci.yml/badge.svg)](https://github.com/fluvio-community/fluvio/actions) ⭐ 5,203 | 🐛 143 | 🌐 Rust | 📅 2026-04-28
+* [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) ⭐ 4,889 | 🐛 109 | 🌐 Rust | 📅 2026-04-23 - High-performance real-time analytics in Rust and SQL [![CI](https://github.com/ArroyoSystems/arroyo/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ArroyoSystems/arroyo/actions) ⭐ 4,889 | 🐛 109 | 🌐 Rust | 📅 2026-04-23
+* [iggy](https://github.com/apache/iggy) ⭐ 4,175 | 🐛 122 | 🌐 Rust | 📅 2026-04-28 \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml) ⭐ 4,175 | 🐛 122 | 🌐 Rust | 📅 2026-04-28
 * [arkflow-rs/arkflow](https://github.com/arkflow-rs/arkflow) ⭐ 1,272 | 🐛 31 | 🌐 Rust | 📅 2026-04-27 - High-performance Rust stream processing engine [![CI](https://github.com/arkflow-rs/arkflow/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/arkflow-rs/arkflow/actions) ⭐ 1,272 | 🐛 31 | 🌐 Rust | 📅 2026-04-27
-* [wingfoil](https://github.com/wingfoil-io/wingfoil) ⭐ 152 | 🐛 22 | 🌐 Rust | 📅 2026-04-27 - Graph based stream processing framework [![CI](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml/badge.svg)](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml) ⭐ 152 | 🐛 22 | 🌐 Rust | 📅 2026-04-27
+* [wingfoil](https://github.com/wingfoil-io/wingfoil) ⭐ 153 | 🐛 20 | 🌐 Rust | 📅 2026-04-28 - Graph based stream processing framework [![CI](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml/badge.svg)](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml) ⭐ 153 | 🐛 20 | 🌐 Rust | 📅 2026-04-28
 
 ### Data structures
 
 * [rust-itertools/itertools](https://github.com/rust-itertools/itertools) ⭐ 3,115 | 🐛 180 | 🌐 Rust | 📅 2026-04-27 - Extra iterator adaptors, functions and macros
-* [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) ⭐ 1,803 | 🐛 27 | 🌐 C | 📅 2026-04-23 - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+* [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) ⭐ 1,804 | 🐛 28 | 🌐 C | 📅 2026-04-23 - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 * [orium/rpds](https://github.com/orium/rpds) ⭐ 1,696 | 🐛 38 | 🌐 Rust | 📅 2026-04-27 \[[rpds](https://crates.io/crates/rpds)] - Persistent data structures. [![build badge](https://github.com/orium/rpds/workflows/CI/badge.svg)](https://github.com/orium/rpds/actions?query=workflow%3ACI) ⭐ 1,696 | 🐛 38 | 🌐 Rust | 📅 2026-04-27
 * [greyblake/nutype](https://github.com/greyblake/nutype) ⭐ 1,686 | 🐛 11 | 🌐 Rust | 📅 2026-04-25 \[[nutype](https://crates.io/crates/nutype)] - define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions) ⭐ 1,686 | 🐛 11 | 🌐 Rust | 📅 2026-04-25
 * [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) ⭐ 922 | 🐛 48 | 🌐 Rust | 📅 2026-04-24 - Roaring Bitmaps
@@ -1481,13 +1483,13 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Data visualization
 
-* [rerun](https://github.com/rerun-io/rerun) ⭐ 10,595 | 🐛 1,337 | 🌐 Rust | 📅 2026-04-27 - \[[rerun](https://crates.io/crates/rerun)] - An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
+* [rerun](https://github.com/rerun-io/rerun) ⭐ 10,600 | 🐛 1,336 | 🌐 Rust | 📅 2026-04-28 - \[[rerun](https://crates.io/crates/rerun)] - An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
 * [plotters](https://github.com/plotters-rs/plotters) ⭐ 4,565 | 🐛 177 | 🌐 Rust | 📅 2026-04-13 - [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions) ⭐ 4,565 | 🐛 177 | 🌐 Rust | 📅 2026-04-13
-* [plotly](https://github.com/plotly/plotly.rs) ⭐ 1,423 | 🐛 11 | 🌐 Rust | 📅 2026-02-16 - Plotly for Rust
+* [plotly](https://github.com/plotly/plotly.rs) ⭐ 1,423 | 🐛 12 | 🌐 Rust | 📅 2026-02-16 - Plotly for Rust
 * [blitzarx1/egui\_graphs](https://github.com/blitzarx1/egui_graphs) ⭐ 673 | 🐛 10 | 🌐 Rust | 📅 2026-03-30 \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 * [milliams/plotlib](https://github.com/milliams/plotlib) ⭐ 469 | 🐛 22 | 🌐 Rust | 📅 2022-12-12 - Data plotting library for Rust
 * [mazznoer/colorgrad-rs](https://github.com/mazznoer/colorgrad-rs) ⭐ 357 | 🐛 2 | 🌐 Rust | 📅 2026-03-12 \[[colorgrad](https://crates.io/crates/colorgrad)] - Color scales library for data visualization, charts, games, maps, generative art and others.
-* [wangjiawen2013/charton](https://github.com/wangjiawen2013/charton) ⭐ 158 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 - A layered grammar of graphics library in Rust. [![Documentation](https://img.shields.io/docsrs/charton/latest)](https://docs.rs/charton) [![Build Status](https://github.com/wangjiawen2013/charton/actions/workflows/ci.yml/badge.svg)](https://github.com/wangjiawen2013/charton/actions) ⭐ 158 | 🐛 1 | 🌐 Rust | 📅 2026-04-27
+* [wangjiawen2013/charton](https://github.com/wangjiawen2013/charton) ⭐ 158 | 🐛 1 | 🌐 Rust | 📅 2026-04-28 - A layered grammar of graphics library in Rust. [![Documentation](https://img.shields.io/docsrs/charton/latest)](https://docs.rs/charton) [![Build Status](https://github.com/wangjiawen2013/charton/actions/workflows/ci.yml/badge.svg)](https://github.com/wangjiawen2013/charton/actions) ⭐ 158 | 🐛 1 | 🌐 Rust | 📅 2026-04-28
 * [saresend/gust](https://github.com/saresend/Gust) ⭐ 130 | 🐛 27 | 🌐 Rust | 📅 2025-08-18 - A small charting/visualization tool and partial vega implementation
 * [djduque/pgfplots](https://github.com/djduque/pgfplots) ⭐ 124 | 🐛 7 | 🌐 Rust | 📅 2023-06-21 \[[pgfplots](https://crates.io/crates/pgfplots)] - Library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml) ⭐ 124 | 🐛 7 | 🌐 Rust | 📅 2023-06-21
 * [plotpy](https://github.com/cpmech/plotpy) ⭐ 86 | 🐛 0 | 🌐 Rust | 📅 2026-01-27 \[[plotpy](https://crates.io/crates/plotpy)] - Rust plotting library using Python (Matplotlib)
@@ -1499,20 +1501,20 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * NoSQL \[[nosql](https://crates.io/keywords/nosql)]
 
   * [SurrealDB](https://surrealdb.com/)
-    * [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) ⭐ 31,960 | 🐛 660 | 🌐 Rust | 📅 2026-04-27 - SurrealDB embedded document-graph database
+    * [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) ⭐ 31,966 | 🐛 654 | 🌐 Rust | 📅 2026-04-28 - SurrealDB embedded document-graph database
   * [Redb](https://www.redb.org/)
-    * [Redb](https://github.com/cberner/redb) ⭐ 4,464 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
+    * [Redb](https://github.com/cberner/redb) ⭐ 4,467 | 🐛 6 | 🌐 Rust | 📅 2026-04-29 - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
   * Redis \[[redis](https://crates.io/keywords/redis)]
-    * [redis-rs](https://github.com/redis-rs/redis-rs) ⭐ 4,191 | 🐛 92 | 🌐 Rust | 📅 2026-04-27 - [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml) ⭐ 4,191 | 🐛 92 | 🌐 Rust | 📅 2026-04-27
+    * [redis-rs](https://github.com/redis-rs/redis-rs) ⭐ 4,191 | 🐛 93 | 🌐 Rust | 📅 2026-04-27 - [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml) ⭐ 4,191 | 🐛 93 | 🌐 Rust | 📅 2026-04-27
     * [aembke/fred](https://github.com/aembke/fred.rs) ⭐ 524 | 🐛 35 | 🌐 Rust | 📅 2025-02-27 \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](origin/\[https:/circleci.com/gh/aembke/fred.rs/tree/main]\(https:/app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
-  * [UnQLite](https://github.com/symisc/unqlite) ⭐ 2,301 | 🐛 31 | 🌐 C | 📅 2026-04-16
+  * [UnQLite](https://github.com/symisc/unqlite) ⭐ 2,302 | 🐛 31 | 🌐 C | 📅 2026-04-16
     * [zitsen/unqlite.rs](https://github.com/zitsen/unqlite.rs) ⭐ 114 | 🐛 4 | 🌐 Rust | 📅 2020-12-04 - UnQLite bindings
   * [RocksDB](https://rocksdb.org/)
     * [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) ⭐ 2,144 | 🐛 180 | 🌐 Rust | 📅 2026-04-15 - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml) ⭐ 2,144 | 🐛 180 | 🌐 Rust | 📅 2026-04-15
   * MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
-    * [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) ⭐ 1,512 | 🐛 7 | 🌐 Rust | 📅 2026-04-27 \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
+    * [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) ⭐ 1,512 | 🐛 6 | 🌐 Rust | 📅 2026-04-27 \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
   * [PoloDB](https://www.polodb.org/)
-    * [PoloDB](https://github.com/PoloDB/PoloDB) ⭐ 1,200 | 🐛 36 | 🌐 Rust | 📅 2026-04-22 - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
+    * [PoloDB](https://github.com/PoloDB/PoloDB) ⭐ 1,201 | 🐛 36 | 🌐 Rust | 📅 2026-04-22 - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
   * LMDB \[[lmdb](https://crates.io/keywords/lmdb)]
     * [meilisearch/heed](https://github.com/meilisearch/heed) ⭐ 876 | 🐛 45 | 🌐 Rust | 📅 2026-04-27 \[[heed](https://crates.io/crates/heed)] - Another [LMDB](https://www.symas.com/symas-embedded-database-lmdb) binding
     * [vhbit/lmdb-rs](https://github.com/vhbit/lmdb-rs) ⭐ 114 | 🐛 18 | 🌐 Rust | 📅 2022-12-05 \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings
@@ -1533,26 +1535,26 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     * [bonifaido/rust-zookeeper](https://github.com/bonifaido/rust-zookeeper) ⭐ 209 | 🐛 28 | 🌐 Rust | 📅 2024-03-07 \[[zookeeper](https://crates.io/crates/zookeeper)] - A client library for Apache ZooKeeper.
     * [krojew/rust-zookeeper](https://github.com/krojew/rust-zookeeper) ⭐ 22 | 🐛 1 | 🌐 Rust | 📅 2026-03-09 \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
   * LevelDB
-    * [skade/leveldb](https://github.com/skade/leveldb) ⭐ 188 | 🐛 18 | 🌐 Rust | 📅 2022-06-22 - [LevelDB](https://github.com/google/leveldb) ⭐ 38,988 | 🐛 386 | 🌐 C++ | 📅 2026-03-11 bindings
+    * [skade/leveldb](https://github.com/skade/leveldb) ⭐ 188 | 🐛 18 | 🌐 Rust | 📅 2022-06-22 - [LevelDB](https://github.com/google/leveldb) ⭐ 38,989 | 🐛 386 | 🌐 C++ | 📅 2026-03-11 bindings
   * etcd
     * [jimmycuadra/rust-etcd](https://github.com/jimmycuadra/rust-etcd) ⭐ 144 | 🐛 6 | 🌐 Rust | 📅 2020-05-30 \[[etcd](https://crates.io/crates/etcd)] - A client library for CoreOS's etcd.
   * [ArangoDB](https://arangodb.com)
     * [Arangors](https://github.com/fMeow/arangors) ⭐ 134 | 🐛 13 | 🌐 Rust | 📅 2025-10-21 \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver
     * [Aragog](https://gitlab.com/qonfucius/aragog) \[[aragog](https://crates.io/crates/aragog)] - A Lightweight ArangoDB Object document, relational and graph mapper [![pipeline status](https://gitlab.com/qonfucius/aragog/badges/master/pipeline.svg)](https://gitlab.com/qonfucius/aragog/-/commits/master)
   * [InfluxDB](https://www.influxdata.com/)
-    * [driftluo/InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs) ⭐ 83 | 🐛 4 | 🌐 Rust | 📅 2026-04-17 - Synchronization interface
+    * [driftluo/InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs) ⭐ 83 | 🐛 4 | 🌐 Rust | 📅 2026-04-28 - Synchronization interface
   * CouchDB \[[couchdb](https://crates.io/keywords/couchdb)]
     * [chill-rs/chill](https://github.com/chill-rs/chill) ⭐ 37 | 🐛 26 | 🌐 Rust | 📅 2017-07-07 \[[couchdb](https://crates.io/crates/chill)] - Client for the CouchDB REST API
 * SQL \[[sql](https://crates.io/keywords/sql)]
   * Generic
-    * [launchbadge/sqlx](https://github.com/launchbadge/sqlx) ⭐ 16,924 | 🐛 735 | 🌐 Rust | 📅 2026-04-28 - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx) ⭐ 16,924 | 🐛 735 | 🌐 Rust | 📅 2026-04-28
-    * [SeaQL/sea-query](https://github.com/SeaQL/sea-query) ⭐ 1,691 | 🐛 94 | 🌐 Rust | 📅 2026-04-09 - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml) ⭐ 1,691 | 🐛 94 | 🌐 Rust | 📅 2026-04-09
+    * [launchbadge/sqlx](https://github.com/launchbadge/sqlx) ⭐ 16,929 | 🐛 733 | 🌐 Rust | 📅 2026-04-29 - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx) ⭐ 16,929 | 🐛 733 | 🌐 Rust | 📅 2026-04-29
+    * [SeaQL/sea-query](https://github.com/SeaQL/sea-query) ⭐ 1,693 | 🐛 94 | 🌐 Rust | 📅 2026-04-09 - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml) ⭐ 1,693 | 🐛 94 | 🌐 Rust | 📅 2026-04-09
     * [SeaQL/sea-schema](https://github.com/SeaQL/sea-schema) ⭐ 226 | 🐛 16 | 🌐 Rust | 📅 2026-04-17 - 🌿 SQL schema definition and discovery [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml) ⭐ 226 | 🐛 16 | 🌐 Rust | 📅 2026-04-17
   * Sqlite \[[sqlite](https://crates.io/keywords/sqlite)]
-    * [rusqlite](https://github.com/rusqlite/rusqlite) ⭐ 4,163 | 🐛 167 | 🌐 Rust | 📅 2026-04-26 - [Sqlite3](https://sqlite.org/index.html) bindings
+    * [rusqlite](https://github.com/rusqlite/rusqlite) ⭐ 4,164 | 🐛 167 | 🌐 Rust | 📅 2026-04-26 - [Sqlite3](https://sqlite.org/index.html) bindings
   * PostgreSql \[[postgres](https://crates.io/keywords/postgres), [postgresql](https://crates.io/keywords/postgresql)]
-    * [rust-postgres](https://github.com/rust-postgres/rust-postgres) ⭐ 3,932 | 🐛 163 | 🌐 Rust | 📅 2026-04-23 \[[postgres](https://crates.io/crates/postgres)] - A native [PostgreSQL](https://www.postgresql.org/) client
-    * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 11 | 🌐 Rust | 📅 2026-04-22 - Fast implementation with a low set of external dependencies.
+    * [rust-postgres](https://github.com/rust-postgres/rust-postgres) ⭐ 3,933 | 🐛 163 | 🌐 Rust | 📅 2026-04-23 \[[postgres](https://crates.io/crates/postgres)] - A native [PostgreSQL](https://www.postgresql.org/) client
+    * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 10 | 🌐 Rust | 📅 2026-04-22 - Fast implementation with a low set of external dependencies.
   * MySql \[[mysql](https://crates.io/keywords/mysql)]
     * [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) ⭐ 690 | 🐛 14 | 🌐 Rust | 📅 2026-03-17 \[[mysql](https://crates.io/crates/mysql)] - A native MySql client
     * [blackbeam/mysql\_async](https://github.com/blackbeam/mysql_async) ⭐ 405 | 🐛 35 | 🌐 Rust | 📅 2026-04-27 \[[mysql\_async](https://crates.io/crates/mysql_async)] - asynchronous Mysql driver based on Tokio. [![CircleCI](https://circleci.com/gh/blackbeam/mysql_async/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/blackbeam/mysql_async?branch=master)
@@ -1562,9 +1564,9 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * Oracle
     * [kubo/rust-oracle](https://github.com/kubo/rust-oracle) ⭐ 225 | 🐛 23 | 🌐 Rust | 📅 2025-03-23 \[[oracle](https://crates.io/crates/oracle)] - Oracle driver [![build badge](https://github.com/kubo/rust-oracle/actions/workflows/run-tests.yml/badge.svg?branch=master)](https://github.com/kubo/rust-oracle/actions/workflows/run-tests.yml) ⭐ 225 | 🐛 23 | 🌐 Rust | 📅 2025-03-23
 * ORM \[[orm](https://crates.io/keywords/orm)]
-  * [diesel-rs/diesel](https://github.com/diesel-rs/diesel) ⭐ 14,049 | 🐛 162 | 🌐 Rust | 📅 2026-04-24 - an ORM and Query builder
-  * [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) ⭐ 9,575 | 🐛 240 | 🌐 Rust | 📅 2026-04-22 - 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml) ⭐ 9,575 | 🐛 240 | 🌐 Rust | 📅 2026-04-22
-  * [rbatis/rbatis](https://github.com/rbatis/rbatis) ⭐ 2,454 | 🐛 79 | 🌐 Rust | 📅 2026-04-26 - ORM Framework High Performance(JSON based)
+  * [diesel-rs/diesel](https://github.com/diesel-rs/diesel) ⭐ 14,051 | 🐛 163 | 🌐 Rust | 📅 2026-04-28 - an ORM and Query builder
+  * [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) ⭐ 9,579 | 🐛 241 | 🌐 Rust | 📅 2026-04-22 - 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml) ⭐ 9,579 | 🐛 241 | 🌐 Rust | 📅 2026-04-22
+  * [rbatis/rbatis](https://github.com/rbatis/rbatis) ⭐ 2,454 | 🐛 80 | 🌐 Rust | 📅 2026-04-26 - ORM Framework High Performance(JSON based)
   * [SeaQL/seaography](https://github.com/SeaQL/seaography) ⭐ 511 | 🐛 40 | 🌐 Rust | 📅 2026-01-12 - 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml) ⭐ 511 | 🐛 40 | 🌐 Rust | 📅 2026-01-12
   * [njord](https://github.com/njord-rs/njord) ⭐ 410 | 🐛 19 | 🌐 Rust | 📅 2025-10-27 - ⛵ A versatile, feature-rich Rust ORM [![build status](https://github.com/njord-rs/njord/actions/workflows/core.yml/badge.svg)](https://github.com/njord-rs/njord/actions/workflows/core.yml) ⭐ 410 | 🐛 19 | 🌐 Rust | 📅 2025-10-27 ![crates.io](https://img.shields.io/crates/v/njord.svg)
   * [ivanceras/rustorm](https://github.com/ivanceras/rustorm) ⭐ 249 | 🐛 6 | 🌐 Rust | 📅 2021-03-06 - an ORM
@@ -1579,9 +1581,9 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 \[[date](https://crates.io/keywords/date), [time](https://crates.io/keywords/time)]
 
-* [chronotope/chrono](https://github.com/chronotope/chrono) ⭐ 3,841 | 🐛 188 | 🌐 Rust | 📅 2026-04-06 - Date and time library
+* [chronotope/chrono](https://github.com/chronotope/chrono) ⭐ 3,840 | 🐛 188 | 🌐 Rust | 📅 2026-04-06 - Date and time library
 * [burntSushi/jiff](https://github.com/BurntSushi/jiff) ⭐ 2,692 | 🐛 43 | 🌐 Rust | 📅 2026-04-23 - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions) ⭐ 2,692 | 🐛 43 | 🌐 Rust | 📅 2026-04-23
-* [time-rs/time](https://github.com/time-rs/time) ⭐ 1,302 | 🐛 10 | 🌐 Rust | 📅 2026-04-27 - [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions) ⭐ 1,302 | 🐛 10 | 🌐 Rust | 📅 2026-04-27
+* [time-rs/time](https://github.com/time-rs/time) ⭐ 1,303 | 🐛 10 | 🌐 Rust | 📅 2026-04-27 - [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions) ⭐ 1,303 | 🐛 10 | 🌐 Rust | 📅 2026-04-27
 * [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) ⭐ 79 | 🐛 9 | 🌐 Rust | 📅 2026-04-17 \[[rusti-cal](https://crates.io/crates/rusti-cal)] - A cal(1) clone lightning-fast \~ more than 9999 years \~ Written in Rust.
 * [Mnwa/ms](https://github.com/Mnwa/ms) ⭐ 36 | 🐛 0 | 🌐 Rust | 📅 2021-11-24 \[[ms-converter](https://crates.io/crates/ms-converter)] - it's a library for converting human-like times to milliseconds [![build badge](https://github.com/Mnwa/ms/workflows/build/badge.svg?branch=master)](https://github.com/Mnwa/ms/actions?query=workflow%3Abuild) ⭐ 36 | 🐛 0 | 🌐 Rust | 📅 2021-11-24
 * [sorairolake/nt-time](https://github.com/sorairolake/nt-time) ⭐ 12 | 🐛 5 | 🌐 Rust | 📅 2026-04-26 \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI) ⭐ 12 | 🐛 5 | 🌐 Rust | 📅 2026-04-26
@@ -1589,10 +1591,10 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Distributed systems
 
 * Other
-  * [build-trust/ockam](https://github.com/build-trust/ockam) ⭐ 4,616 | 🐛 94 | 🌐 Rust | 📅 2026-01-04 \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam) ⭐ 4,616 | 🐛 94 | 🌐 Rust | 📅 2026-01-04
+  * [build-trust/ockam](https://github.com/build-trust/ockam) ⭐ 4,614 | 🐛 94 | 🌐 Rust | 📅 2026-01-04 \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam) ⭐ 4,614 | 🐛 94 | 🌐 Rust | 📅 2026-01-04
 * Apache Kafka
-  * [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) ⭐ 1,961 | 🐛 144 | 🌐 Rust | 📅 2026-04-14 \[[rdkafka](https://crates.io/crates/rdkafka)] - [librdkafka](https://github.com/confluentinc/librdkafka) ⭐ 969 | 🐛 566 | 🌐 C | 📅 2026-04-27 bindings
-  * [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) ⭐ 1,438 | 🐛 55 | 🌐 Rust | 📅 2026-01-20 - Rust client for Apache Kafka
+  * [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) ⭐ 1,961 | 🐛 144 | 🌐 Rust | 📅 2026-04-14 \[[rdkafka](https://crates.io/crates/rdkafka)] - [librdkafka](https://github.com/confluentinc/librdkafka) ⭐ 970 | 🐛 566 | 🌐 C | 📅 2026-04-28 bindings
+  * [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) ⭐ 1,439 | 🐛 55 | 🌐 Rust | 📅 2026-01-20 - Rust client for Apache Kafka
   * [gklijs/schema\_registry\_converter](https://github.com/gklijs/schema_registry_converter) ⭐ 116 | 🐛 7 | 🌐 Rust | 📅 2026-04-14 \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] - to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
 * Antimony
   * [antimonyproject/antimony](https://github.com/antimonyproject/antimony) ⭐ 66 | 🐛 1 | 🌐 Rust | 📅 2017-11-08 \[[antimony](https://crates.io/crates/antimony)] - stream processing / distributed computation platform
@@ -1601,21 +1603,21 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Domain driven design
 
-* [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) ⭐ 474 | 🐛 15 | 🌐 Rust | 📅 2026-03-31 \[[cqrs-es](https://crates.io/crates/cqrs-es)] - A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+* [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) ⭐ 476 | 🐛 15 | 🌐 Rust | 📅 2026-03-31 \[[cqrs-es](https://crates.io/crates/cqrs-es)] - A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ### eBPF
 
-* [aya/aya-rs](https://github.com/aya-rs/aya) ⭐ 4,493 | 🐛 189 | 🌐 Rust | 📅 2026-04-28 - Built with a focus on developer experience and operability.
-* [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs) ⭐ 979 | 🐛 11 | 🌐 Rust | 📅 2026-04-24 - A minimal and opinionated eBPF tooling.
+* [aya/aya-rs](https://github.com/aya-rs/aya) ⭐ 4,493 | 🐛 190 | 🌐 Rust | 📅 2026-04-28 - Built with a focus on developer experience and operability.
+* [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs) ⭐ 979 | 🐛 10 | 🌐 Rust | 📅 2026-04-28 - A minimal and opinionated eBPF tooling.
 
 ### Email
 
 \[[email](https://crates.io/keywords/email), [imap](https://crates.io/keywords/imap), [smtp](https://crates.io/keywords/smtp)]
 
-* [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) ⭐ 8,603 | 🐛 89 | 🌐 Rust | 📅 2026-03-17 \[[check-if-email-exists](https://crates.io/crates/check-if-email-exists)] - Check if an email address exists without sending any email, with SMTP validation, disposable address detection, and catch-all checks [![Actions Status](https://github.com/reacherhq/check-if-email-exists/workflows/pr/badge.svg)](https://github.com/reacherhq/check-if-email-exists/actions) ⭐ 8,603 | 🐛 89 | 🌐 Rust | 📅 2026-03-17
+* [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) ⭐ 8,604 | 🐛 89 | 🌐 Rust | 📅 2026-03-17 \[[check-if-email-exists](https://crates.io/crates/check-if-email-exists)] - Check if an email address exists without sending any email, with SMTP validation, disposable address detection, and catch-all checks [![Actions Status](https://github.com/reacherhq/check-if-email-exists/workflows/pr/badge.svg)](https://github.com/reacherhq/check-if-email-exists/actions) ⭐ 8,604 | 🐛 89 | 🌐 Rust | 📅 2026-03-17
 * [lettre/lettre](https://github.com/lettre/lettre) ⭐ 2,198 | 🐛 77 | 🌐 Rust | 📅 2026-04-24 - an SMTP-library [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml) ⭐ 2,198 | 🐛 77 | 🌐 Rust | 📅 2026-04-24
 * [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) ⭐ 961 | 🐛 4 | 🌐 Rust | 📅 2026-03-23 - Email test server for development.
-* [meli/meli](https://github.com/meli/meli) ⭐ 858 | 🐛 3 | 🌐 Rust | 📅 2026-04-14 - 🐝 terminal mail client
+* [meli/meli](https://github.com/meli/meli) ⭐ 859 | 🐛 3 | 🌐 Rust | 📅 2026-04-14 - 🐝 terminal mail client
 * [jdrouet/mrml](https://github.com/jdrouet/mrml) ⭐ 474 | 🐛 20 | 🌐 HTML | 📅 2026-04-26 - A library to generate nice email templates working on any mail client.
 * [stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser) ⭐ 435 | 🐛 38 | 🌐 Rust | 📅 2026-02-24 \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml) ⭐ 435 | 🐛 38 | 🌐 Rust | 📅 2026-02-24
 * [stalwartlabs/mail-send](https://github.com/stalwartlabs/mail-send) ⭐ 267 | 🐛 14 | 🌐 Rust | 📅 2026-04-13 \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml) ⭐ 267 | 🐛 14 | 🌐 Rust | 📅 2026-04-13
@@ -1632,37 +1634,37 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 \[[encoding](https://crates.io/keywords/encoding)]
 
 * JSON
-  * [serde-rs/json](https://github.com/serde-rs/json) ⭐ 5,555 | 🐛 223 | 🌐 Rust | 📅 2026-04-10 \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde](https://github.com/serde-rs/serde) ⭐ 10,566 | 🐛 381 | 🌐 Rust | 📅 2026-03-06 framework
+  * [serde-rs/json](https://github.com/serde-rs/json) ⭐ 5,555 | 🐛 223 | 🌐 Rust | 📅 2026-04-10 \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde](https://github.com/serde-rs/serde) ⭐ 10,570 | 🐛 382 | 🌐 Rust | 📅 2026-03-06 framework
   * [simd-lite/simd-json](https://github.com/simd-lite/simd-json) ⭐ 1,389 | 🐛 22 | 🌐 Rust | 📅 2026-03-11 \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
   * [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) ⭐ 870 | 🐛 15 | 🌐 Rust | 📅 2026-04-15 \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
   * [importcjj/rust-ajson](https://github.com/importcjj/rust-ajson) ⭐ 108 | 🐛 3 | 🌐 Rust | 📅 2022-08-31 \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
   * [rustadopt/jzon-rs](https://github.com/rustadopt/jzon-rs/) ⭐ 15 | 🐛 6 | 🌐 Rust | 📅 2026-01-26 \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
 * ProtocolBuffers
-  * [tokio-rs/prost](https://github.com/tokio-rs/prost) ⭐ 4,673 | 🐛 235 | 🌐 Rust | 📅 2026-04-25 - [![continuous integration](https://github.com/tokio-rs/prost/workflows/continuous%20integration/badge.svg?branch=master)](https://github.com/tokio-rs/prost/actions) ⭐ 4,673 | 🐛 235 | 🌐 Rust | 📅 2026-04-25
+  * [tokio-rs/prost](https://github.com/tokio-rs/prost) ⭐ 4,675 | 🐛 235 | 🌐 Rust | 📅 2026-04-25 - [![continuous integration](https://github.com/tokio-rs/prost/workflows/continuous%20integration/badge.svg?branch=master)](https://github.com/tokio-rs/prost/actions) ⭐ 4,675 | 🐛 235 | 🌐 Rust | 📅 2026-04-25
   * [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) ⭐ 2,971 | 🐛 90 | 🌐 Rust | 📅 2025-09-21 - Rust implementation of Google protocol buffers
 * rkyv
-  * [rkyv/rkyv](https://github.com/rkyv/rkyv) ⭐ 4,168 | 🐛 58 | 🌐 Rust | 📅 2026-04-22 \[[rkyv](https://crates.io/crates/rkyv)] - rkyv (archive) is a zero-copy deserialization framework
+  * [rkyv/rkyv](https://github.com/rkyv/rkyv) ⭐ 4,173 | 🐛 59 | 🌐 Rust | 📅 2026-04-22 \[[rkyv](https://crates.io/crates/rkyv)] - rkyv (archive) is a zero-copy deserialization framework
 * RON (Rusty Object Notation)
-  * <https://github.com/ron-rs/ron> ⭐ 3,889 | 🐛 46 | 🌐 Rust | 📅 2026-04-26 - Rusty Object Notation
+  * <https://github.com/ron-rs/ron> ⭐ 3,891 | 🐛 46 | 🌐 Rust | 📅 2026-04-26 - Rusty Object Notation
 * HTML
-  * [servo/html5ever](https://github.com/servo/html5ever) ⭐ 2,565 | 🐛 68 | 🌐 Rust | 📅 2026-04-20 - High-performance browser-grade HTML5 parser
+  * [servo/html5ever](https://github.com/servo/html5ever) ⭐ 2,566 | 🐛 68 | 🌐 Rust | 📅 2026-04-20 - High-performance browser-grade HTML5 parser
 * Cap'n Proto
-  * [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,454 | 🐛 100 | 🌐 Rust | 📅 2026-04-21 - Cap'n Proto is a type system for distributed systems
+  * [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,455 | 🐛 100 | 🌐 Rust | 📅 2026-04-21 - Cap'n Proto is a type system for distributed systems
 * TOML
-  * [tamasfe/taplo](https://github.com/tamasfe/taplo) ⭐ 2,242 | 🐛 223 | 🌐 Rust | 📅 2026-03-11 \[[taplo](https://crates.io/crates/taplo)] - A TOML toolkit [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22) ⭐ 2,242 | 🐛 223 | 🌐 Rust | 📅 2026-03-11
-  * [toml-rs/toml](https://github.com/toml-rs/toml) ⭐ 1,029 | 🐛 61 | 🌐 Rust | 📅 2026-04-27 - [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml) ⭐ 1,029 | 🐛 61 | 🌐 Rust | 📅 2026-04-27
+  * [tamasfe/taplo](https://github.com/tamasfe/taplo) ⭐ 2,241 | 🐛 225 | 🌐 Rust | 📅 2026-03-11 \[[taplo](https://crates.io/crates/taplo)] - A TOML toolkit [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22) ⭐ 2,241 | 🐛 225 | 🌐 Rust | 📅 2026-03-11
+  * [toml-rs/toml](https://github.com/toml-rs/toml) ⭐ 1,031 | 🐛 61 | 🌐 Rust | 📅 2026-04-27 - [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml) ⭐ 1,031 | 🐛 61 | 🌐 Rust | 📅 2026-04-27
 * CSV
   * [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) ⭐ 1,930 | 🐛 100 | 🌐 Rust | 📅 2025-10-17 - A fast and flexible CSV reader and writer, with support for Serde
 * XML
-  * [tafia/quick-xml](https://github.com/tafia/quick-xml) ⭐ 1,497 | 🐛 102 | 🌐 Rust | 📅 2026-02-22 - High performance XML pull reader/writer
+  * [tafia/quick-xml](https://github.com/tafia/quick-xml) ⭐ 1,496 | 🐛 103 | 🌐 Rust | 📅 2026-02-22 - High performance XML pull reader/writer
   * [netvl/xml-rs](https://github.com/netvl/xml-rs) ⭐ 470 | 🐛 6 | 🌐 Rust | 📅 2026-01-13 - A streaming XML library
   * [yaserde](https://github.com/luminvent/yaserde) ⭐ 194 | 🐛 60 | 🌐 Rust | 📅 2026-02-10 - Yet Another Serializer/Deserializer specialized for XML
   * [shepmaster/sxd-document](https://github.com/shepmaster/sxd-document) ⭐ 160 | 🐛 32 | 🌐 Rust | 📅 2025-06-11 - An XML library
   * [shepmaster/sxd-xpath](https://github.com/shepmaster/sxd-xpath) ⭐ 129 | 🐛 33 | 🌐 Rust | 📅 2025-06-09 - An XPath library
   * [Florob/RustyXML](https://github.com/Florob/RustyXML) ⭐ 107 | 🐛 1 | 🌐 Rust | 📅 2021-09-05 - an XML parser
 * Binary
-  * [m4b/goblin](https://github.com/m4b/goblin) ⭐ 1,469 | 🐛 87 | 🌐 Rust | 📅 2026-04-20 \[[goblin](https://crates.io/crates/goblin)] - cross-platform, zero-copy, and endian-aware binary parsing
-  * [jamesmunns/postcard](https://github.com/jamesmunns/postcard) ⭐ 1,398 | 🐛 70 | 🌐 Rust | 📅 2026-02-03 \[[postcard](https://crates.io/crates/postcard)] - Postcard is a #!\[no\_std] focused serializer and deserializer for Serde.
+  * [m4b/goblin](https://github.com/m4b/goblin) ⭐ 1,472 | 🐛 87 | 🌐 Rust | 📅 2026-04-20 \[[goblin](https://crates.io/crates/goblin)] - cross-platform, zero-copy, and endian-aware binary parsing
+  * [jamesmunns/postcard](https://github.com/jamesmunns/postcard) ⭐ 1,399 | 🐛 70 | 🌐 Rust | 📅 2026-02-03 \[[postcard](https://crates.io/crates/postcard)] - Postcard is a #!\[no\_std] focused serializer and deserializer for Serde.
   * [bincode](https://crates.io/crates/bincode) - A binary encoder/decoder
 * MsgPack
   * [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) ⭐ 1,399 | 🐛 84 | 🌐 Rust | 📅 2025-12-23 - Low/high level MessagePack implementation
@@ -1670,15 +1672,15 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) ⭐ 1,074 | 🐛 16 | 🌐 Rust | 📅 2024-09-25 - Supports big-endian, little-endian and native byte orders
 * YAML
   * [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) ⭐ 645 | 🐛 71 | 🌐 Rust | 📅 2024-03-25 - The missing YAML 1.2 implementation.
-  * [saphyr](https://github.com/saphyr-rs/saphyr) ⭐ 306 | 🐛 46 | 🌐 Rust | 📅 2026-04-09 - A set of crates dedicated to parsing YAML.
-  * [serde-saphyr](https://github.com/bourumir-wyngs/serde-saphyr) ⭐ 154 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 - YAML (de)serializer for Serde, emphasizing panic-free parsing and good error reporting [![crates.io](https://img.shields.io/crates/d/serde-saphyr.svg)](https://crates.io/crates/serde-saphyr)
+  * [saphyr](https://github.com/saphyr-rs/saphyr) ⭐ 307 | 🐛 47 | 🌐 Rust | 📅 2026-04-09 - A set of crates dedicated to parsing YAML.
+  * [serde-saphyr](https://github.com/bourumir-wyngs/serde-saphyr) ⭐ 157 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 - YAML (de)serializer for Serde, emphasizing panic-free parsing and good error reporting [![crates.io](https://img.shields.io/crates/d/serde-saphyr.svg)](https://crates.io/crates/serde-saphyr)
 * BSON
   * [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ⭐ 457 | 🐛 7 | 🌐 Rust | 📅 2026-04-27 - Encoding and decoding support for BSON
 * Character Encoding
-  * [hsivonen/encoding\_rs](https://github.com/hsivonen/encoding_rs) ⭐ 448 | 🐛 26 | 🌐 Rust | 📅 2026-04-23 \[[encoding\_rs](https://crates.io/crates/encoding_rs)] - A Gecko-oriented implementation of the Encoding Standard
+  * [hsivonen/encoding\_rs](https://github.com/hsivonen/encoding_rs) ⭐ 449 | 🐛 26 | 🌐 Rust | 📅 2026-04-28 \[[encoding\_rs](https://crates.io/crates/encoding_rs)] - A Gecko-oriented implementation of the Encoding Standard
   * [lifthrasiir/rust-encoding](https://github.com/lifthrasiir/rust-encoding) ⭐ 288 | 🐛 36 | 🌐 Rust | 📅 2024-03-31 - Character encoding support for Rust. (also known as rust-encoding) It is based on WHATWG Encoding Standard, and also provides an advanced interface for error detection and recovery.
 * CRC
-  * [mrhooray/crc-rs](https://github.com/mrhooray/crc-rs) ⭐ 225 | 🐛 15 | 🌐 Rust | 📅 2026-01-02 - Rust implementation of CRC(16, 32, 64) with support of various standards
+  * [mrhooray/crc-rs](https://github.com/mrhooray/crc-rs) ⭐ 226 | 🐛 15 | 🌐 Rust | 📅 2026-01-02 - Rust implementation of CRC(16, 32, 64) with support of various standards
 * Serde
   * [iddm/serde-aux](https://github.com/iddm/serde-aux/) ⭐ 173 | 🐛 4 | 🌐 Rust | 📅 2025-09-21 - additional tools for using with the serde library. [![CI](https://github.com/iddm/serde-aux/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/serde-aux/actions/workflows/ci.yml) ⭐ 173 | 🐛 4 | 🌐 Rust | 📅 2025-09-21 [![Crates badge](https://img.shields.io/crates/v/serde-aux.svg)](https://crates.io/crates/serde-aux)
 * [FlatBuffers](https://flatbuffers.dev/)
@@ -1702,7 +1704,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 \[[filesystem](https://crates.io/keywords/filesystem)]
 
 * Operations
-  * [OpenDAL](https://github.com/apache/opendal) ⭐ 5,031 | 🐛 324 | 🌐 Rust | 📅 2026-04-28 \[[opendal](https://crates.io/crates/opendal)] - A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services. [![build](https://img.shields.io/github/actions/workflow/status/apache/opendal/ci_core.yml?branch=main)](https://github.com/apache/opendal/actions?query=branch%3Amain) ⭐ 5,031 | 🐛 324 | 🌐 Rust | 📅 2026-04-28
+  * [OpenDAL](https://github.com/apache/opendal) ⭐ 5,034 | 🐛 322 | 🌐 Rust | 📅 2026-04-28 \[[opendal](https://crates.io/crates/opendal)] - A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services. [![build](https://img.shields.io/github/actions/workflow/status/apache/opendal/ci_core.yml?branch=main)](https://github.com/apache/opendal/actions?query=branch%3Amain) ⭐ 5,034 | 🐛 322 | 🌐 Rust | 📅 2026-04-28
   * [Camino](https://github.com/camino-rs/camino) ⭐ 556 | 🐛 5 | 🌐 Rust | 📅 2026-03-31 \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
   * [webdesus/fs\_extra](https://github.com/webdesus/fs_extra) ⭐ 335 | 🐛 46 | 🌐 Rust | 📅 2023-12-13 - expanding opportunities standard library std::fs and std::io
   * [ParthJadhav/Rust\_Search](https://github.com/ParthJadhav/Rust_Search) ⭐ 189 | 🐛 8 | 🌐 Rust | 📅 2026-03-13 \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
@@ -1712,15 +1714,15 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [dnbln/dir-structure](https://github.com/dnbln/dir-structure) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-10-14 \[[dir-structure](https://crates.io/crates/dir-structure)] - Model file system trees with plain Rust structures. [![Tests](https://github.com/dnbln/dir-structure/actions/workflows/test-dir-structure.yml/badge.svg?branch=trunk)](https://github.com/dnbln/dir-structure/actions/workflows/test-dir-structure.yml) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-10-14
 * Temporary Files
   * [zboxfs/zbox](https://github.com/zboxfs/zbox) ⚠️ Archived \[[zbox](https://crates.io/crates/zbox)] - Zero-details, privacy-focused embeddable file system.
-  * [Stebalien/tempfile](https://github.com/Stebalien/tempfile) ⭐ 1,425 | 🐛 3 | 🌐 Rust | 📅 2026-03-14 - temporary file library
-  * [Stebalien/xattr](https://github.com/Stebalien/xattr) ⭐ 70 | 🐛 2 | 🌐 Rust | 📅 2025-12-16 \[[xattr](https://crates.io/crates/xattr)] - list and manipulate unix extended file attributes
+  * [Stebalien/tempfile](https://github.com/Stebalien/tempfile) ⭐ 1,426 | 🐛 3 | 🌐 Rust | 📅 2026-04-28 - temporary file library
+  * [Stebalien/xattr](https://github.com/Stebalien/xattr) ⭐ 70 | 🐛 2 | 🌐 Rust | 📅 2026-04-29 \[[xattr](https://crates.io/crates/xattr)] - list and manipulate unix extended file attributes
 
 ### Finance
 
 * [avhz/RustQuant](https://github.com/avhz/RustQuant) ⭐ 1,715 | 🐛 33 | 🌐 Rust | 📅 2026-01-14 \[[RustQuant](https://crates.io/crates/RustQuant)] - A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 * [kand-ta/kand](https://github.com/kand-ta/kand) ⭐ 545 | 🐛 12 | 🌐 Rust | 📅 2026-01-22 \[[kand](https://crates.io/crates/kand)] - A Modern, High-Performance Technical Analysis Library in Rust, Python, and JS/TS(WASM). [![image](https://img.shields.io/crates/v/kand.svg)](https://crates.io/crates/kand)
 * [d-e-s-o/apca](https://github.com/d-e-s-o/apca) ⭐ 191 | 🐛 14 | 🌐 Rust | 📅 2025-03-23 \[[apca](https://crates.io/crates/apca)] - Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
-* [stochastic-rs](https://github.com/rust-dd/stochastic-rs) ⭐ 158 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 \[[stochastic-rs](https://crates.io/crates/stochastic-rs)] - High-performance data generation library for stochastic process with quant finance tools. ![GitHub Workflow Status](https://github.com/rust-dd/stochastic-rs/actions/workflows/rust.yml/badge.svg)
+* [stochastic-rs](https://github.com/rust-dd/stochastic-rs) ⭐ 158 | 🐛 1 | 🌐 Rust | 📅 2026-04-28 \[[stochastic-rs](https://crates.io/crates/stochastic-rs)] - High-performance data generation library for stochastic process with quant finance tools. ![GitHub Workflow Status](https://github.com/rust-dd/stochastic-rs/actions/workflows/rust.yml/badge.svg)
 
 ### Functional Programming
 
@@ -1735,22 +1737,22 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 See also [Are we game yet?](https://arewegameyet.rs)
 
 * Game Engines
-  * [Bevy](https://github.com/bevyengine/bevy) ⭐ 45,774 | 🐛 3,340 | 🌐 Rust | 📅 2026-04-28 - is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy) [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
-  * [Fyrox](https://fyrox.rs/) - Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) ⭐ 9,310 | 🐛 61 | 🌐 Rust | 📅 2026-04-27 [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
+  * [Bevy](https://github.com/bevyengine/bevy) ⭐ 45,793 | 🐛 3,321 | 🌐 Rust | 📅 2026-04-29 - is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy) [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
+  * [Fyrox](https://fyrox.rs/) - Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) ⭐ 9,315 | 🐛 61 | 🌐 Rust | 📅 2026-04-28 [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
   * [Piston](https://www.piston.rs/) - [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) ⭐ 4,694 | 🐛 36 | 🌐 Rust | 📅 2024-05-21 [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
-  * [ggez](https://github.com/ggez/ggez) ⭐ 4,618 | 🐛 69 | 🌐 Rust | 📅 2026-04-03 - A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) ⭐ 4,618 | 🐛 69 | 🌐 Rust | 📅 2026-04-03 [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
-  * [Kiss3d](https://github.com/dimforge/kiss3d) ⭐ 1,679 | 🐛 78 | 🌐 Rust | 📅 2026-04-05 - A Keep It Simple, Stupid 3d graphics engine [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
+  * [ggez](https://github.com/ggez/ggez) ⭐ 4,619 | 🐛 70 | 🌐 Rust | 📅 2026-04-03 - A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) ⭐ 4,619 | 🐛 70 | 🌐 Rust | 📅 2026-04-03 [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
+  * [Kiss3d](https://github.com/dimforge/kiss3d) ⭐ 1,680 | 🐛 78 | 🌐 Rust | 📅 2026-04-05 - A Keep It Simple, Stupid 3d graphics engine [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
   * [Unrust](https://github.com/unrust/unrust) ⭐ 381 | 🐛 10 | 🌐 Rust | 📅 2018-08-13 - Webgl 2.0 / native game engine
   * [oxidator](https://github.com/Ruddle/oxidator) ⭐ 353 | 🐛 15 | 🌐 Rust | 📅 2023-09-11 - A real time strategy game/engine supporting WebGPU
   * [AscendingCreations/AscendingGraphics](https://github.com/AscendingCreations/AscendingGraphics) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-03-27 - A 2D Rendering Framework using WGPU and Winit. - [![Crates.io](https://img.shields.io/crates/v/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics) [![license](https://img.shields.io/crates/l/ascending_graphics.svg)](https://github.com/AscendingCreations/AscendingGraphics/blob/main/LICENSE.MIT) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-03-27 [![Crates.io](https://img.shields.io/crates/d/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics)
 * Minecraft
-  * [Pumpkin](https://github.com/pumpkin-mc/pumpkin) ⭐ 7,500 | 🐛 132 | 🌐 Rust | 📅 2026-04-27 - A high-performance Minecraft server Software fully written in Rust
+  * [Pumpkin](https://github.com/pumpkin-mc/pumpkin) ⭐ 7,502 | 🐛 134 | 🌐 Rust | 📅 2026-04-28 - A high-performance Minecraft server Software fully written in Rust
   * [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,242 | 🐛 26 | 🌐 Rust | 📅 2026-02-16 - A upgrade of the original Minecraft server in Rust \[![build badge](https://github.com/ferrumc-rs/ferrumc/actions/workflows/rust.yml/badge.svg)]
   * [bedrock-crustaceans/bedrock-rs](https://github.com/bedrock-crustaceans/bedrock-rs) ⭐ 161 | 🐛 4 | 🌐 Rust | 📅 2026-04-23 - Universal toolkit for Minecraft Bedrock Edition development in Rust. [![GitHub stars](https://img.shields.io/github/stars/bedrock-crustaceans/bedrock-rs)](https://github.com/bedrock-crustaceans/bedrock-rs) ⭐ 161 | 🐛 4 | 🌐 Rust | 📅 2026-04-23 [![CI](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml) ⭐ 161 | 🐛 4 | 🌐 Rust | 📅 2026-04-23
 * [Godot](https://godotengine.org/)
-  * [godot-rust/gdext](https://github.com/godot-rust/gdext) ⭐ 4,718 | 🐛 73 | 🌐 Rust | 📅 2026-04-27 \[[gdext](https://crates.io/crates/gdext)] - Bindings to the Godot 4+ game engine [![CI](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml) ⭐ 4,718 | 🐛 73 | 🌐 Rust | 📅 2026-04-27
+  * [godot-rust/gdext](https://github.com/godot-rust/gdext) ⭐ 4,724 | 🐛 73 | 🌐 Rust | 📅 2026-04-28 \[[gdext](https://crates.io/crates/gdext)] - Bindings to the Godot 4+ game engine [![CI](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml) ⭐ 4,724 | 🐛 73 | 🌐 Rust | 📅 2026-04-28
   * [godot-rust/gdnative](https://github.com/godot-rust/gdnative) ⚠️ Archived \[[gdnative](https://crates.io/crates/gdnative)] - Bindings to the Godot 3+ game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml) ⚠️ Archived
-  * [adalinesimonian/gdvm](https://github.com/adalinesimonian/gdvm) ⭐ 75 | 🐛 6 | 🌐 Rust | 📅 2026-04-27 - Godot version manager for the CLI [![CI](https://github.com/adalinesimonian/gdvm/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/adalinesimonian/gdvm/actions/workflows/build-and-test.yml) ⭐ 75 | 🐛 6 | 🌐 Rust | 📅 2026-04-27
+  * [adalinesimonian/gdvm](https://github.com/adalinesimonian/gdvm) ⭐ 75 | 🐛 7 | 🌐 Rust | 📅 2026-04-28 - Godot version manager for the CLI [![CI](https://github.com/adalinesimonian/gdvm/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/adalinesimonian/gdvm/actions/workflows/build-and-test.yml) ⭐ 75 | 🐛 7 | 🌐 Rust | 📅 2026-04-28
 * [SDL](https://www.libsdl.org/) \[[sdl](https://crates.io/keywords/sdl)]
   * [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) ⭐ 2,940 | 🐛 259 | 🌐 Rust | 📅 2026-03-22 - SDL2 bindings
   * [brson/rust-sdl](https://github.com/brson/rust-sdl) ⭐ 180 | 🐛 11 | 🌐 Rust | 📅 2015-06-03 - SDL1 bindings
@@ -1784,8 +1786,8 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 \[[geo](https://crates.io/keywords/geo), [gis](https://crates.io/keywords/gis)]
 
-* [MapLibre/Martin](https://github.com/maplibre/martin) ⭐ 3,583 | 🐛 92 | 🌐 Rust | 📅 2026-04-28 - Map tile server with PostGIS, MBTiles, PMTiles, and sprites support. [![CI build](https://github.com/maplibre/martin/actions/workflows/ci.yml/badge.svg)](https://github.com/maplibre/martin/actions) ⭐ 3,583 | 🐛 92 | 🌐 Rust | 📅 2026-04-28[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)
-* [apache/sedona-db](https://github.com/apache/sedona-db) ⭐ 447 | 🐛 112 | 🌐 Rust | 📅 2026-04-27 - SedonaDB is a geospatial DataFrame library written in Rust.
+* [MapLibre/Martin](https://github.com/maplibre/martin) ⭐ 3,588 | 🐛 95 | 🌐 Rust | 📅 2026-04-29 - Map tile server with PostGIS, MBTiles, PMTiles, and sprites support. [![CI build](https://github.com/maplibre/martin/actions/workflows/ci.yml/badge.svg)](https://github.com/maplibre/martin/actions) ⭐ 3,588 | 🐛 95 | 🌐 Rust | 📅 2026-04-29[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)
+* [apache/sedona-db](https://github.com/apache/sedona-db) ⭐ 448 | 🐛 113 | 🌐 Rust | 📅 2026-04-27 - SedonaDB is a geospatial DataFrame library written in Rust.
 * [rust-reverse-geocoder](https://github.com/gx0r/rrgeo) ⭐ 139 | 🐛 6 | 🌐 Rust | 📅 2026-04-22 - A fast, offline reverse geocoder, inspired by [thampiman/reverse-geocoder](https://github.com/thampiman/reverse-geocoder) ⭐ 1,906 | 🐛 44 | 🌐 Python | 📅 2023-03-19
 * [DaveKram/coord\_transforms](https://github.com/DaveKram/coord_transforms) ⚠️ Archived \[[coord\_transforms](https://crates.io/crates/coord_transforms)] - coordinate transformations (2-d, 3-d, and geospatial)
 * [vlopes11/geomorph](https://github.com/vlopes11/geomorph) ⭐ 14 | 🐛 3 | 🌐 Rust | 📅 2024-09-13 \[[geomorph](https://crates.io/crates/geomorph)] - conversion between UTM, LatLon and MGRS coordinates
@@ -1793,17 +1795,17 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Graph algorithms
 
-* [petgraph/petgraph](https://github.com/petgraph/petgraph) ⭐ 3,868 | 🐛 276 | 🌐 Rust | 📅 2026-04-04 - Graph data structure library. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml) ⭐ 3,868 | 🐛 276 | 🌐 Rust | 📅 2026-04-04
+* [petgraph/petgraph](https://github.com/petgraph/petgraph) ⭐ 3,870 | 🐛 276 | 🌐 Rust | 📅 2026-04-04 - Graph data structure library. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml) ⭐ 3,870 | 🐛 276 | 🌐 Rust | 📅 2026-04-04
 * [neo4j-labs/graph](https://github.com/neo4j-labs/graph) ⭐ 436 | 🐛 14 | 🌐 Rust | 📅 2026-04-07 - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml) ⭐ 436 | 🐛 14 | 🌐 Rust | 📅 2026-04-07
 
 ### Graphics
 
 \[[graphics](https://crates.io/keywords/graphics)]
 
-* [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) ⭐ 16,998 | 🐛 1,122 | 🌐 Rust | 📅 2026-04-27 - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions) ⭐ 16,998 | 🐛 1,122 | 🌐 Rust | 📅 2026-04-27
+* [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) ⭐ 17,007 | 🐛 1,123 | 🌐 Rust | 📅 2026-04-27 - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions) ⭐ 17,007 | 🐛 1,123 | 🌐 Rust | 📅 2026-04-27
 * [gfx-rs/gfx](https://github.com/gfx-rs/gfx) ⭐ 5,400 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 - A high-performance, bindless graphics API.
 * [Vulkan](https://www.vulkan.org/) \[[vulkan](https://crates.io/keywords/vulkan)]
-  * [vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,054 | 🐛 91 | 🌐 Rust | 📅 2026-04-26 \[[vulkano](https://crates.io/crates/vulkano)] - Safe and rich Rust wrapper around the Vulkan API
+  * [vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,055 | 🐛 91 | 🌐 Rust | 📅 2026-04-26 \[[vulkano](https://crates.io/crates/vulkano)] - Safe and rich Rust wrapper around the Vulkan API
   * [erupt](https://gitlab.com/Friz64/erupt) \[[erupt](https://crates.io/crates/erupt)] - [![build badge](https://gitlab.com/Friz64/erupt/badges/main/pipeline.svg)](https://gitlab.com/Friz64/erupt/-/pipelines)
 * OpenGL \[[opengl](https://crates.io/keywords/opengl)]
   * [glium/glium](https://github.com/glium/glium) ⭐ 3,610 | 🐛 348 | 🌐 Rust | 📅 2025-08-19 - safe OpenGL wrapper.
@@ -1813,7 +1815,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * PDF
   * [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) ⭐ 2,148 | 🐛 81 | 🌐 Rust | 📅 2026-04-27 - PDF document manipulation
   * [fschutt/printpdf](https://github.com/fschutt/printpdf) ⭐ 1,066 | 🐛 35 | 🌐 Rust | 📅 2026-02-20 - PDF writing library
-  * [yfedoseev/pdf\_oxide](https://github.com/yfedoseev/pdf_oxide) ⭐ 696 | 🐛 45 | 🌐 Rust | 📅 2026-04-28 \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
+  * [yfedoseev/pdf\_oxide](https://github.com/yfedoseev/pdf_oxide) ⭐ 699 | 🐛 44 | 🌐 Rust | 📅 2026-04-29 \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
   * [kaj/rust-pdf](https://github.com/kaj/rust-pdf) ⭐ 149 | 🐛 5 | 🌐 Rust | 📅 2022-02-07 - Generating PDF files in pure Rust
   * [bastibense/libharu\_ng](https://github.com/bastibense/libharu_ng) ⭐ 20 | 🐛 1 | 🌐 C | 📅 2024-11-16 \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
 * Fonts
@@ -1824,37 +1826,37 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 \[[gui](https://crates.io/keywords/gui)]
 
-* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) ⭐ 105,935 | 🐛 1,416 | 🌐 Rust | 📅 2026-04-27 - Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY](https://github.com/tauri-apps/wry) ⭐ 4,759 | 🐛 142 | 🌐 Rust | 📅 2026-04-10. [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22) ⭐ 105,935 | 🐛 1,416 | 🌐 Rust | 📅 2026-04-27
-* [ImGui](https://github.com/ocornut/imgui) ⭐ 72,855 | 🐛 1,228 | 🌐 C++ | 📅 2026-04-27
-  * [imgui-rs](https://github.com/imgui-rs/imgui-rs) ⭐ 2,997 | 🐛 69 | 🌐 Rust | 📅 2026-01-25 - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions) ⭐ 2,997 | 🐛 69 | 🌐 Rust | 📅 2026-01-25
-* [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) ⭐ 35,845 | 🐛 662 | 🌐 Rust | 📅 2026-04-27 - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
-* [iced-rs/iced](https://github.com/iced-rs/iced) ⭐ 30,341 | 🐛 429 | 🌐 Rust | 📅 2026-04-25 \[[iced](https://crates.io/crates/iced)] - A cross-platform GUI library, focused on simplicity and type-safety. Inspired by Elm.
-* [emilk/egui](https://github.com/emilk/egui) ⭐ 28,882 | 🐛 1,107 | 🌐 Rust | 📅 2026-04-27 - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI) ⭐ 28,882 | 🐛 1,107 | 🌐 Rust | 📅 2026-04-27
-* [slint-ui/slint](https://github.com/slint-ui/slint) ⭐ 22,359 | 🐛 848 | 🌐 Rust | 📅 2026-04-27 [slint](https://crates.io/crates/slint) - [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI) ⭐ 22,359 | 🐛 848 | 🌐 Rust | 📅 2026-04-27
-* [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ⭐ 11,174 | 🐛 72 | 🌐 Rust | 📅 2026-04-28 \[[gpui-component](https://crates.io/crates/gpui-component)] - UI components for building fantastic desktop applications using GPUI.
-* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,083 | 🐛 321 | 🌐 C | 📅 2026-04-27
+* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) ⭐ 105,971 | 🐛 1,414 | 🌐 Rust | 📅 2026-04-29 - Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY](https://github.com/tauri-apps/wry) ⭐ 4,763 | 🐛 142 | 🌐 Rust | 📅 2026-04-10. [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22) ⭐ 105,971 | 🐛 1,414 | 🌐 Rust | 📅 2026-04-29
+* [ImGui](https://github.com/ocornut/imgui) ⭐ 72,865 | 🐛 1,227 | 🌐 C++ | 📅 2026-04-28
+  * [imgui-rs](https://github.com/imgui-rs/imgui-rs) ⭐ 3,000 | 🐛 69 | 🌐 Rust | 📅 2026-01-25 - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions) ⭐ 3,000 | 🐛 69 | 🌐 Rust | 📅 2026-01-25
+* [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) ⭐ 35,854 | 🐛 663 | 🌐 Rust | 📅 2026-04-28 - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+* [iced-rs/iced](https://github.com/iced-rs/iced) ⭐ 30,345 | 🐛 429 | 🌐 Rust | 📅 2026-04-28 \[[iced](https://crates.io/crates/iced)] - A cross-platform GUI library, focused on simplicity and type-safety. Inspired by Elm.
+* [emilk/egui](https://github.com/emilk/egui) ⭐ 28,892 | 🐛 1,106 | 🌐 Rust | 📅 2026-04-27 - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI) ⭐ 28,892 | 🐛 1,106 | 🌐 Rust | 📅 2026-04-27
+* [slint-ui/slint](https://github.com/slint-ui/slint) ⭐ 22,365 | 🐛 847 | 🌐 Rust | 📅 2026-04-28 [slint](https://crates.io/crates/slint) - [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI) ⭐ 22,365 | 🐛 847 | 🌐 Rust | 📅 2026-04-28
+* [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ⭐ 11,196 | 🐛 71 | 🌐 Rust | 📅 2026-04-29 \[[gpui-component](https://crates.io/crates/gpui-component)] - UI components for building fantastic desktop applications using GPUI.
+* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,083 | 🐛 320 | 🌐 C | 📅 2026-04-28
   * [nuklear-rust](https://github.com/snuk182/nuklear-rust) ⭐ 370 | 🐛 12 | 🌐 Rust | 📅 2020-10-20 - Bindings for Nuklear
-* [libui](https://github.com/andlabs/libui) ⭐ 10,877 | 🐛 249 | 🌐 C | 📅 2024-05-29
+* [libui](https://github.com/andlabs/libui) ⭐ 10,878 | 🐛 249 | 🌐 C | 📅 2024-05-29
   * [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) ⭐ 937 | 🐛 43 | 🌐 Rust | 📅 2023-02-17 - libui bindings.
-* [makepad/makepad](https://github.com/makepad/makepad) ⭐ 6,369 | 🐛 128 | 🌐 Rust | 📅 2026-04-27 \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
-* [fschutt/azul](https://github.com/fschutt/azul) ⭐ 6,100 | 🐛 19 | 🌐 Rust | 📅 2026-04-25 - A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
-* [xilem](https://github.com/linebender/xilem) ⭐ 5,278 | 🐛 155 | 🌐 Rust | 📅 2026-04-27 - Successor of the data-first UI design toolkit [druid](https://github.com/linebender/druid) ⭐ 9,722 | 🐛 301 | 🌐 Rust | 📅 2026-04-23.
+* [makepad/makepad](https://github.com/makepad/makepad) ⭐ 6,372 | 🐛 129 | 🌐 Rust | 📅 2026-04-28 \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
+* [fschutt/azul](https://github.com/fschutt/azul) ⭐ 6,101 | 🐛 19 | 🌐 Rust | 📅 2026-04-25 - A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
+* [xilem](https://github.com/linebender/xilem) ⭐ 5,280 | 🐛 152 | 🌐 Rust | 📅 2026-04-28 - Successor of the data-first UI design toolkit [druid](https://github.com/linebender/druid) ⭐ 9,719 | 🐛 301 | 🌐 Rust | 📅 2026-04-23.
 * [Flutter](https://flutter.dev/)
-  * [fzyzcjy/flutter\_rust\_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) ⭐ 5,203 | 🐛 24 | 🌐 Dart | 📅 2026-04-22 - High-level memory-safe binding generator for Flutter/Dart <-> Rust
+  * [fzyzcjy/flutter\_rust\_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) ⭐ 5,207 | 🐛 25 | 🌐 Dart | 📅 2026-04-28 - High-level memory-safe binding generator for Flutter/Dart <-> Rust
   * [cunarist/rinf](https://github.com/cunarist/rinf) ⭐ 2,674 | 🐛 24 | 🌐 Rust | 📅 2026-04-26 - Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain) ⭐ 2,674 | 🐛 24 | 🌐 Rust | 📅 2026-04-26
   * [flutter-rs](https://github.com/flutter-rs/flutter-rs) ⭐ 2,117 | 🐛 43 | 🌐 Rust | 📅 2023-06-14 - Build flutter desktop app in dart & rust.
-* [tauri-apps/wry](https://github.com/tauri-apps/wry) ⭐ 4,759 | 🐛 142 | 🌐 Rust | 📅 2026-04-10 - Webview Rendering librarY.
+* [tauri-apps/wry](https://github.com/tauri-apps/wry) ⭐ 4,763 | 🐛 142 | 🌐 Rust | 📅 2026-04-10 - Webview Rendering librarY.
 * [OrbTk](https://github.com/redox-os/orbtk) ⭐ 3,783 | 🐛 87 | 🌐 Rust | 📅 2022-10-18 - The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions) ⭐ 3,783 | 🐛 87 | 🌐 Rust | 📅 2022-10-18
 * [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod/) ⭐ 3,343 | 🐛 219 | 🌐 Rust | 📅 2022-01-17 - An easy-to-use, immediate-mode, 2D GUI library
 * [GTK+](https://www.gtk.org/) \[[gtk](https://crates.io/keywords/gtk)]
   * [relm](https://github.com/antoyo/relm) ⭐ 2,454 | 🐛 57 | 🌐 Rust | 📅 2024-04-19 - Asynchronous, GTK+-based, GUI library, inspired by Elm
-  * [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) ⭐ 2,285 | 🐛 91 | 🌐 Rust | 📅 2026-04-27 - GTK4 binding ![CI](https://github.com/gtk-rs/gtk4-rs/workflows/CI/badge.svg)
+  * [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) ⭐ 2,286 | 🐛 91 | 🌐 Rust | 📅 2026-04-27 - GTK4 binding ![CI](https://github.com/gtk-rs/gtk4-rs/workflows/CI/badge.svg)
 * [FLTK](https://www.fltk.org/)
   * [fltk-rs](https://github.com/fltk-rs/fltk-rs) ⭐ 1,814 | 🐛 8 | 🌐 Rust | 📅 2026-04-22 - FLTK bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions) ⭐ 1,814 | 🐛 8 | 🌐 Rust | 📅 2026-04-22
 * [Ribir](https://github.com/RibirX/Ribir) ⭐ 1,688 | 🐛 36 | 🌐 Rust | 📅 2026-04-21 - Ribir is a Rust GUI framework that helps you build beautiful and native multi-platform applications from a single codebase.
 * Cocoa
-  * [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) ⭐ 1,236 | 🐛 109 | 🌐 Rust | 📅 2026-03-04 - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
-* [emoon/rust\_minifb](https://github.com/emoon/rust_minifb) ⭐ 1,188 | 🐛 44 | 🌐 Rust | 📅 2026-03-29 - minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
+  * [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) ⭐ 1,241 | 🐛 109 | 🌐 Rust | 📅 2026-03-04 - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
+* [emoon/rust\_minifb](https://github.com/emoon/rust_minifb) ⭐ 1,189 | 🐛 44 | 🌐 Rust | 📅 2026-03-29 - minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
 * [Sciter](https://sciter.com/)
   * [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) ⭐ 823 | 🐛 44 | 🌐 Rust | 📅 2022-05-06 - Sciter bindings [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 * [Qt](https://doc.qt.io)
@@ -1866,16 +1868,16 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * [project-blinc/Blinc](https://github.com/project-blinc/Blinc) ⭐ 396 | 🐛 0 | 🌐 Rust | 📅 2026-04-27 \[[blinc\_app](https://crates.io/crates/blinc_app)] - A GPU-accelerated, cross-platform UI framework with a GPUI-inspired builder API, glassmorphism effects, spring physics animations, and native rendering on Desktop, Android, and iOS.
 * [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) ⭐ 344 | 🐛 13 | 🌐 Rust | 📅 2018-02-19 - A simple UI framework built on IUP
-* [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) ⭐ 157 | 🐛 13 | 🌐 Rust | 📅 2023-03-14 - [nativefiledialog](https://github.com/mlabbe/nativefiledialog) ⭐ 1,972 | 🐛 23 | 🌐 Makefile | 📅 2024-08-10 bindings
+* [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) ⭐ 157 | 🐛 13 | 🌐 Rust | 📅 2023-03-14 - [nativefiledialog](https://github.com/mlabbe/nativefiledialog) ⭐ 1,974 | 🐛 23 | 🌐 Makefile | 📅 2024-08-10 bindings
 * [rise-ui](https://github.com/rise-ui/rise) ⭐ 75 | 🐛 3 | 🌐 Rust | 📅 2019-02-08 - Simple component-based cross-Platform GUI Toolkit for developing beautiful and user-friendly interfaces.
 
 ### Image processing
 
-* [image-rs/image](https://github.com/image-rs/image) ⭐ 5,727 | 🐛 207 | 🌐 Rust | 📅 2026-04-27 - Basic imaging processing functions and methods for converting to and from image formats
-* [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) ⭐ 2,414 | 🐛 40 | 🌐 Rust | 📅 2026-04-23 - Bindings for OpenCV
+* [image-rs/image](https://github.com/image-rs/image) ⭐ 5,728 | 🐛 209 | 🌐 Rust | 📅 2026-04-27 - Basic imaging processing functions and methods for converting to and from image formats
+* [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) ⭐ 2,415 | 🐛 40 | 🌐 Rust | 📅 2026-04-23 - Bindings for OpenCV
 * [rust-cv/cv](https://github.com/rust-cv/cv) ⭐ 1,033 | 🐛 41 | 🌐 Rust | 📅 2025-07-22 - Implement computer vision algorithms, abstractions, and systems. `#[no_std]` is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
-* [image-rs/imageproc](https://github.com/image-rs/imageproc) ⭐ 949 | 🐛 80 | 🌐 Rust | 📅 2026-04-16 - An image processing library, based on the `image` library.
-* [Enet4/dicom-rs](https://github.com/Enet4/dicom-rs) ⭐ 543 | 🐛 73 | 🌐 Rust | 📅 2026-04-27 - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
+* [image-rs/imageproc](https://github.com/image-rs/imageproc) ⭐ 949 | 🐛 81 | 🌐 Rust | 📅 2026-04-16 - An image processing library, based on the `image` library.
+* [Enet4/dicom-rs](https://github.com/Enet4/dicom-rs) ⭐ 543 | 🐛 74 | 🌐 Rust | 📅 2026-04-27 - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
 * [abonander/img\_hash](https://github.com/abonander/img_hash) ⭐ 337 | 🐛 13 | 🌐 Rust | 📅 2024-03-13 - Perceptual image hashing and comparison for equality and similarity.
 * [teovoinea/steganography](https://github.com/teovoinea/steganography) ⭐ 103 | 🐛 3 | 🌐 Rust | 📅 2021-04-29 \[[steganography](https://crates.io/crates/steganography)] - A simple steganography library
 * [marekm4/dominant\_color](https://github.com/marekm4/dominant_color) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2023-03-06 \[[dominant\_color](https://crates.io/crates/dominant_color)] - Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
@@ -1886,13 +1888,13 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Licensing
 
-* [WyvernIXTL/license-fetcher](https://github.com/WyvernIXTL/license-fetcher) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-05-17 \[[license-fetcher](https://crates.io/crates/license-fetcher)] - Fetch licenses of dependencies at build time and embed them into your program.
+* [WyvernIXTL/license-fetcher](https://github.com/WyvernIXTL/license-fetcher) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2026-04-28 \[[license-fetcher](https://crates.io/crates/license-fetcher)] - Fetch licenses of dependencies at build time and embed them into your program.
 
 ### Logging
 
 \[[log](https://crates.io/keywords/log)]
 
-* [tokio-rs/tracing](https://github.com/tokio-rs/tracing) ⭐ 6,653 | 🐛 826 | 🌐 Rust | 📅 2026-04-17 - An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI) ⭐ 6,653 | 🐛 826 | 🌐 Rust | 📅 2026-04-17
+* [tokio-rs/tracing](https://github.com/tokio-rs/tracing) ⭐ 6,654 | 🐛 826 | 🌐 Rust | 📅 2026-04-17 - An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI) ⭐ 6,654 | 🐛 826 | 🌐 Rust | 📅 2026-04-17
 * [rust-lang/log](https://github.com/rust-lang/log) ⭐ 2,507 | 🐛 21 | 🌐 Rust | 📅 2026-04-14 - Logging implementation
 * [slog-rs/slog](https://github.com/slog-rs/slog) ⭐ 1,702 | 🐛 56 | 🌐 Rust | 📅 2025-10-11 - Structured, composable logging
 * [estk/log4rs](https://github.com/estk/log4rs) ⭐ 1,131 | 🐛 48 | 🌐 Rust | 📅 2025-11-16 - highly configurable logging framework modeled after Java's Logback and log4j libraries [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://app.circleci.com/pipelines/github/estk/log4rs)
@@ -1903,7 +1905,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Macro
 
-* [elastio/bon](https://github.com/elastio/bon) ⭐ 2,024 | 🐛 29 | 🌐 Rust | 📅 2026-04-16 \[[bon](https://crates.io/crates/bon)] - generate compile-time-checked builders for structs and functions, provides partial application, optional and named parameters for functions and methods. [![build status](https://github.com/elastio/bon/actions/workflows/ci.yml/badge.svg)](https://github.com/elastio/bon/actions) ⭐ 2,024 | 🐛 29 | 🌐 Rust | 📅 2026-04-16
+* [elastio/bon](https://github.com/elastio/bon) ⭐ 2,026 | 🐛 29 | 🌐 Rust | 📅 2026-04-16 \[[bon](https://crates.io/crates/bon)] - generate compile-time-checked builders for structs and functions, provides partial application, optional and named parameters for functions and methods. [![build status](https://github.com/elastio/bon/actions/workflows/ci.yml/badge.svg)](https://github.com/elastio/bon/actions) ⭐ 2,026 | 🐛 29 | 🌐 Rust | 📅 2026-04-16
 * cute
   * [mattgathu/cute](https://github.com/mattgathu/cute) ⭐ 347 | 🐛 10 | 🌐 Rust | 📅 2019-03-30 - Macro for Python-esque list comprehensions.
 * [Linq-in-Rust](https://github.com/StardustDL/Linq-in-Rust) ⭐ 139 | 🐛 3 | 🌐 Rust | 📅 2023-11-16 - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI) ⭐ 139 | 🐛 3 | 🌐 Rust | 📅 2023-11-16
@@ -1911,13 +1913,13 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Markup language
 
 * CommonMark
-  * [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) ⭐ 2,545 | 🐛 85 | 🌐 Rust | 📅 2026-04-23 - [CommonMark](https://commonmark.org/) parser
+  * [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) ⭐ 2,547 | 🐛 86 | 🌐 Rust | 📅 2026-04-23 - [CommonMark](https://commonmark.org/) parser
 * [insomnimus/tidier](https://github.com/insomnimus/tidier) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-04-03 \[[tidier](https://crates.io/crates/tidier)] - A library to format HTML, XHTML and XML documents. [![build badge](https://github.com/insomnimus/tidier/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/tidier/actions) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-04-03
 
 ### Mobile
 
 * Generic
-  * [redbadger/crux](https://github.com/redbadger/crux) ⭐ 2,496 | 🐛 21 | 🌐 Rust | 📅 2026-04-25 \[[crux\_core](https://crates.io/crates/crux_core)] - Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web - as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions) ⭐ 2,496 | 🐛 21 | 🌐 Rust | 📅 2026-04-25
+  * [redbadger/crux](https://github.com/redbadger/crux) ⭐ 2,500 | 🐛 21 | 🌐 Rust | 📅 2026-04-25 \[[crux\_core](https://crates.io/crates/crux_core)] - Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web - as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions) ⭐ 2,500 | 🐛 21 | 🌐 Rust | 📅 2026-04-25
   * [Geal/rust\_on\_mobile](https://github.com/Geal/rust_on_mobile) ⭐ 170 | 🐛 1 | 🌐 Objective-C | 📅 2016-07-31 - iOS CocoaPods / Android JNI
 * iOS
   * [TimNN/cargo-lipo](https://github.com/TimNN/cargo-lipo) ⭐ 570 | 🐛 17 | 🌐 Rust | 📅 2025-04-23 - A cargo lipo subcommand which automatically creates a universal library for use with your iOS application.
@@ -1927,33 +1929,33 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Network programming
 
 * HTTP
-  * [Hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 18,829 | 🐛 196 | 🌐 Rust | 📅 2026-04-28 - Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions) ⭐ 18,829 | 🐛 196 | 🌐 Rust | 📅 2026-04-28
+  * [Hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 18,839 | 🐛 197 | 🌐 Rust | 📅 2026-04-29 - Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions) ⭐ 18,839 | 🐛 197 | 🌐 Rust | 📅 2026-04-29
   * [deboa](https://crates.io/crates/deboa) - A friendly http client on top of hyper with several addoons, serialization formats and macros. \[![Crates.io](https://img.shields.io/crates/v/deboa)]
 * gRPC
-  * [hyperium/tonic](https://github.com/hyperium/tonic) ⭐ 12,004 | 🐛 347 | 🌐 Rust | 📅 2026-04-27 - A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
+  * [hyperium/tonic](https://github.com/hyperium/tonic) ⭐ 12,007 | 🐛 352 | 🌐 Rust | 📅 2026-04-28 - A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
   * [tikv/grpc-rs](https://github.com/tikv/grpc-rs) ⭐ 1,852 | 🐛 102 | 🌐 Rust | 📅 2026-02-11 - The gRPC library built on C Core library and futures
 * QUIC
-  * [cloudflare/quiche](https://github.com/cloudflare/quiche) ⭐ 11,429 | 🐛 319 | 🌐 Rust | 📅 2026-04-28 - cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
-  * [quinn-rs/quinn](https://github.com/quinn-rs/quinn) ⭐ 5,049 | 🐛 165 | 🌐 Rust | 📅 2026-04-27 - Futures-based QUIC implementation [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
-  * [mozilla/neqo](https://github.com/mozilla/neqo) ⭐ 2,168 | 🐛 157 | 🌐 Rust | 📅 2026-04-26 - an Implementation of QUIC
+  * [cloudflare/quiche](https://github.com/cloudflare/quiche) ⭐ 11,432 | 🐛 320 | 🌐 Rust | 📅 2026-04-28 - cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
+  * [quinn-rs/quinn](https://github.com/quinn-rs/quinn) ⭐ 5,049 | 🐛 164 | 🌐 Rust | 📅 2026-04-27 - Futures-based QUIC implementation [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
+  * [mozilla/neqo](https://github.com/mozilla/neqo) ⭐ 2,169 | 🐛 156 | 🌐 Rust | 📅 2026-04-29 - an Implementation of QUIC
   * [tencent/tquic](https://github.com/Tencent/tquic) ⭐ 1,409 | 🐛 38 | 🌐 Rust | 📅 2025-12-23 - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml) ⭐ 1,409 | 🐛 38 | 🌐 Rust | 📅 2025-12-23
-  * [aws/s2n-quic](https://github.com/aws/s2n-quic) ⭐ 1,343 | 🐛 242 | 🌐 Rust | 📅 2026-04-27 - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
+  * [aws/s2n-quic](https://github.com/aws/s2n-quic) ⭐ 1,344 | 🐛 243 | 🌐 Rust | 📅 2026-04-27 - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
 * Low level
-  * [actix/actix](https://github.com/actix/actix) ⭐ 9,195 | 🐛 37 | 🌐 Rust | 📅 2026-04-22 - Actor library
-  * [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) ⭐ 4,429 | 🐛 96 | 🌐 Rust | 📅 2026-04-04 - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
-  * [libpnet/libpnet](https://github.com/libpnet/libpnet) ⭐ 2,569 | 🐛 145 | 🌐 Rust | 📅 2025-01-23 - A cross-platform, low level networking
+  * [actix/actix](https://github.com/actix/actix) ⭐ 9,196 | 🐛 37 | 🌐 Rust | 📅 2026-04-22 - Actor library
+  * [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) ⭐ 4,430 | 🐛 96 | 🌐 Rust | 📅 2026-04-04 - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+  * [libpnet/libpnet](https://github.com/libpnet/libpnet) ⭐ 2,570 | 🐛 145 | 🌐 Rust | 📅 2025-01-23 - A cross-platform, low level networking
   * [dylanmckay/protocol](https://github.com/dylanmckay/protocol) ⭐ 194 | 🐛 12 | 🌐 Rust | 📅 2022-09-11 - Custom TCP/UDP protocol definitions
 * P2P
-  * [n0-computer/iroh](https://github.com/n0-computer/iroh) ⭐ 8,383 | 🐛 144 | 🌐 Rust | 📅 2026-04-27 \[[iroh](https://crates.io/crates/iroh)] - crate for building on direct connections between devices [![CI](https://github.com/n0-computer/iroh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml) ⭐ 8,383 | 🐛 144 | 🌐 Rust | 📅 2026-04-27
-  * [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) ⭐ 5,487 | 🐛 295 | 🌐 Rust | 📅 2026-04-27 - Implementation of libp2p networking stack. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
+  * [n0-computer/iroh](https://github.com/n0-computer/iroh) ⭐ 8,392 | 🐛 146 | 🌐 Rust | 📅 2026-04-28 \[[iroh](https://crates.io/crates/iroh)] - crate for building on direct connections between devices [![CI](https://github.com/n0-computer/iroh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml) ⭐ 8,392 | 🐛 146 | 🌐 Rust | 📅 2026-04-28
+  * [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) ⭐ 5,489 | 🐛 295 | 🌐 Rust | 📅 2026-04-27 - Implementation of libp2p networking stack. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
 * Zenoh
-  * [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) ⭐ 2,700 | 🐛 227 | 🌐 Rust | 📅 2026-04-28 - Zero Overhead Network Protocol
+  * [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) ⭐ 2,705 | 🐛 227 | 🌐 Rust | 📅 2026-04-29 - Zero Overhead Network Protocol
   * [eclipse-zenoh-flow/zenoh-flow](https://github.com/eclipse-zenoh-flow/zenoh-flow) ⭐ 117 | 🐛 7 | 🌐 Rust | 📅 2025-04-04 - A declarative framework for computations that span from the *Cloud* to the *Thing*
 * MQTT
-  * [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) ⭐ 2,096 | 🐛 162 | 🌐 Rust | 📅 2026-02-05 - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml) ⭐ 2,096 | 🐛 162 | 🌐 Rust | 📅 2026-02-05
-  * [rmqtt/rmqtt](https://github.com/rmqtt/rmqtt) ⭐ 937 | 🐛 22 | 🌐 Rust | 📅 2026-04-21 - MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
+  * [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) ⭐ 2,096 | 🐛 163 | 🌐 Rust | 📅 2026-04-28 - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml) ⭐ 2,096 | 🐛 163 | 🌐 Rust | 📅 2026-04-28
+  * [rmqtt/rmqtt](https://github.com/rmqtt/rmqtt) ⭐ 938 | 🐛 22 | 🌐 Rust | 📅 2026-04-21 - MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
 * NATS
-  * [nats-io/nats.rs](https://github.com/nats-io/nats.rs) ⭐ 1,450 | 🐛 71 | 🌐 Rust | 📅 2026-04-23 - Client for NATS, the cloud native messaging system. [![Build Status](https://github.com/nats-io/nats.rs/workflows/Rust/badge.svg?branch=master)](https://github.com/nats-io/nats.rs/actions) ⭐ 1,450 | 🐛 71 | 🌐 Rust | 📅 2026-04-23
+  * [nats-io/nats.rs](https://github.com/nats-io/nats.rs) ⭐ 1,451 | 🐛 71 | 🌐 Rust | 📅 2026-04-23 - Client for NATS, the cloud native messaging system. [![Build Status](https://github.com/nats-io/nats.rs/workflows/Rust/badge.svg?branch=master)](https://github.com/nats-io/nats.rs/actions) ⭐ 1,451 | 🐛 71 | 🌐 Rust | 📅 2026-04-23
 * Docker
   * [fussybeaver/bollard](https://github.com/fussybeaver/bollard) ⭐ 1,264 | 🐛 42 | 🌐 Rust | 📅 2026-04-26 - Docker daemon API
 * message-io
@@ -1970,9 +1972,9 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * NanoMsg
   * [thehydroimpulse/nanomsg.rs](https://github.com/thehydroimpulse/nanomsg.rs) ⭐ 401 | 🐛 18 | 🌐 Rust | 📅 2023-11-02 - [nanomsg](https://nanomsg.org/) bindings
 * VPN
-  * [defguard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) ⭐ 304 | 🐛 6 | 🌐 Rust | 📅 2026-04-10 - A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
+  * [defguard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) ⭐ 305 | 🐛 6 | 🌐 Rust | 📅 2026-04-10 - A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
 * CoAP
-  * [Covertness/coap-rs](https://github.com/Covertness/coap-rs) ⭐ 231 | 🐛 8 | 🌐 Rust | 📅 2026-04-25 - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
+  * [Covertness/coap-rs](https://github.com/Covertness/coap-rs) ⭐ 231 | 🐛 9 | 🌐 Rust | 📅 2026-04-25 - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
 * RPC
   * [remoc-rs/remoc](https://github.com/remoc-rs/remoc) ⭐ 228 | 🐛 5 | 🌐 Rust | 📅 2026-04-23 \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml) ⭐ 228 | 🐛 5 | 🌐 Rust | 📅 2026-04-23
   * [smallnest/rpcx-rs](https://github.com/smallnest/rpcx-rs) ⭐ 134 | 🐛 5 | 🌐 Rust | 📅 2024-03-13 - A RPC library for developing microservices in easy and simple way.
@@ -1996,18 +1998,18 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Parsing
 
-* [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 25,050 | 🐛 147 | 🌐 Rust | 📅 2026-04-28 - A parser generator tool and an incremental parsing library geared towards programming tools
-* [rust-bakery/nom](https://github.com/rust-bakery/nom) ⭐ 10,370 | 🐛 282 | 🌐 Rust | 📅 2025-08-26 - parser combinator library
+* [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 25,063 | 🐛 145 | 🌐 Rust | 📅 2026-04-28 - A parser generator tool and an incremental parsing library geared towards programming tools
+* [rust-bakery/nom](https://github.com/rust-bakery/nom) ⭐ 10,373 | 🐛 283 | 🌐 Rust | 📅 2025-08-26 - parser combinator library
 * [pest-parser/pest](https://github.com/pest-parser/pest) ⭐ 5,331 | 🐛 70 | 🌐 Rust | 📅 2026-04-19 - The Elegant Parser
-* [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) ⭐ 3,468 | 🐛 165 | 🌐 Rust | 📅 2026-04-16 - LR(1) parser generator
-* [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) ⭐ 1,595 | 🐛 44 | 🌐 Rust | 📅 2026-03-24 - Parsing Expression Grammar (PEG) parser generator
+* [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) ⭐ 3,469 | 🐛 165 | 🌐 Rust | 📅 2026-04-16 - LR(1) parser generator
+* [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) ⭐ 1,596 | 🐛 44 | 🌐 Rust | 📅 2026-03-24 - Parsing Expression Grammar (PEG) parser generator
 * [Marwes/combine](https://github.com/Marwes/combine) ⭐ 1,355 | 🐛 37 | 🌐 Rust | 📅 2026-02-03 - parser combinator library
 * [softdevteam/grmtools](https://github.com/softdevteam/grmtools/) ⭐ 573 | 🐛 23 | 🌐 Rust | 📅 2026-03-04 - A LR parser with better error correction
 * [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) ⭐ 480 | 🐛 6 | 🌐 Rust | 📅 2026-02-10 - A framework for new programming languages and LSP servers.
 * [igumnoff/shiva](https://github.com/igumnoff/shiva) ⭐ 431 | 🐛 28 | 🌐 Rust | 📅 2024-11-07 - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
 * [m4rw3r/chomp](https://github.com/m4rw3r/chomp) ⭐ 242 | 🐛 21 | 🌐 Rust | 📅 2022-05-11 - A fast monadic-style parser combinator
 * [ptal/oak](https://github.com/ptal/oak) ⭐ 145 | 🐛 18 | 🌐 Rust | 📅 2025-02-25 - A typed PEG parser generator (compiler plugin)
-* [comex/rust-shlex](https://github.com/comex/rust-shlex) ⭐ 144 | 🐛 4 | 🌐 Rust | 📅 2026-04-27 \[[shlex](https://crates.io/crates/shlex)] - Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml) ⭐ 144 | 🐛 4 | 🌐 Rust | 📅 2026-04-27
+* [comex/rust-shlex](https://github.com/comex/rust-shlex) ⭐ 144 | 🐛 5 | 🌐 Rust | 📅 2026-04-27 \[[shlex](https://crates.io/crates/shlex)] - Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml) ⭐ 144 | 🐛 5 | 🌐 Rust | 📅 2026-04-27
 * [freestrings/jsonpath](https://github.com/freestrings/jsonpath) ⭐ 131 | 🐛 26 | 🌐 Rust | 📅 2025-01-22 - [JsonPath](https://goessner.net/articles/JsonPath/) engine. Webassembly and Javascript support too
 * [Folyd/robotstxt](https://github.com/Folyd/robotstxt) ⭐ 101 | 🐛 3 | 🌐 Rust | 📅 2021-02-13 - Port of Google's robots.txt parser and matcher C++ library
 * [0xlane/pe-sign](https://github.com/0xlane/pe-sign) ⭐ 73 | 🐛 5 | 🌐 Rust | 📅 2024-12-02 [\[pe-sign\]](https://crates.io/crates/pe-sign) - A cross-platform rust no-std library for verifying and extracting signature information from PE files. [![crates.io](https://img.shields.io/crates/v/pe-sign)](https://crates.io/crates/pe-sign) [![build](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml/badge.svg)](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml) ⭐ 73 | 🐛 5 | 🌐 Rust | 📅 2024-12-02
@@ -2027,15 +2029,15 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Platform specific
 
 * Windows
-  * [microsoft/windows-rs](https://github.com/microsoft/windows-rs) ⭐ 12,134 | 🐛 49 | 🌐 Rust | 📅 2026-04-28 - Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions) ⭐ 12,134 | 🐛 49 | 🌐 Rust | 📅 2026-04-28
+  * [microsoft/windows-rs](https://github.com/microsoft/windows-rs) ⭐ 12,137 | 🐛 45 | 🌐 Rust | 📅 2026-04-29 - Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions) ⭐ 12,137 | 🐛 45 | 🌐 Rust | 📅 2026-04-29
   * [retep998/winapi-rs](https://github.com/retep998/winapi-rs) ⭐ 1,926 | 🐛 272 | 🌐 Rust | 📅 2024-04-27 - Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml) ⭐ 1,926 | 🐛 272 | 🌐 Rust | 📅 2024-04-27
 * Unix-like
-  * [nix-rust/nix](https://github.com/nix-rust/nix) ⭐ 3,024 | 🐛 356 | 🌐 Rust | 📅 2026-04-17 - Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
-  * [rustix](https://github.com/bytecodealliance/rustix) ⭐ 1,974 | 🐛 109 | 🌐 Rust | 📅 2026-04-18 - Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI) ⭐ 1,974 | 🐛 109 | 🌐 Rust | 📅 2026-04-18
+  * [nix-rust/nix](https://github.com/nix-rust/nix) ⭐ 3,025 | 🐛 356 | 🌐 Rust | 📅 2026-04-17 - Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
+  * [rustix](https://github.com/bytecodealliance/rustix) ⭐ 1,974 | 🐛 110 | 🌐 Rust | 📅 2026-04-18 - Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI) ⭐ 1,974 | 🐛 110 | 🌐 Rust | 📅 2026-04-18
   * [zargony/fuse-rs](https://github.com/zargony/fuse-rs) ⭐ 1,138 | 🐛 56 | 🌐 Rust | 📅 2023-05-23 - [FUSE](https://github.com/libfuse/libfuse) ⭐ 6,015 | 🐛 72 | 🌐 C | 📅 2026-04-26 bindings
 * Linux
   * [hannobraun/inotify-rs](https://github.com/hannobraun/inotify-rs) ⭐ 291 | 🐛 11 | 🌐 Rust | 📅 2026-03-17 - [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml) ⭐ 291 | 🐛 11 | 🌐 Rust | 📅 2026-03-17
-  * [pop-os/distinst](https://github.com/pop-os/distinst/) ⭐ 225 | 🐛 54 | 🌐 Rust | 📅 2026-04-24 - Linux distribution installer
+  * [pop-os/distinst](https://github.com/pop-os/distinst/) ⭐ 225 | 🐛 53 | 🌐 Rust | 📅 2026-04-29 - Linux distribution installer
   * [yaa110/rust-iptables](https://github.com/yaa110/rust-iptables) ⭐ 99 | 🐛 4 | 🌐 Rust | 📅 2025-08-07 \[[iptables](https://crates.io/crates/iptables)] - [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings
 * Cross-platform
   * [iddm/thread-priority](https://github.com/iddm/thread-priority/) ⭐ 150 | 🐛 5 | 🌐 Rust | 📅 2025-09-03 - Simple, crossplatform thread priority management. [![CI](https://github.com/iddm/thread-priority/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/thread-priority/actions/workflows/ci.yml) ⭐ 150 | 🐛 5 | 🌐 Rust | 📅 2025-09-03 [![Crates badge](https://img.shields.io/crates/v/thread-priority.svg)](https://crates.io/crates/thread-priority)
@@ -2052,22 +2054,23 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 \[[scripting](https://crates.io/keywords/scripting)]
 
-* [boa-dev/boa](https://github.com/boa-dev/boa) ⭐ 7,206 | 🐛 238 | 🌐 Rust | 📅 2026-04-27 \[[boa\_engine](https://crates.io/crates/boa_engine)] - An experimental JavaScript lexer, parser and interpreter written in Rust.
+* [boa-dev/boa](https://github.com/boa-dev/boa) ⭐ 7,211 | 🐛 238 | 🌐 Rust | 📅 2026-04-27 \[[boa\_engine](https://crates.io/crates/boa_engine)] - An experimental JavaScript lexer, parser and interpreter written in Rust.
 * [rhaiscript/rhai](https://github.com/rhaiscript/rhai) ⭐ 5,302 | 🐛 36 | 🌐 Rust | 📅 2026-04-15 - A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions) ⭐ 5,302 | 🐛 36 | 🌐 Rust | 📅 2026-04-15
 * [gluon-lang/gluon](https://github.com/gluon-lang/gluon) ⭐ 3,395 | 🐛 165 | 🌐 Rust | 📅 2024-12-06 - A small, statically-typed, functional programming language
 * [kcl](https://github.com/kcl-lang/kcl) ⭐ 2,347 | 🐛 111 | 🌐 Rust | 📅 2026-04-17 - A constraint-based record & functional language mainly used in configuration and policy scenarios.
-* [rune-rs/rune](https://github.com/rune-rs/rune) ⭐ 2,200 | 🐛 76 | 🌐 Rust | 📅 2026-03-26 - An embeddable dynamic programming language
-* [mun](https://github.com/mun-lang/mun) ⭐ 2,114 | 🐛 51 | 🌐 Rust | 📅 2026-04-23 - A compiled, statically-typed scripting language with first class hot reloading support
+* [rune-rs/rune](https://github.com/rune-rs/rune) ⭐ 2,200 | 🐛 77 | 🌐 Rust | 📅 2026-04-29 - An embeddable dynamic programming language
+* [mun](https://github.com/mun-lang/mun) ⭐ 2,116 | 🐛 51 | 🌐 Rust | 📅 2026-04-23 - A compiled, statically-typed scripting language with first class hot reloading support
+* [kyren/piccolo](https://github.com/kyren/piccolo) ⭐ 2,113 | 🐛 35 | 🌐 Rust | 📅 2025-07-10 \[[piccolo](https://crates.io/crates/piccolo)] - Experimental stackless Lua VM implemented in pure Rust with cycle-detecting incremental GC, sandboxing features, and safe Rust <-> Lua bindings. [![crates.io](https://img.shields.io/crates/v/piccolo)](https://crates.io/crates/piccolo)
 * [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) ⭐ 1,904 | 🐛 67 | 🌐 Rust | 📅 2025-12-23 - A rusty dynamically typed scripting language
 * [trynova/nova](https://github.com/trynova/nova) ⭐ 1,901 | 🐛 43 | 🌐 Rust | 📅 2026-04-24 - JavaScript engine written entirely in Rust
-* [metacall/core](https://github.com/metacall/core) ⭐ 1,795 | 🐛 91 | 🌐 C | 📅 2026-04-25 \[[metacall](https://crates.io/crates/metacall)] - Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
-* [facebook/starlark-rust](https://github.com/facebook/starlark-rust) ⭐ 963 | 🐛 56 | 🌐 Rust | 📅 2026-04-23 - A small, deterministic, thread-safe language with Python syntax
+* [metacall/core](https://github.com/metacall/core) ⭐ 1,795 | 🐛 93 | 🌐 C | 📅 2026-04-29 \[[metacall](https://crates.io/crates/metacall)] - Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
+* [facebook/starlark-rust](https://github.com/facebook/starlark-rust) ⭐ 964 | 🐛 57 | 🌐 Rust | 📅 2026-04-29 - A small, deterministic, thread-safe language with Python syntax
 * [murarth/ketos](https://github.com/murarth/ketos) ⭐ 767 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 - A Lisp dialect functional programming language serving as a scripting and extension language for rust
 * [cel-rust](https://github.com/cel-rust/cel-rust) ⭐ 620 | 🐛 28 | 🌐 Rust | 📅 2026-04-21 \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 * [duckscript](https://crates.io/crates/duckscript) - [Simple, extendable and embeddable scripting language.](https://github.com/sagiegurari/duckscript) ⭐ 581 | 🐛 31 | 🌐 Rust | 📅 2026-02-03 [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions) ⭐ 581 | 🐛 31 | 🌐 Rust | 📅 2026-02-03
 * [fleabitdev/gamelisp](https://github.com/fleabitdev/glsp) ⭐ 398 | 🐛 16 | 🌐 Rust | 📅 2022-03-08 - A Lisp-like scripting language for game development
 * [3body-lang](https://github.com/rustq/3body-lang) ⭐ 186 | 🐛 7 | 🌐 Rust | 📅 2025-05-01 - The Three Body Language
-* [giraffekey/xylo](https://github.com/giraffekey/xylo) ⭐ 76 | 🐛 26 | 🌐 Rust | 📅 2026-02-15 \[[xylo-lang](https://crates.io/crates/xylo-lang)] - A functional programming language for procedural art. [![build badge](https://github.com/giraffekey/xylo/actions/workflows/rust.yml/badge.svg)](https://github.com/giraffekey/xylo/actions) ⭐ 76 | 🐛 26 | 🌐 Rust | 📅 2026-02-15
+* [giraffekey/xylo](https://github.com/giraffekey/xylo) ⭐ 77 | 🐛 26 | 🌐 Rust | 📅 2026-02-15 \[[xylo-lang](https://crates.io/crates/xylo-lang)] - A functional programming language for procedural art. [![build badge](https://github.com/giraffekey/xylo/actions/workflows/rust.yml/badge.svg)](https://github.com/giraffekey/xylo/actions) ⭐ 77 | 🐛 26 | 🌐 Rust | 📅 2026-02-15
 
 ### Simulation
 
@@ -2096,9 +2099,9 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Template engine
 
 * HTML
-  * [Keats/tera](https://github.com/Keats/tera) ⭐ 4,190 | 🐛 193 | 🌐 Rust | 📅 2026-04-03 - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions) ⭐ 4,190 | 🐛 193 | 🌐 Rust | 📅 2026-04-03
+  * [Keats/tera](https://github.com/Keats/tera) ⭐ 4,191 | 🐛 193 | 🌐 Rust | 📅 2026-04-03 - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions) ⭐ 4,191 | 🐛 193 | 🌐 Rust | 📅 2026-04-03
   * [lambda-fairy/maud](https://github.com/lambda-fairy/maud) ⭐ 2,564 | 🐛 58 | 🌐 Rust | 📅 2026-04-20 - compile-time HTML templates
-  * [askama](https://github.com/askama-rs/askama) ⭐ 1,063 | 🐛 23 | 🌐 Rust | 📅 2026-04-26 - template rendering engine based on Jinja
+  * [askama](https://github.com/askama-rs/askama) ⭐ 1,065 | 🐛 23 | 🌐 Rust | 📅 2026-04-26 - template rendering engine based on Jinja
   * [kaj/ructe](https://github.com/kaj/ructe) ⭐ 456 | 🐛 17 | 🌐 Rust | 📅 2026-04-12 - HTML template system
   * [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) ⭐ 345 | 🐛 3 | 🌐 Rust | 📅 2026-02-15 - compile-time HTML templates
 * Handlebars
@@ -2109,8 +2112,8 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Text processing
 
-* [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) ⭐ 8,106 | 🐛 32 | 🌐 Rust | 📅 2026-04-27 \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
-* [rust-lang/regex](https://github.com/rust-lang/regex) ⭐ 3,955 | 🐛 62 | 🌐 Rust | 📅 2026-02-24 - Regular expressions (RE2 style)
+* [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) ⭐ 8,132 | 🐛 38 | 🌐 Rust | 📅 2026-04-29 \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
+* [rust-lang/regex](https://github.com/rust-lang/regex) ⭐ 3,955 | 🐛 61 | 🌐 Rust | 📅 2026-02-24 - Regular expressions (RE2 style)
 * [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) ⭐ 1,069 | 🐛 19 | 🌐 Rust | 📅 2025-12-24 - Natural language detection library based on trigrams
 * [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) ⭐ 596 | 🐛 11 | 🌐 Rust | 📅 2026-04-24 \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml) ⭐ 596 | 🐛 11 | 🌐 Rust | 📅 2026-04-24
 * [mgeisler/textwrap](https://github.com/mgeisler/textwrap) ⭐ 519 | 🐛 31 | 🌐 Rust | 📅 2026-04-22 \[[textwrap](https://crates.io/crates/textwrap)] - Word wrap text (with support for hyphenation)
@@ -2128,9 +2131,9 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Text search
 
-* [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 57,331 | 🐛 289 | 🌐 Rust | 📅 2026-04-28 - Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions) ⭐ 57,331 | 🐛 289 | 🌐 Rust | 📅 2026-04-28
-* [tantivy](https://github.com/quickwit-oss/tantivy) ⭐ 15,079 | 🐛 412 | 🌐 Rust | 📅 2026-04-27 \[[tantivy](https://crates.io/crates/tantivy)] - A horse-speed full-text search engine library written in Rust. [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml) ⭐ 15,079 | 🐛 412 | 🌐 Rust | 📅 2026-04-27
-* [pg\_search](https://github.com/paradedb/paradedb/tree/dev/pg_search) ⭐ 8,704 | 🐛 159 | 🌐 Rust | 📅 2026-04-28 - PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
+* [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 57,346 | 🐛 289 | 🌐 Rust | 📅 2026-04-29 - Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions) ⭐ 57,346 | 🐛 289 | 🌐 Rust | 📅 2026-04-29
+* [tantivy](https://github.com/quickwit-oss/tantivy) ⭐ 15,089 | 🐛 410 | 🌐 Rust | 📅 2026-04-28 \[[tantivy](https://crates.io/crates/tantivy)] - A horse-speed full-text search engine library written in Rust. [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml) ⭐ 15,089 | 🐛 410 | 🌐 Rust | 📅 2026-04-28
+* [pg\_search](https://github.com/paradedb/paradedb/tree/dev/pg_search) ⭐ 8,709 | 🐛 166 | 🌐 Rust | 📅 2026-04-29 - PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 * [BurntSushi/fst](https://github.com/BurntSushi/fst) ⭐ 2,063 | 🐛 39 | 🌐 Rust | 📅 2024-09-25 \[[fst](https://crates.io/crates/fst)] - a fast implementation of ordered sets and maps using finite state machines
 * [SeekStorm](https://github.com/SeekStorm/SeekStorm) ⭐ 1,866 | 🐛 16 | 🌐 Rust | 📅 2026-04-25 \[[SeekStorm](https://crates.io/crates/seekstorm)] - sub-millisecond full-text search library & multi-tenancy server in Rust
 * [andylokandy/simsearch](https://github.com/andylokandy/simsearch) ⭐ 188 | 🐛 2 | 🌐 Rust | 📅 2026-03-31 \[[simsearch](https://crates.io/crates/simsearch)] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
@@ -2142,16 +2145,16 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Video
 
-* [ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar) ⭐ 526 | 🐛 8 | 🌐 Rust | 📅 2026-04-25 - Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/ci.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions) ⭐ 526 | 🐛 8 | 🌐 Rust | 📅 2026-04-25
-* [screencapturekit-rs](https://github.com/doom-fish/screencapturekit-rs) ⭐ 206 | 🐛 4 | 🌐 Rust | 📅 2026-03-30 \[[screencapturekit](https://crates.io/crates/screencapturekit)] - Safe Rust bindings for Apple's ScreenCaptureKit framework for macOS screen/audio capture [![Build Status](https://github.com/doom-fish/screencapturekit-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/doom-fish/screencapturekit-rs/actions) ⭐ 206 | 🐛 4 | 🌐 Rust | 📅 2026-03-30
+* [ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar) ⭐ 527 | 🐛 8 | 🌐 Rust | 📅 2026-04-25 - Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/ci.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions) ⭐ 527 | 🐛 8 | 🌐 Rust | 📅 2026-04-25
+* [screencapturekit-rs](https://github.com/doom-fish/screencapturekit-rs) ⭐ 207 | 🐛 4 | 🌐 Rust | 📅 2026-03-30 \[[screencapturekit](https://crates.io/crates/screencapturekit)] - Safe Rust bindings for Apple's ScreenCaptureKit framework for macOS screen/audio capture [![Build Status](https://github.com/doom-fish/screencapturekit-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/doom-fish/screencapturekit-rs/actions) ⭐ 207 | 🐛 4 | 🌐 Rust | 📅 2026-03-30
 
 ### Virtualization
 
-* [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) ⭐ 17,926 | 🐛 857 | 🌐 Rust | 📅 2026-04-27 - A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI) ⭐ 17,926 | 🐛 857 | 🌐 Rust | 📅 2026-04-27
+* [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) ⭐ 17,931 | 🐛 855 | 🌐 Rust | 📅 2026-04-29 - A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI) ⭐ 17,931 | 🐛 855 | 🌐 Rust | 📅 2026-04-29
 * [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) ⭐ 2,104 | 🐛 46 | 🌐 Rust | 📅 2026-03-26 - A lightweight runtime for WebAssembly
 * [beneills/quantum](https://github.com/beneills/quantum) ⭐ 283 | 🐛 0 | 🌐 Rust | 📅 2016-08-07 - Advanced quantum computer simulator
 * [capsule](https://github.com/capsulerun/capsule) ⭐ 279 | 🐛 1 | 🌐 Rust | 📅 2026-04-27 - WebAssembly sandboxing runtime for executing untrusted code
-* [oxidecomputer/propolis](https://github.com/oxidecomputer/propolis) ⭐ 239 | 🐛 193 | 🌐 Rust | 📅 2026-04-27 - Userspace program for illumos bhyve kernel modules
+* [oxidecomputer/propolis](https://github.com/oxidecomputer/propolis) ⭐ 239 | 🐛 194 | 🌐 Rust | 📅 2026-04-28 - Userspace program for illumos bhyve kernel modules
 * [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) ⭐ 69 | 🐛 2 | 🌐 Rust | 📅 2019-12-23 - Hardware-accelerated virtualization on OS X
 * [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) - CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
 
@@ -2160,14 +2163,14 @@ See also [Are we game yet?](https://arewegameyet.rs)
 See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison) ⭐ 5,725 | 🐛 6 | 🌐 Rust | 📅 2026-04-20.
 
 * Backend
-  * [tokio/axum](https://github.com/tokio-rs/axum) ⭐ 25,749 | 🐛 82 | 🌐 Rust | 📅 2026-04-27 - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml) ⭐ 25,749 | 🐛 82 | 🌐 Rust | 📅 2026-04-27
-  * [Rocket](https://github.com/rwf2/Rocket) ⭐ 25,730 | 🐛 81 | 🌐 Rust | 📅 2025-12-28 - Rocket is a web framework with a focus on ease-of-use, expressability, and speed
-  * [actix/actix-web](https://github.com/actix/actix-web) ⭐ 24,588 | 🐛 187 | 🌐 Rust | 📅 2026-04-27 - A lightweight async web framework with websocket support
+  * [tokio/axum](https://github.com/tokio-rs/axum) ⭐ 25,756 | 🐛 83 | 🌐 Rust | 📅 2026-04-28 - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml) ⭐ 25,756 | 🐛 83 | 🌐 Rust | 📅 2026-04-28
+  * [Rocket](https://github.com/rwf2/Rocket) ⭐ 25,731 | 🐛 81 | 🌐 Rust | 📅 2025-12-28 - Rocket is a web framework with a focus on ease-of-use, expressability, and speed
+  * [actix/actix-web](https://github.com/actix/actix-web) ⭐ 24,590 | 🐛 187 | 🌐 Rust | 📅 2026-04-27 - A lightweight async web framework with websocket support
   * [summer-rs](https://github.com/summer-rs/summer-rs) ⭐ 950 | 🐛 26 | 🌐 Rust | 📅 2026-04-25 - summer-rs is a application framework written in rust inspired by java's spring-boot.
   * [tako](https://github.com/rust-dd/tako) ⭐ 157 | 🐛 2 | 🌐 Rust | 📅 2026-04-27 - Tako is an asynchronous web framework for Rust on Hyper & Tokio. [GitHub Workflow Status](https://github.com/rust-dd/tako/actions/workflows/ci.yml/badge.svg) ⭐ 157 | 🐛 2 | 🌐 Rust | 📅 2026-04-27
   * [Anansi](https://github.com/saru-tora/anansi) ⭐ 112 | 🐛 3 | 🌐 Rust | 📅 2023-04-05 - A simple full-stack web framework
 * Client-side / WASM
-  * [leptos](https://github.com/leptos-rs/leptos) ⭐ 20,641 | 🐛 135 | 🌐 Rust | 📅 2026-04-23 - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+  * [leptos](https://github.com/leptos-rs/leptos) ⭐ 20,649 | 🐛 135 | 🌐 Rust | 📅 2026-04-23 - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
   * [seed](https://github.com/seed-rs/seed) ⭐ 3,833 | 🐛 55 | 🌐 Rust | 📅 2025-01-11 - A framework for creating web apps
   * [sauron](https://github.com/ivanceras/sauron) ⭐ 2,062 | 🐛 7 | 🌐 Rust | 📅 2025-01-27 - Client side web framework which closely adheres to The Elm Architecture.
   * [thaw-ui/thaw](https://github.com/thaw-ui/thaw) ⭐ 581 | 🐛 35 | 🌐 Rust | 📅 2026-02-28 \[[thaw](https://crates.io/crates/thaw)] - An easy to use Leptos component library based on Fluent Design
@@ -2177,60 +2180,60 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
   * [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
   * [yew](https://crates.io/crates/yew) - A framework for making client web apps
 * Static Site Generators
-  * [getzola/zola](https://github.com/getzola/zola) ⭐ 16,975 | 🐛 363 | 🌐 Rust | 📅 2026-04-27 \[[zola](https://www.getzola.org/)] - An opinionated static site generator with everything built-in. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
+  * [getzola/zola](https://github.com/getzola/zola) ⭐ 16,978 | 🐛 363 | 🌐 Rust | 📅 2026-04-28 \[[zola](https://www.getzola.org/)] - An opinionated static site generator with everything built-in. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
   * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) ⭐ 1,518 | 🐛 80 | 🌐 Rust | 📅 2026-04-27 - Static site generator [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2)
   * [rochacbruno/marmite](https://github.com/rochacbruno/marmite/) ⭐ 842 | 🐛 11 | 🌐 Rust | 📅 2026-04-27 \[[Marmite](https://marmite.blog/)] - Zero config blog generator
   * [grego/blades](https://github.com/grego/blades) ⭐ 349 | 🐛 5 | 🌐 Rust | 📅 2025-01-14 \[[blades](https://www.getblades.org/)] - Blazing fast dead simple static site generator.
   * [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) ⭐ 60 | 🐛 0 | 🌐 Rust | 📅 2024-08-12 \[[mdblog](https://crates.io/crates/mdblog)] - Static site generator from markdown files.
   * [leven-the-blog/leven](https://github.com/leven-the-blog/leven) ⭐ 58 | 🐛 8 | 🌐 Rust | 📅 2018-11-26 \[[leven](https://crates.io/crates/leven)] - A simple, parallelized blog generator.
 * HTTP Client
-  * [hyperium/hyper](https://github.com/hyperium/hyper) ⭐ 16,024 | 🐛 253 | 🌐 Rust | 📅 2026-04-27 - an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI) ⭐ 16,024 | 🐛 253 | 🌐 Rust | 📅 2026-04-27
-  * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,567 | 🐛 463 | 🌐 Rust | 📅 2026-04-27 - an ergonomic HTTP Client.
-  * [ducaale/xh](https://github.com/ducaale/xh) ⭐ 7,767 | 🐛 36 | 🌐 Rust | 📅 2026-04-27 - Friendly and fast tool for sending HTTP requests [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/xh) [![GitHub actions Status](https://github.com/ducaale/xh/workflows/CI/badge.svg?branch=master)](https://github.com/ducaale/xh/actions) ⭐ 7,767 | 🐛 36 | 🌐 Rust | 📅 2026-04-27
+  * [hyperium/hyper](https://github.com/hyperium/hyper) ⭐ 16,032 | 🐛 253 | 🌐 Rust | 📅 2026-04-27 - an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI) ⭐ 16,032 | 🐛 253 | 🌐 Rust | 📅 2026-04-27
+  * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,569 | 🐛 463 | 🌐 Rust | 📅 2026-04-27 - an ergonomic HTTP Client.
+  * [ducaale/xh](https://github.com/ducaale/xh) ⭐ 7,768 | 🐛 37 | 🌐 Rust | 📅 2026-04-27 - Friendly and fast tool for sending HTTP requests [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/xh) [![GitHub actions Status](https://github.com/ducaale/xh/workflows/CI/badge.svg?branch=master)](https://github.com/ducaale/xh/actions) ⭐ 7,768 | 🐛 37 | 🌐 Rust | 📅 2026-04-27
   * [async-graphql](https://github.com/async-graphql/async-graphql) ⭐ 3,655 | 🐛 242 | 🌐 Rust | 📅 2026-04-21 - A GraphQL server library [![Build Status](https://dev.azure.com/graphql-rust/GraphQL%20Rust/_apis/build/status/graphql-rust.juniper)](https://dev.azure.com/graphql-rust/GraphQL%20Rust/_build/latest?definitionId=1)
-  * [graphql-client](https://github.com/graphql-rust/graphql-client) ⭐ 1,253 | 🐛 112 | 🌐 Rust | 📅 2026-02-20 - Typed, correct GraphQL requests and responses. [![GitHub actions Status](https://github.com/graphql-rust/graphql-client/workflows/CI/badge.svg?branch=master)](https://github.com/graphql-rust/graphql-client/actions) ⭐ 1,253 | 🐛 112 | 🌐 Rust | 📅 2026-02-20
+  * [graphql-client](https://github.com/graphql-rust/graphql-client) ⭐ 1,254 | 🐛 112 | 🌐 Rust | 📅 2026-02-20 - Typed, correct GraphQL requests and responses. [![GitHub actions Status](https://github.com/graphql-rust/graphql-client/workflows/CI/badge.svg?branch=master)](https://github.com/graphql-rust/graphql-client/actions) ⭐ 1,254 | 🐛 112 | 🌐 Rust | 📅 2026-02-20
   * [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) ⭐ 1,111 | 🐛 106 | 🌐 Rust | 📅 2026-04-02 - [libcurl](https://curl.se/libcurl/) bindings
-  * [plabayo/rama](https://github.com/plabayo/rama) ⭐ 1,000 | 🐛 76 | 🌐 Rust | 📅 2026-04-28 - A modular service framework to move and transform your network packets, can be used among other things, to build clients with TLS, JA3/JA4, H2 and QUIC/H3 fingerprint impersonation
-  * [0x676e67/wreq](https://github.com/0x676e67/wreq) ⭐ 781 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 - An ergonomic Rust HTTP Client with TLS fingerprint. [![CI](https://github.com/0x676e67/wreq/actions/workflows/ci.yml/badge.svg)](https://github.com/0x676e67/wreq/actions/workflows/ci.yml) ⭐ 781 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 [![crates.io](https://img.shields.io/crates/v/wreq.svg?logo=rust)](https://crates.io/crates/wreq)
-  * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 11 | 🌐 Rust | 📅 2026-04-22 - HTTP/2 client framework
+  * [plabayo/rama](https://github.com/plabayo/rama) ⭐ 1,000 | 🐛 75 | 🌐 Rust | 📅 2026-04-28 - A modular service framework to move and transform your network packets, can be used among other things, to build clients with TLS, JA3/JA4, H2 and QUIC/H3 fingerprint impersonation
+  * [0x676e67/wreq](https://github.com/0x676e67/wreq) ⭐ 783 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 - An ergonomic Rust HTTP Client with TLS fingerprint. [![CI](https://github.com/0x676e67/wreq/actions/workflows/ci.yml/badge.svg)](https://github.com/0x676e67/wreq/actions/workflows/ci.yml) ⭐ 783 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 [![crates.io](https://img.shields.io/crates/v/wreq.svg?logo=rust)](https://crates.io/crates/wreq)
+  * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 10 | 🌐 Rust | 📅 2026-04-22 - HTTP/2 client framework
   * [DoumanAsh/yukikaze](https://gitlab.com/Douman/yukikaze) \[[yukikaze](https://crates.io/crates/yukikaze)] - Beautiful and elegant Yukikaze is little HTTP client library based on hyper. [![build badge](https://gitlab.com/Douman/yukikaze/badges/master/pipeline.svg)](https://gitlab.com/Douman/yukikaze)
 * HTTP Server
-  * [hyperium/hyper](https://github.com/hyperium/hyper) ⭐ 16,024 | 🐛 253 | 🌐 Rust | 📅 2026-04-27 - an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI) ⭐ 16,024 | 🐛 253 | 🌐 Rust | 📅 2026-04-27
-  * [seanmonstar/warp](https://github.com/seanmonstar/warp) ⭐ 10,277 | 🐛 230 | 🌐 Rust | 📅 2026-04-15 - A super-easy, composable, web server framework for warp speeds. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/warp)
+  * [hyperium/hyper](https://github.com/hyperium/hyper) ⭐ 16,032 | 🐛 253 | 🌐 Rust | 📅 2026-04-27 - an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI) ⭐ 16,032 | 🐛 253 | 🌐 Rust | 📅 2026-04-27
+  * [seanmonstar/warp](https://github.com/seanmonstar/warp) ⭐ 10,290 | 🐛 230 | 🌐 Rust | 📅 2026-04-15 - A super-easy, composable, web server framework for warp speeds. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/warp)
   * [Iron](https://github.com/iron/iron) ⭐ 6,107 | 🐛 55 | 🌐 Rust | 📅 2024-06-14 - A middleware-based server framework
-  * [Juniper](https://github.com/graphql-rust/juniper) ⭐ 5,956 | 🐛 104 | 🌐 Rust | 📅 2026-04-23 - GraphQL server library
+  * [Juniper](https://github.com/graphql-rust/juniper) ⭐ 5,957 | 🐛 104 | 🌐 Rust | 📅 2026-04-23 - GraphQL server library
   * [poem-web/poem](https://github.com/poem-web/poem) ⭐ 4,385 | 🐛 189 | 🌐 Rust | 📅 2026-04-14 - A full-featured and easy-to-use web framework. [![CI](https://github.com/poem-web/poem/actions/workflows/ci.yml/badge.svg)](https://github.com/poem-web/poem/actions/workflows/ci.yml) ⭐ 4,385 | 🐛 189 | 🌐 Rust | 📅 2026-04-14
-  * [Salvo](https://github.com/salvo-rs/salvo) ⭐ 4,336 | 🐛 22 | 🌐 Rust | 📅 2026-04-25 - an easy to use webframework base on hyper and tokio. [![build build](https://github.com/salvo-rs/salvo/actions/workflows/release.yml/badge.svg)](https://github.com/salvo-rs/salvo/actions) ⭐ 4,336 | 🐛 22 | 🌐 Rust | 📅 2026-04-25
+  * [Salvo](https://github.com/salvo-rs/salvo) ⭐ 4,339 | 🐛 22 | 🌐 Rust | 📅 2026-04-25 - an easy to use webframework base on hyper and tokio. [![build build](https://github.com/salvo-rs/salvo/actions/workflows/release.yml/badge.svg)](https://github.com/salvo-rs/salvo/actions) ⭐ 4,339 | 🐛 22 | 🌐 Rust | 📅 2026-04-25
   * [Nickel](https://github.com/nickel-org/nickel.rs/) ⭐ 3,086 | 🐛 54 | 🌐 Rust | 📅 2022-05-10 - inspired by [Express](https://expressjs.com/)
   * [Gotham](https://github.com/gotham-rs/gotham) ⭐ 2,303 | 🐛 52 | 🌐 Rust | 📅 2026-03-30 - A flexible web framework that does not sacrifice safety, security or speed.
   * [handlebars-rust](https://github.com/sunng87/handlebars-rust) ⭐ 1,468 | 🐛 41 | 🌐 Rust | 📅 2026-04-14 - an Iron web framework middleware.
   * [tomaka/rouille](https://github.com/tomaka/rouille) ⭐ 1,235 | 🐛 66 | 🌐 Rust | 📅 2025-06-17 - Web framework
   * [tiny-http](https://github.com/tiny-http/tiny-http) ⭐ 1,135 | 🐛 72 | 🌐 Rust | 📅 2024-08-14 - Low level HTTP server library
-  * [Zino](https://github.com/zino-rs/zino) ⭐ 1,119 | 🐛 8 | 🌐 Rust | 📅 2026-04-21 - Next-generation framework for composable applications
-  * [plabayo/rama](https://github.com/plabayo/rama) ⭐ 1,000 | 🐛 76 | 🌐 Rust | 📅 2026-04-28 - A modular service framework to move and transform your network packets, can also be used to fingerprint incoming clients
+  * [Zino](https://github.com/zino-rs/zino) ⭐ 1,120 | 🐛 8 | 🌐 Rust | 📅 2026-04-21 - Next-generation framework for composable applications
+  * [plabayo/rama](https://github.com/plabayo/rama) ⭐ 1,000 | 🐛 75 | 🌐 Rust | 📅 2026-04-28 - A modular service framework to move and transform your network packets, can also be used to fingerprint incoming clients
   * [carllerche/tower-web](https://github.com/carllerche/tower-web) ⭐ 980 | 🐛 84 | 🌐 Rust | 📅 2019-12-06 \[[tower-web](https://crates.io/crates/tower-web)] - A fast, boilerplate free, web framework
   * [Cot](https://github.com/cot-rs/cot) ⭐ 927 | 🐛 81 | 🌐 Rust | 📅 2026-04-27 - The Rust web framework for lazy developers.
-  * [Rustless](https://github.com/rustless/rustless) ⭐ 621 | 🐛 18 | 🌐 Rust | 📅 2018-07-09 - A REST-like API micro-framework inspired by [Grape](https://github.com/ruby-grape/grape) ⭐ 9,984 | 🐛 256 | 🌐 Ruby | 📅 2026-04-22 and [Hyper](https://github.com/hyperium/hyper) ⭐ 16,024 | 🐛 253 | 🌐 Rust | 📅 2026-04-27
+  * [Rustless](https://github.com/rustless/rustless) ⭐ 621 | 🐛 18 | 🌐 Rust | 📅 2018-07-09 - A REST-like API micro-framework inspired by [Grape](https://github.com/ruby-grape/grape) ⭐ 9,984 | 🐛 255 | 🌐 Ruby | 📅 2026-04-29 and [Hyper](https://github.com/hyperium/hyper) ⭐ 16,032 | 🐛 253 | 🌐 Rust | 📅 2026-04-27
   * [miketang84/sapper](https://github.com/miketang84/sapper) ⭐ 618 | 🐛 7 | 🌐 Rust | 📅 2020-03-17 - A lightweight web framework built on async hyper.
   * [Graphul](https://github.com/graphul-rs/graphul) ⭐ 451 | 🐛 0 | 🌐 Rust | 📅 2023-09-25 - An Express-inspired web framework. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/graphul)
-  * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 11 | 🌐 Rust | 📅 2026-04-22 - Low and high level HTTP/2 server
+  * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 10 | 🌐 Rust | 📅 2026-04-22 - Low and high level HTTP/2 server
   * [GildedHonour/frank\_jwt](https://github.com/GildedHonour/frank_jwt) ⭐ 251 | 🐛 0 | 🌐 Rust | 📅 2025-07-12 - JSON Web Token implementation.
   * [Saphir](https://github.com/richerarc/saphir) ⭐ 92 | 🐛 12 | 🌐 Rust | 📅 2025-09-29 - A progressive web framework with low-level control, without the pain.
   * [branca](https://crates.io/crates/branca) - Implementation of Branca for Authenticated and Encrypted API tokens.
 * [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
-  * [vi/websocat](https://github.com/vi/websocat) ⭐ 8,478 | 🐛 157 | 🌐 Rust | 📅 2025-12-27 - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
+  * [vi/websocat](https://github.com/vi/websocat) ⭐ 8,480 | 🐛 158 | 🌐 Rust | 📅 2025-12-27 - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
   * [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) ⭐ 2,338 | 🐛 44 | 🌐 Rust | 📅 2026-04-14 - Lightweight stream-based WebSocket implementation.
   * [rust-websocket](https://github.com/websockets-rs/rust-websocket) ⭐ 1,611 | 🐛 45 | 🌐 Rust | 📅 2023-09-17 - A framework for dealing with WebSocket connections (both clients and servers)
   * [housleyjk/ws-rs](https://github.com/housleyjk/ws-rs) ⭐ 1,501 | 🐛 123 | 🌐 Rust | 📅 2023-08-18 - lightweight, event-driven WebSockets
-  * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 11 | 🌐 Rust | 📅 2026-04-22 - Client and server with encryption support.
+  * [c410-f3r/wtx](https://github.com/c410-f3r/wtx) ⭐ 354 | 🐛 10 | 🌐 Rust | 📅 2026-04-22 - Client and server with encryption support.
   * [ratchet](https://github.com/graphform/ratchet) ⭐ 58 | 🐛 10 | 🌐 Rust | 📅 2025-01-27 \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
   * [iddm/urlshortener-rs](https://github.com/iddm/urlshortener-rs) ⭐ 56 | 🐛 2 | 🌐 Rust | 📅 2026-03-11 - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) ⭐ 56 | 🐛 2 | 🌐 Rust | 📅 2026-03-11 [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
 * Miscellaneous
-  * [serenity-rs/serenity](https://github.com/serenity-rs/serenity) ⭐ 5,472 | 🐛 56 | 🌐 Rust | 📅 2026-04-26 \[[serenity](https://crates.io/crates/serenity)] - A library for the Discord API
-  * [teloxide/teloxide](https://github.com/teloxide/teloxide/) ⭐ 4,109 | 🐛 69 | 🌐 Rust | 📅 2026-04-24 - An elegant Telegram bots framework [![Build Status](https://github.com/teloxide/teloxide/actions/workflows/ci.yml/badge.svg)](https://github.com/teloxide/teloxide/actions) ⭐ 4,109 | 🐛 69 | 🌐 Rust | 📅 2026-04-24
-  * [Utoipa](https://github.com/juhaku/utoipa) ⭐ 3,804 | 🐛 273 | 🌐 Rust | 📅 2026-02-24 - Simple, Fast, Code first and Compile time generated OpenAPI documentation [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml) ⭐ 3,804 | 🐛 273 | 🌐 Rust | 📅 2026-02-24
+  * [serenity-rs/serenity](https://github.com/serenity-rs/serenity) ⭐ 5,476 | 🐛 56 | 🌐 Rust | 📅 2026-04-26 \[[serenity](https://crates.io/crates/serenity)] - A library for the Discord API
+  * [teloxide/teloxide](https://github.com/teloxide/teloxide/) ⭐ 4,113 | 🐛 69 | 🌐 Rust | 📅 2026-04-24 - An elegant Telegram bots framework [![Build Status](https://github.com/teloxide/teloxide/actions/workflows/ci.yml/badge.svg)](https://github.com/teloxide/teloxide/actions) ⭐ 4,113 | 🐛 69 | 🌐 Rust | 📅 2026-04-24
+  * [Utoipa](https://github.com/juhaku/utoipa) ⭐ 3,807 | 🐛 274 | 🌐 Rust | 📅 2026-02-24 - Simple, Fast, Code first and Compile time generated OpenAPI documentation [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml) ⭐ 3,807 | 🐛 274 | 🌐 Rust | 📅 2026-02-24
   * [osohq/oso](https://github.com/osohq/oso) ⭐ 3,497 | 🐛 119 | 🌐 Rust | 📅 2025-02-26 \[[oso](https://crates.io/crates/oso)] - A policy engine for authorization that's embedded in your application. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment) ⭐ 3,497 | 🐛 119 | 🌐 Rust | 📅 2025-02-26
-  * [svix/svix-webhooks](https://github.com/svix/svix-webhooks) ⭐ 3,177 | 🐛 58 | 🌐 Rust | 📅 2026-04-27 \[[svix](https://crates.io/crates/svix)] - A library for sending webhooks and verifying signatures.
+  * [svix/svix-webhooks](https://github.com/svix/svix-webhooks) ⭐ 3,179 | 🐛 58 | 🌐 Rust | 📅 2026-04-27 \[[svix](https://crates.io/crates/svix)] - A library for sending webhooks and verifying signatures.
   * [rust-scraper/scraper](https://github.com/rust-scraper/scraper) ⭐ 2,371 | 🐛 16 | 🌐 Rust | 📅 2026-04-21 \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/rust-scraper/scraper/actions) ⭐ 2,371 | 🐛 16 | 🌐 Rust | 📅 2026-04-21
   * [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) ⭐ 1,018 | 🐛 27 | 🌐 Rust | 📅 2025-03-19 \[[select](https://crates.io/crates/select)] - A library to extract useful data from HTML documents, suitable for web scraping.
   * [rookie](https://github.com/thewh1teagle/rookie) ⭐ 350 | 🐛 25 | 🌐 Rust | 📅 2026-01-22 - Load cookies from any browser on any platform. ![crates.io](https://img.shields.io/crates/v/rookie.svg)
@@ -2244,14 +2247,14 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
   * [pyrossh/rust-embed](https://git.sr.ht/~pyrossh/rust-embed) \[[rust-embed](https://crates.io/crates/rust-embed)] - A macro to embed static assets into the rust binary
   * [tbot](https://gitlab.com/SnejUgal/tbot) \[[tbot](https://crates.io/crates/tbot)] - Make cool Telegram bots easily [![pipeline status](https://gitlab.com/SnejUgal/tbot/badges/master/pipeline.svg)](https://gitlab.com/SnejUgal/tbot/-/commits/master)
 * Reverse Proxy
-  * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) ⭐ 3,657 | 🐛 132 | 🌐 Rust | 📅 2026-04-27 \[[sozu](https://crates.io/crates/sozu)] - A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml) ⭐ 3,657 | 🐛 132 | 🌐 Rust | 📅 2026-04-27
+  * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) ⭐ 3,657 | 🐛 123 | 🌐 Rust | 📅 2026-04-28 \[[sozu](https://crates.io/crates/sozu)] - A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml) ⭐ 3,657 | 🐛 123 | 🌐 Rust | 📅 2026-04-28
 
 ## Registries
 
 A registry allows you to publish your Rust libraries as crate packages, to share them with others publicly and privately.
 
 * [cenotelie/cratery](https://github.com/cenotelie/cratery) ⭐ 176 | 🐛 24 | 🌐 Rust | 📅 2026-03-23 - A lightweight private cargo registry with batteries included, built for organisations, including features similar to [docs.rs](https://docs.rs) and [deps.rs](https://deps.rs). [![CI](https://github.com/cenotelie/cratery/actions/workflows/ci.yml/badge.svg)](https://github.com/cenotelie/cratery/actions/workflows/ci.yml) ⭐ 176 | 🐛 24 | 🌐 Rust | 📅 2026-03-23
-* [getnora-io/nora](https://github.com/getnora-io/nora) ⭐ 133 | 🐛 8 | 🌐 Rust | 📅 2026-04-28 - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
+* [getnora-io/nora](https://github.com/getnora-io/nora) ⭐ 133 | 🐛 9 | 🌐 Rust | 📅 2026-04-28 - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
 * [w4/chartered](https://github.com/w4/chartered) ⭐ 129 | 🐛 15 | 🌐 Rust | 📅 2022-10-22 - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml) ⭐ 129 | 🐛 15 | 🌐 Rust | 📅 2022-10-22
 * [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/product/formats/cargo-registry) - A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Has a generous free-tier and is also completely free for open-source.
 * [Crates](https://crates.io) - The official public registry for Rust/Cargo.
@@ -2260,10 +2263,10 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 ## Resources
 
 * Learning
-  * [Rustlings](https://github.com/rust-lang/rustlings) ⭐ 62,637 | 🐛 78 | 🌐 Rust | 📅 2026-04-25 - small exercises to get you used to reading and writing Rust code
-  * [rust-learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,160 | 🐛 9 | 📅 2024-10-24 - A collection of useful resources to learn Rust
-  * [Easy Rust](https://github.com/Dhghomon/easy_rust) ⭐ 8,300 | 🐛 21 | 🌐 Shell | 📅 2024-05-13 - Learn Rust in easy English.
-  * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) ⭐ 7,661 | 🐛 0 | 🌐 Rust | 📅 2026-02-12 - A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+  * [Rustlings](https://github.com/rust-lang/rustlings) ⭐ 62,649 | 🐛 78 | 🌐 Rust | 📅 2026-04-25 - small exercises to get you used to reading and writing Rust code
+  * [rust-learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,161 | 🐛 9 | 📅 2024-10-24 - A collection of useful resources to learn Rust
+  * [Easy Rust](https://github.com/Dhghomon/easy_rust) ⭐ 8,301 | 🐛 21 | 🌐 Shell | 📅 2024-05-13 - Learn Rust in easy English.
+  * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) ⭐ 7,662 | 🐛 0 | 🌐 Rust | 📅 2026-02-12 - A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
   * [Aquascope](https://github.com/cognitive-engineering-lab/aquascope) ⭐ 3,021 | 🐛 34 | 🌐 Rust | 📅 2025-07-08 - Interactive visualizations of Rust at compile-time and run-time
   * [stdx](https://github.com/brson/stdx) ⭐ 2,074 | 🐛 15 | 🌐 Rust | 📅 2025-02-10 - Learn these crates first as an extension to std
   * [rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start) ⭐ 1,151 | 🐛 2 | 📅 2023-02-01 - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
@@ -2294,7 +2297,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
   * [Rustfinity](https://www.rustfinity.com) - Interactive platform for practicing Rust through hands-on exercises and challenges
   * [Tour of Rust](https://tourofrust.com) - This is meant to be an interactive step by step guide through the features of the Rust programming language.
-* [Rust Design Patterns](https://github.com/rust-unofficial/patterns) ⭐ 8,786 | 🐛 91 | 🌐 Handlebars | 📅 2026-04-13 - A catalogue of Rust design patterns, anti-patterns and idioms
+* [Rust Design Patterns](https://github.com/rust-unofficial/patterns) ⭐ 8,787 | 🐛 91 | 🌐 Handlebars | 📅 2026-04-13 - A catalogue of Rust design patterns, anti-patterns and idioms
 * [RustBooks](https://github.com/sger/RustBooks) ⭐ 5,474 | 🐛 1 | 📅 2026-01-20 - list of RustBooks
 * [RustViz](https://github.com/rustviz/rustviz) ⭐ 2,826 | 🐛 24 | 🌐 HTML | 📅 2024-02-13 - generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
 * Arts
